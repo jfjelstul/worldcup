@@ -1,0 +1,406 @@
+dataset_id,dataset,variable_id,variable,type,description
+1,tournaments,1,key_id,integer,The unique ID number for the observation.
+1,tournaments,2,tournament_id,text,"The unique ID number for the tournament. Has the format {WC-####}, where the number is the year of the tournament."
+1,tournaments,3,tournament_name,text,The name of the tournament.
+1,tournaments,4,year,integer,The year of the tournament.
+1,tournaments,5,start_date,date,The start date of the tournament in the format {YYYY-MM-DD}.
+1,tournaments,6,end_date,date,The end date of the tournament in the format {YYYY-MM-DD}.
+1,tournaments,7,host_country,text,The unique ID number for the country that hosted the tournament. References {team_id} in the {teams} dataset.
+1,tournaments,8,winner,text,The name of the team that won the tournament.
+1,tournaments,9,host_won,boolean,Whether one of the host countries won the tournament. Coded {1} if one of the host countries won and {0} otherwise.
+1,tournaments,10,count_teams,integer,The number of teams that participated in the tournament.
+1,tournaments,11,group_stage,boolean,Whether the match is a group stage match. Coded {1} if the match is a group stage match and {0} otherwise.
+1,tournaments,12,second_group_stage,boolean,Whether there was a second group stage. Coded {1} if there was a second group stage and {0} otherwise.
+1,tournaments,13,final_round,boolean,Whether there was a final round. Coded {1} if there was a final round and {0} otherwise.
+1,tournaments,14,round_of_16,boolean,Whether there was a round of 16 stage. Coded {1} if there was a round of 16 stage and {0} otherwise.
+1,tournaments,15,quarter_finals,boolean,Whether there was a quarter-finals stage. Coded {1} if there was a quarter-finals stage and {0} otherwise.
+1,tournaments,16,semi_finals,boolean,Whether there was a semi-finals stage. Coded {1} if there was a semi-finals stage and {0} otherwise.
+1,tournaments,17,third_place_match,boolean,Whether there was a third-place match. Coded {1} if there was a third-place match and {0} otherwise.
+1,tournaments,18,final,boolean,Whether there was a final match. Coded {1} if there was a final match and {0} otherwise.
+2,confederations,1,key_id,integer,The unique ID number for the observation.
+2,confederations,2,confederation_id,text,"The unique ID number for the confederation. Has the format {CF-#}, where the number is a counter that is assigned with the confederations sorted in alphabetical order."
+2,confederations,3,confederation_name,text,The name of the confederation.
+2,confederations,4,confederation_code,text,The abbreviation for the confederation.
+2,confederations,5,confederation_wikipedia_link,text,The Wikipedia link for the confederation.
+3,teams,1,key_id,integer,The unique ID number for the observation.
+3,teams,2,team_id,text,"The unique ID number for the team. Has the format {T-##}, where the number is a counter that is assigned with the data sorted by the year of the team's first tournament and then by the team's name."
+3,teams,3,team_name,text,The name of the team.
+3,teams,4,team_code,text,The 3-letter code for the team.
+3,teams,5,federation_name,text,The name of the team's federation.
+3,teams,6,region_name,text,The name of the region that the country is located in.
+3,teams,7,confederation_id,text,The unique ID number for the confederation. References {confederation_id} in the {confederations} dataset.
+3,teams,8,confederation_name,text,The name of the confederation.
+3,teams,9,confederation_code,text,The abbreviation for the confederation.
+3,teams,10,team_wikipedia_link,text,The Wikipedia link for the team.
+3,teams,11,federation_wikipedia_link,text,The Wikipedia link of the team's federation.
+4,players,1,key_id,integer,The unique ID number for the observation.
+4,players,2,player_id,text,"The unique ID number for the player. Has the format {P-#####}, where the number is a randomly drawn, uniquely identifying number."
+4,players,3,family_name,text,The family name of the player.
+4,players,4,given_name,text,The given name of the player.
+4,players,5,birth_date,date,The birth date of the player in the format {YYYY-MM-DD}.
+4,players,6,goal_keeper,boolean,Whether the player was a goal keeper. Coded {1} if the player was a goal keeper and {0} otherwise.
+4,players,7,defender,boolean,Whether the player was a defender. Coded {1} if the player was a defender and {0} otherwise.
+4,players,8,midfielder,boolean,Whether the player was a midfielder. Coded {1} if the player was a midfielder and {0} otherwise.
+4,players,9,forward,boolean,Whether the player was a forward. Coded {1} if the player was a forward and {0} otherwise.
+4,players,10,count_tournaments,integer,The number of tournaments that the player participated in.
+4,players,11,list_tournaments,text,"A list of tournaments that the player participated in, separated by a comma."
+4,players,12,player_wikipedia_link,text,The name of the team of the player.
+5,managers,1,key_id,integer,The unique ID number for the observation.
+5,managers,2,manager_id,text,"The unique ID number for the manager. Has the format {M-####}, where the number is a counter that is assigned with the data sorted by the year of the manager's first appearance, then by the manager's family name, and then by the manager's given name."
+5,managers,3,family_name,text,The family name of the manager.
+5,managers,4,given_name,text,The given name of the manager.
+5,managers,5,country_name,text,The name of the manager's home country.
+5,managers,6,manager_wikipedia_link,text,The Wikipedia link for the manager.
+6,referees,1,key_id,integer,The unique ID number for the observation.
+6,referees,2,referee_id,text,"The unique ID number for the referee. Has the format {R-####}, where the number is a counter that is assigned with the data sorted by the year of the referee's first appearance, then by the referee's family name, and then by the referee's given name."
+6,referees,3,family_name,text,The family name of the referee.
+6,referees,4,given_name,text,The given name of the referee.
+6,referees,5,country_name,text,The name of the referee's home country.
+6,referees,6,confederation_id,text,The unique ID number for the confederation. References {confederation_id} in the {confederations} dataset.
+6,referees,7,confederation_name,text,The name of the confederation.
+6,referees,8,confederation_code,text,The abbreviation for the confederation.
+6,referees,9,referee_wikipedia_link,text,The Wikipedia link for the referee.
+7,stadiums,1,key_id,integer,The unique ID number for the observation.
+7,stadiums,2,stadium_id,text,"The unique ID number for the stadium. Has the format {S-###}, where the number is a count that is assigned with the data sorted by country, then by city, then by the name of the stadium."
+7,stadiums,3,stadium_name,text,The name of the stadium.
+7,stadiums,4,city_name,text,The city in which the match was played.
+7,stadiums,5,country_name,text,The name of the country in which the stadium is located.
+7,stadiums,6,stadium_capacity,integer,The approximate capacity of the stadium.
+7,stadiums,7,stadium_wikipedia_link,text,The Wikipedia link for the stadium.
+7,stadiums,8,city_wikipedia_link,text,The Wikipedia link for the city in which the match was played.
+8,matches,1,key_id,integer,The unique ID number for the observation.
+8,matches,2,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+8,matches,3,tournament_name,text,The name of the tournament.
+8,matches,4,match_id,text,"The unique ID number for the match. Has the format {M-####-##}, where the first number is the year of the tournament and the second number is a within-tournament counter that is assigned with the data sorted by the date of the match, then by the time of the match, then by the name of the group, and then by name of the home team."
+8,matches,5,match_name,text,The name of the match. 
+8,matches,6,stage_name,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
+8,matches,7,group_name,text,The name of the group.
+8,matches,8,group_stage,boolean,Whether the match is a group stage match. Coded {1} if the match is a group stage match and {0} otherwise.
+8,matches,9,knockout_stage,boolean,Whether the match is a knockout stage match. Coded {1} if the match is a knockout stage match and {0} otherwise.
+8,matches,10,replayed,boolean,Whether the match was replayed. Coded {1} if the match was replayed and {0} otherwise.
+8,matches,11,replay,boolean,Whether the match was a replay. Coded {1} if the match was a replay and {0} otherwise.
+8,matches,12,match_date,date,The date of the match in the format {YYYY-MM-DD}.
+8,matches,13,match_time,integer,The time of the match in the format {HH:MM}.
+8,matches,14,stadium_id,text,The unique ID number for the stadium. References {stadium_id} in the {stadiums} dataset.
+8,matches,15,stadium_name,text,The name of the stadium.
+8,matches,16,city_name,text,The city in which the match was played.
+8,matches,17,country_name,text,The name of the country in which the match was played.
+8,matches,18,home_team_id,text,The unique ID number for the home team. References {team_id} in the {teams} dataset.
+8,matches,19,home_team_name,text,The name of the home team. See the {teams} dataset.
+8,matches,20,home_team_code,text,The 3-letter code for the home team.
+8,matches,21,away_team_id,text,The unique ID number for the away team. References {team_id} in the {teams} dataset.
+8,matches,22,away_team_name,text,The name of the away team. See the {teams} dataset.
+8,matches,23,away_team_code,text,The 3-letter code for the away team.
+8,matches,24,score,text,"The score of the match in the format {#-#}, where the first number is the score of the home team and the second number is the score of the away team."
+8,matches,25,home_team_score,integer,The score of the home team.
+8,matches,26,away_team_score,integer,The score of the away team.
+8,matches,27,home_team_score_margin,integer,The score margin for the home team.
+8,matches,28,away_team_score_margin,integer,The score margin for the away team.
+8,matches,29,extra_time,boolean,Whether the match went to extra time. Coded {1} if the match went to extra time and {0} otherwise.
+8,matches,30,penalty_shootout,boolean,Whether the match ended in a penalty shootout. Coded {1} if the match ended in a penalty shootout and {0} otherwise. 
+8,matches,31,score_penalties,text,The score of the penalty shootout in the format {#-#}. Coded {0-0} if there was not a penalty shootout.
+8,matches,32,home_team_score_penalties,integer,The score of the home team in the penalty shootout. Coded {NA} if there was not a penalty shootout.
+8,matches,33,away_team_score_penalties,integer,The score of the away team in the penalty shootout. Coded {NA} if there was not a penalty shootout.
+8,matches,34,result,enum,"The result of the match. The possible values are: {home team win}, {away team win}, {draw}, {replayed}."
+8,matches,35,home_team_win,boolean,Whether the home team won the match. Coded {1} if the home team won the match and {0} otherwise.
+8,matches,36,away_team_win,boolean,Whether the home team won the match. Coded {1} if the home team won the match and {0} otherwise.
+8,matches,37,draw,boolean,Whether the match ended in a draw. Coded {1} of the match ended in a draw and {0} otherwise.
+9,awards,1,key_id,integer,The unique ID number for the observation.
+9,awards,2,award_id,text,"The unique ID number for the award. Has the format {A-#}, where the number is a counter."
+9,awards,3,award_name,enum,"The name of the award. The possible values are: {Golden Ball}, {Silver Ball}, {Bronze Ball}, {Golden Boot}, {Silver Boot}, {Bronze Boot}, {Golden Glove}, {Best Young Player}. "
+9,awards,4,award_description,text,A description of the award.
+9,awards,5,year_introduced,integer,The year the award was first introduced.
+10,qualified_teams,1,key_id,integer,The unique ID number for the observation.
+10,qualified_teams,2,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+10,qualified_teams,3,tournament_name,text,The name of the tournament.
+10,qualified_teams,4,team_id,text,The unique ID number for the team. References {team_id} in the {teams} dataset.
+10,qualified_teams,5,team_name,text,The name of the team.
+10,qualified_teams,6,team_code,text,The 3-letter code for the team.
+10,qualified_teams,7,count_matches,integer,The number of matches that the team played in the tournament.
+10,qualified_teams,8,performance,text,The furthest stage of the tournament reached by the team.
+11,squads,1,key_id,integer,The unique ID number for the observation.
+11,squads,2,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+11,squads,3,tournament_name,text,The name of the tournament.
+11,squads,4,team_id,text,The unique ID number for the team. References {team_id} in the {teams} dataset.
+11,squads,5,team_name,text,The name of the team of the player.
+11,squads,6,team_code,text,The 3-letter code for the team.
+11,squads,7,player_id,text,The unique ID number for the player. References {player_id} in the {players} dataset.
+11,squads,8,family_name,text,The family name of the player.
+11,squads,9,given_name,text,The given name of the player.
+11,squads,10,shirt_number,integer,The shirt number of the player.
+11,squads,11,position_name,enum,"The position of the player. The possible values are: {goal keeper}, {defender}, {midfielder}, {forward}."
+11,squads,12,position_code,enum,"The code for the position of the player. The possible values are: {GK}, {DF}, {MF}, {FW}."
+12,manager_appointments,1,key_id,integer,The unique ID number for the observation.
+12,manager_appointments,2,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+12,manager_appointments,3,tournament_name,text,The name of the tournament.
+12,manager_appointments,4,team_id,text,The unique ID number for the team. References {team_id} in the {teams} dataset.
+12,manager_appointments,5,team_name,text,The name of the team of the manager.
+12,manager_appointments,6,team_code,text,The 3-letter code for the team.
+12,manager_appointments,7,manager_id,text,The unique ID number for the manager. References {manager_id} in the {managers} dataset.
+12,manager_appointments,8,family_name,text,The family name of the manager.
+12,manager_appointments,9,given_name,text,The given name of the manager.
+12,manager_appointments,10,country_name,text,The name of the manager's home country.
+13,referee_appointments,1,key_id,integer,The unique ID number for the observation.
+13,referee_appointments,2,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+13,referee_appointments,3,tournament_name,text,The name of the tournament.
+13,referee_appointments,4,referee_id,text,The unique ID number for the referee. References {referee_id} in the {referees} dataset.
+13,referee_appointments,5,family_name,text,The family name of the referee.
+13,referee_appointments,6,given_name,text,The given name fo the referee.
+13,referee_appointments,7,country_name,text,The name of the referee's home country.
+13,referee_appointments,8,confederation_id,text,The unique ID number for the confederation. References {confederation_id} in the {confederations} dataset.
+13,referee_appointments,9,confederation_name,text,The name of the confederation.
+13,referee_appointments,10,confederation_code,text,The abbreviation for the confederation.
+14,team_appearances,1,key_id,integer,The unique ID number for the observation.
+14,team_appearances,2,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+14,team_appearances,3,tournament_name,text,The name of the tournament.
+14,team_appearances,4,match_id,text,The unique ID number for the match. References {match_id} in the {matches} dataset.
+14,team_appearances,5,match_name,text,The name of the match.
+14,team_appearances,6,stage_name,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
+14,team_appearances,7,group_name,text,The name of the group.
+14,team_appearances,8,group_stage,boolean,Whether the match is a group stage match. Coded {1} if the match is a group stage match and {0} otherwise.
+14,team_appearances,9,knockout_stage,boolean,Whether the match is a knockout stage match. Coded {1} if the match is a knockout stage match and {0} otherwise.
+14,team_appearances,10,replayed,boolean,Whether the match was replayed. Coded {1} if the match was replayed and {0} otherwise.
+14,team_appearances,11,replay,boolean,Whether the match was a replay. Coded {1} if the match was a replay and {0} otherwise.
+14,team_appearances,12,match_date,date,The date of the match in the format {YYYY-MM-DD}.
+14,team_appearances,13,match_time,integer,The time of the match in the format {HH:MM}.
+14,team_appearances,14,stadium_id,text,The unique ID number for the stadium. References {stadium_id} in the {stadiums} dataset.
+14,team_appearances,15,stadium_name,text,The name of the stadium.
+14,team_appearances,16,city_name,text,The city in which the match was played.
+14,team_appearances,17,country_name,text,The name of the country in which the match was played.
+14,team_appearances,18,team_id,text,The unique ID number for the team. References {team_id} in the {teams} dataset.
+14,team_appearances,19,team_name,text,The name of the team.
+14,team_appearances,20,team_code,text,The 3-letter code for the team.
+14,team_appearances,21,opponent_id,text,The unique ID number for the team's opponent. References {team_id} in the {teams} dataset.
+14,team_appearances,22,opponent_name,text,The name of the team's opponent.
+14,team_appearances,23,opponent_code,text,The 3-letter code for the team's opponent.
+14,team_appearances,24,home_team,boolean,Whether the team was the home team. Coded {1} if the team was the home team and {0} otherwise.
+14,team_appearances,25,away_team,boolean,Whether the team was the away team. Coded {1} if the team was the away team and {0} otherwise.
+14,team_appearances,26,goals_for,integer,The number of goals scored by the team.
+14,team_appearances,27,goals_against,integer,The number of goals scored against the team.
+14,team_appearances,28,goal_differential,integer,The team's goal differential.
+14,team_appearances,29,extra_time,boolean,Whether the match went to extra time. Coded {1} if the match went to extra time and {0} otherwise.
+14,team_appearances,30,penalty_shootout,boolean,Whether the match ended in a penalty shootout. Coded {1} if the match ended in a penalty shootout and {0} otherwise. 
+14,team_appearances,31,penalties_for,integer,"The number of penalties scored by the opponent, if the match ended in a penalty shootout. Coded {0} if there was not a shootout."
+14,team_appearances,32,penalties_against,integer,"The number of penalties scored by the team, if the match ended in a penalty shootout. Coded {0} if there was not a shootout."
+14,team_appearances,33,result,enum,"The result of the match. The possible values are: {home team win}, {away team win}, {draw}, {replayed}."
+14,team_appearances,34,win,boolean,Whether the team won the match. Coded {1} if the team won the match and {0} otherwise. 
+14,team_appearances,35,lose,boolean,Whether the team lost the match. Coded {1} if the team lost the match and {0} otherwise.
+14,team_appearances,36,draw,boolean,Whether the match ended in a draw. Coded {1} of the match ended in a draw and {0} otherwise.
+15,player_appearances,1,key_id,integer,The unique ID number for the observation.
+15,player_appearances,2,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+15,player_appearances,3,tournament_name,text,The name of the tournament.
+15,player_appearances,4,match_id,text,The unique ID number for the match. References {match_id} in the {matches} dataset.
+15,player_appearances,5,match_name,text,The name of the match.
+15,player_appearances,6,date,date,The date of the match in the format {YYYY-MM-DD}.
+15,player_appearances,7,stage_name,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
+15,player_appearances,8,group_name,text,The name of the group.
+15,player_appearances,9,team_id,text,The unique ID number for the team of the player. References {team_id} in the {teams} dataset.
+15,player_appearances,10,team_name,text,The name of the team of the player.
+15,player_appearances,11,team_code,text,The 3-letter code for the team of the player.
+15,player_appearances,12,home_team,boolean,Whether the team was the home team. Coded {1} if the team was the home team and {0} otherwise.
+15,player_appearances,13,away_team,boolean,Whether the team was the away team. Coded {1} if the team was the away team and {0} otherwise.
+15,player_appearances,14,player_id,text,The unique ID number for the player. References {player_id} in the {players} dataset.
+15,player_appearances,15,family_name,text,The family name of the player.
+15,player_appearances,16,given_name,text,The given name of the player.
+15,player_appearances,17,shirt_number,integer,The shirt number of the player.
+15,player_appearances,18,position_name,text,The name of the position of the player.
+15,player_appearances,19,position_code,text,A 2-letter or 3-letter code that indicates the position of the player.
+15,player_appearances,20,starter,boolean,Whether the player started the match. Coded {1} if the player started the match and {0} otherwise.
+15,player_appearances,21,substitute,boolean,Whether the player was a substitute. Coded {1} if the player was a substitute and {0} otherwise.
+15,player_appearances,22,captain,boolean,Whether the player was the captain of the team. Coded {1} if the player was the captain and {0} otherwise.
+16,manager_appearances,1,key_id,integer,The unique ID number for the observation.
+16,manager_appearances,2,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+16,manager_appearances,3,tournament_name,text,The name of the tournament.
+16,manager_appearances,4,match_id,text,The unique ID number for the match. References {match_id} in the {matches} dataset.
+16,manager_appearances,5,match_name,text,The name of the match. 
+16,manager_appearances,6,match_date,date,The date of the match in the format {YYYY-MM-DD}.
+16,manager_appearances,7,match_stage,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
+16,manager_appearances,8,group_name,text,The name of the group.
+16,manager_appearances,9,team_id,text,The unique ID number for the team of the manager. References {team_id} in the {teams} dataset.
+16,manager_appearances,10,team_name,text,The name of the team of the manager.
+16,manager_appearances,11,team_code,text,The 3-letter code for the team of the manager.
+16,manager_appearances,12,home_team,boolean,Whether the team was the home team. Coded {1} if the team was the home team and {0} otherwise.
+16,manager_appearances,13,away_team,boolean,Whether the team was the away team. Coded {1} if the team was the away team and {0} otherwise.
+16,manager_appearances,14,manager_id,text,The unique ID number for the manager. References {manager_id} in the {managers} dataset.
+16,manager_appearances,15,family_name,text,The family name of the manager.
+16,manager_appearances,16,given_name,text,The given name of the manager.
+16,manager_appearances,17,country_name,text,The name of the manager's home country.
+17,referee_appearances,1,key_id,integer,The unique ID number for the observation.
+17,referee_appearances,2,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+17,referee_appearances,3,tournament_name,text,The name of the tournament.
+17,referee_appearances,4,match_id,text,The unique ID number for the match. References {match_id} in the {matches} dataset.
+17,referee_appearances,5,match_name,text,The name of the match.
+17,referee_appearances,6,match_date,date,The date of the match in the format {YYYY-MM-DD}.
+17,referee_appearances,7,match_stage,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
+17,referee_appearances,8,group_name,text,The name of the group.
+17,referee_appearances,9,referee_id,text,The unique ID number for the referee. References {referee_id} in the {referees} dataset.
+17,referee_appearances,10,family_name,text,The family name of the referee.
+17,referee_appearances,11,given_name,text,The given name of the referee.
+17,referee_appearances,12,country_name,text,The name of the referee's home country.
+17,referee_appearances,13,confederation_id,text,The unique ID number for the confederation. References {confederation_id} in the {confederations} dataset.
+17,referee_appearances,14,confederation_name,text,The name of the confederation.
+17,referee_appearances,15,confederation_code,text,The abbreviation for the confederation.
+18,goals,1,key_id,integer,The unique ID number for the observation.
+18,goals,2,goal_id,text,"The unique ID number for the goal. Has the format {G-####}, where the number is a counter that is assigned with the data sorted by the match ID, then the minute of the goal."
+18,goals,3,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+18,goals,4,tournament_name,text,The name of the tournament.
+18,goals,5,match_id,text,The unique ID number for the match in which the goal occurred. References {match_id} in the {matches} dataset.
+18,goals,6,match_name,text,The name of the match in which the goal occurred.
+18,goals,7,match_date,date,The date of the match in the format {YYYY-MM-DD}.
+18,goals,8,stage_name,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
+18,goals,9,group_name,text,The name of the group.
+18,goals,10,team_id,text,"The unique ID number for the team that scored the goal. References {team_id} in the {teams} dataset. For own goals, this is the team that is awarded the goal, not the team of the player who scored the own goal."
+18,goals,11,team_name,text,The name of the team of the player who scored the goal.
+18,goals,12,team_code,text,The 3-letter code for the team of the player who scored the goal.
+18,goals,13,home_team,boolean,Whether the team was the home team. Coded {1} if the team was the home team and {0} otherwise.
+18,goals,14,away_team,boolean,Whether the team was the away team. Coded {1} if the team was the away team and {0} otherwise.
+18,goals,15,player_id,text,The unique ID number for the player who scored the goal. References {player_id} in the {players} dataset.
+18,goals,16,family_name,text,The family name of the player who scored the goal.
+18,goals,17,given_name,text,The given name of the player who scored the goal.
+18,goals,18,shirt_number,integer,The shirt number of the player who scored the goal.
+18,goals,19,player_team_id,text,"The unique ID number for the team of the player who scored the goal. References {team_id} in the {teams} dataset. For own goals, this is the team of the player who scored the own goal, not the team that is awarded the goal."
+18,goals,20,player_team_name,text,The name of the team of the player who scored the goal.
+18,goals,21,player_team_code,text,The 3-letter code for the team of the player who scored the goal.
+18,goals,22,minute_label,text,The minute of the match in which the goal occurred in the format {#'} or {#'+#'}.
+18,goals,23,minute_regulation,integer,The minute of regulation time in which the substitution occurred.
+18,goals,24,minute_stoppage,integer,The minute of stoppage time in which the goal occurred. Coded {0} if the substitution did not occur during stoppage time.
+18,goals,25,match_period,enum,"The period of the match in which the goal occurred. The possible values are: {first half}, {first half, stoppage time}, {second half}, {second half, stoppage time}, {extra time, first half}, {extra time, first half, stoppage time}, {extra time, second half}, {extra time, second half, stoppage time}, {after extra time}."
+18,goals,26,own_goal,boolean,Whether the goal was an own goal. Coded {1} if the goal was an own goal and {0} otherwise.
+18,goals,27,penalty,boolean,"Whether the goal was a penalty that occurred during the game, as opposed to during a penalty shootout. Coded {1} if the goal was a penalty that occurred during the game and {0} otherwise."
+19,penalty_kicks,1,key_id,integer,The unique ID number for the observation.
+19,penalty_kicks,2,penalty_kick_id,text,"The unique ID number for the penalty kick. Has the format {PK-####}, where the number is a counter that is assigned with the data sorted by the match ID, then the minute of the penalty kick."
+19,penalty_kicks,3,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+19,penalty_kicks,4,tournament_name,text,The name of the tournament.
+19,penalty_kicks,5,match_id,text,The unique ID number for the match in which the penalty kick occurred. References {match_id} in the {matches} dataset.
+19,penalty_kicks,6,match_name,text,The name of match in which the penalty kick occurred.
+19,penalty_kicks,7,match_date,date,The date of the match in the format {YYYY-MM-DD}.
+19,penalty_kicks,8,stage_name,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
+19,penalty_kicks,9,group_name,text,The name of the group.
+19,penalty_kicks,10,team_id,text,The unique ID number for the team of the player who took the penalty kick. References {team_id} in the {teams} dataset.
+19,penalty_kicks,11,team_name,text,The name of the team of the player who took the penalty kick.
+19,penalty_kicks,12,team_code,text,The 3-letter code for the team of the player who took the penalty kick.
+19,penalty_kicks,13,home_team,boolean,Whether the team was the home team. Coded {1} if the team was the home team and {0} otherwise.
+19,penalty_kicks,14,away_team,boolean,Whether the team was the away team. Coded {1} if the team was the away team and {0} otherwise.
+19,penalty_kicks,15,player_id,text,The unique ID number for the player who took the penalty kick. References {player_id} in the {players} dataset.
+19,penalty_kicks,16,family_name,text,The family name of the player who took the penalty kick.
+19,penalty_kicks,17,given_name,text,The given name of the player who took the penalty kick.
+19,penalty_kicks,18,shirt_number,integer,The shirt number of the player who took the penalty kick. 
+19,penalty_kicks,19,converted,boolean,Whether the penalty kick was converted. Coded {1} if the penalty kick was converted and {0} otherwise.
+20,bookings,1,key_id,integer,The unique ID number for the observation.
+20,bookings,2,booking_id,text,"The unique ID number for the booking. Has the format {B-####}, where the number is a counter that is assigned with the data sorted by the match ID, then the minute of the booking."
+20,bookings,3,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+20,bookings,4,tournament_name,text,The name of the tournament.
+20,bookings,5,match_id,text,The unique ID number for the match in which the booking occurred. References {match_id} in the {matches} dataset.
+20,bookings,6,match_name,text,The name of the match in which the booking occurred.
+20,bookings,7,match_date,date,The date of the match in the format {YYYY-MM-DD}.
+20,bookings,8,stage_name,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
+20,bookings,9,group_name,text,The name of the group.
+20,bookings,10,team_id,text,The unique ID number for the team of the player who was booked. References {team_id} in the {teams} dataset.
+20,bookings,11,team_name,text,The name of the team of the player who was booked.
+20,bookings,12,team_code,text,The 3-letter code for the team of the player who was booked.
+20,bookings,13,home_team,boolean,Whether the team was the home team. Coded {1} if the team was the home team and {0} otherwise.
+20,bookings,14,away_team,boolean,Whether the team was the away team. Coded {1} if the team was the away team and {0} otherwise.
+20,bookings,15,player_id,text,The unique ID number for the player who was booked. References {player_id} in the {players} dataset.
+20,bookings,16,family_name,text,The family name of the player who was booked.
+20,bookings,17,given_name,text,The given name of the player who was booked.
+20,bookings,18,shirt_number,integer,The shirt number of the player who was booked.
+20,bookings,19,minute_label,text,The minute of the match in which the booking occurred in the format {#'} or {#'+#'}.
+20,bookings,20,minute_regulation,integer,The minute of regulation time in which the booking occurred.
+20,bookings,21,minute_stoppage,integer,The minute of stoppage time in which the booking occurred. Coded {0} if the substitution did not occur during stoppage time.
+20,bookings,22,match_period,enum,"The period of the match in which the booking occurred. The possible values are: {first half}, {first half, stoppage time}, {second half}, {second half, stoppage time}, {extra time, first half}, {extra time, first half, stoppage time}, {extra time, second half}, {extra time, second half, stoppage time}, {after extra time}."
+20,bookings,23,yellow_card,boolean,Whether the booking was a yellow card. Coded {1} if the card is a yellow card and {0} otherwise.
+20,bookings,24,red_card,boolean,Whether the booking was a red card. Coded {1} if the card is a red card and {0} otherwise.
+20,bookings,25,second_yellow_card,boolean,Whether the booking was a second yellow card. Coded {1} if the booking is a second yellow and {0} otherwise.
+20,bookings,26,sending_off,boolean,Whether the booking resulted in the player being sent off. Coded {1} if the player was sent off and {0} otherwise.
+21,substitutions,1,key_id,integer,The unique ID number for the observation.
+21,substitutions,2,substitution_id,text,"The unique ID number for the substitution. Has the format {S-####}, where the number is a counter that is assigned with the data sorted by the match ID, then the minute of the substitution, then whether the player is going off."
+21,substitutions,3,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+21,substitutions,4,tournament_name,text,The name of the tournament.
+21,substitutions,5,match_id,text,The unique ID number for the match in which the substitution occurred. References {match_id} in the {matches} dataset.
+21,substitutions,6,match_name,text,The name of the match in which the substitution occurred.
+21,substitutions,7,match_date,date,The date of the match in the format {YYYY-MM-DD}.
+21,substitutions,8,stage_name,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
+21,substitutions,9,group_name,text,The name of the group.
+21,substitutions,10,team_id,text,The unique ID number for the team of the player who was substituted. References {team_id} in the {teams} dataset.
+21,substitutions,11,team_name,text,The name of the team of the player who was substituted.
+21,substitutions,12,team_code,text,The 3-letter code for the team of the player who was substituted.
+21,substitutions,13,home_team,boolean,Whether the team was the home team. Coded {1} if the team was the home team and {0} otherwise.
+21,substitutions,14,away_team,boolean,Whether the team was the away team. Coded {1} if the team was the away team and {0} otherwise.
+21,substitutions,15,player_id,text,The unique ID number for the player who was substituted. References {player_id} in the {players} dataset.
+21,substitutions,16,family_name,text,The family name of the player who was substituted.
+21,substitutions,17,given_name,text,The given name of the player who was substituted.
+21,substitutions,18,shirt_number,integer,The shirt number of the player who was substituted.
+21,substitutions,19,minute_label,text,The minute of the match in which the substitution occurred in the format {#'} or {#'+#'}.
+21,substitutions,20,minute_regulation,integer,The minute of regulation time in which the substitution occurred.
+21,substitutions,21,minute_stoppage,integer,The minute of stoppage time in which the substitution occurred. Coded {0} if the substitution did not occur during stoppage time.
+21,substitutions,22,match_period,enum,"The period of the match in which the substitution occurred. The possible values are: {first half}, {first half, stoppage time}, {second half}, {second half, stoppage time}, {extra time, first half}, {extra time, first half, stoppage time}, {extra time, second half}, {extra time, second half, stoppage time}, {after extra time}."
+21,substitutions,23,going_off,boolean,Whether the player was going off the field. Coded {1} if the player was going off and {0} otherwise.
+21,substitutions,24,coming_on,boolean,Whether the player was coming on the field. Coded {1} if the player was coming on and {0} otherwise.
+22,host_countries,1,key_id,integer,The unique ID number for the observation.
+22,host_countries,2,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+22,host_countries,3,tournament_name,text,The name of the tournament.
+22,host_countries,4,team_id,text,The unique ID number for the team. References {team_id} in the {teams} dataset.
+22,host_countries,5,team_name,text,The name of the team.
+22,host_countries,6,team_code,text,The 3-letter code for the team.
+22,host_countries,7,performance,text,The furthest stage of the tournament reached by the host country's team.
+23,tournament_stages,1,key_id,integer,The unique ID number for the observation.
+23,tournament_stages,2,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+23,tournament_stages,3,tournament_name,text,The name of the tournament.
+23,tournament_stages,4,stage_number,integer,The number of the stage.
+23,tournament_stages,5,stage_name,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
+23,tournament_stages,6,group_stage,boolean,Whether the match is a group stage match. Coded {1} if the match is a group stage match and {0} otherwise.
+23,tournament_stages,7,knockout_stage,boolean,Whether there was a knockout stage. Coded {1} if there was a knockout stage and {0} otherwise.
+23,tournament_stages,8,unbalanced_groups,boolean,Whether there were unbalanced groups. Coded {1} if there were unbalanced groups and {0} otherwise.
+23,tournament_stages,9,start_date,date,The start date of the stage in the format {YYYY-MM-DD}.
+23,tournament_stages,10,end_date,date,The end date of the stage in the format {YYYY-MM-DD}.
+23,tournament_stages,11,count_matches,integer,The number of matches in the stage.
+23,tournament_stages,12,count_teams,integer,The number of teams that participated in the stage.
+23,tournament_stages,13,count_scheduled,integer,The number of games that were scheduled in the stage.
+23,tournament_stages,14,count_replays,integer,The number of replays in the stage.
+23,tournament_stages,15,count_playoffs,integer,The number of playoff games in the stage.
+23,tournament_stages,16,count_walkovers,integer,The number of walkovers in the stage.
+24,groups,1,key_id,integer,The unique ID number for the observation.
+24,groups,2,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+24,groups,3,tournament_name,text,The name of the tournament.
+24,groups,4,stage_number,integer,The number of the stage.
+24,groups,5,stage_name,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
+24,groups,6,group_name,text,The name of the group.
+24,groups,7,count_teams,integer,The number of teams in the group.
+25,group_standings,1,key_id,integer,The unique ID number for the observation.
+25,group_standings,2,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+25,group_standings,3,tournament_name,text,The name of the tournament.
+25,group_standings,4,stage_number,integer,The number of the stage.
+25,group_standings,5,stage_name,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
+25,group_standings,6,group_name,text,The name of the group.
+25,group_standings,7,position,integer,The team's final position in the group.
+25,group_standings,8,team_id,text,The unique ID number for the team. References {team_id} in the {teams} dataset.
+25,group_standings,9,team_name,text,The name of the team.
+25,group_standings,10,team_code,text,The 3-letter code for the team.
+25,group_standings,11,played,integer,The number of matches that the team played in the group.
+25,group_standings,12,wins,integer,The number of matches that the team won in the group stage.
+25,group_standings,13,draws,integer,The number of matches that the team drew in the group stage.
+25,group_standings,14,losses,integer,The number of matches that the team lost in the group stage.
+25,group_standings,15,goals_for,integer,The number of goals scored by the team in the group stage.
+25,group_standings,16,goals_against,integer,The number of goals scored against the team in the group stage.
+25,group_standings,17,goal_difference,integer,The team's goal difference in the group stage.
+25,group_standings,18,points,integer,The number of points that the team earned in the group.
+25,group_standings,19,advanced,boolean,Whether the team advanced out of the group. Coded {1} if the team advanced and {0} otherwise.
+26,tournament_standings,1,key_id,integer,The unique ID number for the observation.
+26,tournament_standings,2,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+26,tournament_standings,3,tournament_name,text,The name of the tournament.
+26,tournament_standings,4,position,integer,The place of the team in the final standings.
+26,tournament_standings,5,team_id,text,The unique ID number for the team. References {team_id} in the {teams} dataset.
+26,tournament_standings,6,team_name,text,The name of the team.
+26,tournament_standings,7,team_code,text,The 3-letter code for the team.
+27,award_winners,1,key_id,integer,The unique ID number for the observation.
+27,award_winners,2,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
+27,award_winners,3,tournament_name,text,The name of the tournament.
+27,award_winners,4,award_id,text,The unique ID number for the award. References {award_id} in the {awards} dataset.
+27,award_winners,5,award_name,enum,"The name of the award. The possible values are: {Golden Ball}, {Silver Ball}, {Bronze Ball}, {Golden Boot}, {Silver Boot}, {Bronze Boot}, {Golden Glove}, {Best Young Player}. "
+27,award_winners,6,shared,boolean,Whether the award was shared between multiple players. Coded {1} if the award was shared and {0} otherwise.
+27,award_winners,7,player_id,text,The unique ID number for the player who won the award. References {player_id} in the {players} dataset.
+27,award_winners,8,family_name,text,The family name of the player who won the award.
+27,award_winners,9,given_name,text,The given name of the player who won the award.
+27,award_winners,10,team_id,text,The unique ID number for the team. References {team_id} in the {teams} dataset.
+27,award_winners,11,team_name,text,The name of the team of the player who won the award.
+27,award_winners,12,team_code,text,The 3-letter code for the team of the player who won the award.
