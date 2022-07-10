@@ -1,0 +1,133 @@
+year,award_id,award_name,shared,family_name,given_name,team_name
+1930,A-4,Golden Boot,0,Stábile,Guillermo,Argentina
+1930,A-5,Silver Boot,0,Cea,Pedro,Uruguay
+1930,A-6,Bronze Boot,0,Patenaude,Bert,United States
+1934,A-4,Golden Boot,0,Nejedlý,Oldřich,Czechoslovakia
+1934,A-5,Silver Boot,1,Schiavio,Angelo,Italy
+1934,A-5,Silver Boot,1,Conen,Edmund,Germany
+1938,A-4,Golden Boot,0,Leônidas,not applicable,Brazil
+1938,A-5,Silver Boot,1,Sárosi,György,Hungary
+1938,A-5,Silver Boot,1,Zsengellér,Gyula,Hungary
+1938,A-5,Silver Boot,1,Piola,Silvio,Italy
+1950,A-4,Golden Boot,0,Ademir,not applicable,Brazil
+1950,A-5,Silver Boot,0,Míguez,Oscar,Uruguay
+1950,A-6,Bronze Boot,1,Chico,not applicable,Brazil
+1950,A-6,Bronze Boot,1,Basora,Estanislau,Spain
+1950,A-6,Bronze Boot,1,Zarra,Telmo,Spain
+1954,A-4,Golden Boot,0,Kocsis,Sándor,Hungary
+1954,A-5,Silver Boot,1,Probst,Erich,Austria
+1954,A-5,Silver Boot,1,Hügi,Josef,Switzerland
+1954,A-5,Silver Boot,1,Morlock,Max,West Germany
+1958,A-4,Golden Boot,0,Fontaine,Just,France
+1958,A-5,Silver Boot,1,Rahn,Helmut,West Germany
+1958,A-5,Silver Boot,1,Pelé,not applicable,Brazil
+1958,A-8,Best Young Player,0,Pelé,not applicable,Brazil
+1962,A-4,Golden Boot,1,Jerković,Dražan,Yugoslavia
+1962,A-4,Golden Boot,1,Albert,Flórián,Hungary
+1962,A-4,Golden Boot,1,Garrincha,not applicable,Brazil
+1962,A-4,Golden Boot,1,Sánchez,Leonel,Chile
+1962,A-4,Golden Boot,1,Ivanov,Valentin,Soviet Union
+1962,A-4,Golden Boot,1,Vavá,not applicable,Brazil
+1962,A-8,Best Young Player,0,Albert,Flórián,Hungary
+1966,A-4,Golden Boot,0,Eusébio,not applicable,Portugal
+1966,A-5,Silver Boot,0,Haller,Helmut,West Germany
+1966,A-6,Bronze Boot,1,Bene,Ferenc,Hungary
+1966,A-6,Bronze Boot,1,Beckenbauer,Franz,West Germany
+1966,A-6,Bronze Boot,1,Hurst,Geoff,England
+1966,A-6,Bronze Boot,1,Porkujan,Valeriy,Soviet Union
+1966,A-8,Best Young Player,0,Beckenbauer,Franz,West Germany
+1970,A-4,Golden Boot,0,Müller,Gerd,West Germany
+1970,A-5,Silver Boot,0,Jairzinho,not applicable,Brazil
+1970,A-6,Bronze Boot,0,Cubillas,Teófilo,Peru
+1970,A-8,Best Young Player,0,Cubillas,Teófilo,Peru
+1974,A-4,Golden Boot,0,Lato,Grzegorz,Poland
+1974,A-5,Silver Boot,1,Szarmach,Andrzej,Poland
+1974,A-5,Silver Boot,1,Neeskens,Johan,Netherlands
+1974,A-8,Best Young Player,0,Żmuda,Władysław,Poland
+1978,A-1,Golden Ball,0,Kempes,Mario,Argentina
+1978,A-2,Silver Ball,0,Rossi,Paolo,Italy
+1978,A-3,Bronze Ball,0,Dirceu,not applicable,Brazil
+1978,A-4,Golden Boot,0,Kempes,Mario,Argentina
+1978,A-5,Silver Boot,0,Cubillas,Teófilo,Peru
+1978,A-6,Bronze Boot,0,Rensenbrink,Rob,Netherlands
+1978,A-8,Best Young Player,0,Cabrini,Antonio,Italy
+1982,A-1,Golden Ball,0,Rossi,Paolo,Italy
+1982,A-2,Silver Ball,0,Falcão,not applicable,Brazil
+1982,A-3,Bronze Ball,0,Rummenigge,Karl-Heinz,West Germany
+1982,A-4,Golden Boot,0,Rossi,Paolo,Italy
+1982,A-5,Silver Boot,0,Rummenigge,Karl-Heinz,West Germany
+1982,A-6,Bronze Boot,0,Zico,not applicable,Brazil
+1982,A-8,Best Young Player,0,Amoros,Manuel,France
+1986,A-1,Golden Ball,0,Maradona,Diego,Argentina
+1986,A-2,Silver Ball,0,Schumacher,Harald,West Germany
+1986,A-3,Bronze Ball,0,Elkjær,Preben,Denmark
+1986,A-4,Golden Boot,0,Lineker,Gary,England
+1986,A-5,Silver Boot,1,Careca,not applicable,Brazil
+1986,A-5,Silver Boot,1,Maradona,Diego,Argentina
+1986,A-5,Silver Boot,1,Butragueño,Emilio,Spain
+1986,A-8,Best Young Player,0,Scifo,Enzo,Belgium
+1990,A-1,Golden Ball,0,Schillaci,Salvatore,Italy
+1990,A-2,Silver Ball,0,Matthäus,Lothar,West Germany
+1990,A-3,Bronze Ball,0,Maradona,Diego,Argentina
+1990,A-4,Golden Boot,0,Schillaci,Salvatore,Italy
+1990,A-5,Silver Boot,0,Skuhravý,Tomáš,Czechoslovakia
+1990,A-6,Bronze Boot,1,Lineker,Gary,England
+1990,A-6,Bronze Boot,1,Milla,Roger,Cameroon
+1990,A-8,Best Young Player,0,Prosinečki,Robert,Yugoslavia
+1994,A-1,Golden Ball,0,Romário,not applicable,Brazil
+1994,A-2,Silver Ball,0,Baggio,Roberto,Italy
+1994,A-3,Bronze Ball,0,Stoichkov,Hristo,Bulgaria
+1994,A-4,Golden Boot,1,Stoichkov,Hristo,Bulgaria
+1994,A-4,Golden Boot,1,Salenko,Oleg,Russia
+1994,A-6,Bronze Boot,1,Andersson,Kennet,Sweden
+1994,A-6,Bronze Boot,1,Romário,not applicable,Brazil
+1994,A-7,Golden Glove,0,Preud'homme,Michel,Belgium
+1994,A-8,Best Young Player,0,Overmars,Marc,Netherlands
+1998,A-1,Golden Ball,0,Ronaldo,not applicable,Brazil
+1998,A-2,Silver Ball,0,Šuker,Davor,Croatia
+1998,A-3,Bronze Ball,0,Thuram,Lilian,France
+1998,A-4,Golden Boot,0,Šuker,Davor,Croatia
+1998,A-5,Silver Boot,1,Vieri,Christian,Italy
+1998,A-5,Silver Boot,1,Batistuta,Gabriel,Argentina
+1998,A-7,Golden Glove,0,Barthez,Fabien,France
+1998,A-8,Best Young Player,0,Owen,Michael,England
+2002,A-1,Golden Ball,0,Kahn,Oliver,Germany
+2002,A-2,Silver Ball,0,Ronaldo,not applicable,Brazil
+2002,A-3,Bronze Ball,0,Hong,Myung-bo,South Korea
+2002,A-4,Golden Boot,0,Ronaldo,not applicable,Brazil
+2002,A-5,Silver Boot,1,Klose,Miroslav,Germany
+2002,A-5,Silver Boot,1,Rivaldo,not applicable,Brazil
+2002,A-7,Golden Glove,0,Kahn,Oliver,Germany
+2002,A-8,Best Young Player,0,Donovan,Landon,United States
+2006,A-1,Golden Ball,0,Zidane,Zinedine,France
+2006,A-2,Silver Ball,0,Cannavaro,Fabio,Italy
+2006,A-3,Bronze Ball,0,Pirlo,Andrea,Italy
+2006,A-4,Golden Boot,0,Klose,Miroslav,Germany
+2006,A-5,Silver Boot,0,Crespo,Hernán,Argentina
+2006,A-6,Bronze Boot,0,Ronaldo,not applicable,Brazil
+2006,A-7,Golden Glove,0,Buffon,Gianluigi,Italy
+2006,A-8,Best Young Player,0,Podolski,Lukas,Germany
+2010,A-1,Golden Ball,0,Forlán,Diego,Uruguay
+2010,A-2,Silver Ball,0,Sneijder,Wesley,Netherlands
+2010,A-3,Bronze Ball,0,Villa,David,Spain
+2010,A-4,Golden Boot,0,Müller,Thomas,Germany
+2010,A-5,Silver Boot,0,Villa,David,Spain
+2010,A-6,Bronze Boot,0,Sneijder,Wesley,Netherlands
+2010,A-7,Golden Glove,0,Casillas,Iker,Spain
+2010,A-8,Best Young Player,0,Müller,Thomas,Germany
+2014,A-1,Golden Ball,0,Messi,Lionel,Argentina
+2014,A-2,Silver Ball,0,Müller,Thomas,Germany
+2014,A-3,Bronze Ball,0,Robben,Arjen,Netherlands
+2014,A-4,Golden Boot,0,Rodríguez,James,Colombia
+2014,A-5,Silver Boot,0,Müller,Thomas,Germany
+2014,A-6,Bronze Boot,0,Neymar,not applicable,Brazil
+2014,A-7,Golden Glove,0,Neuer,Manuel,Germany
+2014,A-8,Best Young Player,0,Pogba,Paul,France
+2018,A-1,Golden Ball,0,Modrić,Luka,Croatia
+2018,A-2,Silver Ball,0,Hazard,Eden,Belgium
+2018,A-3,Bronze Ball,0,Griezmann,Antoine,France
+2018,A-4,Golden Boot,0,Kane,Harry,England
+2018,A-5,Silver Boot,0,Griezmann,Antoine,France
+2018,A-6,Bronze Boot,0,Lukaku,Romelu,Belgium
+2018,A-7,Golden Glove,0,Courtois,Thibaut,Belgium
+2018,A-8,Best Young Player,0,Mbappé,Kylian,France
