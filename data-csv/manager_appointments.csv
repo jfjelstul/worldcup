@@ -1,0 +1,470 @@
+key_id,tournament_id,tournament_name,team_id,team_name,team_code,manager_id,family_name,given_name,country_name
+1,WC-1930,1930 FIFA World Cup,T-54,Peru,PER,M-041,Bru,Francisco,Spain
+2,WC-1930,1930 FIFA World Cup,T-28,France,FRA,M-054,Caudron,Raoul,France
+3,WC-1930,1930 FIFA World Cup,T-09,Brazil,BRA,M-067,de Carvalho Rodrigues,Píndaro,Brazil
+4,WC-1930,1930 FIFA World Cup,T-53,Paraguay,PRY,M-079,Durand Laguna,José,Argentina
+5,WC-1930,1930 FIFA World Cup,T-06,Belgium,BEL,M-099,Goetinck,Hector,Belgium
+6,WC-1930,1930 FIFA World Cup,T-44,Mexico,MEX,M-175,Luque de Serrallonga,Juan,Mexico
+7,WC-1930,1930 FIFA World Cup,T-79,United States,USA,M-200,Millar,Robert,Scotland
+8,WC-1930,1930 FIFA World Cup,T-03,Argentina,ARG,M-222,Olazar,Francisco,Argentina
+9,WC-1930,1930 FIFA World Cup,T-13,Chile,CHL,M-228,Orth,György,Hungary
+10,WC-1930,1930 FIFA World Cup,T-58,Romania,ROU,M-260,Rădulescu,Costel,Romania
+11,WC-1930,1930 FIFA World Cup,T-07,Bolivia,BOL,M-290,Saucedo,Ulises,Bolivia
+12,WC-1930,1930 FIFA World Cup,T-83,Yugoslavia,YUG,M-303,Simonović,Boško,Yugoslavia
+13,WC-1930,1930 FIFA World Cup,T-80,Uruguay,URY,M-313,Suppici,Alberto,Uruguay
+14,WC-1930,1930 FIFA World Cup,T-03,Argentina,ARG,M-325,Tramutola,Juan José,Argentina
+15,WC-1934,1934 FIFA World Cup,T-70,Spain,ESP,M-093,García,Amadeo,Spain
+16,WC-1934,1934 FIFA World Cup,T-46,Netherlands,NLD,M-095,Glendenning,Bob,England
+17,WC-1934,1934 FIFA World Cup,T-06,Belgium,BEL,M-099,Goetinck,Hector,Belgium
+18,WC-1934,1934 FIFA World Cup,T-79,United States,USA,M-104,Gould,David,United States
+19,WC-1934,1934 FIFA World Cup,T-28,France,FRA,M-147,Kimpton,George,England
+20,WC-1934,1934 FIFA World Cup,T-25,Egypt,EGY,M-187,McCrae,James,Scotland
+21,WC-1934,1934 FIFA World Cup,T-05,Austria,AUT,M-188,Meisl,Hugo,Austria
+22,WC-1934,1934 FIFA World Cup,T-72,Switzerland,CHE,M-207,Müller,Heinrich,Switzerland
+23,WC-1934,1934 FIFA World Cup,T-34,Hungary,HUN,M-211,Nádas,Ödön,Hungary
+24,WC-1934,1934 FIFA World Cup,T-29,Germany,DEU,M-216,Nerz,Otto,Germany
+25,WC-1934,1934 FIFA World Cup,T-03,Argentina,ARG,M-235,Pascucci,Felipe,Italy
+26,WC-1934,1934 FIFA World Cup,T-20,Czechoslovakia,CSK,M-242,Petrů,Karel,Czechoslovakia
+27,WC-1934,1934 FIFA World Cup,T-71,Sweden,SWE,M-243,Pettersson,John,Sweden
+28,WC-1934,1934 FIFA World Cup,T-39,Italy,ITA,M-253,Pozzo,Vittorio,Italy
+29,WC-1934,1934 FIFA World Cup,T-58,Romania,ROU,M-260,Rădulescu,Costel,Romania
+30,WC-1934,1934 FIFA World Cup,T-58,Romania,ROU,M-329,Uridil,Josef,Romania
+31,WC-1934,1934 FIFA World Cup,T-09,Brazil,BRA,M-343,Vinhaes,Luiz,Brazil
+32,WC-1938,1938 FIFA World Cup,T-28,France,FRA,M-019,Barreau,Gaston,France
+33,WC-1938,1938 FIFA World Cup,T-06,Belgium,BEL,M-046,Butler,Jack,England
+34,WC-1938,1938 FIFA World Cup,T-34,Hungary,HUN,M-074,Dietz,Károly,Hungary
+35,WC-1938,1938 FIFA World Cup,T-46,Netherlands,NLD,M-095,Glendenning,Bob,England
+36,WC-1938,1938 FIFA World Cup,T-51,Norway,NOR,M-111,Halvorsen,Asbjørn,Norway
+37,WC-1938,1938 FIFA World Cup,T-29,Germany,DEU,M-114,Herberger,Sepp,Germany
+38,WC-1938,1938 FIFA World Cup,T-55,Poland,POL,M-137,Kałuża,Józef,Poland
+39,WC-1938,1938 FIFA World Cup,T-22,Dutch East Indies,IDN,M-183,Mastenbroek,Johan,Netherlands
+40,WC-1938,1938 FIFA World Cup,T-20,Czechoslovakia,CSK,M-189,Meissner,Josef,Czechoslovakia
+41,WC-1938,1938 FIFA World Cup,T-71,Sweden,SWE,M-212,Nagy,József,Hungary
+42,WC-1938,1938 FIFA World Cup,T-09,Brazil,BRA,M-247,Pimenta,Adhemar,Brazil
+43,WC-1938,1938 FIFA World Cup,T-39,Italy,ITA,M-253,Pozzo,Vittorio,Italy
+44,WC-1938,1938 FIFA World Cup,T-58,Romania,ROU,M-260,Rădulescu,Costel,Romania
+45,WC-1938,1938 FIFA World Cup,T-72,Switzerland,CHE,M-264,Rappan,Karl,Austria
+46,WC-1938,1938 FIFA World Cup,T-58,Romania,ROU,M-291,Săvulescu,Alexandru,Romania
+47,WC-1938,1938 FIFA World Cup,T-34,Hungary,HUN,M-293,Schaffer,Alfréd,Hungary
+48,WC-1938,1938 FIFA World Cup,T-18,Cuba,CUB,M-318,Tapia,José,Cuba
+49,WC-1950,1950 FIFA World Cup,T-72,Switzerland,CHE,M-010,Andreoli,Franco,Switzerland
+50,WC-1950,1950 FIFA World Cup,T-83,Yugoslavia,YUG,M-016,Arsenijević,Milorad,Yugoslavia
+51,WC-1950,1950 FIFA World Cup,T-13,Chile,CHL,M-043,Buccicardi,Alberto,Chile
+52,WC-1950,1950 FIFA World Cup,T-09,Brazil,BRA,M-062,Costa,Flávio,Brazil
+53,WC-1950,1950 FIFA World Cup,T-70,Spain,ESP,M-080,Eizaguirre,Guillermo,Spain
+54,WC-1950,1950 FIFA World Cup,T-53,Paraguay,PRY,M-090,Fleitas Solich,Manuel,Paraguay
+55,WC-1950,1950 FIFA World Cup,T-79,United States,USA,M-132,Jeffrey,William,United States
+56,WC-1950,1950 FIFA World Cup,T-80,Uruguay,URY,M-170,López,Juan,Uruguay
+57,WC-1950,1950 FIFA World Cup,T-39,Italy,ITA,M-220,Novo,Ferruccio,Italy
+58,WC-1950,1950 FIFA World Cup,T-07,Bolivia,BOL,M-255,Pretto,Mario,Italy
+59,WC-1950,1950 FIFA World Cup,T-71,Sweden,SWE,M-266,Raynor,George,England
+60,WC-1950,1950 FIFA World Cup,T-44,Mexico,MEX,M-337,Vial,Octavio,Mexico
+61,WC-1950,1950 FIFA World Cup,T-27,England,ENG,M-354,Winterbottom,Walter,England
+62,WC-1954,1954 FIFA World Cup,T-61,Scotland,SCO,M-023,Beattie,Andy,Scotland
+63,WC-1954,1954 FIFA World Cup,T-20,Czechoslovakia,CSK,M-036,Borhy,Karol,Czechoslovakia
+64,WC-1954,1954 FIFA World Cup,T-39,Italy,ITA,M-065,Czeizler,Lajos,Hungary
+65,WC-1954,1954 FIFA World Cup,T-82,West Germany,DEU,M-114,Herberger,Sepp,Germany
+66,WC-1954,1954 FIFA World Cup,T-68,South Korea,KOR,M-146,Kim,Yong-sik,South Korea
+67,WC-1954,1954 FIFA World Cup,T-06,Belgium,BEL,M-167,Livingstone,Doug,Scotland
+68,WC-1954,1954 FIFA World Cup,T-80,Uruguay,URY,M-170,López,Juan,Uruguay
+69,WC-1954,1954 FIFA World Cup,T-44,Mexico,MEX,M-171,López Herranz,Antonio,Spain
+70,WC-1954,1954 FIFA World Cup,T-09,Brazil,BRA,M-205,Moreira,Zezé,Brazil
+71,WC-1954,1954 FIFA World Cup,T-05,Austria,AUT,M-213,Nausch,Walter,Austria
+72,WC-1954,1954 FIFA World Cup,T-28,France,FRA,M-245,Pibarot,Pierre,France
+73,WC-1954,1954 FIFA World Cup,T-76,Turkey,TUR,M-258,Puppo,Sandro,Italy
+74,WC-1954,1954 FIFA World Cup,T-72,Switzerland,CHE,M-264,Rappan,Karl,Austria
+75,WC-1954,1954 FIFA World Cup,T-34,Hungary,HUN,M-298,Sebes,Gusztáv,Hungary
+76,WC-1954,1954 FIFA World Cup,T-83,Yugoslavia,YUG,M-322,Tirnanić,Aleksandar,Yugoslavia
+77,WC-1954,1954 FIFA World Cup,T-27,England,ENG,M-354,Winterbottom,Walter,England
+78,WC-1958,1958 FIFA World Cup,T-05,Austria,AUT,M-015,Argauer,Karl,Austria
+79,WC-1958,1958 FIFA World Cup,T-34,Hungary,HUN,M-018,Baróti,Lajos,Hungary
+80,WC-1958,1958 FIFA World Cup,T-28,France,FRA,M-021,Batteux,Albert,France
+81,WC-1958,1958 FIFA World Cup,T-61,Scotland,SCO,M-044,Busby,Matt,Scotland
+82,WC-1958,1958 FIFA World Cup,T-50,Northern Ireland,NIR,M-075,Doherty,Peter,Northern Ireland
+83,WC-1958,1958 FIFA World Cup,T-09,Brazil,BRA,M-086,Feola,Vicente,Brazil
+84,WC-1958,1958 FIFA World Cup,T-53,Paraguay,PRY,M-102,González,Aurelio,Paraguay
+85,WC-1958,1958 FIFA World Cup,T-82,West Germany,DEU,M-114,Herberger,Sepp,Germany
+86,WC-1958,1958 FIFA World Cup,T-69,Soviet Union,SUN,M-136,Kachalin,Gavriil,Soviet Union
+87,WC-1958,1958 FIFA World Cup,T-20,Czechoslovakia,CSK,M-149,Kolský,Karel,Czechoslovakia
+88,WC-1958,1958 FIFA World Cup,T-44,Mexico,MEX,M-171,López Herranz,Antonio,Spain
+89,WC-1958,1958 FIFA World Cup,T-81,Wales,WAL,M-209,Murphy,Jimmy,Wales
+90,WC-1958,1958 FIFA World Cup,T-71,Sweden,SWE,M-266,Raynor,George,England
+91,WC-1958,1958 FIFA World Cup,T-03,Argentina,ARG,M-309,Stábile,Guillermo,Argentina
+92,WC-1958,1958 FIFA World Cup,T-83,Yugoslavia,YUG,M-322,Tirnanić,Aleksandar,Yugoslavia
+93,WC-1958,1958 FIFA World Cup,T-61,Scotland,SCO,M-349,Walker,Dawson,Scotland
+94,WC-1958,1958 FIFA World Cup,T-27,England,ENG,M-354,Winterbottom,Walter,England
+95,WC-1962,1962 FIFA World Cup,T-34,Hungary,HUN,M-018,Baróti,Lajos,Hungary
+96,WC-1962,1962 FIFA World Cup,T-80,Uruguay,URY,M-061,Corazzo,Juan Carlos,Uruguay
+97,WC-1962,1962 FIFA World Cup,T-39,Italy,ITA,M-088,Ferrari,Giovanni,Italy
+98,WC-1962,1962 FIFA World Cup,T-82,West Germany,DEU,M-114,Herberger,Sepp,Germany
+99,WC-1962,1962 FIFA World Cup,T-70,Spain,ESP,M-116,Herrera,Helenio,Argentina
+100,WC-1962,1962 FIFA World Cup,T-69,Soviet Union,SUN,M-136,Kachalin,Gavriil,Soviet Union
+101,WC-1962,1962 FIFA World Cup,T-03,Argentina,ARG,M-172,Lorenzo,Juan Carlos,Argentina
+102,WC-1962,1962 FIFA World Cup,T-83,Yugoslavia,YUG,M-173,Lovrić,Ljubomir,Yugoslavia
+103,WC-1962,1962 FIFA World Cup,T-39,Italy,ITA,M-185,Mazza,Paolo,Italy
+104,WC-1962,1962 FIFA World Cup,T-83,Yugoslavia,YUG,M-198,Mihajlović,Prvoslav,Yugoslavia
+105,WC-1962,1962 FIFA World Cup,T-09,Brazil,BRA,M-204,Moreira,Aymoré,Brazil
+106,WC-1962,1962 FIFA World Cup,T-10,Bulgaria,BGR,M-231,Pachedzhiev,Georgi,Bulgaria
+107,WC-1962,1962 FIFA World Cup,T-15,Colombia,COL,M-237,Pedernera,Adolfo,Argentina
+108,WC-1962,1962 FIFA World Cup,T-72,Switzerland,CHE,M-264,Rappan,Karl,Austria
+109,WC-1962,1962 FIFA World Cup,T-13,Chile,CHL,M-270,Riera,Fernando,Chile
+110,WC-1962,1962 FIFA World Cup,T-44,Mexico,MEX,M-327,Tréllez,Ignacio,Mexico
+111,WC-1962,1962 FIFA World Cup,T-20,Czechoslovakia,CSK,M-347,Vytlačil,Rudolf,Czechoslovakia
+112,WC-1962,1962 FIFA World Cup,T-27,England,ENG,M-354,Winterbottom,Walter,England
+113,WC-1966,1966 FIFA World Cup,T-13,Chile,CHL,M-008,Álamos,Luis,Chile
+114,WC-1966,1966 FIFA World Cup,T-34,Hungary,HUN,M-018,Baróti,Lajos,Hungary
+115,WC-1966,1966 FIFA World Cup,T-39,Italy,ITA,M-084,Fabbri,Edmondo,Italy
+116,WC-1966,1966 FIFA World Cup,T-09,Brazil,BRA,M-086,Feola,Vicente,Brazil
+117,WC-1966,1966 FIFA World Cup,T-72,Switzerland,CHE,M-091,Foni,Alfredo,Italy
+118,WC-1966,1966 FIFA World Cup,T-56,Portugal,PRT,M-096,Glória,Otto,Brazil
+119,WC-1966,1966 FIFA World Cup,T-28,France,FRA,M-106,Guérin,Henri,France
+120,WC-1966,1966 FIFA World Cup,T-03,Argentina,ARG,M-172,Lorenzo,Juan Carlos,Argentina
+121,WC-1966,1966 FIFA World Cup,T-69,Soviet Union,SUN,M-206,Morozov,Nikolai,Soviet Union
+122,WC-1966,1966 FIFA World Cup,T-49,North Korea,PRK,M-210,Myung,Rye-hyun,North Korea
+123,WC-1966,1966 FIFA World Cup,T-27,England,ENG,M-263,Ramsey,Alf,England
+124,WC-1966,1966 FIFA World Cup,T-82,West Germany,DEU,M-296,Schön,Helmut,Germany
+125,WC-1966,1966 FIFA World Cup,T-44,Mexico,MEX,M-327,Tréllez,Ignacio,Mexico
+126,WC-1966,1966 FIFA World Cup,T-80,Uruguay,URY,M-340,Viera,Ondino,Uruguay
+127,WC-1966,1966 FIFA World Cup,T-70,Spain,ESP,M-341,Villalonga,José,Spain
+128,WC-1966,1966 FIFA World Cup,T-10,Bulgaria,BGR,M-347,Vytlačil,Rudolf,Czechoslovakia
+129,WC-1970,1970 FIFA World Cup,T-71,Sweden,SWE,M-027,Bergmark,Orvar,Sweden
+130,WC-1970,1970 FIFA World Cup,T-10,Bulgaria,BGR,M-038,Bozhkov,Stefan,Bulgaria
+131,WC-1970,1970 FIFA World Cup,T-44,Mexico,MEX,M-051,Cárdenas,Raúl,Mexico
+132,WC-1970,1970 FIFA World Cup,T-26,El Salvador,SLV,M-053,Carrasco,Hernán,Chile
+133,WC-1970,1970 FIFA World Cup,T-54,Peru,PER,M-073,Didi,not applicable,Brazil
+134,WC-1970,1970 FIFA World Cup,T-06,Belgium,BEL,M-098,Goethals,Raymond,Belgium
+135,WC-1970,1970 FIFA World Cup,T-80,Uruguay,URY,M-125,Hohberg,Juan,Uruguay
+136,WC-1970,1970 FIFA World Cup,T-69,Soviet Union,SUN,M-136,Kachalin,Gavriil,Soviet Union
+137,WC-1970,1970 FIFA World Cup,T-20,Czechoslovakia,CSK,M-180,Marko,Jozef,Czechoslovakia
+138,WC-1970,1970 FIFA World Cup,T-58,Romania,ROU,M-217,Niculescu,Angelo,Romania
+139,WC-1970,1970 FIFA World Cup,T-27,England,ENG,M-263,Ramsey,Alf,England
+140,WC-1970,1970 FIFA World Cup,T-38,Israel,ISR,M-294,Scheffer,Emmanuel,Israel
+141,WC-1970,1970 FIFA World Cup,T-82,West Germany,DEU,M-296,Schön,Helmut,Germany
+142,WC-1970,1970 FIFA World Cup,T-39,Italy,ITA,M-330,Valcareggi,Ferruccio,Italy
+143,WC-1970,1970 FIFA World Cup,T-45,Morocco,MAR,M-339,Vidinić,Blagoje,Yugoslavia
+144,WC-1970,1970 FIFA World Cup,T-09,Brazil,BRA,M-356,Zagallo,Mário,Brazil
+145,WC-1974,1974 FIFA World Cup,T-13,Chile,CHL,M-008,Álamos,Luis,Chile
+146,WC-1974,1974 FIFA World Cup,T-23,East Germany,DDR,M-045,Buschner,Georg,East Germany
+147,WC-1974,1974 FIFA World Cup,T-03,Argentina,ARG,M-049,Cap,Vladislao,Argentina
+148,WC-1974,1974 FIFA World Cup,T-71,Sweden,SWE,M-082,Ericson,Georg,Sweden
+149,WC-1974,1974 FIFA World Cup,T-55,Poland,POL,M-103,Górski,Kazimierz,Poland
+150,WC-1974,1974 FIFA World Cup,T-46,Netherlands,NLD,M-197,Michels,Rinus,Netherlands
+151,WC-1974,1974 FIFA World Cup,T-83,Yugoslavia,YUG,M-199,Miljanić,Miljan,Yugoslavia
+152,WC-1974,1974 FIFA World Cup,T-10,Bulgaria,BGR,M-202,Mladenov,Hristo,Bulgaria
+153,WC-1974,1974 FIFA World Cup,T-61,Scotland,SCO,M-227,Ormond,Willie,Scotland
+154,WC-1974,1974 FIFA World Cup,T-80,Uruguay,URY,M-251,Porta,Roberto,Uruguay
+155,WC-1974,1974 FIFA World Cup,T-04,Australia,AUS,M-265,Rasic,Rale,Yugoslavia
+156,WC-1974,1974 FIFA World Cup,T-82,West Germany,DEU,M-296,Schön,Helmut,Germany
+157,WC-1974,1974 FIFA World Cup,T-32,Haiti,HTI,M-319,Tassy,Antoine,Haiti
+158,WC-1974,1974 FIFA World Cup,T-39,Italy,ITA,M-330,Valcareggi,Ferruccio,Italy
+159,WC-1974,1974 FIFA World Cup,T-84,Zaire,COD,M-339,Vidinić,Blagoje,Yugoslavia
+160,WC-1974,1974 FIFA World Cup,T-09,Brazil,BRA,M-356,Zagallo,Mário,Brazil
+161,WC-1978,1978 FIFA World Cup,T-34,Hungary,HUN,M-018,Baróti,Lajos,Hungary
+162,WC-1978,1978 FIFA World Cup,T-39,Italy,ITA,M-022,Bearzot,Enzo,Italy
+163,WC-1978,1978 FIFA World Cup,T-54,Peru,PER,M-047,Calderón,Marcos,Peru
+164,WC-1978,1978 FIFA World Cup,T-75,Tunisia,TUN,M-058,Chetali,Abdelmajid,Tunisia
+165,WC-1978,1978 FIFA World Cup,T-09,Brazil,BRA,M-063,Coutinho,Cláudio,Brazil
+166,WC-1978,1978 FIFA World Cup,T-71,Sweden,SWE,M-082,Ericson,Georg,Sweden
+167,WC-1978,1978 FIFA World Cup,T-55,Poland,POL,M-097,Gmoch,Jacek,Poland
+168,WC-1978,1978 FIFA World Cup,T-46,Netherlands,NLD,M-112,Happel,Ernst,Austria
+169,WC-1978,1978 FIFA World Cup,T-28,France,FRA,M-119,Hidalgo,Michel,France
+170,WC-1978,1978 FIFA World Cup,T-70,Spain,ESP,M-153,Kubala,Ladislao,Spain
+171,WC-1978,1978 FIFA World Cup,T-61,Scotland,SCO,M-177,MacLeod,Ally,Scotland
+172,WC-1978,1978 FIFA World Cup,T-03,Argentina,ARG,M-192,Menotti,César Luis,Argentina
+173,WC-1978,1978 FIFA World Cup,T-36,Iran,IRN,M-203,Mohajerani,Heshmat,Iran
+174,WC-1978,1978 FIFA World Cup,T-44,Mexico,MEX,M-272,Roca,José Antonio,Mexico
+175,WC-1978,1978 FIFA World Cup,T-82,West Germany,DEU,M-296,Schön,Helmut,Germany
+176,WC-1978,1978 FIFA World Cup,T-05,Austria,AUT,M-300,Senekowitsch,Helmut,Austria
+177,WC-1982,1982 FIFA World Cup,T-47,New Zealand,NZL,M-002,Adshead,John,England
+178,WC-1982,1982 FIFA World Cup,T-39,Italy,ITA,M-022,Bearzot,Enzo,Italy
+179,WC-1982,1982 FIFA World Cup,T-69,Soviet Union,SUN,M-028,Beskov,Konstantin,Soviet Union
+180,WC-1982,1982 FIFA World Cup,T-50,Northern Ireland,NIR,M-031,Bingham,Billy,Northern Ireland
+181,WC-1982,1982 FIFA World Cup,T-33,Honduras,HND,M-068,de la Paz Herrera,José,Honduras
+182,WC-1982,1982 FIFA World Cup,T-82,West Germany,DEU,M-071,Derwall,Jupp,Germany
+183,WC-1982,1982 FIFA World Cup,T-27,England,ENG,M-105,Greenwood,Ron,England
+184,WC-1982,1982 FIFA World Cup,T-28,France,FRA,M-119,Hidalgo,Michel,France
+185,WC-1982,1982 FIFA World Cup,T-01,Algeria,DZA,M-142,Khalef,Mahieddine,Algeria
+186,WC-1982,1982 FIFA World Cup,T-05,Austria,AUT,M-159,Latzke,Felix,Austria
+187,WC-1982,1982 FIFA World Cup,T-01,Algeria,DZA,M-191,Mekhloufi,Rachid,Algeria
+188,WC-1982,1982 FIFA World Cup,T-03,Argentina,ARG,M-192,Menotti,César Luis,Argentina
+189,WC-1982,1982 FIFA World Cup,T-34,Hungary,HUN,M-193,Mészöly,Kálmán,Hungary
+190,WC-1982,1982 FIFA World Cup,T-83,Yugoslavia,YUG,M-199,Miljanić,Miljan,Yugoslavia
+191,WC-1982,1982 FIFA World Cup,T-43,Kuwait,KWT,M-234,Parreira,Carlos Alberto,Brazil
+192,WC-1982,1982 FIFA World Cup,T-55,Poland,POL,M-246,Piechniczek,Antoni,Poland
+193,WC-1982,1982 FIFA World Cup,T-26,El Salvador,SLV,M-273,Rodríguez,Mauricio,El Salvador
+194,WC-1982,1982 FIFA World Cup,T-70,Spain,ESP,M-285,Santamaría,José,Uruguay
+195,WC-1982,1982 FIFA World Cup,T-09,Brazil,BRA,M-286,Santana,Telê,Brazil
+196,WC-1982,1982 FIFA World Cup,T-13,Chile,CHL,M-287,Santibáñez,Luis,Chile
+197,WC-1982,1982 FIFA World Cup,T-05,Austria,AUT,M-295,Schmidt,Georg,Austria
+198,WC-1982,1982 FIFA World Cup,T-61,Scotland,SCO,M-310,Stein,Jock,Scotland
+199,WC-1982,1982 FIFA World Cup,T-06,Belgium,BEL,M-320,Thys,Guy,Belgium
+200,WC-1982,1982 FIFA World Cup,T-54,Peru,PER,M-321,Tim,not applicable,Brazil
+201,WC-1982,1982 FIFA World Cup,T-20,Czechoslovakia,CSK,M-335,Vengloš,Jozef,Czechoslovakia
+202,WC-1982,1982 FIFA World Cup,T-11,Cameroon,CMR,M-342,Vincent,Jean,France
+203,WC-1986,1986 FIFA World Cup,T-39,Italy,ITA,M-022,Bearzot,Enzo,Italy
+204,WC-1986,1986 FIFA World Cup,T-82,West Germany,DEU,M-024,Beckenbauer,Franz,Germany
+205,WC-1986,1986 FIFA World Cup,T-03,Argentina,ARG,M-030,Bilardo,Carlos,Argentina
+206,WC-1986,1986 FIFA World Cup,T-50,Northern Ireland,NIR,M-031,Bingham,Billy,Northern Ireland
+207,WC-1986,1986 FIFA World Cup,T-80,Uruguay,URY,M-037,Borrás,Omar,Uruguay
+208,WC-1986,1986 FIFA World Cup,T-37,Iraq,IRQ,M-069,de Macedo,Evaristo,Brazil
+209,WC-1986,1986 FIFA World Cup,T-45,Morocco,MAR,M-085,Faria,José,Brazil
+210,WC-1986,1986 FIFA World Cup,T-61,Scotland,SCO,M-087,Ferguson,Alex,Scotland
+211,WC-1986,1986 FIFA World Cup,T-68,South Korea,KOR,M-145,Kim,Jung-nam,South Korea
+212,WC-1986,1986 FIFA World Cup,T-69,Soviet Union,SUN,M-168,Lobanovsky,Valeri,Soviet Union
+213,WC-1986,1986 FIFA World Cup,T-34,Hungary,HUN,M-195,Mezey,György,Hungary
+214,WC-1986,1986 FIFA World Cup,T-28,France,FRA,M-196,Michel,Henri,France
+215,WC-1986,1986 FIFA World Cup,T-44,Mexico,MEX,M-201,Milutinović,Bora,Yugoslavia
+216,WC-1986,1986 FIFA World Cup,T-70,Spain,ESP,M-208,Muñoz,Miguel,Spain
+217,WC-1986,1986 FIFA World Cup,T-55,Poland,POL,M-246,Piechniczek,Antoni,Poland
+218,WC-1986,1986 FIFA World Cup,T-21,Denmark,DNK,M-249,Piontek,Sepp,Germany
+219,WC-1986,1986 FIFA World Cup,T-53,Paraguay,PRY,M-267,Ré,Cayetano,Paraguay
+220,WC-1986,1986 FIFA World Cup,T-27,England,ENG,M-271,Robson,Bobby,England
+221,WC-1986,1986 FIFA World Cup,T-01,Algeria,DZA,M-279,Saâdane,Rabah,Algeria
+222,WC-1986,1986 FIFA World Cup,T-09,Brazil,BRA,M-286,Santana,Telê,Brazil
+223,WC-1986,1986 FIFA World Cup,T-06,Belgium,BEL,M-320,Thys,Guy,Belgium
+224,WC-1986,1986 FIFA World Cup,T-56,Portugal,PRT,M-324,Torres,José,Portugal
+225,WC-1986,1986 FIFA World Cup,T-10,Bulgaria,BGR,M-346,Vutsov,Ivan,Bulgaria
+226,WC-1986,1986 FIFA World Cup,T-12,Canada,CAN,M-348,Waiters,Tony,England
+227,WC-1990,1990 FIFA World Cup,T-25,Egypt,EGY,M-005,Al-Gohari,Mahmoud,Egypt
+228,WC-1990,1990 FIFA World Cup,T-82,West Germany,DEU,M-024,Beckenbauer,Franz,Germany
+229,WC-1990,1990 FIFA World Cup,T-46,Netherlands,NLD,M-025,Beenhakker,Leo,Netherlands
+230,WC-1990,1990 FIFA World Cup,T-03,Argentina,ARG,M-030,Bilardo,Carlos,Argentina
+231,WC-1990,1990 FIFA World Cup,T-57,Republic of Ireland,IRL,M-056,Charlton,Jack,England
+232,WC-1990,1990 FIFA World Cup,T-79,United States,USA,M-092,Gansler,Bob,United States
+233,WC-1990,1990 FIFA World Cup,T-05,Austria,AUT,M-118,Hickersberger,Josef,Austria
+234,WC-1990,1990 FIFA World Cup,T-58,Romania,ROU,M-133,Jenei,Emerich,Romania
+235,WC-1990,1990 FIFA World Cup,T-09,Brazil,BRA,M-160,Lazaroni,Sebastião,Brazil
+236,WC-1990,1990 FIFA World Cup,T-68,South Korea,KOR,M-163,Lee,Hoe-taik,South Korea
+237,WC-1990,1990 FIFA World Cup,T-69,Soviet Union,SUN,M-169,Lobanovskyi,Valeriy,Soviet Union
+238,WC-1990,1990 FIFA World Cup,T-15,Colombia,COL,M-184,Maturana,Francisco,Colombia
+239,WC-1990,1990 FIFA World Cup,T-16,Costa Rica,CRI,M-201,Milutinović,Bora,Yugoslavia
+240,WC-1990,1990 FIFA World Cup,T-11,Cameroon,CMR,M-215,Nepomnyashchy,Valery,Soviet Union
+241,WC-1990,1990 FIFA World Cup,T-71,Sweden,SWE,M-219,Nordin,Olle,Sweden
+242,WC-1990,1990 FIFA World Cup,T-83,Yugoslavia,YUG,M-229,Osim,Ivica,Yugoslavia
+243,WC-1990,1990 FIFA World Cup,T-78,United Arab Emirates,ARE,M-234,Parreira,Carlos Alberto,Brazil
+244,WC-1990,1990 FIFA World Cup,T-27,England,ENG,M-271,Robson,Bobby,England
+245,WC-1990,1990 FIFA World Cup,T-61,Scotland,SCO,M-276,Roxburgh,Andy,Scotland
+246,WC-1990,1990 FIFA World Cup,T-70,Spain,ESP,M-311,Suárez,Luis,Spain
+247,WC-1990,1990 FIFA World Cup,T-80,Uruguay,URY,M-316,Tabárez,Óscar,Uruguay
+248,WC-1990,1990 FIFA World Cup,T-06,Belgium,BEL,M-320,Thys,Guy,Belgium
+249,WC-1990,1990 FIFA World Cup,T-20,Czechoslovakia,CSK,M-335,Vengloš,Jozef,Czechoslovakia
+250,WC-1990,1990 FIFA World Cup,T-39,Italy,ITA,M-338,Vicini,Azeglio,Italy
+251,WC-1994,1994 FIFA World Cup,T-46,Netherlands,NLD,M-003,Advocaat,Dick,Netherlands
+252,WC-1994,1994 FIFA World Cup,T-07,Bolivia,BOL,M-017,Azkargorta,Xabier,Spain
+253,WC-1994,1994 FIFA World Cup,T-03,Argentina,ARG,M-020,Basile,Alfio,Argentina
+254,WC-1994,1994 FIFA World Cup,T-45,Morocco,MAR,M-033,Blinda,Abdellah,Morocco
+255,WC-1994,1994 FIFA World Cup,T-57,Republic of Ireland,IRL,M-056,Charlton,Jack,England
+256,WC-1994,1994 FIFA World Cup,T-70,Spain,ESP,M-060,Clemente,Javier,Spain
+257,WC-1994,1994 FIFA World Cup,T-72,Switzerland,CHE,M-124,Hodgson,Roy,England
+258,WC-1994,1994 FIFA World Cup,T-58,Romania,ROU,M-128,Iordănescu,Anghel,Romania
+259,WC-1994,1994 FIFA World Cup,T-68,South Korea,KOR,M-143,Kim,Ho,South Korea
+260,WC-1994,1994 FIFA World Cup,T-15,Colombia,COL,M-184,Maturana,Francisco,Colombia
+261,WC-1994,1994 FIFA World Cup,T-44,Mexico,MEX,M-190,Mejía Barón,Miguel,Mexico
+262,WC-1994,1994 FIFA World Cup,T-11,Cameroon,CMR,M-196,Michel,Henri,France
+263,WC-1994,1994 FIFA World Cup,T-79,United States,USA,M-201,Milutinović,Bora,Yugoslavia
+264,WC-1994,1994 FIFA World Cup,T-51,Norway,NOR,M-224,Olsen,Egil,Norway
+265,WC-1994,1994 FIFA World Cup,T-31,Greece,GRC,M-232,Panagoulias,Alketas,Greece
+266,WC-1994,1994 FIFA World Cup,T-09,Brazil,BRA,M-234,Parreira,Carlos Alberto,Brazil
+267,WC-1994,1994 FIFA World Cup,T-10,Bulgaria,BGR,M-239,Penev,Dimitar,Bulgaria
+268,WC-1994,1994 FIFA World Cup,T-39,Italy,ITA,M-281,Sacchi,Arrigo,Italy
+269,WC-1994,1994 FIFA World Cup,T-59,Russia,RUS,M-282,Sadyrin,Pavel,Russia
+270,WC-1994,1994 FIFA World Cup,T-60,Saudi Arabia,SAU,M-305,Solari,Jorge,Argentina
+271,WC-1994,1994 FIFA World Cup,T-71,Sweden,SWE,M-315,Svensson,Tommy,Sweden
+272,WC-1994,1994 FIFA World Cup,T-06,Belgium,BEL,M-333,Van Himst,Paul,Belgium
+273,WC-1994,1994 FIFA World Cup,T-29,Germany,DEU,M-344,Vogts,Berti,Germany
+274,WC-1994,1994 FIFA World Cup,T-48,Nigeria,NGA,M-352,Westerhof,Clemens,Netherlands
+275,WC-1998,1998 FIFA World Cup,T-13,Chile,CHL,M-001,Acosta,Nelson,Uruguay
+276,WC-1998,1998 FIFA World Cup,T-60,Saudi Arabia,SAU,M-007,Al-Kharashy,Mohammed,Brazil
+277,WC-1998,1998 FIFA World Cup,T-17,Croatia,HRV,M-032,Blažević,Miroslav,Croatia
+278,WC-1998,1998 FIFA World Cup,T-10,Bulgaria,BGR,M-035,Bonev,Hristo,Bulgaria
+279,WC-1998,1998 FIFA World Cup,T-61,Scotland,SCO,M-040,Brown,Craig,Scotland
+280,WC-1998,1998 FIFA World Cup,T-53,Paraguay,PRY,M-052,Carpegiani,Paulo César,Brazil
+281,WC-1998,1998 FIFA World Cup,T-68,South Korea,KOR,M-055,Cha,Bum-kun,South Korea
+282,WC-1998,1998 FIFA World Cup,T-70,Spain,ESP,M-060,Clemente,Javier,Spain
+283,WC-1998,1998 FIFA World Cup,T-15,Colombia,COL,M-100,Gómez,Hernán Darío,Colombia
+284,WC-1998,1998 FIFA World Cup,T-46,Netherlands,NLD,M-120,Hiddink,Guus,Netherlands
+285,WC-1998,1998 FIFA World Cup,T-27,England,ENG,M-123,Hoddle,Glenn,England
+286,WC-1998,1998 FIFA World Cup,T-58,Romania,ROU,M-128,Iordănescu,Anghel,Romania
+287,WC-1998,1998 FIFA World Cup,T-28,France,FRA,M-130,Jacquet,Aimé,France
+288,WC-1998,1998 FIFA World Cup,T-21,Denmark,DNK,M-134,Johansson,Bo,Sweden
+289,WC-1998,1998 FIFA World Cup,T-75,Tunisia,TUN,M-138,Kasperczak,Henryk,Poland
+290,WC-1998,1998 FIFA World Cup,T-44,Mexico,MEX,M-158,Lapuente,Manuel,Mexico
+291,WC-1998,1998 FIFA World Cup,T-11,Cameroon,CMR,M-162,Le Roy,Claude,France
+292,WC-1998,1998 FIFA World Cup,T-06,Belgium,BEL,M-164,Leekens,Georges,Belgium
+293,WC-1998,1998 FIFA World Cup,T-39,Italy,ITA,M-178,Maldini,Cesare,Italy
+294,WC-1998,1998 FIFA World Cup,T-45,Morocco,MAR,M-196,Michel,Henri,France
+295,WC-1998,1998 FIFA World Cup,T-48,Nigeria,NGA,M-201,Milutinović,Bora,Yugoslavia
+296,WC-1998,1998 FIFA World Cup,T-42,Japan,JPN,M-221,Okada,Takeshi,Japan
+297,WC-1998,1998 FIFA World Cup,T-51,Norway,NOR,M-224,Olsen,Egil,Norway
+298,WC-1998,1998 FIFA World Cup,T-60,Saudi Arabia,SAU,M-234,Parreira,Carlos Alberto,Brazil
+299,WC-1998,1998 FIFA World Cup,T-03,Argentina,ARG,M-236,Passarella,Daniel,Argentina
+300,WC-1998,1998 FIFA World Cup,T-05,Austria,AUT,M-256,Prohaska,Herbert,Austria
+301,WC-1998,1998 FIFA World Cup,T-79,United States,USA,M-284,Sampson,Steve,United States
+302,WC-1998,1998 FIFA World Cup,T-83,Yugoslavia,YUG,M-289,Santrač,Slobodan,Yugoslavia
+303,WC-1998,1998 FIFA World Cup,T-75,Tunisia,TUN,M-299,Selmi,Ali,Poland
+304,WC-1998,1998 FIFA World Cup,T-41,Jamaica,JAM,M-302,Simões,Renê,Brazil
+305,WC-1998,1998 FIFA World Cup,T-36,Iran,IRN,M-317,Talebi,Jalal,Iran
+306,WC-1998,1998 FIFA World Cup,T-67,South Africa,ZAF,M-328,Troussier,Philippe,France
+307,WC-1998,1998 FIFA World Cup,T-29,Germany,DEU,M-344,Vogts,Berti,Germany
+308,WC-1998,1998 FIFA World Cup,T-09,Brazil,BRA,M-356,Zagallo,Mário,Brazil
+309,WC-2002,2002 FIFA World Cup,T-44,Mexico,MEX,M-004,Aguirre,Javier,Mexico
+310,WC-2002,2002 FIFA World Cup,T-60,Saudi Arabia,SAU,M-006,Al-Johar,Nasser,Saudi Arabia
+311,WC-2002,2002 FIFA World Cup,T-79,United States,USA,M-014,Arena,Bruce,United States
+312,WC-2002,2002 FIFA World Cup,T-03,Argentina,ARG,M-029,Bielsa,Marcelo,Argentina
+313,WC-2002,2002 FIFA World Cup,T-70,Spain,ESP,M-048,Camacho,José Antonio,Spain
+314,WC-2002,2002 FIFA World Cup,T-55,Poland,POL,M-081,Engel,Jerzy,Poland
+315,WC-2002,2002 FIFA World Cup,T-27,England,ENG,M-083,Eriksson,Sven-Göran,Sweden
+316,WC-2002,2002 FIFA World Cup,T-24,Ecuador,ECU,M-100,Gómez,Hernán Darío,Colombia
+317,WC-2002,2002 FIFA World Cup,T-16,Costa Rica,CRI,M-107,Guimarães,Alexandre,Costa Rica
+318,WC-2002,2002 FIFA World Cup,T-76,Turkey,TUR,M-108,Güneş,Şenol,Turkey
+319,WC-2002,2002 FIFA World Cup,T-68,South Korea,KOR,M-120,Hiddink,Guus,Netherlands
+320,WC-2002,2002 FIFA World Cup,T-17,Croatia,HRV,M-135,Jozić,Mirko,Croatia
+321,WC-2002,2002 FIFA World Cup,T-66,Slovenia,SVN,M-139,Katanec,Srečko,Slovenia
+322,WC-2002,2002 FIFA World Cup,T-71,Sweden,SWE,M-156,Lagerbäck,Lars,Sweden
+323,WC-2002,2002 FIFA World Cup,T-28,France,FRA,M-165,Lemerre,Roger,France
+324,WC-2002,2002 FIFA World Cup,T-53,Paraguay,PRY,M-178,Maldini,Cesare,Italy
+325,WC-2002,2002 FIFA World Cup,T-57,Republic of Ireland,IRL,M-186,McCarthy,Mick,Republic of Ireland
+326,WC-2002,2002 FIFA World Cup,T-62,Senegal,SEN,M-194,Metsu,Bruno,France
+327,WC-2002,2002 FIFA World Cup,T-14,China,CHN,M-201,Milutinović,Bora,Yugoslavia
+328,WC-2002,2002 FIFA World Cup,T-56,Portugal,PRT,M-223,Oliveira,António,Portugal
+329,WC-2002,2002 FIFA World Cup,T-21,Denmark,DNK,M-225,Olsen,Morten,Denmark
+330,WC-2002,2002 FIFA World Cup,T-48,Nigeria,NGA,M-226,Onigbinde,Festus,Nigeria
+331,WC-2002,2002 FIFA World Cup,T-80,Uruguay,URY,M-257,Púa,Víctor,Uruguay
+332,WC-2002,2002 FIFA World Cup,T-59,Russia,RUS,M-275,Romantsev,Oleg,Russia
+333,WC-2002,2002 FIFA World Cup,T-11,Cameroon,CMR,M-292,Schäfer,Winfried,Germany
+334,WC-2002,2002 FIFA World Cup,T-09,Brazil,BRA,M-297,Scolari,Luiz Felipe,Brazil
+335,WC-2002,2002 FIFA World Cup,T-71,Sweden,SWE,M-304,Söderberg,Tommy,Sweden
+336,WC-2002,2002 FIFA World Cup,T-67,South Africa,ZAF,M-306,Sono,Jomo,South Africa
+337,WC-2002,2002 FIFA World Cup,T-75,Tunisia,TUN,M-307,Souayah,Ammar,Tunisia
+338,WC-2002,2002 FIFA World Cup,T-39,Italy,ITA,M-326,Trapattoni,Giovanni,Italy
+339,WC-2002,2002 FIFA World Cup,T-42,Japan,JPN,M-328,Troussier,Philippe,France
+340,WC-2002,2002 FIFA World Cup,T-29,Germany,DEU,M-345,Völler,Rudi,Germany
+341,WC-2002,2002 FIFA World Cup,T-06,Belgium,BEL,M-350,Waseige,Robert,Belgium
+342,WC-2006,2006 FIFA World Cup,T-68,South Korea,KOR,M-003,Advocaat,Dick,Netherlands
+343,WC-2006,2006 FIFA World Cup,T-70,Spain,ESP,M-013,Aragonés,Luis,Spain
+344,WC-2006,2006 FIFA World Cup,T-79,United States,USA,M-014,Arena,Bruce,United States
+345,WC-2006,2006 FIFA World Cup,T-74,Trinidad and Tobago,TTO,M-025,Beenhakker,Leo,Netherlands
+346,WC-2006,2006 FIFA World Cup,T-77,Ukraine,UKR,M-034,Blokhin,Oleg,Ukraine
+347,WC-2006,2006 FIFA World Cup,T-19,Czech Republic,CZE,M-042,Brückner,Karel,Czech Republic
+348,WC-2006,2006 FIFA World Cup,T-28,France,FRA,M-076,Domenech,Raymond,France
+349,WC-2006,2006 FIFA World Cup,T-30,Ghana,GHA,M-077,Dujković,Ratomir,Serbia
+350,WC-2006,2006 FIFA World Cup,T-27,England,ENG,M-083,Eriksson,Sven-Göran,Sweden
+351,WC-2006,2006 FIFA World Cup,T-02,Angola,AGO,M-101,Gonçalves,Oliveira,Angola
+352,WC-2006,2006 FIFA World Cup,T-16,Costa Rica,CRI,M-107,Guimarães,Alexandre,Costa Rica
+353,WC-2006,2006 FIFA World Cup,T-04,Australia,AUS,M-120,Hiddink,Guus,Netherlands
+354,WC-2006,2006 FIFA World Cup,T-36,Iran,IRN,M-129,Ivanković,Branko,Croatia
+355,WC-2006,2006 FIFA World Cup,T-55,Poland,POL,M-131,Janas,Paweł,Poland
+356,WC-2006,2006 FIFA World Cup,T-29,Germany,DEU,M-148,Klinsmann,Jürgen,Germany
+357,WC-2006,2006 FIFA World Cup,T-17,Croatia,HRV,M-151,Kranjčar,Zlatko,Croatia
+358,WC-2006,2006 FIFA World Cup,T-72,Switzerland,CHE,M-154,Kuhn,Köbi,Switzerland
+359,WC-2006,2006 FIFA World Cup,T-44,Mexico,MEX,M-155,La Volpe,Ricardo,Argentina
+360,WC-2006,2006 FIFA World Cup,T-71,Sweden,SWE,M-156,Lagerbäck,Lars,Sweden
+361,WC-2006,2006 FIFA World Cup,T-75,Tunisia,TUN,M-165,Lemerre,Roger,France
+362,WC-2006,2006 FIFA World Cup,T-39,Italy,ITA,M-166,Lippi,Marcello,Italy
+363,WC-2006,2006 FIFA World Cup,T-40,Ivory Coast,CIV,M-196,Michel,Henri,France
+364,WC-2006,2006 FIFA World Cup,T-60,Saudi Arabia,SAU,M-233,Paquetá,Marcos,Brazil
+365,WC-2006,2006 FIFA World Cup,T-09,Brazil,BRA,M-234,Parreira,Carlos Alberto,Brazil
+366,WC-2006,2006 FIFA World Cup,T-03,Argentina,ARG,M-238,Pékerman,José,Argentina
+367,WC-2006,2006 FIFA World Cup,T-64,Serbia and Montenegro,SCG,M-240,Petković,Ilija,Serbia and Montenegro
+368,WC-2006,2006 FIFA World Cup,T-73,Togo,TGO,M-244,Pfister,Otto,Germany
+369,WC-2006,2006 FIFA World Cup,T-53,Paraguay,PRY,M-278,Ruiz,Aníbal,Uruguay
+370,WC-2006,2006 FIFA World Cup,T-56,Portugal,PRT,M-297,Scolari,Luiz Felipe,Brazil
+371,WC-2006,2006 FIFA World Cup,T-24,Ecuador,ECU,M-312,Suárez,Luis Fernando,Colombia
+372,WC-2006,2006 FIFA World Cup,T-46,Netherlands,NLD,M-331,van Basten,Marco,Netherlands
+373,WC-2006,2006 FIFA World Cup,T-42,Japan,JPN,M-357,Zico,not applicable,Brazil
+374,WC-2010,2010 FIFA World Cup,T-44,Mexico,MEX,M-004,Aguirre,Javier,Mexico
+375,WC-2010,2010 FIFA World Cup,T-63,Serbia,SRB,M-011,Antić,Radomir,Serbia
+376,WC-2010,2010 FIFA World Cup,T-13,Chile,CHL,M-029,Bielsa,Marcelo,Argentina
+377,WC-2010,2010 FIFA World Cup,T-79,United States,USA,M-039,Bradley,Bob,United States
+378,WC-2010,2010 FIFA World Cup,T-27,England,ENG,M-050,Capello,Fabio,Italy
+379,WC-2010,2010 FIFA World Cup,T-70,Spain,ESP,M-070,del Bosque,Vicente,Spain
+380,WC-2010,2010 FIFA World Cup,T-28,France,FRA,M-076,Domenech,Raymond,France
+381,WC-2010,2010 FIFA World Cup,T-09,Brazil,BRA,M-078,Dunga,not applicable,Brazil
+382,WC-2010,2010 FIFA World Cup,T-40,Ivory Coast,CIV,M-083,Eriksson,Sven-Göran,Sweden
+383,WC-2010,2010 FIFA World Cup,T-47,New Zealand,NZL,M-115,Herbert,Ricki,New Zealand
+384,WC-2010,2010 FIFA World Cup,T-72,Switzerland,CHE,M-122,Hitzfeld,Ottmar,Germany
+385,WC-2010,2010 FIFA World Cup,T-68,South Korea,KOR,M-127,Huh,Jung-moo,South Korea
+386,WC-2010,2010 FIFA World Cup,T-66,Slovenia,SVN,M-140,Kek,Matjaž,Slovenia
+387,WC-2010,2010 FIFA World Cup,T-49,North Korea,PRK,M-144,Kim,Jong-hun,North Korea
+388,WC-2010,2010 FIFA World Cup,T-48,Nigeria,NGA,M-156,Lagerbäck,Lars,Sweden
+389,WC-2010,2010 FIFA World Cup,T-11,Cameroon,CMR,M-161,Le Guen,Paul,France
+390,WC-2010,2010 FIFA World Cup,T-39,Italy,ITA,M-166,Lippi,Marcello,Italy
+391,WC-2010,2010 FIFA World Cup,T-29,Germany,DEU,M-174,Löw,Joachim,Germany
+392,WC-2010,2010 FIFA World Cup,T-03,Argentina,ARG,M-179,Maradona,Diego,Argentina
+393,WC-2010,2010 FIFA World Cup,T-53,Paraguay,PRY,M-182,Martino,Gerardo,Argentina
+394,WC-2010,2010 FIFA World Cup,T-42,Japan,JPN,M-221,Okada,Takeshi,Japan
+395,WC-2010,2010 FIFA World Cup,T-21,Denmark,DNK,M-225,Olsen,Morten,Denmark
+396,WC-2010,2010 FIFA World Cup,T-67,South Africa,ZAF,M-234,Parreira,Carlos Alberto,Brazil
+397,WC-2010,2010 FIFA World Cup,T-56,Portugal,PRT,M-259,Queiroz,Carlos,Portugal
+398,WC-2010,2010 FIFA World Cup,T-30,Ghana,GHA,M-261,Rajevac,Milovan,Serbia
+399,WC-2010,2010 FIFA World Cup,T-31,Greece,GRC,M-268,Rehhagel,Otto,Germany
+400,WC-2010,2010 FIFA World Cup,T-33,Honduras,HND,M-277,Rueda,Reinaldo,Colombia
+401,WC-2010,2010 FIFA World Cup,T-01,Algeria,DZA,M-279,Saâdane,Rabah,Algeria
+402,WC-2010,2010 FIFA World Cup,T-80,Uruguay,URY,M-316,Tabárez,Óscar,Uruguay
+403,WC-2010,2010 FIFA World Cup,T-46,Netherlands,NLD,M-334,van Marwijk,Bert,Netherlands
+404,WC-2010,2010 FIFA World Cup,T-04,Australia,AUS,M-336,Verbeek,Pim,Netherlands
+405,WC-2010,2010 FIFA World Cup,T-65,Slovakia,SVK,M-351,Weiss,Vladimír,Slovakia
+406,WC-2014,2014 FIFA World Cup,T-30,Ghana,GHA,M-012,Appiah,James Kwesi,Ghana
+407,WC-2014,2014 FIFA World Cup,T-56,Portugal,PRT,M-026,Bento,Paulo,Portugal
+408,WC-2014,2014 FIFA World Cup,T-59,Russia,RUS,M-050,Capello,Fabio,Italy
+409,WC-2014,2014 FIFA World Cup,T-70,Spain,ESP,M-070,del Bosque,Vicente,Spain
+410,WC-2014,2014 FIFA World Cup,T-28,France,FRA,M-072,Deschamps,Didier,France
+411,WC-2014,2014 FIFA World Cup,T-11,Cameroon,CMR,M-089,Finke,Volker,Germany
+412,WC-2014,2014 FIFA World Cup,T-01,Algeria,DZA,M-109,Halilhodžić,Vahid,Bosnia and Herzegovina
+413,WC-2014,2014 FIFA World Cup,T-44,Mexico,MEX,M-117,Herrera,Miguel,Mexico
+414,WC-2014,2014 FIFA World Cup,T-72,Switzerland,CHE,M-122,Hitzfeld,Ottmar,Germany
+415,WC-2014,2014 FIFA World Cup,T-27,England,ENG,M-124,Hodgson,Roy,England
+416,WC-2014,2014 FIFA World Cup,T-68,South Korea,KOR,M-126,Hong,Myung-bo,South Korea
+417,WC-2014,2014 FIFA World Cup,T-48,Nigeria,NGA,M-141,Keshi,Stephen,Nigeria
+418,WC-2014,2014 FIFA World Cup,T-79,United States,USA,M-148,Klinsmann,Jürgen,Germany
+419,WC-2014,2014 FIFA World Cup,T-17,Croatia,HRV,M-150,Kovač,Niko,Croatia
+420,WC-2014,2014 FIFA World Cup,T-40,Ivory Coast,CIV,M-157,Lamouchi,Sabri,France
+421,WC-2014,2014 FIFA World Cup,T-29,Germany,DEU,M-174,Löw,Joachim,Germany
+422,WC-2014,2014 FIFA World Cup,T-15,Colombia,COL,M-238,Pékerman,José,Argentina
+423,WC-2014,2014 FIFA World Cup,T-16,Costa Rica,CRI,M-248,Pinto,Jorge Luis,Colombia
+424,WC-2014,2014 FIFA World Cup,T-04,Australia,AUS,M-252,Postecoglou,Ange,Australia
+425,WC-2014,2014 FIFA World Cup,T-39,Italy,ITA,M-254,Prandelli,Cesare,Italy
+426,WC-2014,2014 FIFA World Cup,T-36,Iran,IRN,M-259,Queiroz,Carlos,Portugal
+427,WC-2014,2014 FIFA World Cup,T-24,Ecuador,ECU,M-277,Rueda,Reinaldo,Colombia
+428,WC-2014,2014 FIFA World Cup,T-03,Argentina,ARG,M-280,Sabella,Alejandro,Argentina
+429,WC-2014,2014 FIFA World Cup,T-13,Chile,CHL,M-283,Sampaoli,Jorge,Argentina
+430,WC-2014,2014 FIFA World Cup,T-31,Greece,GRC,M-288,Santos,Fernando,Portugal
+431,WC-2014,2014 FIFA World Cup,T-09,Brazil,BRA,M-297,Scolari,Luiz Felipe,Brazil
+432,WC-2014,2014 FIFA World Cup,T-33,Honduras,HND,M-312,Suárez,Luis Fernando,Colombia
+433,WC-2014,2014 FIFA World Cup,T-08,Bosnia and Herzegovina,BIH,M-314,Sušić,Safet,Bosnia and Herzegovina
+434,WC-2014,2014 FIFA World Cup,T-80,Uruguay,URY,M-316,Tabárez,Óscar,Uruguay
+435,WC-2014,2014 FIFA World Cup,T-46,Netherlands,NLD,M-332,van Gaal,Louis,Netherlands
+436,WC-2014,2014 FIFA World Cup,T-06,Belgium,BEL,M-353,Wilmots,Marc,Belgium
+437,WC-2014,2014 FIFA World Cup,T-42,Japan,JPN,M-355,Zaccheroni,Alberto,Italy
+438,WC-2018,2018 FIFA World Cup,T-71,Sweden,SWE,M-009,Andersson,Janne,Sweden
+439,WC-2018,2018 FIFA World Cup,T-59,Russia,RUS,M-057,Cherchesov,Stanislav,Russia
+440,WC-2018,2018 FIFA World Cup,T-62,Senegal,SEN,M-059,Cissé,Aliou,Senegal
+441,WC-2018,2018 FIFA World Cup,T-25,Egypt,EGY,M-064,Cúper,Héctor,Argentina
+442,WC-2018,2018 FIFA World Cup,T-17,Croatia,HRV,M-066,Dalić,Zlatko,Croatia
+443,WC-2018,2018 FIFA World Cup,T-28,France,FRA,M-072,Deschamps,Didier,France
+444,WC-2018,2018 FIFA World Cup,T-54,Peru,PER,M-094,Gareca,Ricardo,Argentina
+445,WC-2018,2018 FIFA World Cup,T-52,Panama,PAN,M-100,Gómez,Hernán Darío,Colombia
+446,WC-2018,2018 FIFA World Cup,T-35,Iceland,ISL,M-110,Hallgrímsson,Heimir,Iceland
+447,WC-2018,2018 FIFA World Cup,T-21,Denmark,DNK,M-113,Hareide,Åge,Norway
+448,WC-2018,2018 FIFA World Cup,T-70,Spain,ESP,M-121,Hierro,Fernando,Spain
+449,WC-2018,2018 FIFA World Cup,T-63,Serbia,SRB,M-152,Krstajić,Mladen,Serbia
+450,WC-2018,2018 FIFA World Cup,T-29,Germany,DEU,M-174,Löw,Joachim,Germany
+451,WC-2018,2018 FIFA World Cup,T-75,Tunisia,TUN,M-176,Maâloul,Nabil,Tunisia
+452,WC-2018,2018 FIFA World Cup,T-06,Belgium,BEL,M-181,Martínez,Roberto,Spain
+453,WC-2018,2018 FIFA World Cup,T-55,Poland,POL,M-214,Nawałka,Adam,Poland
+454,WC-2018,2018 FIFA World Cup,T-42,Japan,JPN,M-218,Nishino,Akira,Japan
+455,WC-2018,2018 FIFA World Cup,T-44,Mexico,MEX,M-230,Osorio,Juan Carlos,Colombia
+456,WC-2018,2018 FIFA World Cup,T-15,Colombia,COL,M-238,Pékerman,José,Argentina
+457,WC-2018,2018 FIFA World Cup,T-72,Switzerland,CHE,M-241,Petković,Vladimir,Switzerland
+458,WC-2018,2018 FIFA World Cup,T-60,Saudi Arabia,SAU,M-250,Pizzi,Juan Antonio,Spain
+459,WC-2018,2018 FIFA World Cup,T-36,Iran,IRN,M-259,Queiroz,Carlos,Portugal
+460,WC-2018,2018 FIFA World Cup,T-16,Costa Rica,CRI,M-262,Ramírez,Óscar,Costa Rica
+461,WC-2018,2018 FIFA World Cup,T-45,Morocco,MAR,M-269,Renard,Hervé,France
+462,WC-2018,2018 FIFA World Cup,T-48,Nigeria,NGA,M-274,Rohr,Gernot,Germany
+463,WC-2018,2018 FIFA World Cup,T-03,Argentina,ARG,M-283,Sampaoli,Jorge,Argentina
+464,WC-2018,2018 FIFA World Cup,T-56,Portugal,PRT,M-288,Santos,Fernando,Portugal
+465,WC-2018,2018 FIFA World Cup,T-68,South Korea,KOR,M-301,Shin,Tae-yong,South Korea
+466,WC-2018,2018 FIFA World Cup,T-27,England,ENG,M-308,Southgate,Gareth,England
+467,WC-2018,2018 FIFA World Cup,T-80,Uruguay,URY,M-316,Tabárez,Óscar,Uruguay
+468,WC-2018,2018 FIFA World Cup,T-09,Brazil,BRA,M-323,Tite,not applicable,Brazil
+469,WC-2018,2018 FIFA World Cup,T-04,Australia,AUS,M-334,van Marwijk,Bert,Netherlands

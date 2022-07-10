@@ -1,0 +1,85 @@
+key_id,tournament_id,tournament_name,position,team_id,team_name,team_code
+1,WC-1930,1930 FIFA World Cup,1,T-80,Uruguay,URY
+2,WC-1930,1930 FIFA World Cup,2,T-03,Argentina,ARG
+3,WC-1930,1930 FIFA World Cup,3,T-79,United States,USA
+4,WC-1930,1930 FIFA World Cup,4,T-83,Yugoslavia,YUG
+5,WC-1934,1934 FIFA World Cup,1,T-39,Italy,ITA
+6,WC-1934,1934 FIFA World Cup,2,T-20,Czechoslovakia,CSK
+7,WC-1934,1934 FIFA World Cup,3,T-29,Germany,DEU
+8,WC-1934,1934 FIFA World Cup,4,T-05,Austria,AUT
+9,WC-1938,1938 FIFA World Cup,1,T-39,Italy,ITA
+10,WC-1938,1938 FIFA World Cup,2,T-34,Hungary,HUN
+11,WC-1938,1938 FIFA World Cup,3,T-09,Brazil,BRA
+12,WC-1938,1938 FIFA World Cup,4,T-71,Sweden,SWE
+13,WC-1950,1950 FIFA World Cup,1,T-80,Uruguay,URY
+14,WC-1950,1950 FIFA World Cup,2,T-09,Brazil,BRA
+15,WC-1950,1950 FIFA World Cup,3,T-71,Sweden,SWE
+16,WC-1950,1950 FIFA World Cup,4,T-70,Spain,ESP
+17,WC-1954,1954 FIFA World Cup,1,T-82,West Germany,DEU
+18,WC-1954,1954 FIFA World Cup,2,T-34,Hungary,HUN
+19,WC-1954,1954 FIFA World Cup,3,T-05,Austria,AUT
+20,WC-1954,1954 FIFA World Cup,4,T-80,Uruguay,URY
+21,WC-1958,1958 FIFA World Cup,1,T-09,Brazil,BRA
+22,WC-1958,1958 FIFA World Cup,2,T-71,Sweden,SWE
+23,WC-1958,1958 FIFA World Cup,3,T-28,France,FRA
+24,WC-1958,1958 FIFA World Cup,4,T-82,West Germany,DEU
+25,WC-1962,1962 FIFA World Cup,1,T-09,Brazil,BRA
+26,WC-1962,1962 FIFA World Cup,2,T-20,Czechoslovakia,CSK
+27,WC-1962,1962 FIFA World Cup,3,T-13,Chile,CHL
+28,WC-1962,1962 FIFA World Cup,4,T-83,Yugoslavia,YUG
+29,WC-1966,1966 FIFA World Cup,1,T-27,England,ENG
+30,WC-1966,1966 FIFA World Cup,2,T-82,West Germany,DEU
+31,WC-1966,1966 FIFA World Cup,3,T-56,Portugal,PRT
+32,WC-1966,1966 FIFA World Cup,4,T-69,Soviet Union,SUN
+33,WC-1970,1970 FIFA World Cup,1,T-09,Brazil,BRA
+34,WC-1970,1970 FIFA World Cup,2,T-39,Italy,ITA
+35,WC-1970,1970 FIFA World Cup,3,T-82,West Germany,DEU
+36,WC-1970,1970 FIFA World Cup,4,T-80,Uruguay,URY
+37,WC-1974,1974 FIFA World Cup,1,T-82,West Germany,DEU
+38,WC-1974,1974 FIFA World Cup,2,T-46,Netherlands,NLD
+39,WC-1974,1974 FIFA World Cup,3,T-55,Poland,POL
+40,WC-1974,1974 FIFA World Cup,4,T-09,Brazil,BRA
+41,WC-1978,1978 FIFA World Cup,1,T-03,Argentina,ARG
+42,WC-1978,1978 FIFA World Cup,2,T-46,Netherlands,NLD
+43,WC-1978,1978 FIFA World Cup,3,T-09,Brazil,BRA
+44,WC-1978,1978 FIFA World Cup,4,T-39,Italy,ITA
+45,WC-1982,1982 FIFA World Cup,1,T-39,Italy,ITA
+46,WC-1982,1982 FIFA World Cup,2,T-82,West Germany,DEU
+47,WC-1982,1982 FIFA World Cup,3,T-55,Poland,POL
+48,WC-1982,1982 FIFA World Cup,4,T-28,France,FRA
+49,WC-1986,1986 FIFA World Cup,1,T-03,Argentina,ARG
+50,WC-1986,1986 FIFA World Cup,2,T-82,West Germany,DEU
+51,WC-1986,1986 FIFA World Cup,3,T-28,France,FRA
+52,WC-1986,1986 FIFA World Cup,4,T-06,Belgium,BEL
+53,WC-1990,1990 FIFA World Cup,1,T-82,West Germany,DEU
+54,WC-1990,1990 FIFA World Cup,2,T-03,Argentina,ARG
+55,WC-1990,1990 FIFA World Cup,3,T-39,Italy,ITA
+56,WC-1990,1990 FIFA World Cup,4,T-27,England,ENG
+57,WC-1994,1994 FIFA World Cup,1,T-09,Brazil,BRA
+58,WC-1994,1994 FIFA World Cup,2,T-39,Italy,ITA
+59,WC-1994,1994 FIFA World Cup,3,T-71,Sweden,SWE
+60,WC-1994,1994 FIFA World Cup,4,T-10,Bulgaria,BGR
+61,WC-1998,1998 FIFA World Cup,1,T-28,France,FRA
+62,WC-1998,1998 FIFA World Cup,2,T-09,Brazil,BRA
+63,WC-1998,1998 FIFA World Cup,3,T-17,Croatia,HRV
+64,WC-1998,1998 FIFA World Cup,4,T-46,Netherlands,NLD
+65,WC-2002,2002 FIFA World Cup,1,T-09,Brazil,BRA
+66,WC-2002,2002 FIFA World Cup,2,T-29,Germany,DEU
+67,WC-2002,2002 FIFA World Cup,3,T-76,Turkey,TUR
+68,WC-2002,2002 FIFA World Cup,4,T-68,South Korea,KOR
+69,WC-2006,2006 FIFA World Cup,1,T-39,Italy,ITA
+70,WC-2006,2006 FIFA World Cup,2,T-28,France,FRA
+71,WC-2006,2006 FIFA World Cup,3,T-29,Germany,DEU
+72,WC-2006,2006 FIFA World Cup,4,T-56,Portugal,PRT
+73,WC-2010,2010 FIFA World Cup,1,T-70,Spain,ESP
+74,WC-2010,2010 FIFA World Cup,2,T-46,Netherlands,NLD
+75,WC-2010,2010 FIFA World Cup,3,T-29,Germany,DEU
+76,WC-2010,2010 FIFA World Cup,4,T-80,Uruguay,URY
+77,WC-2014,2014 FIFA World Cup,1,T-29,Germany,DEU
+78,WC-2014,2014 FIFA World Cup,2,T-03,Argentina,ARG
+79,WC-2014,2014 FIFA World Cup,3,T-46,Netherlands,NLD
+80,WC-2014,2014 FIFA World Cup,4,T-09,Brazil,BRA
+81,WC-2018,2018 FIFA World Cup,1,T-28,France,FRA
+82,WC-2018,2018 FIFA World Cup,2,T-17,Croatia,HRV
+83,WC-2018,2018 FIFA World Cup,3,T-06,Belgium,BEL
+84,WC-2018,2018 FIFA World Cup,4,T-27,England,ENG

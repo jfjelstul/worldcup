@@ -1,0 +1,9 @@
+key_id,award_id,award_name,award_description,year_introduced
+1,A-1,Golden Ball,best player,1978
+2,A-2,Silver Ball,second best player,1978
+3,A-3,Bronze Ball,third best player,1978
+4,A-4,Golden Boot,top goal scorer,1930
+5,A-5,Silver Boot,second top goal scorer,1930
+6,A-6,Bronze Boot,third top goal scorer,1930
+7,A-7,Golden Glove,best goal keeper,1994
+8,A-8,Best Young Player,best young player,1958

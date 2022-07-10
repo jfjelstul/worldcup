@@ -1,0 +1,23 @@
+key_id,tournament_id,tournament_name,team_id,team_name,team_code,performance
+1,WC-1930,1930 FIFA World Cup,T-80,Uruguay,URY,champions
+2,WC-1934,1934 FIFA World Cup,T-39,Italy,ITA,champions
+3,WC-1938,1938 FIFA World Cup,T-28,France,FRA,quater-finals
+4,WC-1950,1950 FIFA World Cup,T-09,Brazil,BRA,runners-up
+5,WC-1954,1954 FIFA World Cup,T-72,Switzerland,CHE,quarter-final
+6,WC-1958,1958 FIFA World Cup,T-71,Sweden,SWE,runners-up
+7,WC-1962,1962 FIFA World Cup,T-13,Chile,CHL,third place
+8,WC-1966,1966 FIFA World Cup,T-27,England,ENG,champions
+9,WC-1970,1970 FIFA World Cup,T-44,Mexico,MEX,quater-finals
+10,WC-1974,1974 FIFA World Cup,T-82,West Germany,DEU,champions
+11,WC-1978,1978 FIFA World Cup,T-03,Argentina,ARG,champions
+12,WC-1982,1982 FIFA World Cup,T-70,Spain,ESP,second group stage
+13,WC-1986,1986 FIFA World Cup,T-44,Mexico,MEX,quater-finals
+14,WC-1990,1990 FIFA World Cup,T-39,Italy,ITA,third place
+15,WC-1994,1994 FIFA World Cup,T-79,United States,USA,round of 16
+16,WC-1998,1998 FIFA World Cup,T-28,France,FRA,champions
+17,WC-2002,2002 FIFA World Cup,T-42,Japan,JPN,round of 16
+18,WC-2002,2002 FIFA World Cup,T-68,South Korea,KOR,fourth place
+19,WC-2006,2006 FIFA World Cup,T-29,Germany,DEU,third place
+20,WC-2010,2010 FIFA World Cup,T-67,South Africa,ZAF,group stage
+21,WC-2014,2014 FIFA World Cup,T-09,Brazil,BRA,fourth place
+22,WC-2018,2018 FIFA World Cup,T-59,Russia,RUS,quater-finals
