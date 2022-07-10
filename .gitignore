@@ -1,0 +1,14 @@
+.DS_Store
+.Rhistory
+.Rproj.user*
+_exclude/
+_source/
+*.numbers
+*.tex
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+worldcup.Rproj
+.Rproj.user
