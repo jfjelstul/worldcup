@@ -4,7 +4,6 @@
 _exclude/
 _source/
 *.numbers
-*.tex
 *.aux
 *.log
 *.out
