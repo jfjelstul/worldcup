@@ -41,6 +41,6 @@ This dataset records all award winners. There is one observation per player
 per award per tournament. Some awards are shared by multiple players. It
 indicates the name of the award, the player(s) who won the award, the team
 of the player(s) who won the award, and whether the award was shared. There
-are 12 variables and 132 observations.
+are 12 variables and 133 observations.
 }
 \keyword{datasets}
