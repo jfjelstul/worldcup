@@ -63,11 +63,11 @@ Consistent with the CC-BY-SA 4.0 license, I provide this database as-is and as-a
 
 - `qualified_teams`: This dataset records all qualified teams. There is one observation per team per tournament. It includes the tournament, the team, and the performance of each team (the furthest stage reached). There are `8` variables and `457` observations.
 
-- `squads`: This dataset records the composition of each squad. There is one observation per player per team per tournament. It includes the position of each player, the shirt number of each player (from 1954), the current club of each player, and a link to the Wikipedia page for the club, if it has one. There are `12` variables and `10142` observations.
+- `squads`: This dataset records the composition of each squad. There is one observation per player per team per tournament. It includes the position of each player, and the shirt number of each player (from 1954). There are `12` variables and `10142` observations.
 
 - `manager_appointments`: This dataset records all manager appointments. There is one observation per manager per team per tournament. There are some teams that have co-managers. There are `10` variables and `469` observations.
 
-- `referee_appointments`: This dataset records all referee appointments. There is one observation per referee per tournament. This dataset only includes the main referee, not assistant referees, fourth officials, or video assistant referees.There are `10` variables and `511` observations.
+- `referee_appointments`: This dataset records all referee appointments. There is one observation per referee per tournament. This dataset only includes the main referee, not assistant referees, fourth officials, or video assistant referees. There are `10` variables and `511` observations.
 
 - `team_appearances`: This dataset records all team appearances. There is one observation per team per match per tournament. It includes whether the team is the home team or the away team, the number of goals for and against, the goal difference, whether there was a penalty shootout, penalties for and against (if applicable), and whether the team wins, loses, or draws. There are `36` variables and `1800` observations.
 
