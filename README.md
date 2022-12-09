@@ -1,12 +1,14 @@
 # The Fjelstul World Cup Database
 
-The Fjelstul World Cup Database is a comprehensive database about the FIFA World Cup created by Joshua C. Fjelstul, Ph.D. that covers all `21` World Cup tournaments (1930-2018). The database includes `27` datasets (approximately 1.1 million data points) that cover all aspects of the World Cup. The data has been extensively cleaned and cross-validated. 
+The Fjelstul World Cup Database is a comprehensive database about the FIFA World Cup created by Joshua C. Fjelstul, Ph.D. that covers all `21` World Cup tournaments (1930-2018). An update with data on the 2022 World Cup in Qatar will be available soon. The database includes `27` datasets (approximately 1.1 million data points) that cover all aspects of the World Cup.
 
-Users can use data from the Fjelstul World Cup Database to calculate statistics about teams, players, managers, and referees. Users can also use the data to predict match results. With many units of analysis and opportunities for merging and reshaping data, the database is also an excellent resource for teaching data science skills, especially in `R`.
+The database has been featured by [FiveThirtyEight](https://fivethirtyeight.com/features/the-datasets-were-looking-at-this-week-10/), [The Markup](https://themarkup.org/data-is-plural/2022/07/20/voting-laws-u-s-budget-appropriations-and-the-world-cup), [Data is Plural](https://www.data-is-plural.com/archive/2022-07-20-edition/), [The Times](https://www.thetimes.co.uk/article/fifa-world-cup-history-statistics-goals-trophies-stadiums-teams-ptbt62xpq), [Agence France-Presse (AFP)](https://www.barrons.com/news/scorers-in-world-cup-football-01668769510), [Barron's](https://www.barrons.com/news/scorers-in-world-cup-football-01668769510), [Latinometrics](https://www.reddit.com/r/dataisbeautiful/comments/z9rt2b/oc_brazil_and_argentina_are_the_top_goalscorers/), [Hindustan Times](https://www.hindustantimes.com/static-content/10m/fifa-world-cup/the-race-for-goals/index.html), and [DataCamp](https://s3.amazonaws.com/assets.datacamp.com/email/other/Exploring+World+Cup+Data+in+Power+BI+(1).pdf).
+
+Users can use the database to calculate statistics about teams, players, managers, and referees. Users can also use the data to predict match results. With many units of analysis and opportunities for merging and reshaping data, the database is also an excellent resource for teaching data science skills.
 
 ## Overview of the database
 
-The `27` datasets in the Fjelstul World Cup Database are organized into `5` groups:
+The `27` datasets in the database are organized into `5` groups:
 
 1. A first group of datasets (containing `9` datasets) includes information about each of the `9` basic units of observation in the database: tournaments (`tournaments`), including the host country, the winner, the dates of the tournament, and information about the format of each tournament; the FIFA confederations (`confederations`); teams (`teams`); players (`players`); managers (`managers`), including their team and home country; referees (`referees`), including their home country and confederation; stadiums that have hosted World Cup matches (`stadiums`); matches (`matches`), including the stage of the tournament, the location of the match (country, city, stadium), the teams involved, and the result; and the individual awards that are handed out to players at each tournament (`awards`). Each of these units of observation has a unique ID number.
 
