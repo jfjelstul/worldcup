@@ -16,7 +16,7 @@ References \code{tournament_id} in the \code{tournaments} dataset.}
 \item{match_name}{\code{text}. The name of the match.}
 \item{match_date}{\code{date}. The date of the match in the format
 \code{YYYY-MM-DD}.}
-\item{match_stage}{\code{enum}. The stage of the tournament in which the
+\item{stage_name}{\code{enum}. The stage of the tournament in which the
 match occurred. The possible values are: \code{first round}, \code{second
 round}, \code{group stage}, \code{round of sixteen}, \code{quarter-finals},
 \code{semi-finals}, \code{third place match}, \code{final}. Note that not
