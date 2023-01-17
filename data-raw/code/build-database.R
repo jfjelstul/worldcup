@@ -1058,7 +1058,7 @@ rm(check)
 
 # Organize variables
 goals <- goals |>
-  arrange(match_id) |>
+  arrange(match_id, minute_regulation, minute_stoppage) |>
   mutate(
     key_id = 1:n(),
     goal_id = str_c(

@@ -255,7 +255,8 @@ extract_event_data <- function(html_table) {
         str_remove(".mw-parser-output") |>
         str_remove(".fb.*?\\}") |>
         str_remove_all("\\[[0-9]+\\]") |>
-        str_squish(),
+        str_squish() |>
+        (\(x) x[!str_detect(x, "plainlist ol")])(),
       player_wikipedia_link = home_team_goal_data |>
         html_elements("a") |>
         html_attr("href") |>
@@ -277,7 +278,8 @@ extract_event_data <- function(html_table) {
         str_remove(".mw-parser-output") |>
         str_remove(".fb.*?\\}") |>
         str_remove_all("\\[[0-9]+\\]") |>
-        str_squish(),
+        str_squish() |>
+        (\(x) x[!str_detect(x, "plainlist ol")])(),
       player_wikipedia_link = away_team_goal_data |>
         html_elements("a") |>
         html_attr("href") |>
@@ -445,6 +447,8 @@ extract_match_data <- function(file) {
 
   # Extract event data
   event_data <- map(event_tables, extract_event_data)
+
+  extract_event_data(event_tables[[1]])
 
   # Home team
   home_teams = event_data |>

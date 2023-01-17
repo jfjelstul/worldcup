@@ -2,6 +2,7 @@
 # worldcup R package
 
 # Packages
+library(tidyverse)
 library(downloadr)
 
 # Tournament pages -------------------------------------------------------------
@@ -27,7 +28,8 @@ urls <- c(
   "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup",
   "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup",
   "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
-  "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup"
+  "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup",
+  "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
 )
 
 files <- urls |>
@@ -45,7 +47,7 @@ download_files(
 
 # Match pages ------------------------------------------------------------------
 
-urls = c(
+urls <- c(
 
   # 1930
   "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup_Group_1",
@@ -55,7 +57,7 @@ urls = c(
   "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup_knockout_stage",
 
   # 1934
-  "https://en.wikipedia.org/wiki/1934_FIFA_World_Cup_final_tournament", %>%
+  "https://en.wikipedia.org/wiki/1934_FIFA_World_Cup_final_tournament",
 
   # 1938
   "https://en.wikipedia.org/wiki/1938_FIFA_World_Cup_final_tournament",
@@ -224,15 +226,26 @@ urls = c(
   "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_F",
   "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_G",
   "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_H",
-  "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage"
+  "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage",
+
+  # 2022
+  "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_Group_A",
+  "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_Group_B",
+  "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_Group_C",
+  "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_Group_D",
+  "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_Group_E",
+  "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_Group_F",
+  "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_Group_G",
+  "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_Group_H",
+  "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_knockout_stage"
 )
 
- files <- urls |>
-   str_extract("[0-9]{4}.*") |>
-   str_replace("_FIFA_World_Cup_", "-") |>
-   str_replace("_", "-") |>
-   str_replace("Group", "group") |>
-   str_c(".html")
+files <- urls |>
+  str_extract("[0-9]{4}.*") |>
+  str_replace("_FIFA_World_Cup_", "-") |>
+  str_replace("_", "-") |>
+  str_replace("Group", "group") |>
+  str_c(".html")
 
 download_files(
   urls = urls,
@@ -265,7 +278,8 @@ urls <- c(
   "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_squads",
   "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_squads",
   "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads",
-  "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_squads"
+  "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_squads",
+  "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads"
 )
 
 files <- urls |>

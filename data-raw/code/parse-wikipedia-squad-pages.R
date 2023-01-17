@@ -47,7 +47,9 @@ extract_countries <- function(html) {
     "Coaches representation by country",
     "Player representation by club confederation",
     "Player statistics",
-    "Navigation menu"
+    "Navigation menu",
+    "Personal tools", "Namespaces", "Views", "Navigation", "Contribute",
+    "Tools", "Print/export", "In other projects", "Languages"
   )
   countries <- countries[!(countries %in% drop)]
 
@@ -515,6 +517,8 @@ wikipedia_squads <- wikipedia_squads |>
       player_wikipedia_link == "/wiki/Yuri_Nikiforov" ~ "/wiki/Yuriy_Nikiforov",
       player_wikipedia_link == "/wiki/Z%C3%A9_Maria_(footballer,_born_1949)" ~ "/wiki/Jos%C3%A9_Maria_Rodrigues_Alves",
       player_wikipedia_link == "/wiki/Jos%C3%A9_Ely_de_Miranda" ~ "/wiki/Zito_(footballer)",
+      player_wikipedia_link == "/wiki/Aleksandar_Mitrovi%C4%87_(footballer)" ~ "/wiki/Aleksandar_Mitrovi%C4%87",
+      player_wikipedia_link == "/wiki/Munir_Mohand_Mohamedi" ~ "/wiki/Munir_Mohamedi",
       TRUE ~ player_wikipedia_link
     )
   )
@@ -720,10 +724,30 @@ player_names <- wikipedia_squads |>
 # Load data
 player_names_cleaned <- read_csv("data-raw/player-names/player_names_cleaned.csv")
 
+# Make a list of names to clean
+player_names_to_clean <- wikipedia_squads |>
+  filter(
+    !(player_wikipedia_link %in% player_names_cleaned$player_wikipedia_link)
+  ) |>
+  select(
+    player_wikipedia_link, player_name, team_name
+  ) |>
+  mutate(
+    given_name = player_name |>
+      str_extract("^.*? ") |>
+      str_squish(),
+    family_name = player_name |>
+      str_extract(" .*") |>
+      str_squish(),
+  )
+
 # Get unique names
 player_names_cleaned <- player_names_cleaned |>
   group_by(player_name, family_name, given_name) |>
   summarize()
+
+# Check for missing names
+table(wikipedia_squads$player_name %in% player_names_cleaned$player_name)
 
 # Merge names into squad table
 wikipedia_squads <- left_join(
