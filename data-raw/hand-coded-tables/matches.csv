@@ -899,3 +899,67 @@ year,match_name,match_date,stage_name,knockout_stage,group_stage,group_name,repl
 2018,Croatia v England,2018-07-11,semi-finals,1,0,not applicable,0,0
 2018,Belgium v England,2018-07-14,third-place match,1,0,not applicable,0,0
 2018,France v Croatia,2018-07-15,final,1,0,not applicable,0,0
+2022,Qatar v Ecuador,2022-11-20,group stage,0,1,Group A,0,0
+2022,Senegal v Netherlands,2022-11-21,group stage,0,1,Group A,0,0
+2022,Qatar v Senegal,2022-11-25,group stage,0,1,Group A,0,0
+2022,Netherlands v Ecuador,2022-11-25,group stage,0,1,Group A,0,0
+2022,Ecuador v Senegal,2022-11-29,group stage,0,1,Group A,0,0
+2022,Netherlands v Qatar,2022-11-29,group stage,0,1,Group A,0,0
+2022,England v Iran,2022-11-21,group stage,0,1,Group B,0,0
+2022,United States v Wales,2022-11-21,group stage,0,1,Group B,0,0
+2022,Wales v Iran,2022-11-25,group stage,0,1,Group B,0,0
+2022,England v United States,2022-11-25,group stage,0,1,Group B,0,0
+2022,Wales v England,2022-11-29,group stage,0,1,Group B,0,0
+2022,Iran v United States,2022-11-29,group stage,0,1,Group B,0,0
+2022,Argentina v Saudi Arabia,2022-11-22,group stage,0,1,Group C,0,0
+2022,Mexico v Poland,2022-11-22,group stage,0,1,Group C,0,0
+2022,Poland v Saudi Arabia,2022-11-26,group stage,0,1,Group C,0,0
+2022,Argentina v Mexico,2022-11-26,group stage,0,1,Group C,0,0
+2022,Poland v Argentina,2022-11-30,group stage,0,1,Group C,0,0
+2022,Saudi Arabia v Mexico,2022-11-30,group stage,0,1,Group C,0,0
+2022,Denmark v Tunisia,2022-11-22,group stage,0,1,Group D,0,0
+2022,France v Australia,2022-11-22,group stage,0,1,Group D,0,0
+2022,Tunisia v Australia,2022-11-26,group stage,0,1,Group D,0,0
+2022,France v Denmark,2022-11-26,group stage,0,1,Group D,0,0
+2022,Australia v Denmark,2022-11-30,group stage,0,1,Group D,0,0
+2022,Tunisia v France,2022-11-30,group stage,0,1,Group D,0,0
+2022,Germany v Japan,2022-11-23,group stage,0,1,Group E,0,0
+2022,Spain v Costa Rica,2022-11-23,group stage,0,1,Group E,0,0
+2022,Japan v Costa Rica,2022-11-27,group stage,0,1,Group E,0,0
+2022,Spain v Germany,2022-11-27,group stage,0,1,Group E,0,0
+2022,Japan v Spain,2022-12-01,group stage,0,1,Group E,0,0
+2022,Costa Rica v Germany,2022-12-01,group stage,0,1,Group E,0,0
+2022,Morocco v Croatia,2022-11-23,group stage,0,1,Group F,0,0
+2022,Belgium v Canada,2022-11-23,group stage,0,1,Group F,0,0
+2022,Belgium v Morocco,2022-11-27,group stage,0,1,Group F,0,0
+2022,Croatia v Canada,2022-11-27,group stage,0,1,Group F,0,0
+2022,Croatia v Belgium,2022-12-01,group stage,0,1,Group F,0,0
+2022,Canada v Morocco,2022-12-01,group stage,0,1,Group F,0,0
+2022,Switzerland v Cameroon,2022-11-24,group stage,0,1,Group G,0,0
+2022,Brazil v Serbia,2022-11-24,group stage,0,1,Group G,0,0
+2022,Cameroon v Serbia,2022-11-28,group stage,0,1,Group G,0,0
+2022,Brazil v Switzerland,2022-11-28,group stage,0,1,Group G,0,0
+2022,Serbia v Switzerland,2022-12-02,group stage,0,1,Group G,0,0
+2022,Cameroon v Brazil,2022-12-02,group stage,0,1,Group G,0,0
+2022,Uruguay v South Korea,2022-11-24,group stage,0,1,Group H,0,0
+2022,Portugal v Ghana,2022-11-24,group stage,0,1,Group H,0,0
+2022,South Korea v Ghana,2022-11-28,group stage,0,1,Group H,0,0
+2022,Portugal v Uruguay,2022-11-28,group stage,0,1,Group H,0,0
+2022,Ghana v Uruguay,2022-12-02,group stage,0,1,Group H,0,0
+2022,South Korea v Portugal,2022-12-02,group stage,0,1,Group H,0,0
+2022,Netherlands v United States,2022-12-03,round of 16,1,0,not applicable,0,0
+2022,Argentina v Australia,2022-12-03,round of 16,1,0,not applicable,0,0
+2022,France v Poland,2022-12-04,round of 16,1,0,not applicable,0,0
+2022,England v Senegal,2022-12-04,round of 16,1,0,not applicable,0,0
+2022,Japan v Croatia,2022-12-05,round of 16,1,0,not applicable,0,0
+2022,Brazil v South Korea,2022-12-05,round of 16,1,0,not applicable,0,0
+2022,Morocco v Spain,2022-12-06,round of 16,1,0,not applicable,0,0
+2022,Portugal v Switzerland,2022-12-06,round of 16,1,0,not applicable,0,0
+2022,Croatia v Brazil,2022-12-09,quarter-finals,1,0,not applicable,0,0
+2022,Netherlands v Argentina,2022-12-09,quarter-finals,1,0,not applicable,0,0
+2022,Morocco v Portugal,2022-12-10,quarter-finals,1,0,not applicable,0,0
+2022,England v France,2022-12-10,quarter-finals,1,0,not applicable,0,0
+2022,Argentina v Croatia,2022-12-13,semi-finals,1,0,not applicable,0,0
+2022,France v Morocco,2022-12-14,semi-finals,1,0,not applicable,0,0
+2022,Croatia v Morocco,2022-12-17,third-place match,1,0,not applicable,0,0
+2022,Argentina v France,2022-12-18,final,1,0,not applicable,0,0
