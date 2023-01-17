@@ -106,3 +106,9 @@ key_id,tournament_id,tournament_name,stage_number,stage_name,group_stage,knockou
 105,WC-2018,2018 FIFA World Cup,4,semi-finals,0,1,0,2018-07-10,2018-07-11,2,4,2,0,0,0
 106,WC-2018,2018 FIFA World Cup,5,third-place match,0,1,0,2018-07-14,2018-07-14,1,2,1,0,0,0
 107,WC-2018,2018 FIFA World Cup,6,final,0,1,0,2018-07-15,2018-07-15,1,2,1,0,0,0
+108,WC-2022,2022 FIFA World Cup,1,group stage,1,0,0,2022-11-20,2022-12-02,48,32,48,0,0,0
+109,WC-2022,2022 FIFA World Cup,2,round of 16,0,1,0,2022-12-03,2022-12-07,8,16,8,0,0,0
+110,WC-2022,2022 FIFA World Cup,3,quarter-finals,0,1,0,2022-12-09,2022-12-10,4,8,4,0,0,0
+111,WC-2022,2022 FIFA World Cup,4,semi-finals,0,1,0,2022-12-13,2022-12-14,2,4,2,0,0,0
+112,WC-2022,2022 FIFA World Cup,5,third-place match,0,1,0,2022-12-17,2022-12-17,1,2,1,0,0,0
+113,WC-2022,2022 FIFA World Cup,6,final,0,1,0,2022-12-18,2022-12-18,1,2,1,0,0,0

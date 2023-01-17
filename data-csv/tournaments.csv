@@ -20,3 +20,4 @@ key_id,tournament_id,tournament_name,year,start_date,end_date,host_country,winne
 19,WC-2010,2010 FIFA World Cup,2010,2010-06-11,2010-07-11,South Africa,Spain,0,32,1,0,0,1,1,1,1,1
 20,WC-2014,2014 FIFA World Cup,2014,2014-06-12,2014-07-13,Brazil,Germany,0,32,1,0,0,1,1,1,1,1
 21,WC-2018,2018 FIFA World Cup,2018,2018-06-14,2018-07-15,Russia,France,0,32,1,0,0,1,1,1,1,1
+22,WC-2022,2022 FIFA World Cup,2022,2022-11-20,2022-12-18,Qatar,Argentina,0,32,1,0,0,1,1,1,1,1

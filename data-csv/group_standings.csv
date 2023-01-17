@@ -3,124 +3,124 @@ key_id,tournament_id,tournament_name,stage_number,stage_name,group_name,position
 2,WC-1930,1930 FIFA World Cup,1,group stage,Group 1,2,T-13,Chile,CHL,3,2,0,1,5,3,2,4,0
 3,WC-1930,1930 FIFA World Cup,1,group stage,Group 1,3,T-28,France,FRA,3,1,0,2,4,3,1,2,0
 4,WC-1930,1930 FIFA World Cup,1,group stage,Group 1,4,T-44,Mexico,MEX,3,0,0,3,4,13,-9,0,0
-5,WC-1930,1930 FIFA World Cup,1,group stage,Group 2,1,T-83,Yugoslavia,YUG,2,2,0,0,6,1,5,4,1
+5,WC-1930,1930 FIFA World Cup,1,group stage,Group 2,1,T-84,Yugoslavia,YUG,2,2,0,0,6,1,5,4,1
 6,WC-1930,1930 FIFA World Cup,1,group stage,Group 2,2,T-09,Brazil,BRA,2,1,0,1,5,2,3,2,0
 7,WC-1930,1930 FIFA World Cup,1,group stage,Group 2,3,T-07,Bolivia,BOL,2,0,0,2,0,8,-8,0,0
-8,WC-1930,1930 FIFA World Cup,1,group stage,Group 3,1,T-80,Uruguay,URY,2,2,0,0,5,0,5,4,1
-9,WC-1930,1930 FIFA World Cup,1,group stage,Group 3,2,T-58,Romania,ROU,2,1,0,1,3,5,-2,2,0
+8,WC-1930,1930 FIFA World Cup,1,group stage,Group 3,1,T-81,Uruguay,URY,2,2,0,0,5,0,5,4,1
+9,WC-1930,1930 FIFA World Cup,1,group stage,Group 3,2,T-59,Romania,ROU,2,1,0,1,3,5,-2,2,0
 10,WC-1930,1930 FIFA World Cup,1,group stage,Group 3,3,T-54,Peru,PER,2,0,0,2,1,4,-3,0,0
-11,WC-1930,1930 FIFA World Cup,1,group stage,Group 4,1,T-79,United States,USA,2,2,0,0,6,0,6,4,1
+11,WC-1930,1930 FIFA World Cup,1,group stage,Group 4,1,T-80,United States,USA,2,2,0,0,6,0,6,4,1
 12,WC-1930,1930 FIFA World Cup,1,group stage,Group 4,2,T-53,Paraguay,PRY,2,1,0,1,1,3,-2,2,0
 13,WC-1930,1930 FIFA World Cup,1,group stage,Group 4,3,T-06,Belgium,BEL,2,0,0,2,0,4,-4,0,0
 14,WC-1950,1950 FIFA World Cup,1,first round,Group 1,1,T-09,Brazil,BRA,3,2,1,0,8,2,6,5,1
-15,WC-1950,1950 FIFA World Cup,1,first round,Group 1,2,T-83,Yugoslavia,YUG,3,2,0,1,7,3,4,4,0
-16,WC-1950,1950 FIFA World Cup,1,first round,Group 1,3,T-72,Switzerland,CHE,3,1,1,1,4,6,-2,3,0
+15,WC-1950,1950 FIFA World Cup,1,first round,Group 1,2,T-84,Yugoslavia,YUG,3,2,0,1,7,3,4,4,0
+16,WC-1950,1950 FIFA World Cup,1,first round,Group 1,3,T-73,Switzerland,CHE,3,1,1,1,4,6,-2,3,0
 17,WC-1950,1950 FIFA World Cup,1,first round,Group 1,4,T-44,Mexico,MEX,3,0,0,3,2,10,-8,0,0
-18,WC-1950,1950 FIFA World Cup,1,first round,Group 2,1,T-70,Spain,ESP,3,3,0,0,6,1,5,6,1
+18,WC-1950,1950 FIFA World Cup,1,first round,Group 2,1,T-71,Spain,ESP,3,3,0,0,6,1,5,6,1
 19,WC-1950,1950 FIFA World Cup,1,first round,Group 2,2,T-27,England,ENG,3,1,0,2,2,2,0,2,0
 20,WC-1950,1950 FIFA World Cup,1,first round,Group 2,3,T-13,Chile,CHL,3,1,0,2,5,6,-1,2,0
-21,WC-1950,1950 FIFA World Cup,1,first round,Group 2,4,T-79,United States,USA,3,1,0,2,4,8,-4,2,0
-22,WC-1950,1950 FIFA World Cup,1,first round,Group 3,1,T-71,Sweden,SWE,2,1,1,0,5,4,1,3,1
+21,WC-1950,1950 FIFA World Cup,1,first round,Group 2,4,T-80,United States,USA,3,1,0,2,4,8,-4,2,0
+22,WC-1950,1950 FIFA World Cup,1,first round,Group 3,1,T-72,Sweden,SWE,2,1,1,0,5,4,1,3,1
 23,WC-1950,1950 FIFA World Cup,1,first round,Group 3,2,T-39,Italy,ITA,2,1,0,1,4,3,1,2,0
 24,WC-1950,1950 FIFA World Cup,1,first round,Group 3,3,T-53,Paraguay,PRY,2,0,1,1,2,4,-2,1,0
-25,WC-1950,1950 FIFA World Cup,1,first round,Group 4,1,T-80,Uruguay,URY,1,1,0,0,8,0,8,2,1
+25,WC-1950,1950 FIFA World Cup,1,first round,Group 4,1,T-81,Uruguay,URY,1,1,0,0,8,0,8,2,1
 26,WC-1950,1950 FIFA World Cup,1,first round,Group 4,2,T-07,Bolivia,BOL,1,0,0,1,0,8,-8,0,0
-27,WC-1950,1950 FIFA World Cup,2,final round,Group 1,1,T-80,Uruguay,URY,3,2,1,0,7,5,2,5,1
+27,WC-1950,1950 FIFA World Cup,2,final round,Group 1,1,T-81,Uruguay,URY,3,2,1,0,7,5,2,5,1
 28,WC-1950,1950 FIFA World Cup,2,final round,Group 1,2,T-09,Brazil,BRA,3,2,0,1,14,4,10,4,0
-29,WC-1950,1950 FIFA World Cup,2,final round,Group 1,3,T-71,Sweden,SWE,3,1,0,2,6,11,-5,2,0
-30,WC-1950,1950 FIFA World Cup,2,final round,Group 1,4,T-70,Spain,ESP,3,0,1,2,4,11,-7,1,0
+29,WC-1950,1950 FIFA World Cup,2,final round,Group 1,3,T-72,Sweden,SWE,3,1,0,2,6,11,-5,2,0
+30,WC-1950,1950 FIFA World Cup,2,final round,Group 1,4,T-71,Spain,ESP,3,0,1,2,4,11,-7,1,0
 31,WC-1954,1954 FIFA World Cup,1,group stage,Group 1,1,T-09,Brazil,BRA,2,1,1,0,6,1,5,3,1
-32,WC-1954,1954 FIFA World Cup,1,group stage,Group 1,2,T-83,Yugoslavia,YUG,2,1,1,0,2,1,1,3,1
+32,WC-1954,1954 FIFA World Cup,1,group stage,Group 1,2,T-84,Yugoslavia,YUG,2,1,1,0,2,1,1,3,1
 33,WC-1954,1954 FIFA World Cup,1,group stage,Group 1,3,T-28,France,FRA,2,1,0,1,3,3,0,2,0
 34,WC-1954,1954 FIFA World Cup,1,group stage,Group 1,4,T-44,Mexico,MEX,2,0,0,2,2,8,-6,0,0
 35,WC-1954,1954 FIFA World Cup,1,group stage,Group 2,1,T-34,Hungary,HUN,2,2,0,0,17,3,14,4,1
-36,WC-1954,1954 FIFA World Cup,1,group stage,Group 2,2,T-82,West Germany,DEU,2,1,0,1,7,9,-2,2,1
-37,WC-1954,1954 FIFA World Cup,1,group stage,Group 2,3,T-76,Turkey,TUR,2,1,0,1,8,4,4,2,0
-38,WC-1954,1954 FIFA World Cup,1,group stage,Group 2,4,T-68,South Korea,KOR,2,0,0,2,0,16,-16,0,0
-39,WC-1954,1954 FIFA World Cup,1,group stage,Group 3,1,T-80,Uruguay,URY,2,2,0,0,9,0,9,4,1
+36,WC-1954,1954 FIFA World Cup,1,group stage,Group 2,2,T-83,West Germany,DEU,2,1,0,1,7,9,-2,2,1
+37,WC-1954,1954 FIFA World Cup,1,group stage,Group 2,3,T-77,Turkey,TUR,2,1,0,1,8,4,4,2,0
+38,WC-1954,1954 FIFA World Cup,1,group stage,Group 2,4,T-69,South Korea,KOR,2,0,0,2,0,16,-16,0,0
+39,WC-1954,1954 FIFA World Cup,1,group stage,Group 3,1,T-81,Uruguay,URY,2,2,0,0,9,0,9,4,1
 40,WC-1954,1954 FIFA World Cup,1,group stage,Group 3,2,T-05,Austria,AUT,2,2,0,0,6,0,6,4,1
 41,WC-1954,1954 FIFA World Cup,1,group stage,Group 3,3,T-20,Czechoslovakia,CSK,2,0,0,2,0,7,-7,0,0
-42,WC-1954,1954 FIFA World Cup,1,group stage,Group 3,4,T-61,Scotland,SCO,2,0,0,2,0,8,-8,0,0
+42,WC-1954,1954 FIFA World Cup,1,group stage,Group 3,4,T-62,Scotland,SCO,2,0,0,2,0,8,-8,0,0
 43,WC-1954,1954 FIFA World Cup,1,group stage,Group 4,1,T-27,England,ENG,2,1,1,0,6,4,2,3,1
-44,WC-1954,1954 FIFA World Cup,1,group stage,Group 4,2,T-72,Switzerland,CHE,2,1,0,1,2,3,-1,2,1
+44,WC-1954,1954 FIFA World Cup,1,group stage,Group 4,2,T-73,Switzerland,CHE,2,1,0,1,2,3,-1,2,1
 45,WC-1954,1954 FIFA World Cup,1,group stage,Group 4,3,T-39,Italy,ITA,2,1,0,1,5,3,2,2,0
 46,WC-1954,1954 FIFA World Cup,1,group stage,Group 4,4,T-06,Belgium,BEL,2,0,1,1,5,8,-3,1,0
-47,WC-1958,1958 FIFA World Cup,1,group stage,Group 1,1,T-82,West Germany,DEU,3,1,2,0,7,5,2,4,1
+47,WC-1958,1958 FIFA World Cup,1,group stage,Group 1,1,T-83,West Germany,DEU,3,1,2,0,7,5,2,4,1
 48,WC-1958,1958 FIFA World Cup,1,group stage,Group 1,2,T-50,Northern Ireland,NIR,3,1,1,1,4,5,-1,3,1
 49,WC-1958,1958 FIFA World Cup,1,group stage,Group 1,3,T-20,Czechoslovakia,CSK,3,1,1,1,8,4,4,3,0
 50,WC-1958,1958 FIFA World Cup,1,group stage,Group 1,4,T-03,Argentina,ARG,3,1,0,2,5,10,-5,2,0
 51,WC-1958,1958 FIFA World Cup,1,group stage,Group 2,1,T-28,France,FRA,3,2,0,1,11,7,4,4,1
-52,WC-1958,1958 FIFA World Cup,1,group stage,Group 2,2,T-83,Yugoslavia,YUG,3,1,2,0,7,6,1,4,1
+52,WC-1958,1958 FIFA World Cup,1,group stage,Group 2,2,T-84,Yugoslavia,YUG,3,1,2,0,7,6,1,4,1
 53,WC-1958,1958 FIFA World Cup,1,group stage,Group 2,3,T-53,Paraguay,PRY,3,1,1,1,9,12,-3,3,0
-54,WC-1958,1958 FIFA World Cup,1,group stage,Group 2,4,T-61,Scotland,SCO,3,0,1,2,4,6,-2,1,0
-55,WC-1958,1958 FIFA World Cup,1,group stage,Group 3,1,T-71,Sweden,SWE,3,2,1,0,5,1,4,5,1
-56,WC-1958,1958 FIFA World Cup,1,group stage,Group 3,2,T-81,Wales,WAL,3,0,3,0,2,2,0,3,1
+54,WC-1958,1958 FIFA World Cup,1,group stage,Group 2,4,T-62,Scotland,SCO,3,0,1,2,4,6,-2,1,0
+55,WC-1958,1958 FIFA World Cup,1,group stage,Group 3,1,T-72,Sweden,SWE,3,2,1,0,5,1,4,5,1
+56,WC-1958,1958 FIFA World Cup,1,group stage,Group 3,2,T-82,Wales,WAL,3,0,3,0,2,2,0,3,1
 57,WC-1958,1958 FIFA World Cup,1,group stage,Group 3,3,T-34,Hungary,HUN,3,1,1,1,6,3,3,3,0
 58,WC-1958,1958 FIFA World Cup,1,group stage,Group 3,4,T-44,Mexico,MEX,3,0,1,2,1,8,-7,1,0
 59,WC-1958,1958 FIFA World Cup,1,group stage,Group 4,1,T-09,Brazil,BRA,3,2,1,0,5,0,5,5,1
-60,WC-1958,1958 FIFA World Cup,1,group stage,Group 4,2,T-69,Soviet Union,SUN,3,1,1,1,4,4,0,3,1
+60,WC-1958,1958 FIFA World Cup,1,group stage,Group 4,2,T-70,Soviet Union,SUN,3,1,1,1,4,4,0,3,1
 61,WC-1958,1958 FIFA World Cup,1,group stage,Group 4,3,T-27,England,ENG,3,0,3,0,4,4,0,3,0
 62,WC-1958,1958 FIFA World Cup,1,group stage,Group 4,4,T-05,Austria,AUT,3,0,1,2,2,7,-5,1,0
-63,WC-1962,1962 FIFA World Cup,1,group stage,Group 1,1,T-69,Soviet Union,SUN,3,2,1,0,8,5,3,5,1
-64,WC-1962,1962 FIFA World Cup,1,group stage,Group 1,2,T-83,Yugoslavia,YUG,3,2,0,1,8,3,5,4,1
-65,WC-1962,1962 FIFA World Cup,1,group stage,Group 1,3,T-80,Uruguay,URY,3,1,0,2,4,6,-2,2,0
+63,WC-1962,1962 FIFA World Cup,1,group stage,Group 1,1,T-70,Soviet Union,SUN,3,2,1,0,8,5,3,5,1
+64,WC-1962,1962 FIFA World Cup,1,group stage,Group 1,2,T-84,Yugoslavia,YUG,3,2,0,1,8,3,5,4,1
+65,WC-1962,1962 FIFA World Cup,1,group stage,Group 1,3,T-81,Uruguay,URY,3,1,0,2,4,6,-2,2,0
 66,WC-1962,1962 FIFA World Cup,1,group stage,Group 1,4,T-15,Colombia,COL,3,0,1,2,5,11,-6,1,0
-67,WC-1962,1962 FIFA World Cup,1,group stage,Group 2,1,T-82,West Germany,DEU,3,2,1,0,4,1,3,5,1
+67,WC-1962,1962 FIFA World Cup,1,group stage,Group 2,1,T-83,West Germany,DEU,3,2,1,0,4,1,3,5,1
 68,WC-1962,1962 FIFA World Cup,1,group stage,Group 2,2,T-13,Chile,CHL,3,2,0,1,5,3,2,4,1
 69,WC-1962,1962 FIFA World Cup,1,group stage,Group 2,3,T-39,Italy,ITA,3,1,1,1,3,2,1,3,0
-70,WC-1962,1962 FIFA World Cup,1,group stage,Group 2,4,T-72,Switzerland,CHE,3,0,0,3,2,8,-6,0,0
+70,WC-1962,1962 FIFA World Cup,1,group stage,Group 2,4,T-73,Switzerland,CHE,3,0,0,3,2,8,-6,0,0
 71,WC-1962,1962 FIFA World Cup,1,group stage,Group 3,1,T-09,Brazil,BRA,3,2,1,0,4,1,3,5,1
 72,WC-1962,1962 FIFA World Cup,1,group stage,Group 3,2,T-20,Czechoslovakia,CSK,3,1,1,1,2,3,-1,3,1
 73,WC-1962,1962 FIFA World Cup,1,group stage,Group 3,3,T-44,Mexico,MEX,3,1,0,2,3,4,-1,2,0
-74,WC-1962,1962 FIFA World Cup,1,group stage,Group 3,4,T-70,Spain,ESP,3,1,0,2,2,3,-1,2,0
+74,WC-1962,1962 FIFA World Cup,1,group stage,Group 3,4,T-71,Spain,ESP,3,1,0,2,2,3,-1,2,0
 75,WC-1962,1962 FIFA World Cup,1,group stage,Group 4,1,T-34,Hungary,HUN,3,2,1,0,8,2,6,5,1
 76,WC-1962,1962 FIFA World Cup,1,group stage,Group 4,2,T-27,England,ENG,3,1,1,1,4,3,1,3,1
 77,WC-1962,1962 FIFA World Cup,1,group stage,Group 4,3,T-03,Argentina,ARG,3,1,1,1,2,3,-1,3,0
 78,WC-1962,1962 FIFA World Cup,1,group stage,Group 4,4,T-10,Bulgaria,BGR,3,0,1,2,1,7,-6,1,0
 79,WC-1966,1966 FIFA World Cup,1,group stage,Group 1,1,T-27,England,ENG,3,2,1,0,4,0,4,5,1
-80,WC-1966,1966 FIFA World Cup,1,group stage,Group 1,2,T-80,Uruguay,URY,3,1,2,0,2,1,1,4,1
+80,WC-1966,1966 FIFA World Cup,1,group stage,Group 1,2,T-81,Uruguay,URY,3,1,2,0,2,1,1,4,1
 81,WC-1966,1966 FIFA World Cup,1,group stage,Group 1,3,T-44,Mexico,MEX,3,0,2,1,1,3,-2,2,0
 82,WC-1966,1966 FIFA World Cup,1,group stage,Group 1,4,T-28,France,FRA,3,0,1,2,2,5,-3,1,0
-83,WC-1966,1966 FIFA World Cup,1,group stage,Group 2,1,T-82,West Germany,DEU,3,2,1,0,7,1,6,5,1
+83,WC-1966,1966 FIFA World Cup,1,group stage,Group 2,1,T-83,West Germany,DEU,3,2,1,0,7,1,6,5,1
 84,WC-1966,1966 FIFA World Cup,1,group stage,Group 2,2,T-03,Argentina,ARG,3,2,1,0,4,1,3,5,1
-85,WC-1966,1966 FIFA World Cup,1,group stage,Group 2,3,T-70,Spain,ESP,3,1,0,2,4,5,-1,2,0
-86,WC-1966,1966 FIFA World Cup,1,group stage,Group 2,4,T-72,Switzerland,CHE,3,0,0,3,1,9,-8,0,0
+85,WC-1966,1966 FIFA World Cup,1,group stage,Group 2,3,T-71,Spain,ESP,3,1,0,2,4,5,-1,2,0
+86,WC-1966,1966 FIFA World Cup,1,group stage,Group 2,4,T-73,Switzerland,CHE,3,0,0,3,1,9,-8,0,0
 87,WC-1966,1966 FIFA World Cup,1,group stage,Group 3,1,T-56,Portugal,PRT,3,3,0,0,9,2,7,6,1
 88,WC-1966,1966 FIFA World Cup,1,group stage,Group 3,2,T-34,Hungary,HUN,3,2,0,1,7,5,2,4,1
 89,WC-1966,1966 FIFA World Cup,1,group stage,Group 3,3,T-09,Brazil,BRA,3,1,0,2,4,6,-2,2,0
 90,WC-1966,1966 FIFA World Cup,1,group stage,Group 3,4,T-10,Bulgaria,BGR,3,0,0,3,1,8,-7,0,0
-91,WC-1966,1966 FIFA World Cup,1,group stage,Group 4,1,T-69,Soviet Union,SUN,3,3,0,0,6,1,5,6,1
+91,WC-1966,1966 FIFA World Cup,1,group stage,Group 4,1,T-70,Soviet Union,SUN,3,3,0,0,6,1,5,6,1
 92,WC-1966,1966 FIFA World Cup,1,group stage,Group 4,2,T-49,North Korea,PRK,3,1,1,1,2,4,-2,3,1
 93,WC-1966,1966 FIFA World Cup,1,group stage,Group 4,3,T-39,Italy,ITA,3,1,0,2,2,2,0,2,0
 94,WC-1966,1966 FIFA World Cup,1,group stage,Group 4,4,T-13,Chile,CHL,3,0,1,2,2,5,-3,1,0
-95,WC-1970,1970 FIFA World Cup,1,group stage,Group 1,1,T-69,Soviet Union,SUN,3,2,1,0,6,1,5,5,1
+95,WC-1970,1970 FIFA World Cup,1,group stage,Group 1,1,T-70,Soviet Union,SUN,3,2,1,0,6,1,5,5,1
 96,WC-1970,1970 FIFA World Cup,1,group stage,Group 1,2,T-44,Mexico,MEX,3,2,1,0,5,0,5,5,1
 97,WC-1970,1970 FIFA World Cup,1,group stage,Group 1,3,T-06,Belgium,BEL,3,1,0,2,4,5,-1,2,0
 98,WC-1970,1970 FIFA World Cup,1,group stage,Group 1,4,T-26,El Salvador,SLV,3,0,0,3,0,9,-9,0,0
 99,WC-1970,1970 FIFA World Cup,1,group stage,Group 2,1,T-39,Italy,ITA,3,1,2,0,1,0,1,4,1
-100,WC-1970,1970 FIFA World Cup,1,group stage,Group 2,2,T-80,Uruguay,URY,3,1,1,1,2,1,1,3,1
-101,WC-1970,1970 FIFA World Cup,1,group stage,Group 2,3,T-71,Sweden,SWE,3,1,1,1,2,2,0,3,0
+100,WC-1970,1970 FIFA World Cup,1,group stage,Group 2,2,T-81,Uruguay,URY,3,1,1,1,2,1,1,3,1
+101,WC-1970,1970 FIFA World Cup,1,group stage,Group 2,3,T-72,Sweden,SWE,3,1,1,1,2,2,0,3,0
 102,WC-1970,1970 FIFA World Cup,1,group stage,Group 2,4,T-38,Israel,ISR,3,0,2,1,1,3,-2,2,0
 103,WC-1970,1970 FIFA World Cup,1,group stage,Group 3,1,T-09,Brazil,BRA,3,3,0,0,8,3,5,6,1
 104,WC-1970,1970 FIFA World Cup,1,group stage,Group 3,2,T-27,England,ENG,3,2,0,1,2,1,1,4,1
-105,WC-1970,1970 FIFA World Cup,1,group stage,Group 3,3,T-58,Romania,ROU,3,1,0,2,4,5,-1,2,0
+105,WC-1970,1970 FIFA World Cup,1,group stage,Group 3,3,T-59,Romania,ROU,3,1,0,2,4,5,-1,2,0
 106,WC-1970,1970 FIFA World Cup,1,group stage,Group 3,4,T-20,Czechoslovakia,CSK,3,0,0,3,2,7,-5,0,0
-107,WC-1970,1970 FIFA World Cup,1,group stage,Group 4,1,T-82,West Germany,DEU,3,3,0,0,10,4,6,6,1
+107,WC-1970,1970 FIFA World Cup,1,group stage,Group 4,1,T-83,West Germany,DEU,3,3,0,0,10,4,6,6,1
 108,WC-1970,1970 FIFA World Cup,1,group stage,Group 4,2,T-54,Peru,PER,3,2,0,1,7,5,2,4,1
 109,WC-1970,1970 FIFA World Cup,1,group stage,Group 4,3,T-10,Bulgaria,BGR,3,0,1,2,5,9,-4,1,0
 110,WC-1970,1970 FIFA World Cup,1,group stage,Group 4,4,T-45,Morocco,MAR,3,0,1,2,2,6,-4,1,0
 111,WC-1974,1974 FIFA World Cup,1,first group stage,Group 1,1,T-23,East Germany,DDR,3,2,1,0,4,1,3,5,1
-112,WC-1974,1974 FIFA World Cup,1,first group stage,Group 1,2,T-82,West Germany,DEU,3,2,0,1,4,1,3,4,1
+112,WC-1974,1974 FIFA World Cup,1,first group stage,Group 1,2,T-83,West Germany,DEU,3,2,0,1,4,1,3,4,1
 113,WC-1974,1974 FIFA World Cup,1,first group stage,Group 1,3,T-13,Chile,CHL,3,0,2,1,1,2,-1,2,0
 114,WC-1974,1974 FIFA World Cup,1,first group stage,Group 1,4,T-04,Australia,AUS,3,0,1,2,0,5,-5,1,0
-115,WC-1974,1974 FIFA World Cup,1,first group stage,Group 2,1,T-83,Yugoslavia,YUG,3,1,2,0,10,1,9,4,1
+115,WC-1974,1974 FIFA World Cup,1,first group stage,Group 2,1,T-84,Yugoslavia,YUG,3,1,2,0,10,1,9,4,1
 116,WC-1974,1974 FIFA World Cup,1,first group stage,Group 2,2,T-09,Brazil,BRA,3,1,2,0,3,0,3,4,1
-117,WC-1974,1974 FIFA World Cup,1,first group stage,Group 2,3,T-61,Scotland,SCO,3,1,2,0,3,1,2,4,0
-118,WC-1974,1974 FIFA World Cup,1,first group stage,Group 2,4,T-84,Zaire,COD,3,0,0,3,0,14,-14,0,0
+117,WC-1974,1974 FIFA World Cup,1,first group stage,Group 2,3,T-62,Scotland,SCO,3,1,2,0,3,1,2,4,0
+118,WC-1974,1974 FIFA World Cup,1,first group stage,Group 2,4,T-85,Zaire,COD,3,0,0,3,0,14,-14,0,0
 119,WC-1974,1974 FIFA World Cup,1,first group stage,Group 3,1,T-46,Netherlands,NLD,3,2,1,0,6,1,5,5,1
-120,WC-1974,1974 FIFA World Cup,1,first group stage,Group 3,2,T-71,Sweden,SWE,3,1,2,0,3,0,3,4,1
+120,WC-1974,1974 FIFA World Cup,1,first group stage,Group 3,2,T-72,Sweden,SWE,3,1,2,0,3,0,3,4,1
 121,WC-1974,1974 FIFA World Cup,1,first group stage,Group 3,3,T-10,Bulgaria,BGR,3,0,2,1,2,5,-3,2,0
-122,WC-1974,1974 FIFA World Cup,1,first group stage,Group 3,4,T-80,Uruguay,URY,3,0,1,2,1,6,-5,1,0
+122,WC-1974,1974 FIFA World Cup,1,first group stage,Group 3,4,T-81,Uruguay,URY,3,0,1,2,1,6,-5,1,0
 123,WC-1974,1974 FIFA World Cup,1,first group stage,Group 4,1,T-55,Poland,POL,3,3,0,0,12,3,9,6,1
 124,WC-1974,1974 FIFA World Cup,1,first group stage,Group 4,2,T-03,Argentina,ARG,3,1,1,1,7,5,2,3,1
 125,WC-1974,1974 FIFA World Cup,1,first group stage,Group 4,3,T-39,Italy,ITA,3,1,1,1,5,4,1,3,0
@@ -129,29 +129,29 @@ key_id,tournament_id,tournament_name,stage_number,stage_name,group_name,position
 128,WC-1974,1974 FIFA World Cup,2,second group stage,Group A,2,T-09,Brazil,BRA,3,2,0,1,3,3,0,4,1
 129,WC-1974,1974 FIFA World Cup,2,second group stage,Group A,3,T-23,East Germany,DDR,3,0,1,2,1,4,-3,1,0
 130,WC-1974,1974 FIFA World Cup,2,second group stage,Group A,4,T-03,Argentina,ARG,3,0,1,2,2,7,-5,1,0
-131,WC-1974,1974 FIFA World Cup,2,second group stage,Group B,1,T-82,West Germany,DEU,3,3,0,0,7,2,5,6,1
+131,WC-1974,1974 FIFA World Cup,2,second group stage,Group B,1,T-83,West Germany,DEU,3,3,0,0,7,2,5,6,1
 132,WC-1974,1974 FIFA World Cup,2,second group stage,Group B,2,T-55,Poland,POL,3,2,0,1,3,2,1,4,1
-133,WC-1974,1974 FIFA World Cup,2,second group stage,Group B,3,T-71,Sweden,SWE,3,1,0,2,4,6,-2,2,0
-134,WC-1974,1974 FIFA World Cup,2,second group stage,Group B,4,T-83,Yugoslavia,YUG,3,0,0,3,2,6,-4,0,0
+133,WC-1974,1974 FIFA World Cup,2,second group stage,Group B,3,T-72,Sweden,SWE,3,1,0,2,4,6,-2,2,0
+134,WC-1974,1974 FIFA World Cup,2,second group stage,Group B,4,T-84,Yugoslavia,YUG,3,0,0,3,2,6,-4,0,0
 135,WC-1978,1978 FIFA World Cup,1,first group stage,Group 1,1,T-39,Italy,ITA,3,3,0,0,6,2,4,6,1
 136,WC-1978,1978 FIFA World Cup,1,first group stage,Group 1,2,T-03,Argentina,ARG,3,2,0,1,4,3,1,4,1
 137,WC-1978,1978 FIFA World Cup,1,first group stage,Group 1,3,T-28,France,FRA,3,1,0,2,5,5,0,2,0
 138,WC-1978,1978 FIFA World Cup,1,first group stage,Group 1,4,T-34,Hungary,HUN,3,0,0,3,3,8,-5,0,0
 139,WC-1978,1978 FIFA World Cup,1,first group stage,Group 2,1,T-55,Poland,POL,3,2,1,0,4,1,3,5,1
-140,WC-1978,1978 FIFA World Cup,1,first group stage,Group 2,2,T-82,West Germany,DEU,3,1,2,0,6,0,6,4,1
-141,WC-1978,1978 FIFA World Cup,1,first group stage,Group 2,3,T-75,Tunisia,TUN,3,1,1,1,3,2,1,3,0
+140,WC-1978,1978 FIFA World Cup,1,first group stage,Group 2,2,T-83,West Germany,DEU,3,1,2,0,6,0,6,4,1
+141,WC-1978,1978 FIFA World Cup,1,first group stage,Group 2,3,T-76,Tunisia,TUN,3,1,1,1,3,2,1,3,0
 142,WC-1978,1978 FIFA World Cup,1,first group stage,Group 2,4,T-44,Mexico,MEX,3,0,0,3,2,12,-10,0,0
 143,WC-1978,1978 FIFA World Cup,1,first group stage,Group 3,1,T-05,Austria,AUT,3,2,0,1,3,2,1,4,1
 144,WC-1978,1978 FIFA World Cup,1,first group stage,Group 3,2,T-09,Brazil,BRA,3,1,2,0,2,1,1,4,1
-145,WC-1978,1978 FIFA World Cup,1,first group stage,Group 3,3,T-70,Spain,ESP,3,1,1,1,2,2,0,3,0
-146,WC-1978,1978 FIFA World Cup,1,first group stage,Group 3,4,T-71,Sweden,SWE,3,0,1,2,1,3,-2,1,0
+145,WC-1978,1978 FIFA World Cup,1,first group stage,Group 3,3,T-71,Spain,ESP,3,1,1,1,2,2,0,3,0
+146,WC-1978,1978 FIFA World Cup,1,first group stage,Group 3,4,T-72,Sweden,SWE,3,0,1,2,1,3,-2,1,0
 147,WC-1978,1978 FIFA World Cup,1,first group stage,Group 4,1,T-54,Peru,PER,3,2,1,0,7,2,5,5,1
 148,WC-1978,1978 FIFA World Cup,1,first group stage,Group 4,2,T-46,Netherlands,NLD,3,1,1,1,5,3,2,3,1
-149,WC-1978,1978 FIFA World Cup,1,first group stage,Group 4,3,T-61,Scotland,SCO,3,1,1,1,5,6,-1,3,0
+149,WC-1978,1978 FIFA World Cup,1,first group stage,Group 4,3,T-62,Scotland,SCO,3,1,1,1,5,6,-1,3,0
 150,WC-1978,1978 FIFA World Cup,1,first group stage,Group 4,4,T-36,Iran,IRN,3,0,1,2,2,8,-6,1,0
 151,WC-1978,1978 FIFA World Cup,2,second group stage,Group A,1,T-46,Netherlands,NLD,3,2,1,0,9,4,5,5,1
 152,WC-1978,1978 FIFA World Cup,2,second group stage,Group A,2,T-39,Italy,ITA,3,1,1,1,2,2,0,3,1
-153,WC-1978,1978 FIFA World Cup,2,second group stage,Group A,3,T-82,West Germany,DEU,3,0,2,1,4,5,-1,2,0
+153,WC-1978,1978 FIFA World Cup,2,second group stage,Group A,3,T-83,West Germany,DEU,3,0,2,1,4,5,-1,2,0
 154,WC-1978,1978 FIFA World Cup,2,second group stage,Group A,4,T-05,Austria,AUT,3,1,0,2,4,8,-4,2,0
 155,WC-1978,1978 FIFA World Cup,2,second group stage,Group B,1,T-03,Argentina,ARG,3,2,1,0,8,0,8,5,1
 156,WC-1978,1978 FIFA World Cup,2,second group stage,Group B,2,T-09,Brazil,BRA,3,2,1,0,6,1,5,5,1
@@ -161,7 +161,7 @@ key_id,tournament_id,tournament_name,stage_number,stage_name,group_name,position
 160,WC-1982,1982 FIFA World Cup,1,first group stage,Group 1,2,T-39,Italy,ITA,3,0,3,0,2,2,0,3,1
 161,WC-1982,1982 FIFA World Cup,1,first group stage,Group 1,3,T-11,Cameroon,CMR,3,0,3,0,1,1,0,3,0
 162,WC-1982,1982 FIFA World Cup,1,first group stage,Group 1,4,T-54,Peru,PER,3,0,2,1,2,6,-4,2,0
-163,WC-1982,1982 FIFA World Cup,1,first group stage,Group 2,1,T-82,West Germany,DEU,3,2,0,1,6,3,3,4,1
+163,WC-1982,1982 FIFA World Cup,1,first group stage,Group 2,1,T-83,West Germany,DEU,3,2,0,1,6,3,3,4,1
 164,WC-1982,1982 FIFA World Cup,1,first group stage,Group 2,2,T-05,Austria,AUT,3,2,0,1,3,1,2,4,1
 165,WC-1982,1982 FIFA World Cup,1,first group stage,Group 2,3,T-01,Algeria,DZA,3,2,0,1,5,5,0,4,0
 166,WC-1982,1982 FIFA World Cup,1,first group stage,Group 2,4,T-13,Chile,CHL,3,0,0,3,3,8,-5,0,0
@@ -174,19 +174,19 @@ key_id,tournament_id,tournament_name,stage_number,stage_name,group_name,position
 173,WC-1982,1982 FIFA World Cup,1,first group stage,Group 4,3,T-20,Czechoslovakia,CSK,3,0,2,1,2,4,-2,2,0
 174,WC-1982,1982 FIFA World Cup,1,first group stage,Group 4,4,T-43,Kuwait,KWT,3,0,1,2,2,6,-4,1,0
 175,WC-1982,1982 FIFA World Cup,1,first group stage,Group 5,1,T-50,Northern Ireland,NIR,3,1,2,0,2,1,1,4,1
-176,WC-1982,1982 FIFA World Cup,1,first group stage,Group 5,2,T-70,Spain,ESP,3,1,1,1,3,3,0,3,1
-177,WC-1982,1982 FIFA World Cup,1,first group stage,Group 5,3,T-83,Yugoslavia,YUG,3,1,1,1,2,2,0,3,0
+176,WC-1982,1982 FIFA World Cup,1,first group stage,Group 5,2,T-71,Spain,ESP,3,1,1,1,3,3,0,3,1
+177,WC-1982,1982 FIFA World Cup,1,first group stage,Group 5,3,T-84,Yugoslavia,YUG,3,1,1,1,2,2,0,3,0
 178,WC-1982,1982 FIFA World Cup,1,first group stage,Group 5,4,T-33,Honduras,HND,3,0,2,1,2,3,-1,2,0
 179,WC-1982,1982 FIFA World Cup,1,first group stage,Group 6,1,T-09,Brazil,BRA,3,3,0,0,10,2,8,6,1
-180,WC-1982,1982 FIFA World Cup,1,first group stage,Group 6,2,T-69,Soviet Union,SUN,3,1,1,1,6,4,2,3,1
-181,WC-1982,1982 FIFA World Cup,1,first group stage,Group 6,3,T-61,Scotland,SCO,3,1,1,1,8,8,0,3,0
+180,WC-1982,1982 FIFA World Cup,1,first group stage,Group 6,2,T-70,Soviet Union,SUN,3,1,1,1,6,4,2,3,1
+181,WC-1982,1982 FIFA World Cup,1,first group stage,Group 6,3,T-62,Scotland,SCO,3,1,1,1,8,8,0,3,0
 182,WC-1982,1982 FIFA World Cup,1,first group stage,Group 6,4,T-47,New Zealand,NZL,3,0,0,3,2,12,-10,0,0
 183,WC-1982,1982 FIFA World Cup,2,second group stage,Group A,1,T-55,Poland,POL,2,1,1,0,3,0,3,3,1
-184,WC-1982,1982 FIFA World Cup,2,second group stage,Group A,2,T-69,Soviet Union,SUN,2,1,1,0,1,0,1,3,0
+184,WC-1982,1982 FIFA World Cup,2,second group stage,Group A,2,T-70,Soviet Union,SUN,2,1,1,0,1,0,1,3,0
 185,WC-1982,1982 FIFA World Cup,2,second group stage,Group A,3,T-06,Belgium,BEL,2,0,0,2,0,4,-4,0,0
-186,WC-1982,1982 FIFA World Cup,2,second group stage,Group B,1,T-82,West Germany,DEU,2,1,1,0,2,1,1,3,1
+186,WC-1982,1982 FIFA World Cup,2,second group stage,Group B,1,T-83,West Germany,DEU,2,1,1,0,2,1,1,3,1
 187,WC-1982,1982 FIFA World Cup,2,second group stage,Group B,2,T-27,England,ENG,2,0,2,0,0,0,0,2,0
-188,WC-1982,1982 FIFA World Cup,2,second group stage,Group B,3,T-70,Spain,ESP,2,0,1,1,1,2,-1,1,0
+188,WC-1982,1982 FIFA World Cup,2,second group stage,Group B,3,T-71,Spain,ESP,2,0,1,1,1,2,-1,1,0
 189,WC-1982,1982 FIFA World Cup,2,second group stage,Group C,1,T-39,Italy,ITA,2,2,0,0,5,3,2,4,1
 190,WC-1982,1982 FIFA World Cup,2,second group stage,Group C,2,T-09,Brazil,BRA,2,1,0,1,5,4,1,2,0
 191,WC-1982,1982 FIFA World Cup,2,second group stage,Group C,3,T-03,Argentina,ARG,2,0,0,2,2,5,-3,0,0
@@ -196,23 +196,23 @@ key_id,tournament_id,tournament_name,stage_number,stage_name,group_name,position
 195,WC-1986,1986 FIFA World Cup,1,group stage,Group A,1,T-03,Argentina,ARG,3,2,1,0,6,2,4,5,1
 196,WC-1986,1986 FIFA World Cup,1,group stage,Group A,2,T-39,Italy,ITA,3,1,2,0,5,4,1,4,1
 197,WC-1986,1986 FIFA World Cup,1,group stage,Group A,3,T-10,Bulgaria,BGR,3,0,2,1,2,4,-2,2,1
-198,WC-1986,1986 FIFA World Cup,1,group stage,Group A,4,T-68,South Korea,KOR,3,0,1,2,4,7,-3,1,0
+198,WC-1986,1986 FIFA World Cup,1,group stage,Group A,4,T-69,South Korea,KOR,3,0,1,2,4,7,-3,1,0
 199,WC-1986,1986 FIFA World Cup,1,group stage,Group B,1,T-44,Mexico,MEX,3,2,1,0,4,2,2,5,1
 200,WC-1986,1986 FIFA World Cup,1,group stage,Group B,2,T-53,Paraguay,PRY,3,1,2,0,4,3,1,4,1
 201,WC-1986,1986 FIFA World Cup,1,group stage,Group B,3,T-06,Belgium,BEL,3,1,1,1,5,5,0,3,1
 202,WC-1986,1986 FIFA World Cup,1,group stage,Group B,4,T-37,Iraq,IRQ,3,0,0,3,1,4,-3,0,0
-203,WC-1986,1986 FIFA World Cup,1,group stage,Group C,1,T-69,Soviet Union,SUN,3,2,1,0,9,1,8,5,1
+203,WC-1986,1986 FIFA World Cup,1,group stage,Group C,1,T-70,Soviet Union,SUN,3,2,1,0,9,1,8,5,1
 204,WC-1986,1986 FIFA World Cup,1,group stage,Group C,2,T-28,France,FRA,3,2,1,0,5,1,4,5,1
 205,WC-1986,1986 FIFA World Cup,1,group stage,Group C,3,T-34,Hungary,HUN,3,1,0,2,2,9,-7,2,0
 206,WC-1986,1986 FIFA World Cup,1,group stage,Group C,4,T-12,Canada,CAN,3,0,0,3,0,5,-5,0,0
 207,WC-1986,1986 FIFA World Cup,1,group stage,Group D,1,T-09,Brazil,BRA,3,3,0,0,5,0,5,6,1
-208,WC-1986,1986 FIFA World Cup,1,group stage,Group D,2,T-70,Spain,ESP,3,2,0,1,5,2,3,4,1
+208,WC-1986,1986 FIFA World Cup,1,group stage,Group D,2,T-71,Spain,ESP,3,2,0,1,5,2,3,4,1
 209,WC-1986,1986 FIFA World Cup,1,group stage,Group D,3,T-50,Northern Ireland,NIR,3,0,1,2,2,6,-4,1,0
 210,WC-1986,1986 FIFA World Cup,1,group stage,Group D,4,T-01,Algeria,DZA,3,0,1,2,1,5,-4,1,0
 211,WC-1986,1986 FIFA World Cup,1,group stage,Group E,1,T-21,Denmark,DNK,3,3,0,0,9,1,8,6,1
-212,WC-1986,1986 FIFA World Cup,1,group stage,Group E,2,T-82,West Germany,DEU,3,1,1,1,3,4,-1,3,1
-213,WC-1986,1986 FIFA World Cup,1,group stage,Group E,3,T-80,Uruguay,URY,3,0,2,1,2,7,-5,2,1
-214,WC-1986,1986 FIFA World Cup,1,group stage,Group E,4,T-61,Scotland,SCO,3,0,1,2,1,3,-2,1,0
+212,WC-1986,1986 FIFA World Cup,1,group stage,Group E,2,T-83,West Germany,DEU,3,1,1,1,3,4,-1,3,1
+213,WC-1986,1986 FIFA World Cup,1,group stage,Group E,3,T-81,Uruguay,URY,3,0,2,1,2,7,-5,2,1
+214,WC-1986,1986 FIFA World Cup,1,group stage,Group E,4,T-62,Scotland,SCO,3,0,1,2,1,3,-2,1,0
 215,WC-1986,1986 FIFA World Cup,1,group stage,Group F,1,T-45,Morocco,MAR,3,1,2,0,3,1,2,4,1
 216,WC-1986,1986 FIFA World Cup,1,group stage,Group F,2,T-27,England,ENG,3,1,1,1,3,1,2,3,1
 217,WC-1986,1986 FIFA World Cup,1,group stage,Group F,3,T-55,Poland,POL,3,1,1,1,1,3,-2,3,1
@@ -220,104 +220,104 @@ key_id,tournament_id,tournament_name,stage_number,stage_name,group_name,position
 219,WC-1990,1990 FIFA World Cup,1,group stage,Group A,1,T-39,Italy,ITA,3,3,0,0,4,0,4,6,1
 220,WC-1990,1990 FIFA World Cup,1,group stage,Group A,2,T-20,Czechoslovakia,CSK,3,2,0,1,6,3,3,4,1
 221,WC-1990,1990 FIFA World Cup,1,group stage,Group A,3,T-05,Austria,AUT,3,1,0,2,2,3,-1,2,0
-222,WC-1990,1990 FIFA World Cup,1,group stage,Group A,4,T-79,United States,USA,3,0,0,3,2,8,-6,0,0
+222,WC-1990,1990 FIFA World Cup,1,group stage,Group A,4,T-80,United States,USA,3,0,0,3,2,8,-6,0,0
 223,WC-1990,1990 FIFA World Cup,1,group stage,Group B,1,T-11,Cameroon,CMR,3,2,0,1,3,5,-2,4,1
-224,WC-1990,1990 FIFA World Cup,1,group stage,Group B,2,T-58,Romania,ROU,3,1,1,1,4,3,1,3,1
+224,WC-1990,1990 FIFA World Cup,1,group stage,Group B,2,T-59,Romania,ROU,3,1,1,1,4,3,1,3,1
 225,WC-1990,1990 FIFA World Cup,1,group stage,Group B,3,T-03,Argentina,ARG,3,1,1,1,3,2,1,3,1
-226,WC-1990,1990 FIFA World Cup,1,group stage,Group B,4,T-69,Soviet Union,SUN,3,1,0,2,4,4,0,2,0
+226,WC-1990,1990 FIFA World Cup,1,group stage,Group B,4,T-70,Soviet Union,SUN,3,1,0,2,4,4,0,2,0
 227,WC-1990,1990 FIFA World Cup,1,group stage,Group C,1,T-09,Brazil,BRA,3,3,0,0,4,1,3,6,1
 228,WC-1990,1990 FIFA World Cup,1,group stage,Group C,2,T-16,Costa Rica,CRI,3,2,0,1,3,2,1,4,1
-229,WC-1990,1990 FIFA World Cup,1,group stage,Group C,3,T-61,Scotland,SCO,3,1,0,2,2,3,-1,2,0
-230,WC-1990,1990 FIFA World Cup,1,group stage,Group C,4,T-71,Sweden,SWE,3,0,0,3,3,6,-3,0,0
-231,WC-1990,1990 FIFA World Cup,1,group stage,Group D,1,T-82,West Germany,DEU,3,2,1,0,10,3,7,5,1
-232,WC-1990,1990 FIFA World Cup,1,group stage,Group D,2,T-83,Yugoslavia,YUG,3,2,0,1,6,5,1,4,1
+229,WC-1990,1990 FIFA World Cup,1,group stage,Group C,3,T-62,Scotland,SCO,3,1,0,2,2,3,-1,2,0
+230,WC-1990,1990 FIFA World Cup,1,group stage,Group C,4,T-72,Sweden,SWE,3,0,0,3,3,6,-3,0,0
+231,WC-1990,1990 FIFA World Cup,1,group stage,Group D,1,T-83,West Germany,DEU,3,2,1,0,10,3,7,5,1
+232,WC-1990,1990 FIFA World Cup,1,group stage,Group D,2,T-84,Yugoslavia,YUG,3,2,0,1,6,5,1,4,1
 233,WC-1990,1990 FIFA World Cup,1,group stage,Group D,3,T-15,Colombia,COL,3,1,1,1,3,2,1,3,1
-234,WC-1990,1990 FIFA World Cup,1,group stage,Group D,4,T-78,United Arab Emirates,ARE,3,0,0,3,2,11,-9,0,0
-235,WC-1990,1990 FIFA World Cup,1,group stage,Group E,1,T-70,Spain,ESP,3,2,1,0,5,2,3,5,1
+234,WC-1990,1990 FIFA World Cup,1,group stage,Group D,4,T-79,United Arab Emirates,ARE,3,0,0,3,2,11,-9,0,0
+235,WC-1990,1990 FIFA World Cup,1,group stage,Group E,1,T-71,Spain,ESP,3,2,1,0,5,2,3,5,1
 236,WC-1990,1990 FIFA World Cup,1,group stage,Group E,2,T-06,Belgium,BEL,3,2,0,1,6,3,3,4,1
-237,WC-1990,1990 FIFA World Cup,1,group stage,Group E,3,T-80,Uruguay,URY,3,1,1,1,2,3,-1,3,1
-238,WC-1990,1990 FIFA World Cup,1,group stage,Group E,4,T-68,South Korea,KOR,3,0,0,3,1,6,-5,0,0
+237,WC-1990,1990 FIFA World Cup,1,group stage,Group E,3,T-81,Uruguay,URY,3,1,1,1,2,3,-1,3,1
+238,WC-1990,1990 FIFA World Cup,1,group stage,Group E,4,T-69,South Korea,KOR,3,0,0,3,1,6,-5,0,0
 239,WC-1990,1990 FIFA World Cup,1,group stage,Group F,1,T-27,England,ENG,3,1,2,0,2,1,1,4,1
-240,WC-1990,1990 FIFA World Cup,1,group stage,Group F,2,T-57,Republic of Ireland,IRL,3,0,3,0,2,2,0,3,1
+240,WC-1990,1990 FIFA World Cup,1,group stage,Group F,2,T-58,Republic of Ireland,IRL,3,0,3,0,2,2,0,3,1
 241,WC-1990,1990 FIFA World Cup,1,group stage,Group F,3,T-46,Netherlands,NLD,3,0,3,0,2,2,0,3,1
 242,WC-1990,1990 FIFA World Cup,1,group stage,Group F,4,T-25,Egypt,EGY,3,0,2,1,1,2,-1,2,0
-243,WC-1994,1994 FIFA World Cup,1,group stage,Group A,1,T-58,Romania,ROU,3,2,0,1,5,5,0,6,1
-244,WC-1994,1994 FIFA World Cup,1,group stage,Group A,2,T-72,Switzerland,CHE,3,1,1,1,5,4,1,4,1
-245,WC-1994,1994 FIFA World Cup,1,group stage,Group A,3,T-79,United States,USA,3,1,1,1,3,3,0,4,1
+243,WC-1994,1994 FIFA World Cup,1,group stage,Group A,1,T-59,Romania,ROU,3,2,0,1,5,5,0,6,1
+244,WC-1994,1994 FIFA World Cup,1,group stage,Group A,2,T-73,Switzerland,CHE,3,1,1,1,5,4,1,4,1
+245,WC-1994,1994 FIFA World Cup,1,group stage,Group A,3,T-80,United States,USA,3,1,1,1,3,3,0,4,1
 246,WC-1994,1994 FIFA World Cup,1,group stage,Group A,4,T-15,Colombia,COL,3,1,0,2,4,5,-1,3,0
 247,WC-1994,1994 FIFA World Cup,1,group stage,Group B,1,T-09,Brazil,BRA,3,2,1,0,6,1,5,7,1
-248,WC-1994,1994 FIFA World Cup,1,group stage,Group B,2,T-71,Sweden,SWE,3,1,2,0,6,4,2,5,1
-249,WC-1994,1994 FIFA World Cup,1,group stage,Group B,3,T-59,Russia,RUS,3,1,0,2,7,6,1,3,0
+248,WC-1994,1994 FIFA World Cup,1,group stage,Group B,2,T-72,Sweden,SWE,3,1,2,0,6,4,2,5,1
+249,WC-1994,1994 FIFA World Cup,1,group stage,Group B,3,T-60,Russia,RUS,3,1,0,2,7,6,1,3,0
 250,WC-1994,1994 FIFA World Cup,1,group stage,Group B,4,T-11,Cameroon,CMR,3,0,1,2,3,11,-8,1,0
 251,WC-1994,1994 FIFA World Cup,1,group stage,Group C,1,T-29,Germany,DEU,3,2,1,0,5,3,2,7,1
-252,WC-1994,1994 FIFA World Cup,1,group stage,Group C,2,T-70,Spain,ESP,3,1,2,0,6,4,2,5,1
-253,WC-1994,1994 FIFA World Cup,1,group stage,Group C,3,T-68,South Korea,KOR,3,0,2,1,4,5,-1,2,0
+252,WC-1994,1994 FIFA World Cup,1,group stage,Group C,2,T-71,Spain,ESP,3,1,2,0,6,4,2,5,1
+253,WC-1994,1994 FIFA World Cup,1,group stage,Group C,3,T-69,South Korea,KOR,3,0,2,1,4,5,-1,2,0
 254,WC-1994,1994 FIFA World Cup,1,group stage,Group C,4,T-07,Bolivia,BOL,3,0,1,2,1,4,-3,1,0
 255,WC-1994,1994 FIFA World Cup,1,group stage,Group D,1,T-48,Nigeria,NGA,3,2,0,1,6,2,4,6,1
 256,WC-1994,1994 FIFA World Cup,1,group stage,Group D,2,T-10,Bulgaria,BGR,3,2,0,1,6,3,3,6,1
 257,WC-1994,1994 FIFA World Cup,1,group stage,Group D,3,T-03,Argentina,ARG,3,2,0,1,6,3,3,6,1
 258,WC-1994,1994 FIFA World Cup,1,group stage,Group D,4,T-31,Greece,GRC,3,0,0,3,0,10,-10,0,0
 259,WC-1994,1994 FIFA World Cup,1,group stage,Group E,1,T-44,Mexico,MEX,3,1,1,1,3,3,0,4,1
-260,WC-1994,1994 FIFA World Cup,1,group stage,Group E,2,T-57,Republic of Ireland,IRL,3,1,1,1,2,2,0,4,1
+260,WC-1994,1994 FIFA World Cup,1,group stage,Group E,2,T-58,Republic of Ireland,IRL,3,1,1,1,2,2,0,4,1
 261,WC-1994,1994 FIFA World Cup,1,group stage,Group E,3,T-39,Italy,ITA,3,1,1,1,2,2,0,4,1
 262,WC-1994,1994 FIFA World Cup,1,group stage,Group E,4,T-51,Norway,NOR,3,1,1,1,1,1,0,4,0
 263,WC-1994,1994 FIFA World Cup,1,group stage,Group F,1,T-46,Netherlands,NLD,3,2,0,1,4,3,1,6,1
-264,WC-1994,1994 FIFA World Cup,1,group stage,Group F,2,T-60,Saudi Arabia,SAU,3,2,0,1,4,3,1,6,1
+264,WC-1994,1994 FIFA World Cup,1,group stage,Group F,2,T-61,Saudi Arabia,SAU,3,2,0,1,4,3,1,6,1
 265,WC-1994,1994 FIFA World Cup,1,group stage,Group F,3,T-06,Belgium,BEL,3,2,0,1,2,1,1,6,1
 266,WC-1994,1994 FIFA World Cup,1,group stage,Group F,4,T-45,Morocco,MAR,3,0,0,3,2,5,-3,0,0
 267,WC-1998,1998 FIFA World Cup,1,group stage,Group A,1,T-09,Brazil,BRA,3,2,0,1,6,3,3,6,1
 268,WC-1998,1998 FIFA World Cup,1,group stage,Group A,2,T-51,Norway,NOR,3,1,2,0,5,4,1,5,1
 269,WC-1998,1998 FIFA World Cup,1,group stage,Group A,3,T-45,Morocco,MAR,3,1,1,1,5,5,0,4,0
-270,WC-1998,1998 FIFA World Cup,1,group stage,Group A,4,T-61,Scotland,SCO,3,0,1,2,2,6,-4,1,0
+270,WC-1998,1998 FIFA World Cup,1,group stage,Group A,4,T-62,Scotland,SCO,3,0,1,2,2,6,-4,1,0
 271,WC-1998,1998 FIFA World Cup,1,group stage,Group B,1,T-39,Italy,ITA,3,2,1,0,7,3,4,7,1
 272,WC-1998,1998 FIFA World Cup,1,group stage,Group B,2,T-13,Chile,CHL,3,0,3,0,4,4,0,3,1
 273,WC-1998,1998 FIFA World Cup,1,group stage,Group B,3,T-05,Austria,AUT,3,0,2,1,3,4,-1,2,0
 274,WC-1998,1998 FIFA World Cup,1,group stage,Group B,4,T-11,Cameroon,CMR,3,0,2,1,2,5,-3,2,0
 275,WC-1998,1998 FIFA World Cup,1,group stage,Group C,1,T-28,France,FRA,3,3,0,0,9,1,8,9,1
 276,WC-1998,1998 FIFA World Cup,1,group stage,Group C,2,T-21,Denmark,DNK,3,1,1,1,3,3,0,4,1
-277,WC-1998,1998 FIFA World Cup,1,group stage,Group C,3,T-67,South Africa,ZAF,3,0,2,1,3,6,-3,2,0
-278,WC-1998,1998 FIFA World Cup,1,group stage,Group C,4,T-60,Saudi Arabia,SAU,3,0,1,2,2,7,-5,1,0
+277,WC-1998,1998 FIFA World Cup,1,group stage,Group C,3,T-68,South Africa,ZAF,3,0,2,1,3,6,-3,2,0
+278,WC-1998,1998 FIFA World Cup,1,group stage,Group C,4,T-61,Saudi Arabia,SAU,3,0,1,2,2,7,-5,1,0
 279,WC-1998,1998 FIFA World Cup,1,group stage,Group D,1,T-48,Nigeria,NGA,3,2,0,1,5,5,0,6,1
 280,WC-1998,1998 FIFA World Cup,1,group stage,Group D,2,T-53,Paraguay,PRY,3,1,2,0,3,1,2,5,1
-281,WC-1998,1998 FIFA World Cup,1,group stage,Group D,3,T-70,Spain,ESP,3,1,1,1,8,4,4,4,0
+281,WC-1998,1998 FIFA World Cup,1,group stage,Group D,3,T-71,Spain,ESP,3,1,1,1,8,4,4,4,0
 282,WC-1998,1998 FIFA World Cup,1,group stage,Group D,4,T-10,Bulgaria,BGR,3,0,1,2,1,7,-6,1,0
 283,WC-1998,1998 FIFA World Cup,1,group stage,Group E,1,T-46,Netherlands,NLD,3,1,2,0,7,2,5,5,1
 284,WC-1998,1998 FIFA World Cup,1,group stage,Group E,2,T-44,Mexico,MEX,3,1,2,0,7,5,2,5,1
 285,WC-1998,1998 FIFA World Cup,1,group stage,Group E,3,T-06,Belgium,BEL,3,0,3,0,3,3,0,3,0
-286,WC-1998,1998 FIFA World Cup,1,group stage,Group E,4,T-68,South Korea,KOR,3,0,1,2,2,9,-7,1,0
+286,WC-1998,1998 FIFA World Cup,1,group stage,Group E,4,T-69,South Korea,KOR,3,0,1,2,2,9,-7,1,0
 287,WC-1998,1998 FIFA World Cup,1,group stage,Group F,1,T-29,Germany,DEU,3,2,1,0,6,2,4,7,1
-288,WC-1998,1998 FIFA World Cup,1,group stage,Group F,2,T-83,Yugoslavia,YUG,3,2,1,0,4,2,2,7,1
+288,WC-1998,1998 FIFA World Cup,1,group stage,Group F,2,T-84,Yugoslavia,YUG,3,2,1,0,4,2,2,7,1
 289,WC-1998,1998 FIFA World Cup,1,group stage,Group F,3,T-36,Iran,IRN,3,1,0,2,2,4,-2,3,0
-290,WC-1998,1998 FIFA World Cup,1,group stage,Group F,4,T-79,United States,USA,3,0,0,3,1,5,-4,0,0
-291,WC-1998,1998 FIFA World Cup,1,group stage,Group G,1,T-58,Romania,ROU,3,2,1,0,4,2,2,7,1
+290,WC-1998,1998 FIFA World Cup,1,group stage,Group F,4,T-80,United States,USA,3,0,0,3,1,5,-4,0,0
+291,WC-1998,1998 FIFA World Cup,1,group stage,Group G,1,T-59,Romania,ROU,3,2,1,0,4,2,2,7,1
 292,WC-1998,1998 FIFA World Cup,1,group stage,Group G,2,T-27,England,ENG,3,2,0,1,5,2,3,6,1
 293,WC-1998,1998 FIFA World Cup,1,group stage,Group G,3,T-15,Colombia,COL,3,1,0,2,1,3,-2,3,0
-294,WC-1998,1998 FIFA World Cup,1,group stage,Group G,4,T-75,Tunisia,TUN,3,0,1,2,1,4,-3,1,0
+294,WC-1998,1998 FIFA World Cup,1,group stage,Group G,4,T-76,Tunisia,TUN,3,0,1,2,1,4,-3,1,0
 295,WC-1998,1998 FIFA World Cup,1,group stage,Group H,1,T-03,Argentina,ARG,3,3,0,0,7,0,7,9,1
 296,WC-1998,1998 FIFA World Cup,1,group stage,Group H,2,T-17,Croatia,HRV,3,2,0,1,4,2,2,6,1
 297,WC-1998,1998 FIFA World Cup,1,group stage,Group H,3,T-41,Jamaica,JAM,3,1,0,2,3,9,-6,3,0
 298,WC-1998,1998 FIFA World Cup,1,group stage,Group H,4,T-42,Japan,JPN,3,0,0,3,1,4,-3,0,0
 299,WC-2002,2002 FIFA World Cup,1,group stage,Group A,1,T-21,Denmark,DNK,3,2,1,0,5,2,3,7,1
-300,WC-2002,2002 FIFA World Cup,1,group stage,Group A,2,T-62,Senegal,SEN,3,1,2,0,5,4,1,5,1
-301,WC-2002,2002 FIFA World Cup,1,group stage,Group A,3,T-80,Uruguay,URY,3,0,2,1,4,5,-1,2,0
+300,WC-2002,2002 FIFA World Cup,1,group stage,Group A,2,T-63,Senegal,SEN,3,1,2,0,5,4,1,5,1
+301,WC-2002,2002 FIFA World Cup,1,group stage,Group A,3,T-81,Uruguay,URY,3,0,2,1,4,5,-1,2,0
 302,WC-2002,2002 FIFA World Cup,1,group stage,Group A,4,T-28,France,FRA,3,0,1,2,0,3,-3,1,0
-303,WC-2002,2002 FIFA World Cup,1,group stage,Group B,1,T-70,Spain,ESP,3,3,0,0,9,4,5,9,1
+303,WC-2002,2002 FIFA World Cup,1,group stage,Group B,1,T-71,Spain,ESP,3,3,0,0,9,4,5,9,1
 304,WC-2002,2002 FIFA World Cup,1,group stage,Group B,2,T-53,Paraguay,PRY,3,1,1,1,6,6,0,4,1
-305,WC-2002,2002 FIFA World Cup,1,group stage,Group B,3,T-67,South Africa,ZAF,3,1,1,1,5,5,0,4,0
-306,WC-2002,2002 FIFA World Cup,1,group stage,Group B,4,T-66,Slovenia,SVN,3,0,0,3,2,7,-5,0,0
+305,WC-2002,2002 FIFA World Cup,1,group stage,Group B,3,T-68,South Africa,ZAF,3,1,1,1,5,5,0,4,0
+306,WC-2002,2002 FIFA World Cup,1,group stage,Group B,4,T-67,Slovenia,SVN,3,0,0,3,2,7,-5,0,0
 307,WC-2002,2002 FIFA World Cup,1,group stage,Group C,1,T-09,Brazil,BRA,3,3,0,0,11,3,8,9,1
-308,WC-2002,2002 FIFA World Cup,1,group stage,Group C,2,T-76,Turkey,TUR,3,1,1,1,5,3,2,4,1
+308,WC-2002,2002 FIFA World Cup,1,group stage,Group C,2,T-77,Turkey,TUR,3,1,1,1,5,3,2,4,1
 309,WC-2002,2002 FIFA World Cup,1,group stage,Group C,3,T-16,Costa Rica,CRI,3,1,1,1,5,6,-1,4,0
 310,WC-2002,2002 FIFA World Cup,1,group stage,Group C,4,T-14,China,CHN,3,0,0,3,0,9,-9,0,0
-311,WC-2002,2002 FIFA World Cup,1,group stage,Group D,1,T-68,South Korea,KOR,3,2,1,0,4,1,3,7,1
-312,WC-2002,2002 FIFA World Cup,1,group stage,Group D,2,T-79,United States,USA,3,1,1,1,5,6,-1,4,1
+311,WC-2002,2002 FIFA World Cup,1,group stage,Group D,1,T-69,South Korea,KOR,3,2,1,0,4,1,3,7,1
+312,WC-2002,2002 FIFA World Cup,1,group stage,Group D,2,T-80,United States,USA,3,1,1,1,5,6,-1,4,1
 313,WC-2002,2002 FIFA World Cup,1,group stage,Group D,3,T-56,Portugal,PRT,3,1,0,2,6,4,2,3,0
 314,WC-2002,2002 FIFA World Cup,1,group stage,Group D,4,T-55,Poland,POL,3,1,0,2,3,7,-4,3,0
 315,WC-2002,2002 FIFA World Cup,1,group stage,Group E,1,T-29,Germany,DEU,3,2,1,0,11,1,10,7,1
-316,WC-2002,2002 FIFA World Cup,1,group stage,Group E,2,T-57,Republic of Ireland,IRL,3,1,2,0,5,2,3,5,1
+316,WC-2002,2002 FIFA World Cup,1,group stage,Group E,2,T-58,Republic of Ireland,IRL,3,1,2,0,5,2,3,5,1
 317,WC-2002,2002 FIFA World Cup,1,group stage,Group E,3,T-11,Cameroon,CMR,3,1,1,1,2,3,-1,4,0
-318,WC-2002,2002 FIFA World Cup,1,group stage,Group E,4,T-60,Saudi Arabia,SAU,3,0,0,3,0,12,-12,0,0
-319,WC-2002,2002 FIFA World Cup,1,group stage,Group F,1,T-71,Sweden,SWE,3,1,2,0,4,3,1,5,1
+318,WC-2002,2002 FIFA World Cup,1,group stage,Group E,4,T-61,Saudi Arabia,SAU,3,0,0,3,0,12,-12,0,0
+319,WC-2002,2002 FIFA World Cup,1,group stage,Group F,1,T-72,Sweden,SWE,3,1,2,0,4,3,1,5,1
 320,WC-2002,2002 FIFA World Cup,1,group stage,Group F,2,T-27,England,ENG,3,1,2,0,2,1,1,5,1
 321,WC-2002,2002 FIFA World Cup,1,group stage,Group F,3,T-03,Argentina,ARG,3,1,1,1,2,2,0,4,0
 322,WC-2002,2002 FIFA World Cup,1,group stage,Group F,4,T-48,Nigeria,NGA,3,0,1,2,1,3,-2,1,0
@@ -327,20 +327,20 @@ key_id,tournament_id,tournament_name,stage_number,stage_name,group_name,position
 326,WC-2002,2002 FIFA World Cup,1,group stage,Group G,4,T-24,Ecuador,ECU,3,1,0,2,2,4,-2,3,0
 327,WC-2002,2002 FIFA World Cup,1,group stage,Group H,1,T-42,Japan,JPN,3,2,1,0,5,2,3,7,1
 328,WC-2002,2002 FIFA World Cup,1,group stage,Group H,2,T-06,Belgium,BEL,3,1,2,0,6,5,1,5,1
-329,WC-2002,2002 FIFA World Cup,1,group stage,Group H,3,T-59,Russia,RUS,3,1,0,2,4,4,0,3,0
-330,WC-2002,2002 FIFA World Cup,1,group stage,Group H,4,T-75,Tunisia,TUN,3,0,1,2,1,5,-4,1,0
+329,WC-2002,2002 FIFA World Cup,1,group stage,Group H,3,T-60,Russia,RUS,3,1,0,2,4,4,0,3,0
+330,WC-2002,2002 FIFA World Cup,1,group stage,Group H,4,T-76,Tunisia,TUN,3,0,1,2,1,5,-4,1,0
 331,WC-2006,2006 FIFA World Cup,1,group stage,Group A,1,T-29,Germany,DEU,3,3,0,0,8,2,6,9,1
 332,WC-2006,2006 FIFA World Cup,1,group stage,Group A,2,T-24,Ecuador,ECU,3,2,0,1,5,3,2,6,1
 333,WC-2006,2006 FIFA World Cup,1,group stage,Group A,3,T-55,Poland,POL,3,1,0,2,2,4,-2,3,0
 334,WC-2006,2006 FIFA World Cup,1,group stage,Group A,4,T-16,Costa Rica,CRI,3,0,0,3,3,9,-6,0,0
 335,WC-2006,2006 FIFA World Cup,1,group stage,Group B,1,T-27,England,ENG,3,2,1,0,5,2,3,7,1
-336,WC-2006,2006 FIFA World Cup,1,group stage,Group B,2,T-71,Sweden,SWE,3,1,2,0,3,2,1,5,1
+336,WC-2006,2006 FIFA World Cup,1,group stage,Group B,2,T-72,Sweden,SWE,3,1,2,0,3,2,1,5,1
 337,WC-2006,2006 FIFA World Cup,1,group stage,Group B,3,T-53,Paraguay,PRY,3,1,0,2,2,2,0,3,0
-338,WC-2006,2006 FIFA World Cup,1,group stage,Group B,4,T-74,Trinidad and Tobago,TTO,3,0,1,2,0,4,-4,1,0
+338,WC-2006,2006 FIFA World Cup,1,group stage,Group B,4,T-75,Trinidad and Tobago,TTO,3,0,1,2,0,4,-4,1,0
 339,WC-2006,2006 FIFA World Cup,1,group stage,Group C,1,T-03,Argentina,ARG,3,2,1,0,8,1,7,7,1
 340,WC-2006,2006 FIFA World Cup,1,group stage,Group C,2,T-46,Netherlands,NLD,3,2,1,0,3,1,2,7,1
 341,WC-2006,2006 FIFA World Cup,1,group stage,Group C,3,T-40,Ivory Coast,CIV,3,1,0,2,5,6,-1,3,0
-342,WC-2006,2006 FIFA World Cup,1,group stage,Group C,4,T-64,Serbia and Montenegro,SCG,3,0,0,3,2,10,-8,0,0
+342,WC-2006,2006 FIFA World Cup,1,group stage,Group C,4,T-65,Serbia and Montenegro,SCG,3,0,0,3,2,10,-8,0,0
 343,WC-2006,2006 FIFA World Cup,1,group stage,Group D,1,T-56,Portugal,PRT,3,3,0,0,5,1,4,9,1
 344,WC-2006,2006 FIFA World Cup,1,group stage,Group D,2,T-44,Mexico,MEX,3,1,1,1,4,3,1,4,1
 345,WC-2006,2006 FIFA World Cup,1,group stage,Group D,3,T-02,Angola,AGO,3,0,2,1,1,2,-1,2,0
@@ -348,50 +348,50 @@ key_id,tournament_id,tournament_name,stage_number,stage_name,group_name,position
 347,WC-2006,2006 FIFA World Cup,1,group stage,Group E,1,T-39,Italy,ITA,3,2,1,0,5,1,4,7,1
 348,WC-2006,2006 FIFA World Cup,1,group stage,Group E,2,T-30,Ghana,GHA,3,2,0,1,4,3,1,6,1
 349,WC-2006,2006 FIFA World Cup,1,group stage,Group E,3,T-19,Czech Republic,CZE,3,1,0,2,3,4,-1,3,0
-350,WC-2006,2006 FIFA World Cup,1,group stage,Group E,4,T-79,United States,USA,3,0,1,2,2,6,-4,1,0
+350,WC-2006,2006 FIFA World Cup,1,group stage,Group E,4,T-80,United States,USA,3,0,1,2,2,6,-4,1,0
 351,WC-2006,2006 FIFA World Cup,1,group stage,Group F,1,T-09,Brazil,BRA,3,3,0,0,7,1,6,9,1
 352,WC-2006,2006 FIFA World Cup,1,group stage,Group F,2,T-04,Australia,AUS,3,1,1,1,5,5,0,4,1
 353,WC-2006,2006 FIFA World Cup,1,group stage,Group F,3,T-17,Croatia,HRV,3,0,2,1,2,3,-1,2,0
 354,WC-2006,2006 FIFA World Cup,1,group stage,Group F,4,T-42,Japan,JPN,3,0,1,2,2,7,-5,1,0
-355,WC-2006,2006 FIFA World Cup,1,group stage,Group G,1,T-72,Switzerland,CHE,3,2,1,0,4,0,4,7,1
+355,WC-2006,2006 FIFA World Cup,1,group stage,Group G,1,T-73,Switzerland,CHE,3,2,1,0,4,0,4,7,1
 356,WC-2006,2006 FIFA World Cup,1,group stage,Group G,2,T-28,France,FRA,3,1,2,0,3,1,2,5,1
-357,WC-2006,2006 FIFA World Cup,1,group stage,Group G,3,T-68,South Korea,KOR,3,1,1,1,3,4,-1,4,0
-358,WC-2006,2006 FIFA World Cup,1,group stage,Group G,4,T-73,Togo,TGO,3,0,0,3,1,6,-5,0,0
-359,WC-2006,2006 FIFA World Cup,1,group stage,Group H,1,T-70,Spain,ESP,3,3,0,0,8,1,7,9,1
-360,WC-2006,2006 FIFA World Cup,1,group stage,Group H,2,T-77,Ukraine,UKR,3,2,0,1,5,4,1,6,1
-361,WC-2006,2006 FIFA World Cup,1,group stage,Group H,3,T-75,Tunisia,TUN,3,0,1,2,3,6,-3,1,0
-362,WC-2006,2006 FIFA World Cup,1,group stage,Group H,4,T-60,Saudi Arabia,SAU,3,0,1,2,2,7,-5,1,0
-363,WC-2010,2010 FIFA World Cup,1,group stage,Group A,1,T-80,Uruguay,URY,3,2,1,0,4,0,4,7,1
+357,WC-2006,2006 FIFA World Cup,1,group stage,Group G,3,T-69,South Korea,KOR,3,1,1,1,3,4,-1,4,0
+358,WC-2006,2006 FIFA World Cup,1,group stage,Group G,4,T-74,Togo,TGO,3,0,0,3,1,6,-5,0,0
+359,WC-2006,2006 FIFA World Cup,1,group stage,Group H,1,T-71,Spain,ESP,3,3,0,0,8,1,7,9,1
+360,WC-2006,2006 FIFA World Cup,1,group stage,Group H,2,T-78,Ukraine,UKR,3,2,0,1,5,4,1,6,1
+361,WC-2006,2006 FIFA World Cup,1,group stage,Group H,3,T-76,Tunisia,TUN,3,0,1,2,3,6,-3,1,0
+362,WC-2006,2006 FIFA World Cup,1,group stage,Group H,4,T-61,Saudi Arabia,SAU,3,0,1,2,2,7,-5,1,0
+363,WC-2010,2010 FIFA World Cup,1,group stage,Group A,1,T-81,Uruguay,URY,3,2,1,0,4,0,4,7,1
 364,WC-2010,2010 FIFA World Cup,1,group stage,Group A,2,T-44,Mexico,MEX,3,1,1,1,3,2,1,4,1
-365,WC-2010,2010 FIFA World Cup,1,group stage,Group A,3,T-67,South Africa,ZAF,3,1,1,1,3,5,-2,4,0
+365,WC-2010,2010 FIFA World Cup,1,group stage,Group A,3,T-68,South Africa,ZAF,3,1,1,1,3,5,-2,4,0
 366,WC-2010,2010 FIFA World Cup,1,group stage,Group A,4,T-28,France,FRA,3,0,1,2,1,4,-3,1,0
 367,WC-2010,2010 FIFA World Cup,1,group stage,Group B,1,T-03,Argentina,ARG,3,3,0,0,7,1,6,9,1
-368,WC-2010,2010 FIFA World Cup,1,group stage,Group B,2,T-68,South Korea,KOR,3,1,1,1,5,6,-1,4,1
+368,WC-2010,2010 FIFA World Cup,1,group stage,Group B,2,T-69,South Korea,KOR,3,1,1,1,5,6,-1,4,1
 369,WC-2010,2010 FIFA World Cup,1,group stage,Group B,3,T-31,Greece,GRC,3,1,0,2,2,5,-3,3,0
 370,WC-2010,2010 FIFA World Cup,1,group stage,Group B,4,T-48,Nigeria,NGA,3,0,1,2,3,5,-2,1,0
-371,WC-2010,2010 FIFA World Cup,1,group stage,Group C,1,T-79,United States,USA,3,1,2,0,4,3,1,5,1
+371,WC-2010,2010 FIFA World Cup,1,group stage,Group C,1,T-80,United States,USA,3,1,2,0,4,3,1,5,1
 372,WC-2010,2010 FIFA World Cup,1,group stage,Group C,2,T-27,England,ENG,3,1,2,0,2,1,1,5,1
-373,WC-2010,2010 FIFA World Cup,1,group stage,Group C,3,T-66,Slovenia,SVN,3,1,1,1,3,3,0,4,0
+373,WC-2010,2010 FIFA World Cup,1,group stage,Group C,3,T-67,Slovenia,SVN,3,1,1,1,3,3,0,4,0
 374,WC-2010,2010 FIFA World Cup,1,group stage,Group C,4,T-01,Algeria,DZA,3,0,1,2,0,2,-2,1,0
 375,WC-2010,2010 FIFA World Cup,1,group stage,Group D,1,T-29,Germany,DEU,3,2,0,1,5,1,4,6,1
 376,WC-2010,2010 FIFA World Cup,1,group stage,Group D,2,T-30,Ghana,GHA,3,1,1,1,2,2,0,4,1
 377,WC-2010,2010 FIFA World Cup,1,group stage,Group D,3,T-04,Australia,AUS,3,1,1,1,3,6,-3,4,0
-378,WC-2010,2010 FIFA World Cup,1,group stage,Group D,4,T-63,Serbia,SRB,3,1,0,2,2,3,-1,3,0
+378,WC-2010,2010 FIFA World Cup,1,group stage,Group D,4,T-64,Serbia,SRB,3,1,0,2,2,3,-1,3,0
 379,WC-2010,2010 FIFA World Cup,1,group stage,Group E,1,T-46,Netherlands,NLD,3,3,0,0,5,1,4,9,1
 380,WC-2010,2010 FIFA World Cup,1,group stage,Group E,2,T-42,Japan,JPN,3,2,0,1,4,2,2,6,1
 381,WC-2010,2010 FIFA World Cup,1,group stage,Group E,3,T-21,Denmark,DNK,3,1,0,2,3,6,-3,3,0
 382,WC-2010,2010 FIFA World Cup,1,group stage,Group E,4,T-11,Cameroon,CMR,3,0,0,3,2,5,-3,0,0
 383,WC-2010,2010 FIFA World Cup,1,group stage,Group F,1,T-53,Paraguay,PRY,3,1,2,0,3,1,2,5,1
-384,WC-2010,2010 FIFA World Cup,1,group stage,Group F,2,T-65,Slovakia,SVK,3,1,1,1,4,5,-1,4,1
+384,WC-2010,2010 FIFA World Cup,1,group stage,Group F,2,T-66,Slovakia,SVK,3,1,1,1,4,5,-1,4,1
 385,WC-2010,2010 FIFA World Cup,1,group stage,Group F,3,T-47,New Zealand,NZL,3,0,3,0,2,2,0,3,0
 386,WC-2010,2010 FIFA World Cup,1,group stage,Group F,4,T-39,Italy,ITA,3,0,2,1,4,5,-1,2,0
 387,WC-2010,2010 FIFA World Cup,1,group stage,Group G,1,T-09,Brazil,BRA,3,2,1,0,5,2,3,7,1
 388,WC-2010,2010 FIFA World Cup,1,group stage,Group G,2,T-56,Portugal,PRT,3,1,2,0,7,0,7,5,1
 389,WC-2010,2010 FIFA World Cup,1,group stage,Group G,3,T-40,Ivory Coast,CIV,3,1,1,1,4,3,1,4,0
 390,WC-2010,2010 FIFA World Cup,1,group stage,Group G,4,T-49,North Korea,PRK,3,0,0,3,1,12,-11,0,0
-391,WC-2010,2010 FIFA World Cup,1,group stage,Group H,1,T-70,Spain,ESP,3,2,0,1,4,2,2,6,1
+391,WC-2010,2010 FIFA World Cup,1,group stage,Group H,1,T-71,Spain,ESP,3,2,0,1,4,2,2,6,1
 392,WC-2010,2010 FIFA World Cup,1,group stage,Group H,2,T-13,Chile,CHL,3,2,0,1,3,2,1,6,1
-393,WC-2010,2010 FIFA World Cup,1,group stage,Group H,3,T-72,Switzerland,CHE,3,1,1,1,1,1,0,4,0
+393,WC-2010,2010 FIFA World Cup,1,group stage,Group H,3,T-73,Switzerland,CHE,3,1,1,1,1,1,0,4,0
 394,WC-2010,2010 FIFA World Cup,1,group stage,Group H,4,T-33,Honduras,HND,3,0,1,2,0,3,-3,1,0
 395,WC-2014,2014 FIFA World Cup,1,group stage,Group A,1,T-09,Brazil,BRA,3,2,1,0,7,2,5,7,1
 396,WC-2014,2014 FIFA World Cup,1,group stage,Group A,2,T-44,Mexico,MEX,3,2,1,0,4,1,3,7,1
@@ -399,18 +399,18 @@ key_id,tournament_id,tournament_name,stage_number,stage_name,group_name,position
 398,WC-2014,2014 FIFA World Cup,1,group stage,Group A,4,T-11,Cameroon,CMR,3,0,0,3,1,9,-8,0,0
 399,WC-2014,2014 FIFA World Cup,1,group stage,Group B,1,T-46,Netherlands,NLD,3,3,0,0,10,3,7,9,1
 400,WC-2014,2014 FIFA World Cup,1,group stage,Group B,2,T-13,Chile,CHL,3,2,0,1,5,3,2,6,1
-401,WC-2014,2014 FIFA World Cup,1,group stage,Group B,3,T-70,Spain,ESP,3,1,0,2,4,7,-3,3,0
+401,WC-2014,2014 FIFA World Cup,1,group stage,Group B,3,T-71,Spain,ESP,3,1,0,2,4,7,-3,3,0
 402,WC-2014,2014 FIFA World Cup,1,group stage,Group B,4,T-04,Australia,AUS,3,0,0,3,3,9,-6,0,0
 403,WC-2014,2014 FIFA World Cup,1,group stage,Group C,1,T-15,Colombia,COL,3,3,0,0,9,2,7,9,1
 404,WC-2014,2014 FIFA World Cup,1,group stage,Group C,2,T-31,Greece,GRC,3,1,1,1,2,4,-2,4,1
 405,WC-2014,2014 FIFA World Cup,1,group stage,Group C,3,T-40,Ivory Coast,CIV,3,1,0,2,4,5,-1,3,0
 406,WC-2014,2014 FIFA World Cup,1,group stage,Group C,4,T-42,Japan,JPN,3,0,1,2,2,6,-4,1,0
 407,WC-2014,2014 FIFA World Cup,1,group stage,Group D,1,T-16,Costa Rica,CRI,3,2,1,0,4,1,3,7,1
-408,WC-2014,2014 FIFA World Cup,1,group stage,Group D,2,T-80,Uruguay,URY,3,2,0,1,4,4,0,6,1
+408,WC-2014,2014 FIFA World Cup,1,group stage,Group D,2,T-81,Uruguay,URY,3,2,0,1,4,4,0,6,1
 409,WC-2014,2014 FIFA World Cup,1,group stage,Group D,3,T-39,Italy,ITA,3,1,0,2,2,3,-1,3,0
 410,WC-2014,2014 FIFA World Cup,1,group stage,Group D,4,T-27,England,ENG,3,0,1,2,2,4,-2,1,0
 411,WC-2014,2014 FIFA World Cup,1,group stage,Group E,1,T-28,France,FRA,3,2,1,0,8,2,6,7,1
-412,WC-2014,2014 FIFA World Cup,1,group stage,Group E,2,T-72,Switzerland,CHE,3,2,0,1,7,6,1,6,1
+412,WC-2014,2014 FIFA World Cup,1,group stage,Group E,2,T-73,Switzerland,CHE,3,2,0,1,7,6,1,6,1
 413,WC-2014,2014 FIFA World Cup,1,group stage,Group E,3,T-24,Ecuador,ECU,3,1,1,1,3,3,0,4,0
 414,WC-2014,2014 FIFA World Cup,1,group stage,Group E,4,T-33,Honduras,HND,3,0,0,3,1,8,-7,0,0
 415,WC-2014,2014 FIFA World Cup,1,group stage,Group F,1,T-03,Argentina,ARG,3,3,0,0,6,3,3,9,1
@@ -418,18 +418,18 @@ key_id,tournament_id,tournament_name,stage_number,stage_name,group_name,position
 417,WC-2014,2014 FIFA World Cup,1,group stage,Group F,3,T-08,Bosnia and Herzegovina,BIH,3,1,0,2,4,4,0,3,0
 418,WC-2014,2014 FIFA World Cup,1,group stage,Group F,4,T-36,Iran,IRN,3,0,1,2,1,4,-3,1,0
 419,WC-2014,2014 FIFA World Cup,1,group stage,Group G,1,T-29,Germany,DEU,3,2,1,0,7,2,5,7,1
-420,WC-2014,2014 FIFA World Cup,1,group stage,Group G,2,T-79,United States,USA,3,1,1,1,4,4,0,4,1
+420,WC-2014,2014 FIFA World Cup,1,group stage,Group G,2,T-80,United States,USA,3,1,1,1,4,4,0,4,1
 421,WC-2014,2014 FIFA World Cup,1,group stage,Group G,3,T-56,Portugal,PRT,3,1,1,1,4,7,-3,4,0
 422,WC-2014,2014 FIFA World Cup,1,group stage,Group G,4,T-30,Ghana,GHA,3,0,1,2,4,6,-2,1,0
 423,WC-2014,2014 FIFA World Cup,1,group stage,Group H,1,T-06,Belgium,BEL,3,3,0,0,4,1,3,9,1
 424,WC-2014,2014 FIFA World Cup,1,group stage,Group H,2,T-01,Algeria,DZA,3,1,1,1,6,5,1,4,1
-425,WC-2014,2014 FIFA World Cup,1,group stage,Group H,3,T-59,Russia,RUS,3,0,2,1,2,3,-1,2,0
-426,WC-2014,2014 FIFA World Cup,1,group stage,Group H,4,T-68,South Korea,KOR,3,0,1,2,3,6,-3,1,0
-427,WC-2018,2018 FIFA World Cup,1,group stage,Group A,1,T-80,Uruguay,URY,3,3,0,0,5,0,5,9,1
-428,WC-2018,2018 FIFA World Cup,1,group stage,Group A,2,T-59,Russia,RUS,3,2,0,1,8,4,4,6,1
-429,WC-2018,2018 FIFA World Cup,1,group stage,Group A,3,T-60,Saudi Arabia,SAU,3,1,0,2,2,7,-5,3,0
+425,WC-2014,2014 FIFA World Cup,1,group stage,Group H,3,T-60,Russia,RUS,3,0,2,1,2,3,-1,2,0
+426,WC-2014,2014 FIFA World Cup,1,group stage,Group H,4,T-69,South Korea,KOR,3,0,1,2,3,6,-3,1,0
+427,WC-2018,2018 FIFA World Cup,1,group stage,Group A,1,T-81,Uruguay,URY,3,3,0,0,5,0,5,9,1
+428,WC-2018,2018 FIFA World Cup,1,group stage,Group A,2,T-60,Russia,RUS,3,2,0,1,8,4,4,6,1
+429,WC-2018,2018 FIFA World Cup,1,group stage,Group A,3,T-61,Saudi Arabia,SAU,3,1,0,2,2,7,-5,3,0
 430,WC-2018,2018 FIFA World Cup,1,group stage,Group A,4,T-25,Egypt,EGY,3,0,0,3,2,6,-4,0,0
-431,WC-2018,2018 FIFA World Cup,1,group stage,Group B,1,T-70,Spain,ESP,3,1,2,0,6,5,1,5,1
+431,WC-2018,2018 FIFA World Cup,1,group stage,Group B,1,T-71,Spain,ESP,3,1,2,0,6,5,1,5,1
 432,WC-2018,2018 FIFA World Cup,1,group stage,Group B,2,T-56,Portugal,PRT,3,1,2,0,5,4,1,5,1
 433,WC-2018,2018 FIFA World Cup,1,group stage,Group B,3,T-36,Iran,IRN,3,1,1,1,2,2,0,4,0
 434,WC-2018,2018 FIFA World Cup,1,group stage,Group B,4,T-45,Morocco,MAR,3,0,1,2,2,4,-2,1,0
@@ -442,18 +442,50 @@ key_id,tournament_id,tournament_name,stage_number,stage_name,group_name,position
 441,WC-2018,2018 FIFA World Cup,1,group stage,Group D,3,T-48,Nigeria,NGA,3,1,0,2,3,4,-1,3,0
 442,WC-2018,2018 FIFA World Cup,1,group stage,Group D,4,T-35,Iceland,ISL,3,0,1,2,2,5,-3,1,0
 443,WC-2018,2018 FIFA World Cup,1,group stage,Group E,1,T-09,Brazil,BRA,3,2,1,0,5,1,4,7,1
-444,WC-2018,2018 FIFA World Cup,1,group stage,Group E,2,T-72,Switzerland,CHE,3,1,2,0,5,4,1,5,1
-445,WC-2018,2018 FIFA World Cup,1,group stage,Group E,3,T-63,Serbia,SRB,3,1,0,2,2,4,-2,3,0
+444,WC-2018,2018 FIFA World Cup,1,group stage,Group E,2,T-73,Switzerland,CHE,3,1,2,0,5,4,1,5,1
+445,WC-2018,2018 FIFA World Cup,1,group stage,Group E,3,T-64,Serbia,SRB,3,1,0,2,2,4,-2,3,0
 446,WC-2018,2018 FIFA World Cup,1,group stage,Group E,4,T-16,Costa Rica,CRI,3,0,1,2,2,5,-3,1,0
-447,WC-2018,2018 FIFA World Cup,1,group stage,Group F,1,T-71,Sweden,SWE,3,2,0,1,5,2,3,6,1
+447,WC-2018,2018 FIFA World Cup,1,group stage,Group F,1,T-72,Sweden,SWE,3,2,0,1,5,2,3,6,1
 448,WC-2018,2018 FIFA World Cup,1,group stage,Group F,2,T-44,Mexico,MEX,3,2,0,1,3,4,-1,6,1
-449,WC-2018,2018 FIFA World Cup,1,group stage,Group F,3,T-68,South Korea,KOR,3,1,0,2,3,3,0,3,0
+449,WC-2018,2018 FIFA World Cup,1,group stage,Group F,3,T-69,South Korea,KOR,3,1,0,2,3,3,0,3,0
 450,WC-2018,2018 FIFA World Cup,1,group stage,Group F,4,T-29,Germany,DEU,3,1,0,2,2,4,-2,3,0
 451,WC-2018,2018 FIFA World Cup,1,group stage,Group G,1,T-06,Belgium,BEL,3,3,0,0,9,2,7,9,1
 452,WC-2018,2018 FIFA World Cup,1,group stage,Group G,2,T-27,England,ENG,3,2,0,1,8,3,5,6,1
-453,WC-2018,2018 FIFA World Cup,1,group stage,Group G,3,T-75,Tunisia,TUN,3,1,0,2,5,8,-3,3,0
+453,WC-2018,2018 FIFA World Cup,1,group stage,Group G,3,T-76,Tunisia,TUN,3,1,0,2,5,8,-3,3,0
 454,WC-2018,2018 FIFA World Cup,1,group stage,Group G,4,T-52,Panama,PAN,3,0,0,3,2,11,-9,0,0
 455,WC-2018,2018 FIFA World Cup,1,group stage,Group H,1,T-15,Colombia,COL,3,2,0,1,5,2,3,6,1
 456,WC-2018,2018 FIFA World Cup,1,group stage,Group H,2,T-42,Japan,JPN,3,1,1,1,4,4,0,4,1
-457,WC-2018,2018 FIFA World Cup,1,group stage,Group H,3,T-62,Senegal,SEN,3,1,1,1,4,4,0,4,0
+457,WC-2018,2018 FIFA World Cup,1,group stage,Group H,3,T-63,Senegal,SEN,3,1,1,1,4,4,0,4,0
 458,WC-2018,2018 FIFA World Cup,1,group stage,Group H,4,T-55,Poland,POL,3,1,0,2,2,5,-3,3,0
+459,WC-2022,2022 FIFA World Cup,1,group stage,Group A,1,T-46,Netherlands,NLD,3,2,1,0,5,1,4,7,1
+460,WC-2022,2022 FIFA World Cup,1,group stage,Group A,2,T-63,Senegal,SEN,3,2,0,1,5,4,1,6,1
+461,WC-2022,2022 FIFA World Cup,1,group stage,Group A,3,T-24,Ecuador,ECU,3,1,1,1,4,3,1,4,0
+462,WC-2022,2022 FIFA World Cup,1,group stage,Group A,4,T-57,Qatar,QAT,3,0,0,3,1,7,-6,0,0
+463,WC-2022,2022 FIFA World Cup,1,group stage,Group B,1,T-27,England,ENG,3,2,1,0,9,2,7,7,1
+464,WC-2022,2022 FIFA World Cup,1,group stage,Group B,2,T-80,United States,USA,3,1,2,0,2,1,1,5,1
+465,WC-2022,2022 FIFA World Cup,1,group stage,Group B,3,T-36,Iran,IRN,3,1,0,2,4,7,-3,3,0
+466,WC-2022,2022 FIFA World Cup,1,group stage,Group B,4,T-82,Wales,WAL,3,0,1,2,1,6,-5,1,0
+467,WC-2022,2022 FIFA World Cup,1,group stage,Group C,1,T-03,Argentina,ARG,3,2,0,1,5,2,3,6,1
+468,WC-2022,2022 FIFA World Cup,1,group stage,Group C,2,T-55,Poland,POL,3,1,1,1,2,2,0,4,1
+469,WC-2022,2022 FIFA World Cup,1,group stage,Group C,3,T-44,Mexico,MEX,3,1,1,1,2,3,-1,4,0
+470,WC-2022,2022 FIFA World Cup,1,group stage,Group C,4,T-61,Saudi Arabia,SAU,3,1,0,2,3,5,-2,3,0
+471,WC-2022,2022 FIFA World Cup,1,group stage,Group D,1,T-28,France,FRA,3,2,0,1,6,3,3,6,1
+472,WC-2022,2022 FIFA World Cup,1,group stage,Group D,2,T-04,Australia,AUS,3,2,0,1,3,4,-1,6,1
+473,WC-2022,2022 FIFA World Cup,1,group stage,Group D,3,T-76,Tunisia,TUN,3,1,1,1,1,1,0,4,0
+474,WC-2022,2022 FIFA World Cup,1,group stage,Group D,4,T-21,Denmark,DNK,3,0,1,2,1,3,-2,1,0
+475,WC-2022,2022 FIFA World Cup,1,group stage,Group E,1,T-42,Japan,JPN,3,2,0,1,4,3,1,6,1
+476,WC-2022,2022 FIFA World Cup,1,group stage,Group E,2,T-71,Spain,ESP,3,1,1,1,9,3,6,4,1
+477,WC-2022,2022 FIFA World Cup,1,group stage,Group E,3,T-29,Germany,DEU,3,1,1,1,6,5,1,4,0
+478,WC-2022,2022 FIFA World Cup,1,group stage,Group E,4,T-16,Costa Rica,CRI,3,1,0,2,3,11,-8,3,0
+479,WC-2022,2022 FIFA World Cup,1,group stage,Group F,1,T-45,Morocco,MAR,3,2,1,0,4,1,3,7,1
+480,WC-2022,2022 FIFA World Cup,1,group stage,Group F,2,T-17,Croatia,HRV,3,1,2,0,4,1,3,5,1
+481,WC-2022,2022 FIFA World Cup,1,group stage,Group F,3,T-06,Belgium,BEL,3,1,1,1,1,2,-1,4,0
+482,WC-2022,2022 FIFA World Cup,1,group stage,Group F,4,T-12,Canada,CAN,3,0,0,3,2,7,-5,0,0
+483,WC-2022,2022 FIFA World Cup,1,group stage,Group G,1,T-09,Brazil,BRA,3,2,0,1,3,1,2,6,1
+484,WC-2022,2022 FIFA World Cup,1,group stage,Group G,2,T-73,Switzerland,CHE,3,2,0,1,4,3,1,6,1
+485,WC-2022,2022 FIFA World Cup,1,group stage,Group G,3,T-11,Cameroon,CMR,3,1,1,1,4,4,0,4,0
+486,WC-2022,2022 FIFA World Cup,1,group stage,Group G,4,T-64,Serbia,SRB,3,0,1,2,5,8,-3,1,0
+487,WC-2022,2022 FIFA World Cup,1,group stage,Group H,1,T-56,Portugal,PRT,3,2,0,1,6,4,2,6,1
+488,WC-2022,2022 FIFA World Cup,1,group stage,Group H,2,T-69,South Korea,KOR,3,1,1,1,4,4,0,4,1
+489,WC-2022,2022 FIFA World Cup,1,group stage,Group H,3,T-81,Uruguay,URY,3,1,1,1,2,2,0,4,0
+490,WC-2022,2022 FIFA World Cup,1,group stage,Group H,4,T-30,Ghana,GHA,3,1,0,2,5,7,-2,3,0
