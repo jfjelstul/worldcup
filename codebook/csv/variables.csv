@@ -97,7 +97,7 @@ dataset_id,dataset,variable_id,variable,type,description
 8,matches,27,home_team_score_margin,integer,The score margin for the home team.
 8,matches,28,away_team_score_margin,integer,The score margin for the away team.
 8,matches,29,extra_time,boolean,Whether the match went to extra time. Coded {1} if the match went to extra time and {0} otherwise.
-8,matches,30,penalty_shootout,boolean,Whether the match ended in a penalty shootout. Coded {1} if the match ended in a penalty shootout and {0} otherwise. 
+8,matches,30,penalty_shootout,boolean,Whether the match ended in a penalty shootout. Coded {1} if the match ended in a penalty shootout and {0} otherwise.
 8,matches,31,score_penalties,text,The score of the penalty shootout in the format {#-#}. Coded {0-0} if there was not a penalty shootout.
 8,matches,32,home_team_score_penalties,integer,The score of the home team in the penalty shootout. Coded {NA} if there was not a penalty shootout.
 8,matches,33,away_team_score_penalties,integer,The score of the away team in the penalty shootout. Coded {NA} if there was not a penalty shootout.
@@ -179,11 +179,11 @@ dataset_id,dataset,variable_id,variable,type,description
 14,team_appearances,27,goals_against,integer,The number of goals scored against the team.
 14,team_appearances,28,goal_differential,integer,The team's goal differential.
 14,team_appearances,29,extra_time,boolean,Whether the match went to extra time. Coded {1} if the match went to extra time and {0} otherwise.
-14,team_appearances,30,penalty_shootout,boolean,Whether the match ended in a penalty shootout. Coded {1} if the match ended in a penalty shootout and {0} otherwise. 
+14,team_appearances,30,penalty_shootout,boolean,Whether the match ended in a penalty shootout. Coded {1} if the match ended in a penalty shootout and {0} otherwise.
 14,team_appearances,31,penalties_for,integer,"The number of penalties scored by the opponent, if the match ended in a penalty shootout. Coded {0} if there was not a shootout."
 14,team_appearances,32,penalties_against,integer,"The number of penalties scored by the team, if the match ended in a penalty shootout. Coded {0} if there was not a shootout."
 14,team_appearances,33,result,enum,"The result of the match. The possible values are: {home team win}, {away team win}, {draw}, {replayed}."
-14,team_appearances,34,win,boolean,Whether the team won the match. Coded {1} if the team won the match and {0} otherwise. 
+14,team_appearances,34,win,boolean,Whether the team won the match. Coded {1} if the team won the match and {0} otherwise.
 14,team_appearances,35,lose,boolean,Whether the team lost the match. Coded {1} if the team lost the match and {0} otherwise.
 14,team_appearances,36,draw,boolean,Whether the match ended in a draw. Coded {1} of the match ended in a draw and {0} otherwise.
 15,player_appearances,1,key_id,integer,The unique ID number for the observation.
@@ -214,7 +214,7 @@ dataset_id,dataset,variable_id,variable,type,description
 16,manager_appearances,4,match_id,text,The unique ID number for the match. References {match_id} in the {matches} dataset.
 16,manager_appearances,5,match_name,text,The name of the match. 
 16,manager_appearances,6,match_date,date,The date of the match in the format {YYYY-MM-DD}.
-16,manager_appearances,7,match_stage,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
+16,manager_appearances,7,stage_name,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
 16,manager_appearances,8,group_name,text,The name of the group.
 16,manager_appearances,9,team_id,text,The unique ID number for the team of the manager. References {team_id} in the {teams} dataset.
 16,manager_appearances,10,team_name,text,The name of the team of the manager.
@@ -231,7 +231,7 @@ dataset_id,dataset,variable_id,variable,type,description
 17,referee_appearances,4,match_id,text,The unique ID number for the match. References {match_id} in the {matches} dataset.
 17,referee_appearances,5,match_name,text,The name of the match.
 17,referee_appearances,6,match_date,date,The date of the match in the format {YYYY-MM-DD}.
-17,referee_appearances,7,match_stage,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
+17,referee_appearances,7,stage_name,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
 17,referee_appearances,8,group_name,text,The name of the group.
 17,referee_appearances,9,referee_id,text,The unique ID number for the referee. References {referee_id} in the {referees} dataset.
 17,referee_appearances,10,family_name,text,The family name of the referee.
