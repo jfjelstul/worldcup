@@ -8,7 +8,7 @@
 #' 
 #' This dataset records all manager appearances. There is one observation per
 #' manager per team per match per tournament. There are some teams that have
-#' co-managers. There are 17 variables and 1842 observations.
+#' co-managers. There are 17 variables and 2538 observations.
 #' 
 #' @format A data frame with 17 variables:
 #' \describe{

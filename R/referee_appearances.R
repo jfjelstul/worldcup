@@ -7,7 +7,7 @@
 #' Referee appearances
 #' 
 #' This dataset records all referee appearances. There is one observation per
-#' referee per match per tournament. There are 15 variables and 900
+#' referee per match per tournament. There are 15 variables and 1248
 #' observations.
 #' 
 #' @format A data frame with 15 variables:

@@ -31,6 +31,6 @@ referee_appointments
 This dataset records all referee appointments. There is one observation per
 referee per tournament. This dataset only includes the main referee, not
 assistant referees, fourth officials, or video assistant referees.There are
-10 variables and 511 observations.
+10 variables and 668 observations.
 }
 \keyword{datasets}

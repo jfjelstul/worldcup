@@ -30,7 +30,7 @@ stadiums
 This dataset records all stadiums that have hosted a World Cup match. There
 is one observation per stadium. It includes the country and city of the
 stadium, the approximate capacity of the stadium, and the link to the
-Wikipedia pages for the city and the stadium. There are 8 variables and 185
+Wikipedia pages for the city and the stadium. There are 8 variables and 240
 observations.
 }
 \keyword{datasets}

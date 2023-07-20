@@ -28,6 +28,6 @@ manager_appointments
 \description{
 This dataset records all manager appointments. There is one observation per
 manager per team per tournament. There are some teams that have
-co-managers. There are 10 variables and 469 observations.
+co-managers. There are 10 variables and 637 observations.
 }
 \keyword{datasets}

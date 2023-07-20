@@ -8,10 +8,10 @@
 #' 
 #' This dataset records all managers who have participated in a World Cup
 #' match. There is one observation per manager. It includes their name, their
-#' home country, and a link to their Wikipedia page, if they have one. There
-#' are 6 variables and 357 observations.
+#' sex, their home country, and a link to their Wikipedia page, if they have
+#' one. There are 7 variables and 475 observations.
 #' 
-#' @format A data frame with 6 variables:
+#' @format A data frame with 7 variables:
 #' \describe{
 #' \item{key_id}{\code{integer}. The unique ID number for the observation.}
 #' \item{manager_id}{\code{text}. The unique ID number for the manager. Has
@@ -20,6 +20,8 @@
 #' the manager's family name, and then by the manager's given name.}
 #' \item{family_name}{\code{text}. The family name of the manager.}
 #' \item{given_name}{\code{text}. The given name of the manager.}
+#' \item{female}{\code{boolean}. Whether the manager is female. Coded \code{1}
+#' if the manager is female and \code{0} if the manager is male.}
 #' \item{country_name}{\code{text}. The name of the manager's home country.}
 #' \item{manager_wikipedia_link}{\code{text}. The Wikipedia link for the
 #' manager.}

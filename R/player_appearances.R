@@ -10,10 +10,10 @@
 #' observation per player per team per match per tournament. It includes
 #' players who play in the match, including players who are in the starting
 #' eleven and players who come in as substitutes. FIFA match reports do not
-#' include information about substitutions before 1970. There are 22 variables
-#' and 18623 observations.
+#' include information about substitutions before 1970. There are 21 variables
+#' and 27432 observations.
 #' 
-#' @format A data frame with 22 variables:
+#' @format A data frame with 21 variables:
 #' \describe{
 #' \item{key_id}{\code{integer}. The unique ID number for the observation.}
 #' \item{tournament_id}{\code{text}. The unique ID number for the tournament.
@@ -22,7 +22,7 @@
 #' \item{match_id}{\code{text}. The unique ID number for the match. References
 #' \code{match_id} in the \code{matches} dataset.}
 #' \item{match_name}{\code{text}. The name of the match.}
-#' \item{date}{\code{date}. The date of the match in the format
+#' \item{match_date}{\code{date}. The date of the match in the format
 #' \code{YYYY-MM-DD}.}
 #' \item{stage_name}{\code{enum}. The stage of the tournament in which the
 #' match occurred. The possible values are: \code{first round}, \code{second
@@ -51,8 +51,6 @@
 #' \code{1} if the player started the match and \code{0} otherwise.}
 #' \item{substitute}{\code{boolean}. Whether the player was a substitute.
 #' Coded \code{1} if the player was a substitute and \code{0} otherwise.}
-#' \item{captain}{\code{boolean}. Whether the player was the captain of the
-#' team. Coded \code{1} if the player was the captain and \code{0} otherwise.}
 #' }
 "player_appearances"
 

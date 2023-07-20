@@ -86,7 +86,7 @@ indicates the team that scored the goal, player who scored the goal, the
 team of the player who scored the goal (to account for own goals), minute
 of the goal, and whether the goal was scored in the run of play by the
 opposition, was an own goal, or was a penalty. This dataset does not
-include converted penalties in a penalty shootout. There are 27 variables
-and 2548 observations.
+include converted penalties in a penalty shootout. There are 26 variables
+and 3637 observations.
 }
 \keyword{datasets}

@@ -5,7 +5,7 @@
 \alias{players}
 \title{Players}
 \format{
-A data frame with 12 variables:
+A data frame with 13 variables:
 \describe{
 \item{key_id}{\code{integer}. The unique ID number for the observation.}
 \item{player_id}{\code{text}. The unique ID number for the player. Has the
@@ -15,6 +15,8 @@ identifying number.}
 \item{given_name}{\code{text}. The given name of the player.}
 \item{birth_date}{\code{date}. The birth date of the player in the format
 \code{YYYY-MM-DD}.}
+\item{female}{\code{boolean}. Whether the player is female. Coded \code{1}
+if the player is female and \code{0} if the player is male.}
 \item{goal_keeper}{\code{boolean}. Whether the player was a goal keeper.
 Coded \code{1} if the player was a goal keeper and \code{0} otherwise.}
 \item{defender}{\code{boolean}. Whether the player was a defender. Coded
@@ -37,9 +39,9 @@ players
 \description{
 This dataset records all players who have participated in a World Cup
 match, including players on the bench. There is one observation per player.
-It includes their name, their birth date, and a link to their Wikipedia
-page, if they have one. Note that it does not include their team, as a
-small number of players represent different countries in different
-tournaments. There are 12 variables and 7907 observations.
+It includes their name, their birth date, their sex, and a link to their
+Wikipedia page, if they have one. Note that it does not include their team,
+as a small number of players represent different countries in different
+tournaments. There are 13 variables and 10401 observations.
 }
 \keyword{datasets}

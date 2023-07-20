@@ -12,7 +12,7 @@
 #' booking, the player who was booked, whether the booking was a yellow card
 #' or a red card, whether the card was a second yellow card, and whether the
 #' player was sent off as a result of the booking. There are 26 variables and
-#' 2466 observations.
+#' 3178 observations.
 #' 
 #' @format A data frame with 26 variables:
 #' \describe{

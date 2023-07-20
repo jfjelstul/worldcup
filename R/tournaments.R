@@ -9,7 +9,7 @@
 #' This dataset records all World Cup tournaments. There is one observation
 #' per tournament. It includes the host of the tournament, the winner of the
 #' tournament, the start and end dates of the tournament, and information
-#' about the format of the tournament. There are 18 variables and 21
+#' about the format of the tournament. There are 18 variables and 30
 #' observations.
 #' 
 #' @format A data frame with 18 variables:

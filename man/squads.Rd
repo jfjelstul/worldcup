@@ -35,6 +35,6 @@ This dataset records the composition of each squad. There is one
 observation per player per team per tournament. It includes the position of
 each player, the shirt number of each player (from 1954), the current club
 of each player, and a link to the Wikipedia page for the club, if it has
-one. There are 12 variables and 10142 observations.
+one. There are 14 variables and 13843 observations.
 }
 \keyword{datasets}

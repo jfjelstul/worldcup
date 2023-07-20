@@ -10,8 +10,8 @@
 #' team per match per tournament. It includes whether the team is the home
 #' team or the away team, the number of goals for and against, the goal
 #' difference, whether there was a penalty shootout, penalties for and against
-#' (if applicable), and whether the team wins, loses, or draws. There are 36
-#' variables and 1800 observations.
+#' (if applicable), and whether the team wins, loses, or draws. There are 37
+#' variables and 2496 observations.
 #' 
 #' @format A data frame with 36 variables:
 #' \describe{

@@ -5,7 +5,7 @@
 \alias{teams}
 \title{Teams}
 \format{
-A data frame with 11 variables:
+A data frame with 14 variables:
 \describe{
 \item{key_id}{\code{integer}. The unique ID number for the observation.}
 \item{team_id}{\code{text}. The unique ID number for the team. Has the
@@ -14,6 +14,10 @@ data sorted by the year of the team's first tournament and then by the
 team's name.}
 \item{team_name}{\code{text}. The name of the team.}
 \item{team_code}{\code{text}. The 3-letter code for the team.}
+\item{mens_team}{\code{boolean}. Whether the country's men's team has
+qualified for a tournament.}
+\item{womens_team}{\code{boolean}. Whether the country's women's team has
+qualified for a tournament.}
 \item{federation_name}{\code{text}. The name of the team's federation.}
 \item{region_name}{\code{text}. The name of the region that the country is
 located in.}
@@ -23,7 +27,12 @@ confederation. References \code{confederation_id} in the
 \item{confederation_name}{\code{text}. The name of the confederation.}
 \item{confederation_code}{\code{text}. The abbreviation for the
 confederation.}
-\item{team_wikipedia_link}{\code{text}. The Wikipedia link for the team.}
+\item{mens_team_wikipedia_link}{\code{text}. The Wikipedia link for
+country's men's team. Coded \code{not applicable} if the country's men's
+team has not qualified for a tournament.}
+\item{womens_team_wikipedia_link}{\code{text}. The Wikipedia link for
+country's women's team. Coded \code{not applicable} if the country's
+women's team has not qualified for a tournament.}
 \item{federation_wikipedia_link}{\code{text}. The Wikipedia link of the
 team's federation.}
 }
@@ -34,7 +43,10 @@ teams
 \description{
 This dataset records all teams who have participated in a World Cup match.
 There is one observation per team. It includes the 3-letter ISO code for
-each country and information about each country's national federation and
-FIFA confederation. There are 11 variables and 84 observations.
+each country, whether the country's men's and women's team have qualified
+for a tournament, the name of the country's national federation, the
+country's FIFA confederation, and links to the Wikipedia pages for their
+men's and women's teams, if the team has qualified for a tournament. There
+are 14 variables and 88 observations.
 }
 \keyword{datasets}

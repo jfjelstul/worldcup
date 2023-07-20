@@ -9,7 +9,7 @@
 #' This dataset records all host countries. There is one observation per host
 #' country per tournament. A tournament can have multiple host countries. It
 #' indicates the performance of each host country (the furthest stage
-#' reached). There are 7 variables and 22 observations.
+#' reached). There are 7 variables and 31 observations.
 #' 
 #' @format A data frame with 7 variables:
 #' \describe{

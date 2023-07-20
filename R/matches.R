@@ -13,7 +13,7 @@
 #' extra time, whether there was a penalty shootout, the number of penalties
 #' scored in the shootout (if applicable), the result of the match (home team
 #' win, away team win, draw, replayed), and the winner (if applicable). There
-#' are 37 variables and 900 observations.
+#' are 38 variables and 1248 observations.
 #' 
 #' @format A data frame with 37 variables:
 #' \describe{

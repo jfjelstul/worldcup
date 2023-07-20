@@ -8,7 +8,7 @@
 #' 
 #' This dataset records all qualified teams. There is one observation per team
 #' per tournament. It includes the tournament, the team, and the performance
-#' of each team (the furthest stage reached). There are 8 variables and 457
+#' of each team (the furthest stage reached). There are 8 variables and 625
 #' observations.
 #' 
 #' @format A data frame with 8 variables:

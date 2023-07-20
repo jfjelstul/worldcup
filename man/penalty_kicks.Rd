@@ -60,6 +60,6 @@ This dataset records all penalty kicks taken during penalty shootouts.
 There is one observation per penalty kick. This dataset does not include
 attempted penalty kicks during matches. It indicates minute of each kick,
 the player who took the kick, and whether the penalty was converted. There
-are 19 variables and 279 observations.
+are 19 variables and 396 observations.
 }
 \keyword{datasets}

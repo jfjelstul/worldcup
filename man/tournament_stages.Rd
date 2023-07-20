@@ -52,6 +52,6 @@ group stage, whether there were unbalanced groups, the start and end dates
 of the stage, and how many matches there were in the stage, how many teams
 participated in each stage, how many games were scheduled, how many replays
 there were, how many walkovers there were, and how many playoffs there
-were. There are 16 observations and 107 observations.
+were. There are 16 observations and 155 observations.
 }
 \keyword{datasets}

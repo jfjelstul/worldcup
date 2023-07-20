@@ -10,7 +10,7 @@
 #' not include information about substitutions before 1970. There is one
 #' observation per player per substitution. It indicates the minute of the
 #' substitution, the player who went off, and the player who came on. There
-#' are 24 variables and 6464 observations.
+#' are 24 variables and 10222 observations.
 #' 
 #' @format A data frame with 24 variables:
 #' \describe{

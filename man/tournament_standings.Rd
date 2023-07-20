@@ -27,6 +27,6 @@ This dataset records the final standings for each tournament. There is one
 observation per position per tournament. The top four teams are ranked. In
 most tournaments, these are the winner of the final, the loser of the
 final, the winner of the third-place match, and the loser of the
-third-place match. There are 7 variables and 84 observations.
+third-place match. There are 7 variables and 120 observations.
 }
 \keyword{datasets}

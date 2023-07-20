@@ -5,7 +5,7 @@
 \alias{referees}
 \title{Referees}
 \format{
-A data frame with 9 variables:
+A data frame with 10 variables:
 \describe{
 \item{key_id}{\code{integer}. The unique ID number for the observation.}
 \item{referee_id}{\code{text}. The unique ID number for the referee. Has
@@ -14,6 +14,8 @@ with the data sorted by the year of the referee's first appearance, then by
 the referee's family name, and then by the referee's given name.}
 \item{family_name}{\code{text}. The family name of the referee.}
 \item{given_name}{\code{text}. The given name of the referee.}
+\item{female}{\code{boolean}. Whether the referee is female. Coded \code{1}
+if the referee is female and \code{0} if the referee is male.}
 \item{country_name}{\code{text}. The name of the referee's home country.}
 \item{confederation_id}{\code{text}. The unique ID number for the
 confederation. References \code{confederation_id} in the
@@ -31,7 +33,7 @@ referees
 \description{
 This dataset records all referees who have participated in a World Cup
 match. There is one observation per referee. It includes their name, their
-home country, their confederation, and a link to their Wikipedia page, if
-they have one. There are 9 variables and 380 observations.
+sex, their home country, their confederation, and a link to their Wikipedia
+page, if they have one. There are 10 variables and 493 observations.
 }
 \keyword{datasets}

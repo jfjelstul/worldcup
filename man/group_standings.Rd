@@ -54,6 +54,6 @@ the team (factoring in tie breakers), the name of the team, the number of
 matches played, the number of wins, the number of losses, the number of
 draws, the number of goals for, the number of goals against, the goal
 difference, the total number of points earned, and whether the team
-advanced out of the group. There are 19 variables and 458 observations.
+advanced out of the group. There are 19 variables and 626 observations.
 }
 \keyword{datasets}
