@@ -57,59 +57,59 @@ Consistent with the CC-BY-SA 4.0 license, I provide this database as-is and as-a
 
 ## The datasets
 
-- `tournaments`: This dataset records all World Cup tournaments. There is one observation per tournament. It includes the host of the tournament, the winner of the tournament, the start and end dates of the tournament, and information about the format of the tournament. There are `18` variables and `21` observations.
+- `tournaments`: This dataset records all World Cup tournaments. There is one observation per tournament. It includes the host of the tournament, the winner of the tournament, the start and end dates of the tournament, and information about the format of the tournament. There are `18` variables and `30` observations.
 
 - `confederations`: This dataset records all FIFA confederations. There is one observation per confederation. There are `5` variables and `6` observations.
 
-- `teams`: This dataset records all teams who have participated in a World Cup match. There is one observation per team. It includes the 3-letter ISO code for each country and information about each country's national federation and FIFA confederation. There are `11` variables and `84` observations.
+- `teams`: This dataset records all teams who have participated in a World Cup match. There is one observation per team. It includes the 3-letter ISO code for each country and information about each country's national federation and FIFA confederation. There are `14` variables and `88` observations.
 
-- `players`: This dataset records all players who have participated in a World Cup match, including players on the bench. There is one observation per player. It includes their name, their birth date, and a link to their Wikipedia page, if they have one. Note that it does not include their team, as a small number of players represent different countries in different tournaments. There are `12` variables and `7907` observations.
+- `players`: This dataset records all players who have participated in a World Cup match, including players on the bench. There is one observation per player. It includes their name, their birth date, and a link to their Wikipedia page, if they have one. Note that it does not include their team, as a small number of players represent different countries in different tournaments. There are `13` variables and `10401` observations.
 
-- `managers`: This dataset records all managers who have participated in a World Cup match. There is one observation per manager. It includes their name, their home country, and a link to their Wikipedia page, if they have one. There are `6` variables and `357` observations.
+- `managers`: This dataset records all managers who have participated in a World Cup match. There is one observation per manager. It includes their name, their home country, and a link to their Wikipedia page, if they have one. There are `7` variables and `475` observations.
 
-- `referees`: This dataset records all referees who have participated in a World Cup match. There is one observation per referee. It includes their name, their home country, their confederation, and a link to their Wikipedia page, if they have one. There are `9` variables and `380` observations.
+- `referees`: This dataset records all referees who have participated in a World Cup match. There is one observation per referee. It includes their name, their home country, their confederation, and a link to their Wikipedia page, if they have one. There are `10` variables and `493` observations.
 
-- `stadiums`: This dataset records all stadiums that have hosted a World Cup match. There is one observation per stadium. It includes the country and city of the stadium, the approximate capacity of the stadium, and the link to the Wikipedia pages for the city and the stadium. There are `8` variables and `185` observations.
+- `stadiums`: This dataset records all stadiums that have hosted a World Cup match. There is one observation per stadium. It includes the country and city of the stadium, the approximate capacity of the stadium, and the link to the Wikipedia pages for the city and the stadium. There are `8` variables and `240` observations.
 
-- `matches`: This dataset records all World Cup matches. There is one observation per match per tournament. It includes the home team, the away team, the date of the match, the country, city, and stadium that the match was played in, the final score, the score margin for each team, whether the match went to extra time, whether there was a penalty shootout, the number of penalties scored in the shootout (if applicable), the result of the match (home team win, away team win, draw, replayed), and the winner (if applicable). There are `37` variables and `900` observations.
+- `matches`: This dataset records all World Cup matches. There is one observation per match per tournament. It includes the home team, the away team, the date of the match, the country, city, and stadium that the match was played in, the final score, the score margin for each team, whether the match went to extra time, whether there was a penalty shootout, the number of penalties scored in the shootout (if applicable), the result of the match (home team win, away team win, draw, replayed), and the winner (if applicable). There are `38` variables and `1248` observations.
 
 - `awards`: This dataset records all individual awards that are handed out to players. There is one observation per award. It includes the name of the award, the year the award was first introduced, and a description of the award. There are `5` variables and `8` observations.
 
-- `qualified_teams`: This dataset records all qualified teams. There is one observation per team per tournament. It includes the tournament, the team, and the performance of each team (the furthest stage reached). There are `8` variables and `457` observations.
+- `qualified_teams`: This dataset records all qualified teams. There is one observation per team per tournament. It includes the tournament, the team, and the performance of each team (the furthest stage reached). There are `8` variables and `625` observations.
 
-- `squads`: This dataset records the composition of each squad. There is one observation per player per team per tournament. It includes the position of each player, and the shirt number of each player (from 1954). There are `12` variables and `10142` observations.
+- `squads`: This dataset records the composition of each squad. There is one observation per player per team per tournament. It includes the position of each player, and the shirt number of each player (from 1954). There are `14` variables and `13843` observations.
 
-- `manager_appointments`: This dataset records all manager appointments. There is one observation per manager per team per tournament. There are some teams that have co-managers. There are `10` variables and `469` observations.
+- `manager_appointments`: This dataset records all manager appointments. There is one observation per manager per team per tournament. There are some teams that have co-managers. There are `10` variables and `637` observations.
 
-- `referee_appointments`: This dataset records all referee appointments. There is one observation per referee per tournament. This dataset only includes the main referee, not assistant referees, fourth officials, or video assistant referees. There are `10` variables and `511` observations.
+- `referee_appointments`: This dataset records all referee appointments. There is one observation per referee per tournament. This dataset only includes the main referee, not assistant referees, fourth officials, or video assistant referees. There are `10` variables and `668` observations.
 
-- `team_appearances`: This dataset records all team appearances. There is one observation per team per match per tournament. It includes whether the team is the home team or the away team, the number of goals for and against, the goal difference, whether there was a penalty shootout, penalties for and against (if applicable), and whether the team wins, loses, or draws. There are `36` variables and `1800` observations.
+- `team_appearances`: This dataset records all team appearances. There is one observation per team per match per tournament. It includes whether the team is the home team or the away team, the number of goals for and against, the goal difference, whether there was a penalty shootout, penalties for and against (if applicable), and whether the team wins, loses, or draws. There are `37` variables and `2496` observations.
 
-- `player_appearances`: This dataset records all player appearances since 1970. There is one observation per player per team per match per tournament. It includes players who play in the match, including players who are in the starting eleven and players who come in as substitutes. FIFA match reports do not include information about substitutions before 1970. There are `22` variables and `18623` observations.
+- `player_appearances`: This dataset records all player appearances since 1970. There is one observation per player per team per match per tournament. It includes players who play in the match, including players who are in the starting eleven and players who come in as substitutes. FIFA match reports do not include information about substitutions before 1970. There are `21` variables and `27432` observations.
 
-- `manager_appearances`: This dataset records all manager appearances. There is one observation per manager per team per match per tournament. There are some teams that have co-managers. There are `17` variables and `1842` observations.
+- `manager_appearances`: This dataset records all manager appearances. There is one observation per manager per team per match per tournament. There are some teams that have co-managers. There are `17` variables and `2538` observations.
 
-- `referee_appearances`: This dataset records all referee appearances. There is one observation per referee per match per tournament. There are `15` variables and `900` observations.
+- `referee_appearances`: This dataset records all referee appearances. There is one observation per referee per match per tournament. There are `15` variables and `1248` observations.
 
-- `goals`: This dataset records all goals. There is one observation per goal. It indicates the team that scored the goal, player who scored the goal, the team of the player who scored the goal (to account for own goals), minute of the goal, and whether the goal was scored in the run of play by the opposition, was an own goal, or was a penalty. This dataset does not include converted penalties in a penalty shootout. There are `27` variables and `2548` observations.
+- `goals`: This dataset records all goals. There is one observation per goal. It indicates the team that scored the goal, player who scored the goal, the team of the player who scored the goal (to account for own goals), minute of the goal, and whether the goal was scored in the run of play by the opposition, was an own goal, or was a penalty. This dataset does not include converted penalties in a penalty shootout. There are `26` variables and `3637` observations.
 
-- `penalty_kicks`: This dataset records all penalty kicks taken during penalty shootouts. There is one observation per penalty kick. This dataset does not include attempted penalty kicks during matches. It indicates minute of each kick, the player who took the kick, and whether the penalty was converted. There are `19` variables and `279` observations.
+- `penalty_kicks`: This dataset records all penalty kicks taken during penalty shootouts. There is one observation per penalty kick. This dataset does not include attempted penalty kicks during matches. It indicates minute of each kick, the player who took the kick, and whether the penalty was converted. There are `19` variables and `396` observations.
 
-- `bookings`: This dataset records all bookings, including yellow cards and red cards, since 1970. The modern system of yellow and red cards was introduced in 1970. There is one observation per booking. It indicates the minute of each booking, the player who was booked, whether the booking was a yellow card or a red card, whether the card was a second yellow card, and whether the player was sent off as a result of the booking. There are `26` variables and `2466` observations.
+- `bookings`: This dataset records all bookings, including yellow cards and red cards, since 1970. The modern system of yellow and red cards was introduced in 1970. There is one observation per booking. It indicates the minute of each booking, the player who was booked, whether the booking was a yellow card or a red card, whether the card was a second yellow card, and whether the player was sent off as a result of the booking. There are `26` variables and `3178` observations.
 
-- `substitutions`: This dataset records all substitutions since 1970. FIFA match reports do not include information about substitutions before 1970. There is one observation per player per substitution. It indicates the minute of the substitution, the player who went off, and the player who came on. There are `24` variables and `6464` observations.
+- `substitutions`: This dataset records all substitutions since 1970. FIFA match reports do not include information about substitutions before 1970. There is one observation per player per substitution. It indicates the minute of the substitution, the player who went off, and the player who came on. There are `24` variables and `10222` observations.
 
-- `host_countries`: This dataset records all host countries. There is one observation per host country per tournament. A tournament can have multiple host countries. It indicates the performance of each host country (the furthest stage reached). There are `7` variables and `22` observations.
+- `host_countries`: This dataset records all host countries. There is one observation per host country per tournament. A tournament can have multiple host countries. It indicates the performance of each host country (the furthest stage reached). There are `7` variables and `31` observations.
 
-- `tournament_stages`: This dataset records the stages in each tournament. There is one observation per stage per tournament. It indicates the name of the stage, whether the stage was a group stage or a knockout stage, if the stage was a group stage, whether there were unbalanced groups, the start and end dates of the stage, and how many matches there were in the stage, how many teams participated in each stage, how many games were scheduled, how many replays there were, how many walkovers there were, and how many playoffs there were. There are `16` observations and `107` observations.
+- `tournament_stages`: This dataset records the stages in each tournament. There is one observation per stage per tournament. It indicates the name of the stage, whether the stage was a group stage or a knockout stage, if the stage was a group stage, whether there were unbalanced groups, the start and end dates of the stage, and how many matches there were in the stage, how many teams participated in each stage, how many games were scheduled, how many replays there were, how many walkovers there were, and how many playoffs there were. There are `16` observations and `1555` observations.
 
 - `groups`: This dataset records the names of the groups for each group stage. There is one observation per group per group stage per tournament. Some tournaments have multiple group stages. It indicates the stage, the name of the group, and how many teams were in the group. There are `7` variables and `117` observations.
 
-- `group_standings`: This dataset records group standings for each group stage. There is one observation per team per group per group stage per tournament. Some tournaments have multiple group stages. It includes the final position of the team (factoring in tie breakers), the name of the team, the number of matches played, the number of wins, the number of losses, the number of draws, the number of goals for, the number of goals against, the goal difference, the total number of points earned, and whether the team advanced out of the group. There are `19` variables and `458` observations.
+- `group_standings`: This dataset records group standings for each group stage. There is one observation per team per group per group stage per tournament. Some tournaments have multiple group stages. It includes the final position of the team (factoring in tie breakers), the name of the team, the number of matches played, the number of wins, the number of losses, the number of draws, the number of goals for, the number of goals against, the goal difference, the total number of points earned, and whether the team advanced out of the group. There are `19` variables and `626` observations.
 
-- `tournament_standings`: This dataset records the final standings for each tournament. There is one observation per position per tournament. The top four teams are ranked. In most tournaments, these are the winner of the final, the loser of the final, the winner of the third-place match, and the loser of the third-place match. There are `7` variables and `84` observations.
+- `tournament_standings`: This dataset records the final standings for each tournament. There is one observation per position per tournament. The top four teams are ranked. In most tournaments, these are the winner of the final, the loser of the final, the winner of the third-place match, and the loser of the third-place match. There are `7` variables and `120` observations.
 
-- `award_winners`: This dataset records all award winners. There is one observation per player per award per tournament. Some awards are shared by multiple players. It indicates the name of the award, the player(s) who won the award, the team of the player(s) who won the award, and whether the award was shared. There are `12` variables and `132` observations.
+- `award_winners`: This dataset records all award winners. There is one observation per player per award per tournament. Some awards are shared by multiple players. It indicates the name of the award, the player(s) who won the award, the team of the player(s) who won the award, and whether the award was shared. There are `12` variables and `200` observations.
 
 ## Data sources and replication code
 
@@ -150,21 +150,21 @@ devtools::install_github("jfjelstul/worldcup")
 
 If you use the database in a paper or project, please cite the database:
 
-> Fjelstul, Joshua C. "The Fjelstul World Cup Database v.1.0." July 8, 2022. https://www.github.com/jfjelstul/worldcup.
+> Fjelstul, Joshua C. "The Fjelstul World Cup Database v.1.2.0." July 19, 2023. https://www.github.com/jfjelstul/worldcup.
 
 The `BibTeX` entry for the database is:
 
 ```
-@Manual{Fjelstul2022,
+@Manual{Fjelstul2023,
   author = {Fjelstul, Joshua C.},
-  title = {The Fjelstul World Cup Database v.1.0},
-  year = {2022}
+  title = {The Fjelstul World Cup Database v.1.2.0},
+  year = {2023}
 }
 ```
 
 If you access the database via the `worldcup` package, please also cite the package:
 
-> Joshua C. Fjelstul (2022). worldcup: The Fjelstul World Cup Database. R package version 0.1.0.
+> Joshua C. Fjelstul (2023). worldcup: The Fjelstul World Cup Database. R package version 1.2.0.
 
 The `BibTeX` entry for the `R` package is:
 
@@ -172,8 +172,8 @@ The `BibTeX` entry for the `R` package is:
 @Manual{,
   title = {worldcup: The Fjelstul World Cup Database},
   author = {Fjelstul, Joshua C.},
-  year = {2022},
-  note = {R package version 0.1.0},
+  year = {2023},
+  note = {R package version 1.2.0},
 }
 ```
 
