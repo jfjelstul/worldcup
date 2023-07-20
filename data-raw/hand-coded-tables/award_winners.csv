@@ -1,142 +1,201 @@
-year,award_id,award_name,shared,family_name,given_name,team_name
-1930,A-4,Golden Boot,0,Stábile,Guillermo,Argentina
-1930,A-5,Silver Boot,0,Cea,Pedro,Uruguay
-1930,A-6,Bronze Boot,0,Patenaude,Bert,United States
-1934,A-4,Golden Boot,0,Nejedlý,Oldřich,Czechoslovakia
-1934,A-5,Silver Boot,1,Schiavio,Angelo,Italy
-1934,A-5,Silver Boot,1,Conen,Edmund,Germany
-1938,A-4,Golden Boot,0,Leônidas,not applicable,Brazil
-1938,A-5,Silver Boot,1,Sárosi,György,Hungary
-1938,A-5,Silver Boot,1,Zsengellér,Gyula,Hungary
-1938,A-5,Silver Boot,1,Piola,Silvio,Italy
-1950,A-4,Golden Boot,0,Ademir,not applicable,Brazil
-1950,A-5,Silver Boot,0,Míguez,Oscar,Uruguay
-1950,A-6,Bronze Boot,1,Ghiggia,Alcides,Uruguay
-1950,A-6,Bronze Boot,1,Chico,not applicable,Brazil
-1950,A-6,Bronze Boot,1,Basora,Estanislau,Spain
-1950,A-6,Bronze Boot,1,Zarra,Telmo,Spain
-1954,A-4,Golden Boot,0,Kocsis,Sándor,Hungary
-1954,A-5,Silver Boot,1,Probst,Erich,Austria
-1954,A-5,Silver Boot,1,Hügi,Josef,Switzerland
-1954,A-5,Silver Boot,1,Morlock,Max,West Germany
-1958,A-4,Golden Boot,0,Fontaine,Just,France
-1958,A-5,Silver Boot,1,Rahn,Helmut,West Germany
-1958,A-5,Silver Boot,1,Pelé,not applicable,Brazil
-1958,A-8,Best Young Player,0,Pelé,not applicable,Brazil
-1962,A-4,Golden Boot,1,Jerković,Dražan,Yugoslavia
-1962,A-4,Golden Boot,1,Albert,Flórián,Hungary
-1962,A-4,Golden Boot,1,Garrincha,not applicable,Brazil
-1962,A-4,Golden Boot,1,Sánchez,Leonel,Chile
-1962,A-4,Golden Boot,1,Ivanov,Valentin,Soviet Union
-1962,A-4,Golden Boot,1,Vavá,not applicable,Brazil
-1962,A-8,Best Young Player,0,Albert,Flórián,Hungary
-1966,A-4,Golden Boot,0,Eusébio,not applicable,Portugal
-1966,A-5,Silver Boot,0,Haller,Helmut,West Germany
-1966,A-6,Bronze Boot,1,Bene,Ferenc,Hungary
-1966,A-6,Bronze Boot,1,Beckenbauer,Franz,West Germany
-1966,A-6,Bronze Boot,1,Hurst,Geoff,England
-1966,A-6,Bronze Boot,1,Porkujan,Valeriy,Soviet Union
-1966,A-8,Best Young Player,0,Beckenbauer,Franz,West Germany
-1970,A-4,Golden Boot,0,Müller,Gerd,West Germany
-1970,A-5,Silver Boot,0,Jairzinho,not applicable,Brazil
-1970,A-6,Bronze Boot,0,Cubillas,Teófilo,Peru
-1970,A-8,Best Young Player,0,Cubillas,Teófilo,Peru
-1974,A-4,Golden Boot,0,Lato,Grzegorz,Poland
-1974,A-5,Silver Boot,1,Szarmach,Andrzej,Poland
-1974,A-5,Silver Boot,1,Neeskens,Johan,Netherlands
-1974,A-8,Best Young Player,0,Żmuda,Władysław,Poland
-1978,A-1,Golden Ball,0,Kempes,Mario,Argentina
-1978,A-2,Silver Ball,0,Rossi,Paolo,Italy
-1978,A-3,Bronze Ball,0,Dirceu,not applicable,Brazil
-1978,A-4,Golden Boot,0,Kempes,Mario,Argentina
-1978,A-5,Silver Boot,0,Cubillas,Teófilo,Peru
-1978,A-6,Bronze Boot,0,Rensenbrink,Rob,Netherlands
-1978,A-8,Best Young Player,0,Cabrini,Antonio,Italy
-1982,A-1,Golden Ball,0,Rossi,Paolo,Italy
-1982,A-2,Silver Ball,0,Falcão,not applicable,Brazil
-1982,A-3,Bronze Ball,0,Rummenigge,Karl-Heinz,West Germany
-1982,A-4,Golden Boot,0,Rossi,Paolo,Italy
-1982,A-5,Silver Boot,0,Rummenigge,Karl-Heinz,West Germany
-1982,A-6,Bronze Boot,0,Zico,not applicable,Brazil
-1982,A-8,Best Young Player,0,Amoros,Manuel,France
-1986,A-1,Golden Ball,0,Maradona,Diego,Argentina
-1986,A-2,Silver Ball,0,Schumacher,Harald,West Germany
-1986,A-3,Bronze Ball,0,Elkjær,Preben,Denmark
-1986,A-4,Golden Boot,0,Lineker,Gary,England
-1986,A-5,Silver Boot,1,Careca,not applicable,Brazil
-1986,A-5,Silver Boot,1,Maradona,Diego,Argentina
-1986,A-5,Silver Boot,1,Butragueño,Emilio,Spain
-1986,A-8,Best Young Player,0,Scifo,Enzo,Belgium
-1990,A-1,Golden Ball,0,Schillaci,Salvatore,Italy
-1990,A-2,Silver Ball,0,Matthäus,Lothar,West Germany
-1990,A-3,Bronze Ball,0,Maradona,Diego,Argentina
-1990,A-4,Golden Boot,0,Schillaci,Salvatore,Italy
-1990,A-5,Silver Boot,0,Skuhravý,Tomáš,Czechoslovakia
-1990,A-6,Bronze Boot,1,Lineker,Gary,England
-1990,A-6,Bronze Boot,1,Milla,Roger,Cameroon
-1990,A-8,Best Young Player,0,Prosinečki,Robert,Yugoslavia
-1994,A-1,Golden Ball,0,Romário,not applicable,Brazil
-1994,A-2,Silver Ball,0,Baggio,Roberto,Italy
-1994,A-3,Bronze Ball,0,Stoichkov,Hristo,Bulgaria
-1994,A-4,Golden Boot,1,Stoichkov,Hristo,Bulgaria
-1994,A-4,Golden Boot,1,Salenko,Oleg,Russia
-1994,A-6,Bronze Boot,1,Andersson,Kennet,Sweden
-1994,A-6,Bronze Boot,1,Romário,not applicable,Brazil
-1994,A-7,Golden Glove,0,Preud'homme,Michel,Belgium
-1994,A-8,Best Young Player,0,Overmars,Marc,Netherlands
-1998,A-1,Golden Ball,0,Ronaldo,not applicable,Brazil
-1998,A-2,Silver Ball,0,Šuker,Davor,Croatia
-1998,A-3,Bronze Ball,0,Thuram,Lilian,France
-1998,A-4,Golden Boot,0,Šuker,Davor,Croatia
-1998,A-5,Silver Boot,1,Vieri,Christian,Italy
-1998,A-5,Silver Boot,1,Batistuta,Gabriel,Argentina
-1998,A-7,Golden Glove,0,Barthez,Fabien,France
-1998,A-8,Best Young Player,0,Owen,Michael,England
-2002,A-1,Golden Ball,0,Kahn,Oliver,Germany
-2002,A-2,Silver Ball,0,Ronaldo,not applicable,Brazil
-2002,A-3,Bronze Ball,0,Hong,Myung-bo,South Korea
-2002,A-4,Golden Boot,0,Ronaldo,not applicable,Brazil
-2002,A-5,Silver Boot,1,Klose,Miroslav,Germany
-2002,A-5,Silver Boot,1,Rivaldo,not applicable,Brazil
-2002,A-7,Golden Glove,0,Kahn,Oliver,Germany
-2002,A-8,Best Young Player,0,Donovan,Landon,United States
-2006,A-1,Golden Ball,0,Zidane,Zinedine,France
-2006,A-2,Silver Ball,0,Cannavaro,Fabio,Italy
-2006,A-3,Bronze Ball,0,Pirlo,Andrea,Italy
-2006,A-4,Golden Boot,0,Klose,Miroslav,Germany
-2006,A-5,Silver Boot,0,Crespo,Hernán,Argentina
-2006,A-6,Bronze Boot,0,Ronaldo,not applicable,Brazil
-2006,A-7,Golden Glove,0,Buffon,Gianluigi,Italy
-2006,A-8,Best Young Player,0,Podolski,Lukas,Germany
-2010,A-1,Golden Ball,0,Forlán,Diego,Uruguay
-2010,A-2,Silver Ball,0,Sneijder,Wesley,Netherlands
-2010,A-3,Bronze Ball,0,Villa,David,Spain
-2010,A-4,Golden Boot,0,Müller,Thomas,Germany
-2010,A-5,Silver Boot,0,Villa,David,Spain
-2010,A-6,Bronze Boot,0,Sneijder,Wesley,Netherlands
-2010,A-7,Golden Glove,0,Casillas,Iker,Spain
-2010,A-8,Best Young Player,0,Müller,Thomas,Germany
-2014,A-1,Golden Ball,0,Messi,Lionel,Argentina
-2014,A-2,Silver Ball,0,Müller,Thomas,Germany
-2014,A-3,Bronze Ball,0,Robben,Arjen,Netherlands
-2014,A-4,Golden Boot,0,Rodríguez,James,Colombia
-2014,A-5,Silver Boot,0,Müller,Thomas,Germany
-2014,A-6,Bronze Boot,0,Neymar,not applicable,Brazil
-2014,A-7,Golden Glove,0,Neuer,Manuel,Germany
-2014,A-8,Best Young Player,0,Pogba,Paul,France
-2018,A-1,Golden Ball,0,Modrić,Luka,Croatia
-2018,A-2,Silver Ball,0,Hazard,Eden,Belgium
-2018,A-3,Bronze Ball,0,Griezmann,Antoine,France
-2018,A-4,Golden Boot,0,Kane,Harry,England
-2018,A-5,Silver Boot,0,Griezmann,Antoine,France
-2018,A-6,Bronze Boot,0,Lukaku,Romelu,Belgium
-2018,A-7,Golden Glove,0,Courtois,Thibaut,Belgium
-2018,A-8,Best Young Player,0,Mbappé,Kylian,France
-2022,A-1,Golden Ball,0,Messi,Lionel,Argentina
-2022,A-2,Silver Ball,0,Mbappé,Kylian,France
-2022,A-3,Bronze Ball,0,Modrić,Luka,Croatia
-2022,A-4,Golden Boot,0,Mbappé,Kylian,France
-2022,A-5,Silver Boot,0,Messi,Lionel,Argentina
-2022,A-6,Bronze Boot,0,Giroud,Olivier,France
-2022,A-7,Golden Glove,0,Martínez,Emiliano,Argentina
-2022,A-8,Best Young Player,0,Fernández,Enzo,Argentina
+tournament,year,award_id,award_name,shared,given_name,family_name,team_name
+FIFA Men's World Cup,1930,A-4,Golden Boot,0,Guillermo,Stábile,Argentina
+FIFA Men's World Cup,1930,A-5,Silver Boot,0,Pedro,Cea,Uruguay
+FIFA Men's World Cup,1930,A-6,Bronze Boot,0,Bert,Patenaude,United States
+FIFA Men's World Cup,1934,A-4,Golden Boot,0,Oldřich,Nejedlý,Czechoslovakia
+FIFA Men's World Cup,1934,A-5,Silver Boot,1,Angelo,Schiavio,Italy
+FIFA Men's World Cup,1934,A-5,Silver Boot,1,Edmund,Conen,Germany
+FIFA Men's World Cup,1938,A-4,Golden Boot,0,not applicable,Leônidas,Brazil
+FIFA Men's World Cup,1938,A-5,Silver Boot,1,György,Sárosi,Hungary
+FIFA Men's World Cup,1938,A-5,Silver Boot,1,Gyula,Zsengellér,Hungary
+FIFA Men's World Cup,1938,A-5,Silver Boot,1,Silvio,Piola,Italy
+FIFA Men's World Cup,1950,A-4,Golden Boot,0,not applicable,Ademir,Brazil
+FIFA Men's World Cup,1950,A-5,Silver Boot,0,Oscar,Míguez,Uruguay
+FIFA Men's World Cup,1950,A-6,Bronze Boot,1,Alcides,Ghiggia,Uruguay
+FIFA Men's World Cup,1950,A-6,Bronze Boot,1,not applicable,Chico,Brazil
+FIFA Men's World Cup,1950,A-6,Bronze Boot,1,Estanislau,Basora,Spain
+FIFA Men's World Cup,1950,A-6,Bronze Boot,1,Telmo,Zarra,Spain
+FIFA Men's World Cup,1954,A-4,Golden Boot,0,Sándor,Kocsis,Hungary
+FIFA Men's World Cup,1954,A-5,Silver Boot,1,Erich,Probst,Austria
+FIFA Men's World Cup,1954,A-5,Silver Boot,1,Josef,Hügi,Switzerland
+FIFA Men's World Cup,1954,A-5,Silver Boot,1,Max,Morlock,West Germany
+FIFA Men's World Cup,1958,A-4,Golden Boot,0,Just,Fontaine,France
+FIFA Men's World Cup,1958,A-5,Silver Boot,1,Helmut,Rahn,West Germany
+FIFA Men's World Cup,1958,A-5,Silver Boot,1,not applicable,Pelé,Brazil
+FIFA Men's World Cup,1958,A-8,Best Young Player,0,not applicable,Pelé,Brazil
+FIFA Men's World Cup,1962,A-4,Golden Boot,1,Dražan,Jerković,Yugoslavia
+FIFA Men's World Cup,1962,A-4,Golden Boot,1,Flórián,Albert,Hungary
+FIFA Men's World Cup,1962,A-4,Golden Boot,1,not applicable,Garrincha,Brazil
+FIFA Men's World Cup,1962,A-4,Golden Boot,1,Leonel,Sánchez,Chile
+FIFA Men's World Cup,1962,A-4,Golden Boot,1,Valentin,Ivanov,Soviet Union
+FIFA Men's World Cup,1962,A-4,Golden Boot,1,not applicable,Vavá,Brazil
+FIFA Men's World Cup,1962,A-8,Best Young Player,0,Flórián,Albert,Hungary
+FIFA Men's World Cup,1966,A-4,Golden Boot,0,not applicable,Eusébio,Portugal
+FIFA Men's World Cup,1966,A-5,Silver Boot,0,Helmut,Haller,West Germany
+FIFA Men's World Cup,1966,A-6,Bronze Boot,1,Ferenc,Bene,Hungary
+FIFA Men's World Cup,1966,A-6,Bronze Boot,1,Franz,Beckenbauer,West Germany
+FIFA Men's World Cup,1966,A-6,Bronze Boot,1,Geoff,Hurst,England
+FIFA Men's World Cup,1966,A-6,Bronze Boot,1,Valeriy,Porkujan,Soviet Union
+FIFA Men's World Cup,1966,A-8,Best Young Player,0,Franz,Beckenbauer,West Germany
+FIFA Men's World Cup,1970,A-4,Golden Boot,0,Gerd,Müller,West Germany
+FIFA Men's World Cup,1970,A-5,Silver Boot,0,not applicable,Jairzinho,Brazil
+FIFA Men's World Cup,1970,A-6,Bronze Boot,0,Teófilo,Cubillas,Peru
+FIFA Men's World Cup,1970,A-8,Best Young Player,0,Teófilo,Cubillas,Peru
+FIFA Men's World Cup,1974,A-4,Golden Boot,0,Grzegorz,Lato,Poland
+FIFA Men's World Cup,1974,A-5,Silver Boot,1,Andrzej,Szarmach,Poland
+FIFA Men's World Cup,1974,A-5,Silver Boot,1,Johan,Neeskens,Netherlands
+FIFA Men's World Cup,1974,A-8,Best Young Player,0,Władysław,Żmuda,Poland
+FIFA Men's World Cup,1978,A-1,Golden Ball,0,Mario,Kempes,Argentina
+FIFA Men's World Cup,1978,A-2,Silver Ball,0,Paolo,Rossi,Italy
+FIFA Men's World Cup,1978,A-3,Bronze Ball,0,not applicable,Dirceu,Brazil
+FIFA Men's World Cup,1978,A-4,Golden Boot,0,Mario,Kempes,Argentina
+FIFA Men's World Cup,1978,A-5,Silver Boot,0,Teófilo,Cubillas,Peru
+FIFA Men's World Cup,1978,A-6,Bronze Boot,0,Rob,Rensenbrink,Netherlands
+FIFA Men's World Cup,1978,A-8,Best Young Player,0,Antonio,Cabrini,Italy
+FIFA Men's World Cup,1982,A-1,Golden Ball,0,Paolo,Rossi,Italy
+FIFA Men's World Cup,1982,A-2,Silver Ball,0,not applicable,Falcão,Brazil
+FIFA Men's World Cup,1982,A-3,Bronze Ball,0,Karl-Heinz,Rummenigge,West Germany
+FIFA Men's World Cup,1982,A-4,Golden Boot,0,Paolo,Rossi,Italy
+FIFA Men's World Cup,1982,A-5,Silver Boot,0,Karl-Heinz,Rummenigge,West Germany
+FIFA Men's World Cup,1982,A-6,Bronze Boot,0,not applicable,Zico,Brazil
+FIFA Men's World Cup,1982,A-8,Best Young Player,0,Manuel,Amoros,France
+FIFA Men's World Cup,1986,A-1,Golden Ball,0,Diego,Maradona,Argentina
+FIFA Men's World Cup,1986,A-2,Silver Ball,0,Harald,Schumacher,West Germany
+FIFA Men's World Cup,1986,A-3,Bronze Ball,0,Preben,Elkjær,Denmark
+FIFA Men's World Cup,1986,A-4,Golden Boot,0,Gary,Lineker,England
+FIFA Men's World Cup,1986,A-5,Silver Boot,1,not applicable,Careca,Brazil
+FIFA Men's World Cup,1986,A-5,Silver Boot,1,Diego,Maradona,Argentina
+FIFA Men's World Cup,1986,A-5,Silver Boot,1,Emilio,Butragueño,Spain
+FIFA Men's World Cup,1986,A-8,Best Young Player,0,Enzo,Scifo,Belgium
+FIFA Men's World Cup,1990,A-1,Golden Ball,0,Salvatore,Schillaci,Italy
+FIFA Men's World Cup,1990,A-2,Silver Ball,0,Lothar,Matthäus,West Germany
+FIFA Men's World Cup,1990,A-3,Bronze Ball,0,Diego,Maradona,Argentina
+FIFA Men's World Cup,1990,A-4,Golden Boot,0,Salvatore,Schillaci,Italy
+FIFA Men's World Cup,1990,A-5,Silver Boot,0,Tomáš,Skuhravý,Czechoslovakia
+FIFA Men's World Cup,1990,A-6,Bronze Boot,1,Gary,Lineker,England
+FIFA Men's World Cup,1990,A-6,Bronze Boot,1,Roger,Milla,Cameroon
+FIFA Men's World Cup,1990,A-8,Best Young Player,0,Robert,Prosinečki,Yugoslavia
+FIFA Men's World Cup,1994,A-1,Golden Ball,0,not applicable,Romário,Brazil
+FIFA Men's World Cup,1994,A-2,Silver Ball,0,Roberto,Baggio,Italy
+FIFA Men's World Cup,1994,A-3,Bronze Ball,0,Hristo,Stoichkov,Bulgaria
+FIFA Men's World Cup,1994,A-4,Golden Boot,1,Hristo,Stoichkov,Bulgaria
+FIFA Men's World Cup,1994,A-4,Golden Boot,1,Oleg,Salenko,Russia
+FIFA Men's World Cup,1994,A-6,Bronze Boot,1,Kennet,Andersson,Sweden
+FIFA Men's World Cup,1994,A-6,Bronze Boot,1,not applicable,Romário,Brazil
+FIFA Men's World Cup,1994,A-7,Golden Glove,0,Michel,Preud'homme,Belgium
+FIFA Men's World Cup,1994,A-8,Best Young Player,0,Marc,Overmars,Netherlands
+FIFA Men's World Cup,1998,A-1,Golden Ball,0,not applicable,Ronaldo,Brazil
+FIFA Men's World Cup,1998,A-2,Silver Ball,0,Davor,Šuker,Croatia
+FIFA Men's World Cup,1998,A-3,Bronze Ball,0,Lilian,Thuram,France
+FIFA Men's World Cup,1998,A-4,Golden Boot,0,Davor,Šuker,Croatia
+FIFA Men's World Cup,1998,A-5,Silver Boot,1,Christian,Vieri,Italy
+FIFA Men's World Cup,1998,A-5,Silver Boot,1,Gabriel,Batistuta,Argentina
+FIFA Men's World Cup,1998,A-7,Golden Glove,0,Fabien,Barthez,France
+FIFA Men's World Cup,1998,A-8,Best Young Player,0,Michael,Owen,England
+FIFA Men's World Cup,2002,A-1,Golden Ball,0,Oliver,Kahn,Germany
+FIFA Men's World Cup,2002,A-2,Silver Ball,0,not applicable,Ronaldo,Brazil
+FIFA Men's World Cup,2002,A-3,Bronze Ball,0,Myung-bo,Hong,South Korea
+FIFA Men's World Cup,2002,A-4,Golden Boot,0,not applicable,Ronaldo,Brazil
+FIFA Men's World Cup,2002,A-5,Silver Boot,1,Miroslav,Klose,Germany
+FIFA Men's World Cup,2002,A-5,Silver Boot,1,not applicable,Rivaldo,Brazil
+FIFA Men's World Cup,2002,A-7,Golden Glove,0,Oliver,Kahn,Germany
+FIFA Men's World Cup,2002,A-8,Best Young Player,0,Landon,Donovan,United States
+FIFA Men's World Cup,2006,A-1,Golden Ball,0,Zinedine,Zidane,France
+FIFA Men's World Cup,2006,A-2,Silver Ball,0,Fabio,Cannavaro,Italy
+FIFA Men's World Cup,2006,A-3,Bronze Ball,0,Andrea,Pirlo,Italy
+FIFA Men's World Cup,2006,A-4,Golden Boot,0,Miroslav,Klose,Germany
+FIFA Men's World Cup,2006,A-5,Silver Boot,0,Hernán,Crespo,Argentina
+FIFA Men's World Cup,2006,A-6,Bronze Boot,0,not applicable,Ronaldo,Brazil
+FIFA Men's World Cup,2006,A-7,Golden Glove,0,Gianluigi,Buffon,Italy
+FIFA Men's World Cup,2006,A-8,Best Young Player,0,Lukas,Podolski,Germany
+FIFA Men's World Cup,2010,A-1,Golden Ball,0,Diego,Forlán,Uruguay
+FIFA Men's World Cup,2010,A-2,Silver Ball,0,Wesley,Sneijder,Netherlands
+FIFA Men's World Cup,2010,A-3,Bronze Ball,0,David,Villa,Spain
+FIFA Men's World Cup,2010,A-4,Golden Boot,0,Thomas,Müller,Germany
+FIFA Men's World Cup,2010,A-5,Silver Boot,0,David,Villa,Spain
+FIFA Men's World Cup,2010,A-6,Bronze Boot,0,Wesley,Sneijder,Netherlands
+FIFA Men's World Cup,2010,A-7,Golden Glove,0,Iker,Casillas,Spain
+FIFA Men's World Cup,2010,A-8,Best Young Player,0,Thomas,Müller,Germany
+FIFA Men's World Cup,2014,A-1,Golden Ball,0,Lionel,Messi,Argentina
+FIFA Men's World Cup,2014,A-2,Silver Ball,0,Thomas,Müller,Germany
+FIFA Men's World Cup,2014,A-3,Bronze Ball,0,Arjen,Robben,Netherlands
+FIFA Men's World Cup,2014,A-4,Golden Boot,0,James,Rodríguez,Colombia
+FIFA Men's World Cup,2014,A-5,Silver Boot,0,Thomas,Müller,Germany
+FIFA Men's World Cup,2014,A-6,Bronze Boot,0,not applicable,Neymar,Brazil
+FIFA Men's World Cup,2014,A-7,Golden Glove,0,Manuel,Neuer,Germany
+FIFA Men's World Cup,2014,A-8,Best Young Player,0,Paul,Pogba,France
+FIFA Men's World Cup,2018,A-1,Golden Ball,0,Luka,Modrić,Croatia
+FIFA Men's World Cup,2018,A-2,Silver Ball,0,Eden,Hazard,Belgium
+FIFA Men's World Cup,2018,A-3,Bronze Ball,0,Antoine,Griezmann,France
+FIFA Men's World Cup,2018,A-4,Golden Boot,0,Harry,Kane,England
+FIFA Men's World Cup,2018,A-5,Silver Boot,0,Antoine,Griezmann,France
+FIFA Men's World Cup,2018,A-6,Bronze Boot,0,Romelu,Lukaku,Belgium
+FIFA Men's World Cup,2018,A-7,Golden Glove,0,Thibaut,Courtois,Belgium
+FIFA Men's World Cup,2018,A-8,Best Young Player,0,Kylian,Mbappé,France
+FIFA Men's World Cup,2022,A-1,Golden Ball,0,Lionel,Messi,Argentina
+FIFA Men's World Cup,2022,A-2,Silver Ball,0,Kylian,Mbappé,France
+FIFA Men's World Cup,2022,A-3,Bronze Ball,0,Luka,Modrić,Croatia
+FIFA Men's World Cup,2022,A-4,Golden Boot,0,Kylian,Mbappé,France
+FIFA Men's World Cup,2022,A-5,Silver Boot,0,Lionel,Messi,Argentina
+FIFA Men's World Cup,2022,A-6,Bronze Boot,0,Olivier,Giroud,France
+FIFA Men's World Cup,2022,A-7,Golden Glove,0,Emiliano,Martínez,Argentina
+FIFA Men's World Cup,2022,A-8,Best Young Player,0,Enzo,Fernández,Argentina
+FIFA Women's World Cup,1991,A-1,Golden Ball,0,Carin,Jennings-Gabarra,United States
+FIFA Women's World Cup,1991,A-2,Silver Ball,0,Michelle,Akers,United States
+FIFA Women's World Cup,1991,A-3,Bronze Ball,0,Linda,Medalen,Norway
+FIFA Women's World Cup,1995,A-1,Golden Ball,0,Hege,Riise,Norway
+FIFA Women's World Cup,1995,A-2,Silver Ball,0,Gro,Espeseth,Norway
+FIFA Women's World Cup,1995,A-3,Bronze Ball,0,Ann Kristin,Aarønes,Norway
+FIFA Women's World Cup,1999,A-1,Golden Ball,0,Wen,Sun,China
+FIFA Women's World Cup,1999,A-2,Silver Ball,0,not applicable,Sissi,Brazil
+FIFA Women's World Cup,1999,A-3,Bronze Ball,0,Michelle,Akers,United States
+FIFA Women's World Cup,2003,A-1,Golden Ball,0,Birgit,Prinz,Germany
+FIFA Women's World Cup,2003,A-2,Silver Ball,0,Victoria,Svensson,Sweden
+FIFA Women's World Cup,2003,A-3,Bronze Ball,0,Maren,Meinert,Germany
+FIFA Women's World Cup,2007,A-1,Golden Ball,0,not applicable,Marta,Brazil
+FIFA Women's World Cup,2007,A-2,Silver Ball,0,Birgit,Prinz,Germany
+FIFA Women's World Cup,2007,A-3,Bronze Ball,0,not applicable,Cristiane,Brazil
+FIFA Women's World Cup,2011,A-1,Golden Ball,0,Homare,Sawa,Japan
+FIFA Women's World Cup,2011,A-2,Silver Ball,0,Abby,Wambach,United States
+FIFA Women's World Cup,2011,A-3,Bronze Ball,0,Hope,Solo,United States
+FIFA Women's World Cup,2015,A-1,Golden Ball,0,Carli,Lloyd,United States
+FIFA Women's World Cup,2015,A-2,Silver Ball,0,Amandine,Henry,France
+FIFA Women's World Cup,2015,A-3,Bronze Ball,0,Aya,Miyama,Japan
+FIFA Women's World Cup,2019,A-1,Golden Ball,0,Megan,Rapinoe,United States
+FIFA Women's World Cup,2019,A-2,Silver Ball,0,Lucy,Bronze,England
+FIFA Women's World Cup,2019,A-3,Bronze Ball,0,Rose,Lavelle,United States
+FIFA Women's World Cup,1991,A-4,Golden Boot,0,Michelle,Akers,United States
+FIFA Women's World Cup,1991,A-5,Silver Boot,0,Heidi,Mohr,Germany
+FIFA Women's World Cup,1991,A-6,Bronze Boot,1,Linda,Medalen,Norway
+FIFA Women's World Cup,1991,A-6,Bronze Boot,1,Carin,Jennings-Gabarra,United States
+FIFA Women's World Cup,1995,A-4,Golden Boot,0,Ann Kristin,Aarønes,Norway
+FIFA Women's World Cup,1995,A-5,Silver Boot,0,Hege,Riise,Norway
+FIFA Women's World Cup,1995,A-6,Bronze Boot,0,Guihong,Shi,China
+FIFA Women's World Cup,1999,A-4,Golden Boot,1,Wen,Sun,China
+FIFA Women's World Cup,1999,A-4,Golden Boot,1,not applicable,Sissi,Brazil
+FIFA Women's World Cup,1999,A-6,Bronze Boot,0,Ann Kristin,Aarønes,Norway
+FIFA Women's World Cup,2003,A-4,Golden Boot,0,Birgit,Prinz,Germany
+FIFA Women's World Cup,2003,A-5,Silver Boot,0,Maren,Meinert,Germany
+FIFA Women's World Cup,2003,A-6,Bronze Boot,0,not applicable,Kátia,Brazil
+FIFA Women's World Cup,2007,A-4,Golden Boot,0,not applicable,Marta,Brazil
+FIFA Women's World Cup,2007,A-5,Silver Boot,0,Abby,Wambach,United States
+FIFA Women's World Cup,2007,A-6,Bronze Boot,0,Ragnhild,Gulbrandsen,Norway
+FIFA Women's World Cup,2011,A-4,Golden Boot,0,Homare,Sawa,Japan
+FIFA Women's World Cup,2011,A-5,Silver Boot,0,not applicable,Marta,Brazil
+FIFA Women's World Cup,2011,A-6,Bronze Boot,0,Abby,Wambach,United States
+FIFA Women's World Cup,2015,A-4,Golden Boot,0,Célia,Šašić,Germany
+FIFA Women's World Cup,2015,A-5,Silver Boot,0,Carli,Lloyd,United States
+FIFA Women's World Cup,2015,A-6,Bronze Boot,0,Anja,Mittag,Germany
+FIFA Women's World Cup,2019,A-4,Golden Boot,0,Megan,Rapinoe,United States
+FIFA Women's World Cup,2019,A-5,Silver Boot,0,Alex,Morgan,United States
+FIFA Women's World Cup,2019,A-6,Bronze Boot,0,Ellen,White,England
+FIFA Women's World Cup,1999,A-7,Golden Glove,1,Hong,Gao,China
+FIFA Women's World Cup,1999,A-7,Golden Glove,1,Briana,Scurry,United States
+FIFA Women's World Cup,2003,A-7,Golden Glove,0,Silke,Rottenberg,Germany
+FIFA Women's World Cup,2007,A-7,Golden Glove,0,Nadine,Angerer,Germany
+FIFA Women's World Cup,2011,A-7,Golden Glove,0,Hope,Solo,United States
+FIFA Women's World Cup,2015,A-7,Golden Glove,0,Hope,Solo,United States
+FIFA Women's World Cup,2019,A-7,Golden Glove,0,Sari,van Veenendaal,Netherlands
+FIFA Women's World Cup,2011,A-8,Best Young Player,0,Caitlin,Foord,Australia
+FIFA Women's World Cup,2015,A-8,Best Young Player,0,Kadeisha,Buchanan,Canada
+FIFA Women's World Cup,2019,A-8,Best Young Player,0,Giulia,Gwinn,Germany

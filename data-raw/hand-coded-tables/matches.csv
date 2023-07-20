@@ -1,965 +1,1249 @@
-year,match_name,match_date,stage_name,knockout_stage,group_stage,group_name,replayed,replay
-1930,France v Mexico,1930-07-13,group stage,0,1,Group 1,0,0
-1930,United States v Belgium,1930-07-13,group stage,0,1,Group 4,0,0
-1930,Yugoslavia v Brazil,1930-07-14,group stage,0,1,Group 2,0,0
-1930,Romania v Peru,1930-07-14,group stage,0,1,Group 3,0,0
-1930,Argentina v France,1930-07-15,group stage,0,1,Group 1,0,0
-1930,Chile v Mexico,1930-07-16,group stage,0,1,Group 1,0,0
-1930,Yugoslavia v Bolivia,1930-07-17,group stage,0,1,Group 2,0,0
-1930,United States v Paraguay,1930-07-17,group stage,0,1,Group 4,0,0
-1930,Uruguay v Peru,1930-07-18,group stage,0,1,Group 3,0,0
-1930,Argentina v Mexico,1930-07-19,group stage,0,1,Group 1,0,0
-1930,Chile v France,1930-07-19,group stage,0,1,Group 1,0,0
-1930,Brazil v Bolivia,1930-07-20,group stage,0,1,Group 2,0,0
-1930,Paraguay v Belgium,1930-07-20,group stage,0,1,Group 4,0,0
-1930,Uruguay v Romania,1930-07-21,group stage,0,1,Group 3,0,0
-1930,Argentina v Chile,1930-07-22,group stage,0,1,Group 1,0,0
-1930,Argentina v United States,1930-07-26,semi-finals,1,0,not applicable,0,0
-1930,Uruguay v Yugoslavia,1930-07-27,semi-finals,1,0,not applicable,0,0
-1930,Uruguay v Argentina,1930-07-30,final,1,0,not applicable,0,0
-1934,Austria v France,1934-05-27,round of 16,1,0,not applicable,0,0
-1934,Czechoslovakia v Romania,1934-05-27,round of 16,1,0,not applicable,0,0
-1934,Germany v Belgium,1934-05-27,round of 16,1,0,not applicable,0,0
-1934,Hungary v Egypt,1934-05-27,round of 16,1,0,not applicable,0,0
-1934,Italy v United States,1934-05-27,round of 16,1,0,not applicable,0,0
-1934,Spain v Brazil,1934-05-27,round of 16,1,0,not applicable,0,0
-1934,Sweden v Argentina,1934-05-27,round of 16,1,0,not applicable,0,0
-1934,Switzerland v Netherlands,1934-05-27,round of 16,1,0,not applicable,0,0
-1934,Austria v Hungary,1934-05-31,quarter-finals,1,0,not applicable,0,0
-1934,Czechoslovakia v Switzerland,1934-05-31,quarter-finals,1,0,not applicable,0,0
-1934,Germany v Sweden,1934-05-31,quarter-finals,1,0,not applicable,0,0
-1934,Italy v Spain,1934-05-31,quarter-finals,1,0,not applicable,1,0
-1934,Italy v Spain,1934-06-01,quarter-finals,1,0,not applicable,0,1
-1934,Czechoslovakia v Germany,1934-06-03,semi-finals,1,0,not applicable,0,0
-1934,Italy v Austria,1934-06-03,semi-finals,1,0,not applicable,0,0
-1934,Germany v Austria,1934-06-07,third-place match,1,0,not applicable,0,0
-1934,Italy v Czechoslovakia,1934-06-10,final,1,0,not applicable,0,0
-1938,Switzerland v Germany,1938-06-04,round of 16,1,0,not applicable,1,0
-1938,Brazil v Poland,1938-06-05,round of 16,1,0,not applicable,0,0
-1938,Cuba v Romania,1938-06-05,round of 16,1,0,not applicable,1,0
-1938,Czechoslovakia v Netherlands,1938-06-05,round of 16,1,0,not applicable,0,0
-1938,France v Belgium,1938-06-05,round of 16,1,0,not applicable,0,0
-1938,Hungary v Dutch East Indies,1938-06-05,round of 16,1,0,not applicable,0,0
-1938,Italy v Norway,1938-06-05,round of 16,1,0,not applicable,0,0
-1938,Cuba v Romania,1938-06-09,round of 16,1,0,not applicable,0,1
-1938,Switzerland v Germany,1938-06-09,round of 16,1,0,not applicable,0,1
-1938,Brazil v Czechoslovakia,1938-06-12,quarter-finals,1,0,not applicable,1,0
-1938,Hungary v Switzerland,1938-06-12,quarter-finals,1,0,not applicable,0,0
-1938,Italy v France,1938-06-12,quarter-finals,1,0,not applicable,0,0
-1938,Sweden v Cuba,1938-06-12,quarter-finals,1,0,not applicable,0,0
-1938,Brazil v Czechoslovakia,1938-06-14,quarter-finals,1,0,not applicable,0,1
-1938,Hungary v Sweden,1938-06-16,semi-finals,1,0,not applicable,0,0
-1938,Italy v Brazil,1938-06-16,semi-finals,1,0,not applicable,0,0
-1938,Brazil v Sweden,1938-06-19,third-place match,1,0,not applicable,0,0
-1938,Italy v Hungary,1938-06-19,final,1,0,not applicable,0,0
-1950,Brazil v Mexico,1950-06-24,group stage,0,1,Group 1,0,0
-1950,Yugoslavia v Switzerland,1950-06-25,group stage,0,1,Group 1,0,0
-1950,England v Chile,1950-06-25,group stage,0,1,Group 2,0,0
-1950,Spain v United States,1950-06-25,group stage,0,1,Group 2,0,0
-1950,Sweden v Italy,1950-06-25,group stage,0,1,Group 3,0,0
-1950,Brazil v Switzerland,1950-06-28,group stage,0,1,Group 1,0,0
-1950,Yugoslavia v Mexico,1950-06-28,group stage,0,1,Group 1,0,0
-1950,Spain v Chile,1950-06-29,group stage,0,1,Group 2,0,0
-1950,United States v England,1950-06-29,group stage,0,1,Group 2,0,0
-1950,Sweden v Paraguay,1950-06-29,group stage,0,1,Group 3,0,0
-1950,Brazil v Yugoslavia,1950-07-01,group stage,0,1,Group 1,0,0
-1950,Switzerland v Mexico,1950-07-02,group stage,0,1,Group 1,0,0
-1950,Chile v United States,1950-07-02,group stage,0,1,Group 2,0,0
-1950,Spain v England,1950-07-02,group stage,0,1,Group 2,0,0
-1950,Italy v Paraguay,1950-07-02,group stage,0,1,Group 3,0,0
-1950,Uruguay v Bolivia,1950-07-02,group stage,0,1,Group 4,0,0
-1950,Brazil v Sweden,1950-07-09,final round,0,1,not applicable,0,0
-1950,Uruguay v Spain,1950-07-09,final round,0,1,not applicable,0,0
-1950,Brazil v Spain,1950-07-13,final round,0,1,not applicable,0,0
-1950,Uruguay v Sweden,1950-07-13,final round,0,1,not applicable,0,0
-1950,Sweden v Spain,1950-07-16,final round,0,1,not applicable,0,0
-1950,Uruguay v Brazil,1950-07-16,final round,0,1,not applicable,0,0
-1954,Brazil v Mexico,1954-06-16,group stage,0,1,Group 1,0,0
-1954,Yugoslavia v France,1954-06-16,group stage,0,1,Group 1,0,0
-1954,Austria v Scotland,1954-06-16,group stage,0,1,Group 3,0,0
-1954,Uruguay v Czechoslovakia,1954-06-16,group stage,0,1,Group 3,0,0
-1954,Hungary v South Korea,1954-06-17,group stage,0,1,Group 2,0,0
-1954,West Germany v Turkey,1954-06-17,group stage,0,1,Group 2,0,0
-1954,England v Belgium,1954-06-17,group stage,0,1,Group 4,0,0
-1954,Switzerland v Italy,1954-06-17,group stage,0,1,Group 4,0,0
-1954,Brazil v Yugoslavia,1954-06-19,group stage,0,1,Group 1,0,0
-1954,France v Mexico,1954-06-19,group stage,0,1,Group 1,0,0
-1954,Austria v Czechoslovakia,1954-06-19,group stage,0,1,Group 3,0,0
-1954,Uruguay v Scotland,1954-06-19,group stage,0,1,Group 3,0,0
-1954,Hungary v West Germany,1954-06-20,group stage,0,1,Group 2,0,0
-1954,Turkey v South Korea,1954-06-20,group stage,0,1,Group 2,0,0
-1954,England v Switzerland,1954-06-20,group stage,0,1,Group 4,0,0
-1954,Italy v Belgium,1954-06-20,group stage,0,1,Group 4,0,0
-1954,West Germany v Turkey,1954-06-23,group stage,0,1,Group 2,0,0
-1954,Switzerland v Italy,1954-06-23,group stage,0,1,Group 4,0,0
-1954,Austria v Switzerland,1954-06-26,quarter-finals,1,0,not applicable,0,0
-1954,Uruguay v England,1954-06-26,quarter-finals,1,0,not applicable,0,0
-1954,Hungary v Brazil,1954-06-27,quarter-finals,1,0,not applicable,0,0
-1954,West Germany v Yugoslavia,1954-06-27,quarter-finals,1,0,not applicable,0,0
-1954,Hungary v Uruguay,1954-06-30,semi-finals,1,0,not applicable,0,0
-1954,West Germany v Austria,1954-06-30,semi-finals,1,0,not applicable,0,0
-1954,Austria v Uruguay,1954-07-03,third-place match,1,0,not applicable,0,0
-1954,West Germany v Hungary,1954-07-04,final,1,0,not applicable,0,0
-1958,Argentina v West Germany,1958-06-08,group stage,0,1,Group 1,0,0
-1958,Northern Ireland v Czechoslovakia,1958-06-08,group stage,0,1,Group 1,0,0
-1958,France v Paraguay,1958-06-08,group stage,0,1,Group 2,0,0
-1958,Yugoslavia v Scotland,1958-06-08,group stage,0,1,Group 2,0,0
-1958,Hungary v Wales,1958-06-08,group stage,0,1,Group 3,0,0
-1958,Sweden v Mexico,1958-06-08,group stage,0,1,Group 3,0,0
-1958,Brazil v Austria,1958-06-08,group stage,0,1,Group 4,0,0
-1958,Soviet Union v England,1958-06-08,group stage,0,1,Group 4,0,0
-1958,Argentina v Northern Ireland,1958-06-11,group stage,0,1,Group 1,0,0
-1958,West Germany v Czechoslovakia,1958-06-11,group stage,0,1,Group 1,0,0
-1958,Paraguay v Scotland,1958-06-11,group stage,0,1,Group 2,0,0
-1958,Yugoslavia v France,1958-06-11,group stage,0,1,Group 2,0,0
-1958,Mexico v Wales,1958-06-11,group stage,0,1,Group 3,0,0
-1958,Brazil v England,1958-06-11,group stage,0,1,Group 4,0,0
-1958,Soviet Union v Austria,1958-06-11,group stage,0,1,Group 4,0,0
-1958,Sweden v Hungary,1958-06-12,group stage,0,1,Group 3,0,0
-1958,Czechoslovakia v Argentina,1958-06-15,group stage,0,1,Group 1,0,0
-1958,West Germany v Northern Ireland,1958-06-15,group stage,0,1,Group 1,0,0
-1958,France v Scotland,1958-06-15,group stage,0,1,Group 2,0,0
-1958,Paraguay v Yugoslavia,1958-06-15,group stage,0,1,Group 2,0,0
-1958,Hungary v Mexico,1958-06-15,group stage,0,1,Group 3,0,0
-1958,Sweden v Wales,1958-06-15,group stage,0,1,Group 3,0,0
-1958,Brazil v Soviet Union,1958-06-15,group stage,0,1,Group 4,0,0
-1958,England v Austria,1958-06-15,group stage,0,1,Group 4,0,0
-1958,Northern Ireland v Czechoslovakia,1958-06-17,group stage,0,1,Group 1,0,0
-1958,Wales v Hungary,1958-06-17,group stage,0,1,Group 3,0,0
-1958,Soviet Union v England,1958-06-17,group stage,0,1,Group 4,0,0
-1958,Brazil v Wales,1958-06-19,quarter-finals,1,0,not applicable,0,0
-1958,France v Northern Ireland,1958-06-19,quarter-finals,1,0,not applicable,0,0
-1958,Sweden v Soviet Union,1958-06-19,quarter-finals,1,0,not applicable,0,0
-1958,West Germany v Yugoslavia,1958-06-19,quarter-finals,1,0,not applicable,0,0
-1958,Brazil v France,1958-06-24,semi-finals,1,0,not applicable,0,0
-1958,Sweden v West Germany,1958-06-24,semi-finals,1,0,not applicable,0,0
-1958,France v West Germany,1958-06-28,third-place match,1,0,not applicable,0,0
-1958,Brazil v Sweden,1958-06-29,final,1,0,not applicable,0,0
-1962,Uruguay v Colombia,1962-05-30,group stage,0,1,Group 1,0,0
-1962,Chile v Switzerland,1962-05-30,group stage,0,1,Group 2,0,0
-1962,Brazil v Mexico,1962-05-30,group stage,0,1,Group 3,0,0
-1962,Argentina v Bulgaria,1962-05-30,group stage,0,1,Group 4,0,0
-1962,Soviet Union v Yugoslavia,1962-05-31,group stage,0,1,Group 1,0,0
-1962,West Germany v Italy,1962-05-31,group stage,0,1,Group 2,0,0
-1962,Czechoslovakia v Spain,1962-05-31,group stage,0,1,Group 3,0,0
-1962,Hungary v England,1962-05-31,group stage,0,1,Group 4,0,0
-1962,Yugoslavia v Uruguay,1962-06-02,group stage,0,1,Group 1,0,0
-1962,Chile v Italy,1962-06-02,group stage,0,1,Group 2,0,0
-1962,Brazil v Czechoslovakia,1962-06-02,group stage,0,1,Group 3,0,0
-1962,England v Argentina,1962-06-02,group stage,0,1,Group 4,0,0
-1962,Soviet Union v Colombia,1962-06-03,group stage,0,1,Group 1,0,0
-1962,West Germany v Switzerland,1962-06-03,group stage,0,1,Group 2,0,0
-1962,Spain v Mexico,1962-06-03,group stage,0,1,Group 3,0,0
-1962,Hungary v Bulgaria,1962-06-03,group stage,0,1,Group 4,0,0
-1962,Soviet Union v Uruguay,1962-06-06,group stage,0,1,Group 1,0,0
-1962,West Germany v Chile,1962-06-06,group stage,0,1,Group 2,0,0
-1962,Brazil v Spain,1962-06-06,group stage,0,1,Group 3,0,0
-1962,Hungary v Argentina,1962-06-06,group stage,0,1,Group 4,0,0
-1962,Yugoslavia v Colombia,1962-06-07,group stage,0,1,Group 1,0,0
-1962,Italy v Switzerland,1962-06-07,group stage,0,1,Group 2,0,0
-1962,Mexico v Czechoslovakia,1962-06-07,group stage,0,1,Group 3,0,0
-1962,England v Bulgaria,1962-06-07,group stage,0,1,Group 4,0,0
-1962,Brazil v England,1962-06-10,quarter-finals,1,0,not applicable,0,0
-1962,Chile v Soviet Union,1962-06-10,quarter-finals,1,0,not applicable,0,0
-1962,Czechoslovakia v Hungary,1962-06-10,quarter-finals,1,0,not applicable,0,0
-1962,Yugoslavia v West Germany,1962-06-10,quarter-finals,1,0,not applicable,0,0
-1962,Brazil v Chile,1962-06-13,semi-finals,1,0,not applicable,0,0
-1962,Czechoslovakia v Yugoslavia,1962-06-13,semi-finals,1,0,not applicable,0,0
-1962,Chile v Yugoslavia,1962-06-16,third-place match,1,0,not applicable,0,0
-1962,Brazil v Czechoslovakia,1962-06-17,final,1,0,not applicable,0,0
-1966,England v Uruguay,1966-07-11,group stage,0,1,Group 1,0,0
-1966,West Germany v Switzerland,1966-07-12,group stage,0,1,Group 2,0,0
-1966,Brazil v Bulgaria,1966-07-12,group stage,0,1,Group 3,0,0
-1966,Soviet Union v North Korea,1966-07-12,group stage,0,1,Group 4,0,0
-1966,France v Mexico,1966-07-13,group stage,0,1,Group 1,0,0
-1966,Argentina v Spain,1966-07-13,group stage,0,1,Group 2,0,0
-1966,Portugal v Hungary,1966-07-13,group stage,0,1,Group 3,0,0
-1966,Italy v Chile,1966-07-13,group stage,0,1,Group 4,0,0
-1966,Uruguay v France,1966-07-15,group stage,0,1,Group 1,0,0
-1966,Spain v Switzerland,1966-07-15,group stage,0,1,Group 2,0,0
-1966,Hungary v Brazil,1966-07-15,group stage,0,1,Group 3,0,0
-1966,Chile v North Korea,1966-07-15,group stage,0,1,Group 4,0,0
-1966,England v Mexico,1966-07-16,group stage,0,1,Group 1,0,0
-1966,Argentina v West Germany,1966-07-16,group stage,0,1,Group 2,0,0
-1966,Portugal v Bulgaria,1966-07-16,group stage,0,1,Group 3,0,0
-1966,Soviet Union v Italy,1966-07-16,group stage,0,1,Group 4,0,0
-1966,Mexico v Uruguay,1966-07-19,group stage,0,1,Group 1,0,0
-1966,Argentina v Switzerland,1966-07-19,group stage,0,1,Group 2,0,0
-1966,Portugal v Brazil,1966-07-19,group stage,0,1,Group 3,0,0
-1966,North Korea v Italy,1966-07-19,group stage,0,1,Group 4,0,0
-1966,England v France,1966-07-20,group stage,0,1,Group 1,0,0
-1966,West Germany v Spain,1966-07-20,group stage,0,1,Group 2,0,0
-1966,Hungary v Bulgaria,1966-07-20,group stage,0,1,Group 3,0,0
-1966,Soviet Union v Chile,1966-07-20,group stage,0,1,Group 4,0,0
-1966,England v Argentina,1966-07-23,quarter-finals,1,0,not applicable,0,0
-1966,Portugal v North Korea,1966-07-23,quarter-finals,1,0,not applicable,0,0
-1966,Soviet Union v Hungary,1966-07-23,quarter-finals,1,0,not applicable,0,0
-1966,West Germany v Uruguay,1966-07-23,quarter-finals,1,0,not applicable,0,0
-1966,West Germany v Soviet Union,1966-07-25,semi-finals,1,0,not applicable,0,0
-1966,England v Portugal,1966-07-26,semi-finals,1,0,not applicable,0,0
-1966,Portugal v Soviet Union,1966-07-28,third-place match,1,0,not applicable,0,0
-1966,England v West Germany,1966-07-30,final,1,0,not applicable,0,0
-1970,Mexico v Soviet Union,1970-05-31,group stage,0,1,Group 1,0,0
-1970,Uruguay v Israel,1970-06-02,group stage,0,1,Group 2,0,0
-1970,England v Romania,1970-06-02,group stage,0,1,Group 3,0,0
-1970,Peru v Bulgaria,1970-06-02,group stage,0,1,Group 4,0,0
-1970,Belgium v El Salvador,1970-06-03,group stage,0,1,Group 1,0,0
-1970,Italy v Sweden,1970-06-03,group stage,0,1,Group 2,0,0
-1970,Brazil v Czechoslovakia,1970-06-03,group stage,0,1,Group 3,0,0
-1970,West Germany v Morocco,1970-06-03,group stage,0,1,Group 4,0,0
-1970,Soviet Union v Belgium,1970-06-06,group stage,0,1,Group 1,0,0
-1970,Uruguay v Italy,1970-06-06,group stage,0,1,Group 2,0,0
-1970,Romania v Czechoslovakia,1970-06-06,group stage,0,1,Group 3,0,0
-1970,Peru v Morocco,1970-06-06,group stage,0,1,Group 4,0,0
-1970,Mexico v El Salvador,1970-06-07,group stage,0,1,Group 1,0,0
-1970,Sweden v Israel,1970-06-07,group stage,0,1,Group 2,0,0
-1970,Brazil v England,1970-06-07,group stage,0,1,Group 3,0,0
-1970,West Germany v Bulgaria,1970-06-07,group stage,0,1,Group 4,0,0
-1970,Soviet Union v El Salvador,1970-06-10,group stage,0,1,Group 1,0,0
-1970,Sweden v Uruguay,1970-06-10,group stage,0,1,Group 2,0,0
-1970,Brazil v Romania,1970-06-10,group stage,0,1,Group 3,0,0
-1970,West Germany v Peru,1970-06-10,group stage,0,1,Group 4,0,0
-1970,Mexico v Belgium,1970-06-11,group stage,0,1,Group 1,0,0
-1970,Italy v Israel,1970-06-11,group stage,0,1,Group 2,0,0
-1970,England v Czechoslovakia,1970-06-11,group stage,0,1,Group 3,0,0
-1970,Bulgaria v Morocco,1970-06-11,group stage,0,1,Group 4,0,0
-1970,Brazil v Peru,1970-06-14,quarter-finals,1,0,not applicable,0,0
-1970,Italy v Mexico,1970-06-14,quarter-finals,1,0,not applicable,0,0
-1970,Soviet Union v Uruguay,1970-06-14,quarter-finals,1,0,not applicable,0,0
-1970,West Germany v England,1970-06-14,quarter-finals,1,0,not applicable,0,0
-1970,Brazil v Uruguay,1970-06-17,semi-finals,1,0,not applicable,0,0
-1970,Italy v West Germany,1970-06-17,semi-finals,1,0,not applicable,0,0
-1970,West Germany v Uruguay,1970-06-20,third-place match,1,0,not applicable,0,0
-1970,Brazil v Italy,1970-06-21,final,1,0,not applicable,0,0
-1974,Brazil v Yugoslavia,1974-06-13,group stage,0,1,Group 2,0,0
-1974,East Germany v Australia,1974-06-14,group stage,0,1,Group 1,0,0
-1974,West Germany v Chile,1974-06-14,group stage,0,1,Group 1,0,0
-1974,Zaire v Scotland,1974-06-14,group stage,0,1,Group 2,0,0
-1974,Sweden v Bulgaria,1974-06-15,group stage,0,1,Group 3,0,0
-1974,Uruguay v Netherlands,1974-06-15,group stage,0,1,Group 3,0,0
-1974,Italy v Haiti,1974-06-15,group stage,0,1,Group 4,0,0
-1974,Poland v Argentina,1974-06-15,group stage,0,1,Group 4,0,0
-1974,Australia v West Germany,1974-06-18,group stage,0,1,Group 1,0,0
-1974,Chile v East Germany,1974-06-18,group stage,0,1,Group 1,0,0
-1974,Scotland v Brazil,1974-06-18,group stage,0,1,Group 2,0,0
-1974,Yugoslavia v Zaire,1974-06-18,group stage,0,1,Group 2,0,0
-1974,Bulgaria v Uruguay,1974-06-19,group stage,0,1,Group 3,0,0
-1974,Netherlands v Sweden,1974-06-19,group stage,0,1,Group 3,0,0
-1974,Argentina v Italy,1974-06-19,group stage,0,1,Group 4,0,0
-1974,Haiti v Poland,1974-06-19,group stage,0,1,Group 4,0,0
-1974,Australia v Chile,1974-06-22,group stage,0,1,Group 1,0,0
-1974,East Germany v West Germany,1974-06-22,group stage,0,1,Group 1,0,0
-1974,Scotland v Yugoslavia,1974-06-22,group stage,0,1,Group 2,0,0
-1974,Zaire v Brazil,1974-06-22,group stage,0,1,Group 2,0,0
-1974,Bulgaria v Netherlands,1974-06-23,group stage,0,1,Group 3,0,0
-1974,Sweden v Uruguay,1974-06-23,group stage,0,1,Group 3,0,0
-1974,Argentina v Haiti,1974-06-23,group stage,0,1,Group 4,0,0
-1974,Poland v Italy,1974-06-23,group stage,0,1,Group 4,0,0
-1974,Brazil v East Germany,1974-06-26,second group stage,0,1,Group A,0,0
-1974,Netherlands v Argentina,1974-06-26,second group stage,0,1,Group A,0,0
-1974,Sweden v Poland,1974-06-26,second group stage,0,1,Group B,0,0
-1974,Yugoslavia v West Germany,1974-06-26,second group stage,0,1,Group B,0,0
-1974,Argentina v Brazil,1974-06-30,second group stage,0,1,Group A,0,0
-1974,East Germany v Netherlands,1974-06-30,second group stage,0,1,Group A,0,0
-1974,Poland v Yugoslavia,1974-06-30,second group stage,0,1,Group B,0,0
-1974,West Germany v Sweden,1974-06-30,second group stage,0,1,Group B,0,0
-1974,Argentina v East Germany,1974-07-03,second group stage,0,1,Group A,0,0
-1974,Netherlands v Brazil,1974-07-03,second group stage,0,1,Group A,0,0
-1974,Poland v West Germany,1974-07-03,second group stage,0,1,Group B,0,0
-1974,Sweden v Yugoslavia,1974-07-03,second group stage,0,1,Group B,0,0
-1974,Brazil v Poland,1974-07-06,third-place match,1,0,not applicable,0,0
-1974,Netherlands v West Germany,1974-07-07,final,1,0,not applicable,0,0
-1978,West Germany v Poland,1978-06-01,group stage,0,1,Group 2,0,0
-1978,Argentina v Hungary,1978-06-02,group stage,0,1,Group 1,0,0
-1978,Italy v France,1978-06-02,group stage,0,1,Group 1,0,0
-1978,Tunisia v Mexico,1978-06-02,group stage,0,1,Group 2,0,0
-1978,Austria v Spain,1978-06-03,group stage,0,1,Group 3,0,0
-1978,Brazil v Sweden,1978-06-03,group stage,0,1,Group 3,0,0
-1978,Netherlands v Iran,1978-06-03,group stage,0,1,Group 4,0,0
-1978,Peru v Scotland,1978-06-03,group stage,0,1,Group 4,0,0
-1978,Argentina v France,1978-06-06,group stage,0,1,Group 1,0,0
-1978,Italy v Hungary,1978-06-06,group stage,0,1,Group 1,0,0
-1978,Poland v Tunisia,1978-06-06,group stage,0,1,Group 2,0,0
-1978,West Germany v Mexico,1978-06-06,group stage,0,1,Group 2,0,0
-1978,Austria v Sweden,1978-06-07,group stage,0,1,Group 3,0,0
-1978,Brazil v Spain,1978-06-07,group stage,0,1,Group 3,0,0
-1978,Netherlands v Peru,1978-06-07,group stage,0,1,Group 4,0,0
-1978,Scotland v Iran,1978-06-07,group stage,0,1,Group 4,0,0
-1978,France v Hungary,1978-06-10,group stage,0,1,Group 1,0,0
-1978,Argentina v Italy,1978-06-10,group stage,0,1,Group 1,0,0
-1978,Poland v Mexico,1978-06-10,group stage,0,1,Group 2,0,0
-1978,West Germany v Tunisia,1978-06-10,group stage,0,1,Group 2,0,0
-1978,Brazil v Austria,1978-06-11,group stage,0,1,Group 3,0,0
-1978,Spain v Sweden,1978-06-11,group stage,0,1,Group 3,0,0
-1978,Peru v Iran,1978-06-11,group stage,0,1,Group 4,0,0
-1978,Scotland v Netherlands,1978-06-11,group stage,0,1,Group 4,0,0
-1978,Austria v Netherlands,1978-06-14,second group stage,0,1,Group A,0,0
-1978,Italy v West Germany,1978-06-14,second group stage,0,1,Group A,0,0
-1978,Argentina v Poland,1978-06-14,second group stage,0,1,Group B,0,0
-1978,Brazil v Peru,1978-06-14,second group stage,0,1,Group B,0,0
-1978,Italy v Austria,1978-06-18,second group stage,0,1,Group A,0,0
-1978,Netherlands v West Germany,1978-06-18,second group stage,0,1,Group A,0,0
-1978,Argentina v Brazil,1978-06-18,second group stage,0,1,Group B,0,0
-1978,Peru v Poland,1978-06-18,second group stage,0,1,Group B,0,0
-1978,Austria v West Germany,1978-06-21,second group stage,0,1,Group A,0,0
-1978,Italy v Netherlands,1978-06-21,second group stage,0,1,Group A,0,0
-1978,Argentina v Peru,1978-06-21,second group stage,0,1,Group B,0,0
-1978,Brazil v Poland,1978-06-21,second group stage,0,1,Group B,0,0
-1978,Brazil v Italy,1978-06-24,third-place match,1,0,not applicable,0,0
-1978,Argentina v Netherlands,1978-06-25,final,1,0,not applicable,0,0
-1982,Argentina v Belgium,1982-06-13,group stage,0,1,Group 3,0,0
-1982,Italy v Poland,1982-06-14,group stage,0,1,Group 1,0,0
-1982,Brazil v Soviet Union,1982-06-14,group stage,0,1,Group 6,0,0
-1982,Peru v Cameroon,1982-06-15,group stage,0,1,Group 1,0,0
-1982,Hungary v El Salvador,1982-06-15,group stage,0,1,Group 3,0,0
-1982,Scotland v New Zealand,1982-06-15,group stage,0,1,Group 6,0,0
-1982,West Germany v Algeria,1982-06-16,group stage,0,1,Group 2,0,0
-1982,England v France,1982-06-16,group stage,0,1,Group 4,0,0
-1982,Spain v Honduras,1982-06-16,group stage,0,1,Group 5,0,0
-1982,Chile v Austria,1982-06-17,group stage,0,1,Group 2,0,0
-1982,Czechoslovakia v Kuwait,1982-06-17,group stage,0,1,Group 4,0,0
-1982,Yugoslavia v Northern Ireland,1982-06-17,group stage,0,1,Group 5,0,0
-1982,Italy v Peru,1982-06-18,group stage,0,1,Group 1,0,0
-1982,Argentina v Hungary,1982-06-18,group stage,0,1,Group 3,0,0
-1982,Brazil v Scotland,1982-06-18,group stage,0,1,Group 6,0,0
-1982,Poland v Cameroon,1982-06-19,group stage,0,1,Group 1,0,0
-1982,Belgium v El Salvador,1982-06-19,group stage,0,1,Group 3,0,0
-1982,Soviet Union v New Zealand,1982-06-19,group stage,0,1,Group 6,0,0
-1982,West Germany v Chile,1982-06-20,group stage,0,1,Group 2,0,0
-1982,England v Czechoslovakia,1982-06-20,group stage,0,1,Group 4,0,0
-1982,Spain v Yugoslavia,1982-06-20,group stage,0,1,Group 5,0,0
-1982,Algeria v Austria,1982-06-21,group stage,0,1,Group 2,0,0
-1982,France v Kuwait,1982-06-21,group stage,0,1,Group 4,0,0
-1982,Honduras v Northern Ireland,1982-06-21,group stage,0,1,Group 5,0,0
-1982,Poland v Peru,1982-06-22,group stage,0,1,Group 1,0,0
-1982,Belgium v Hungary,1982-06-22,group stage,0,1,Group 3,0,0
-1982,Soviet Union v Scotland,1982-06-22,group stage,0,1,Group 6,0,0
-1982,Italy v Cameroon,1982-06-23,group stage,0,1,Group 1,0,0
-1982,Argentina v El Salvador,1982-06-23,group stage,0,1,Group 3,0,0
-1982,Brazil v New Zealand,1982-06-23,group stage,0,1,Group 6,0,0
-1982,Algeria v Chile,1982-06-24,group stage,0,1,Group 2,0,0
-1982,France v Czechoslovakia,1982-06-24,group stage,0,1,Group 4,0,0
-1982,Honduras v Yugoslavia,1982-06-24,group stage,0,1,Group 5,0,0
-1982,West Germany v Austria,1982-06-25,group stage,0,1,Group 2,0,0
-1982,England v Kuwait,1982-06-25,group stage,0,1,Group 4,0,0
-1982,Spain v Northern Ireland,1982-06-25,group stage,0,1,Group 5,0,0
-1982,Poland v Belgium,1982-06-28,second group stage,0,1,Group 1,0,0
-1982,Austria v France,1982-06-28,second group stage,0,1,Group 4,0,0
-1982,West Germany v England,1982-06-29,second group stage,0,1,Group 2,0,0
-1982,Italy v Argentina,1982-06-29,second group stage,0,1,Group 3,0,0
-1982,Belgium v Soviet Union,1982-07-01,second group stage,0,1,Group 1,0,0
-1982,Austria v Northern Ireland,1982-07-01,second group stage,0,1,Group 4,0,0
-1982,West Germany v Spain,1982-07-02,second group stage,0,1,Group 2,0,0
-1982,Argentina v Brazil,1982-07-02,second group stage,0,1,Group 3,0,0
-1982,Soviet Union v Poland,1982-07-04,second group stage,0,1,Group 1,0,0
-1982,France v Northern Ireland,1982-07-04,second group stage,0,1,Group 4,0,0
-1982,Spain v England,1982-07-05,second group stage,0,1,Group 2,0,0
-1982,Italy v Brazil,1982-07-05,second group stage,0,1,Group 3,0,0
-1982,Poland v Italy,1982-07-08,semi-finals,1,0,not applicable,0,0
-1982,West Germany v France,1982-07-08,semi-finals,1,0,not applicable,0,0
-1982,Poland v France,1982-07-10,third-place match,1,0,not applicable,0,0
-1982,Italy v West Germany,1982-07-11,final,1,0,not applicable,0,0
-1986,Bulgaria v Italy,1986-05-31,group stage,0,1,Group A,0,0
-1986,Canada v France,1986-06-01,group stage,0,1,Group C,0,0
-1986,Spain v Brazil,1986-06-01,group stage,0,1,Group D,0,0
-1986,Argentina v South Korea,1986-06-02,group stage,0,1,Group A,0,0
-1986,Soviet Union v Hungary,1986-06-02,group stage,0,1,Group C,0,0
-1986,Morocco v Poland,1986-06-02,group stage,0,1,Group F,0,0
-1986,Belgium v Mexico,1986-06-03,group stage,0,1,Group B,0,0
-1986,Algeria v Northern Ireland,1986-06-03,group stage,0,1,Group D,0,0
-1986,Portugal v England,1986-06-03,group stage,0,1,Group F,0,0
-1986,Paraguay v Iraq,1986-06-04,group stage,0,1,Group B,0,0
-1986,Scotland v Denmark,1986-06-04,group stage,0,1,Group E,0,0
-1986,Uruguay v West Germany,1986-06-04,group stage,0,1,Group E,0,0
-1986,Italy v Argentina,1986-06-05,group stage,0,1,Group A,0,0
-1986,South Korea v Bulgaria,1986-06-05,group stage,0,1,Group A,0,0
-1986,France v Soviet Union,1986-06-05,group stage,0,1,Group C,0,0
-1986,Hungary v Canada,1986-06-06,group stage,0,1,Group C,0,0
-1986,Brazil v Algeria,1986-06-06,group stage,0,1,Group D,0,0
-1986,England v Morocco,1986-06-06,group stage,0,1,Group F,0,0
-1986,Mexico v Paraguay,1986-06-07,group stage,0,1,Group B,0,0
-1986,Northern Ireland v Spain,1986-06-07,group stage,0,1,Group D,0,0
-1986,Poland v Portugal,1986-06-07,group stage,0,1,Group F,0,0
-1986,Iraq v Belgium,1986-06-08,group stage,0,1,Group B,0,0
-1986,Denmark v Uruguay,1986-06-08,group stage,0,1,Group E,0,0
-1986,West Germany v Scotland,1986-06-08,group stage,0,1,Group E,0,0
-1986,Hungary v France,1986-06-09,group stage,0,1,Group C,0,0
-1986,Soviet Union v Canada,1986-06-09,group stage,0,1,Group C,0,0
-1986,Argentina v Bulgaria,1986-06-10,group stage,0,1,Group A,0,0
-1986,South Korea v Italy,1986-06-10,group stage,0,1,Group A,0,0
-1986,Iraq v Mexico,1986-06-11,group stage,0,1,Group B,0,0
-1986,Paraguay v Belgium,1986-06-11,group stage,0,1,Group B,0,0
-1986,England v Poland,1986-06-11,group stage,0,1,Group F,0,0
-1986,Portugal v Morocco,1986-06-11,group stage,0,1,Group F,0,0
-1986,Algeria v Spain,1986-06-12,group stage,0,1,Group D,0,0
-1986,Northern Ireland v Brazil,1986-06-12,group stage,0,1,Group D,0,0
-1986,Denmark v West Germany,1986-06-13,group stage,0,1,Group E,0,0
-1986,Scotland v Uruguay,1986-06-13,group stage,0,1,Group E,0,0
-1986,Mexico v Bulgaria,1986-06-15,round of 16,1,0,not applicable,0,0
-1986,Soviet Union v Belgium,1986-06-15,round of 16,1,0,not applicable,0,0
-1986,Argentina v Uruguay,1986-06-16,round of 16,1,0,not applicable,0,0
-1986,Brazil v Poland,1986-06-16,round of 16,1,0,not applicable,0,0
-1986,Italy v France,1986-06-17,round of 16,1,0,not applicable,0,0
-1986,Morocco v West Germany,1986-06-17,round of 16,1,0,not applicable,0,0
-1986,Denmark v Spain,1986-06-18,round of 16,1,0,not applicable,0,0
-1986,England v Paraguay,1986-06-18,round of 16,1,0,not applicable,0,0
-1986,Brazil v France,1986-06-21,quarter-finals,1,0,not applicable,0,0
-1986,West Germany v Mexico,1986-06-21,quarter-finals,1,0,not applicable,0,0
-1986,Argentina v England,1986-06-22,quarter-finals,1,0,not applicable,0,0
-1986,Spain v Belgium,1986-06-22,quarter-finals,1,0,not applicable,0,0
-1986,Argentina v Belgium,1986-06-25,semi-finals,1,0,not applicable,0,0
-1986,France v West Germany,1986-06-25,semi-finals,1,0,not applicable,0,0
-1986,Belgium v France,1986-06-28,third-place match,1,0,not applicable,0,0
-1986,Argentina v West Germany,1986-06-29,final,1,0,not applicable,0,0
-1990,Argentina v Cameroon,1990-06-08,group stage,0,1,Group B,0,0
-1990,Italy v Austria,1990-06-09,group stage,0,1,Group A,0,0
-1990,Soviet Union v Romania,1990-06-09,group stage,0,1,Group B,0,0
-1990,United Arab Emirates v Colombia,1990-06-09,group stage,0,1,Group D,0,0
-1990,United States v Czechoslovakia,1990-06-10,group stage,0,1,Group A,0,0
-1990,Brazil v Sweden,1990-06-10,group stage,0,1,Group C,0,0
-1990,West Germany v Yugoslavia,1990-06-10,group stage,0,1,Group D,0,0
-1990,Costa Rica v Scotland,1990-06-11,group stage,0,1,Group C,0,0
-1990,England v Republic of Ireland,1990-06-11,group stage,0,1,Group F,0,0
-1990,Belgium v South Korea,1990-06-12,group stage,0,1,Group E,0,0
-1990,Netherlands v Egypt,1990-06-12,group stage,0,1,Group F,0,0
-1990,Argentina v Soviet Union,1990-06-13,group stage,0,1,Group B,0,0
-1990,Uruguay v Spain,1990-06-13,group stage,0,1,Group E,0,0
-1990,Italy v United States,1990-06-14,group stage,0,1,Group A,0,0
-1990,Cameroon v Romania,1990-06-14,group stage,0,1,Group B,0,0
-1990,Yugoslavia v Colombia,1990-06-14,group stage,0,1,Group D,0,0
-1990,Austria v Czechoslovakia,1990-06-15,group stage,0,1,Group A,0,0
-1990,West Germany v United Arab Emirates,1990-06-15,group stage,0,1,Group D,0,0
-1990,Brazil v Costa Rica,1990-06-16,group stage,0,1,Group C,0,0
-1990,Sweden v Scotland,1990-06-16,group stage,0,1,Group C,0,0
-1990,England v Netherlands,1990-06-16,group stage,0,1,Group F,0,0
-1990,Belgium v Uruguay,1990-06-17,group stage,0,1,Group E,0,0
-1990,South Korea v Spain,1990-06-17,group stage,0,1,Group E,0,0
-1990,Republic of Ireland v Egypt,1990-06-17,group stage,0,1,Group F,0,0
-1990,Argentina v Romania,1990-06-18,group stage,0,1,Group B,0,0
-1990,Cameroon v Soviet Union,1990-06-18,group stage,0,1,Group B,0,0
-1990,Austria v United States,1990-06-19,group stage,0,1,Group A,0,0
-1990,Italy v Czechoslovakia,1990-06-19,group stage,0,1,Group A,0,0
-1990,West Germany v Colombia,1990-06-19,group stage,0,1,Group D,0,0
-1990,Yugoslavia v United Arab Emirates,1990-06-19,group stage,0,1,Group D,0,0
-1990,Brazil v Scotland,1990-06-20,group stage,0,1,Group C,0,0
-1990,Sweden v Costa Rica,1990-06-20,group stage,0,1,Group C,0,0
-1990,Belgium v Spain,1990-06-21,group stage,0,1,Group E,0,0
-1990,South Korea v Uruguay,1990-06-21,group stage,0,1,Group E,0,0
-1990,England v Egypt,1990-06-21,group stage,0,1,Group F,0,0
-1990,Republic of Ireland v Netherlands,1990-06-21,group stage,0,1,Group F,0,0
-1990,Cameroon v Colombia,1990-06-23,round of 16,1,0,not applicable,0,0
-1990,Czechoslovakia v Costa Rica,1990-06-23,round of 16,1,0,not applicable,0,0
-1990,Brazil v Argentina,1990-06-24,round of 16,1,0,not applicable,0,0
-1990,West Germany v Netherlands,1990-06-24,round of 16,1,0,not applicable,0,0
-1990,Italy v Uruguay,1990-06-25,round of 16,1,0,not applicable,0,0
-1990,Republic of Ireland v Romania,1990-06-25,round of 16,1,0,not applicable,0,0
-1990,England v Belgium,1990-06-26,round of 16,1,0,not applicable,0,0
-1990,Spain v Yugoslavia,1990-06-26,round of 16,1,0,not applicable,0,0
-1990,Republic of Ireland v Italy,1990-06-30,quarter-finals,1,0,not applicable,0,0
-1990,Argentina v Yugoslavia,1990-06-30,quarter-finals,1,0,not applicable,0,0
-1990,Cameroon v England,1990-07-01,quarter-finals,1,0,not applicable,0,0
-1990,Czechoslovakia v West Germany,1990-07-01,quarter-finals,1,0,not applicable,0,0
-1990,Argentina v Italy,1990-07-03,semi-finals,1,0,not applicable,0,0
-1990,West Germany v England,1990-07-04,semi-finals,1,0,not applicable,0,0
-1990,Italy v England,1990-07-07,third-place match,1,0,not applicable,0,0
-1990,West Germany v Argentina,1990-07-08,final,1,0,not applicable,0,0
-1994,Germany v Bolivia,1994-06-17,group stage,0,1,Group C,0,0
-1994,Spain v South Korea,1994-06-17,group stage,0,1,Group C,0,0
-1994,Colombia v Romania,1994-06-18,group stage,0,1,Group A,0,0
-1994,United States v Switzerland,1994-06-18,group stage,0,1,Group A,0,0
-1994,Italy v Republic of Ireland,1994-06-18,group stage,0,1,Group E,0,0
-1994,Cameroon v Sweden,1994-06-19,group stage,0,1,Group B,0,0
-1994,Norway v Mexico,1994-06-19,group stage,0,1,Group E,0,0
-1994,Belgium v Morocco,1994-06-19,group stage,0,1,Group F,0,0
-1994,Brazil v Russia,1994-06-20,group stage,0,1,Group B,0,0
-1994,Netherlands v Saudi Arabia,1994-06-20,group stage,0,1,Group F,0,0
-1994,Germany v Spain,1994-06-21,group stage,0,1,Group C,0,0
-1994,Argentina v Greece,1994-06-21,group stage,0,1,Group D,0,0
-1994,Nigeria v Bulgaria,1994-06-21,group stage,0,1,Group D,0,0
-1994,Romania v Switzerland,1994-06-22,group stage,0,1,Group A,0,0
-1994,United States v Colombia,1994-06-22,group stage,0,1,Group A,0,0
-1994,South Korea v Bolivia,1994-06-23,group stage,0,1,Group C,0,0
-1994,Italy v Norway,1994-06-23,group stage,0,1,Group E,0,0
-1994,Brazil v Cameroon,1994-06-24,group stage,0,1,Group B,0,0
-1994,Sweden v Russia,1994-06-24,group stage,0,1,Group B,0,0
-1994,Mexico v Republic of Ireland,1994-06-24,group stage,0,1,Group E,0,0
-1994,Argentina v Nigeria,1994-06-25,group stage,0,1,Group D,0,0
-1994,Belgium v Netherlands,1994-06-25,group stage,0,1,Group F,0,0
-1994,Saudi Arabia v Morocco,1994-06-25,group stage,0,1,Group F,0,0
-1994,Switzerland v Colombia,1994-06-26,group stage,0,1,Group A,0,0
-1994,United States v Romania,1994-06-26,group stage,0,1,Group A,0,0
-1994,Bulgaria v Greece,1994-06-26,group stage,0,1,Group D,0,0
-1994,Bolivia v Spain,1994-06-27,group stage,0,1,Group C,0,0
-1994,Germany v South Korea,1994-06-27,group stage,0,1,Group C,0,0
-1994,Brazil v Sweden,1994-06-28,group stage,0,1,Group B,0,0
-1994,Russia v Cameroon,1994-06-28,group stage,0,1,Group B,0,0
-1994,Italy v Mexico,1994-06-28,group stage,0,1,Group E,0,0
-1994,Republic of Ireland v Norway,1994-06-28,group stage,0,1,Group E,0,0
-1994,Belgium v Saudi Arabia,1994-06-29,group stage,0,1,Group F,0,0
-1994,Morocco v Netherlands,1994-06-29,group stage,0,1,Group F,0,0
-1994,Argentina v Bulgaria,1994-06-30,group stage,0,1,Group D,0,0
-1994,Greece v Nigeria,1994-06-30,group stage,0,1,Group D,0,0
-1994,Germany v Belgium,1994-07-02,round of 16,1,0,not applicable,0,0
-1994,Spain v Switzerland,1994-07-02,round of 16,1,0,not applicable,0,0
-1994,Romania v Argentina,1994-07-03,round of 16,1,0,not applicable,0,0
-1994,Saudi Arabia v Sweden,1994-07-03,round of 16,1,0,not applicable,0,0
-1994,Brazil v United States,1994-07-04,round of 16,1,0,not applicable,0,0
-1994,Netherlands v Republic of Ireland,1994-07-04,round of 16,1,0,not applicable,0,0
-1994,Mexico v Bulgaria,1994-07-05,round of 16,1,0,not applicable,0,0
-1994,Nigeria v Italy,1994-07-05,round of 16,1,0,not applicable,0,0
-1994,Italy v Spain,1994-07-09,quarter-finals,1,0,not applicable,0,0
-1994,Netherlands v Brazil,1994-07-09,quarter-finals,1,0,not applicable,0,0
-1994,Bulgaria v Germany,1994-07-10,quarter-finals,1,0,not applicable,0,0
-1994,Romania v Sweden,1994-07-10,quarter-finals,1,0,not applicable,0,0
-1994,Bulgaria v Italy,1994-07-13,semi-finals,1,0,not applicable,0,0
-1994,Sweden v Brazil,1994-07-13,semi-finals,1,0,not applicable,0,0
-1994,Sweden v Bulgaria,1994-07-16,third-place match,1,0,not applicable,0,0
-1994,Brazil v Italy,1994-07-17,final,1,0,not applicable,0,0
-1998,Brazil v Scotland,1998-06-10,group stage,0,1,Group A,0,0
-1998,Morocco v Norway,1998-06-10,group stage,0,1,Group A,0,0
-1998,Cameroon v Austria,1998-06-11,group stage,0,1,Group B,0,0
-1998,Italy v Chile,1998-06-11,group stage,0,1,Group B,0,0
-1998,France v South Africa,1998-06-12,group stage,0,1,Group C,0,0
-1998,Saudi Arabia v Denmark,1998-06-12,group stage,0,1,Group C,0,0
-1998,Paraguay v Bulgaria,1998-06-12,group stage,0,1,Group D,0,0
-1998,Spain v Nigeria,1998-06-13,group stage,0,1,Group D,0,0
-1998,Netherlands v Belgium,1998-06-13,group stage,0,1,Group E,0,0
-1998,South Korea v Mexico,1998-06-13,group stage,0,1,Group E,0,0
-1998,Yugoslavia v Iran,1998-06-14,group stage,0,1,Group F,0,0
-1998,Argentina v Japan,1998-06-14,group stage,0,1,Group H,0,0
-1998,Jamaica v Croatia,1998-06-14,group stage,0,1,Group H,0,0
-1998,Germany v United States,1998-06-15,group stage,0,1,Group F,0,0
-1998,England v Tunisia,1998-06-15,group stage,0,1,Group G,0,0
-1998,Romania v Colombia,1998-06-15,group stage,0,1,Group G,0,0
-1998,Brazil v Morocco,1998-06-16,group stage,0,1,Group A,0,0
-1998,Scotland v Norway,1998-06-16,group stage,0,1,Group A,0,0
-1998,Chile v Austria,1998-06-17,group stage,0,1,Group B,0,0
-1998,Italy v Cameroon,1998-06-17,group stage,0,1,Group B,0,0
-1998,France v Saudi Arabia,1998-06-18,group stage,0,1,Group C,0,0
-1998,South Africa v Denmark,1998-06-18,group stage,0,1,Group C,0,0
-1998,Nigeria v Bulgaria,1998-06-19,group stage,0,1,Group D,0,0
-1998,Spain v Paraguay,1998-06-19,group stage,0,1,Group D,0,0
-1998,Belgium v Mexico,1998-06-20,group stage,0,1,Group E,0,0
-1998,Netherlands v South Korea,1998-06-20,group stage,0,1,Group E,0,0
-1998,Japan v Croatia,1998-06-20,group stage,0,1,Group H,0,0
-1998,Germany v Yugoslavia,1998-06-21,group stage,0,1,Group F,0,0
-1998,United States v Iran,1998-06-21,group stage,0,1,Group F,0,0
-1998,Argentina v Jamaica,1998-06-21,group stage,0,1,Group H,0,0
-1998,Colombia v Tunisia,1998-06-22,group stage,0,1,Group G,0,0
-1998,Romania v England,1998-06-22,group stage,0,1,Group G,0,0
-1998,Brazil v Norway,1998-06-23,group stage,0,1,Group A,0,0
-1998,Scotland v Morocco,1998-06-23,group stage,0,1,Group A,0,0
-1998,Chile v Cameroon,1998-06-23,group stage,0,1,Group B,0,0
-1998,Italy v Austria,1998-06-23,group stage,0,1,Group B,0,0
-1998,France v Denmark,1998-06-24,group stage,0,1,Group C,0,0
-1998,South Africa v Saudi Arabia,1998-06-24,group stage,0,1,Group C,0,0
-1998,Nigeria v Paraguay,1998-06-24,group stage,0,1,Group D,0,0
-1998,Spain v Bulgaria,1998-06-24,group stage,0,1,Group D,0,0
-1998,Belgium v South Korea,1998-06-25,group stage,0,1,Group E,0,0
-1998,Netherlands v Mexico,1998-06-25,group stage,0,1,Group E,0,0
-1998,Germany v Iran,1998-06-25,group stage,0,1,Group F,0,0
-1998,United States v Yugoslavia,1998-06-25,group stage,0,1,Group F,0,0
-1998,Colombia v England,1998-06-26,group stage,0,1,Group G,0,0
-1998,Romania v Tunisia,1998-06-26,group stage,0,1,Group G,0,0
-1998,Argentina v Croatia,1998-06-26,group stage,0,1,Group H,0,0
-1998,Japan v Jamaica,1998-06-26,group stage,0,1,Group H,0,0
-1998,Brazil v Chile,1998-06-27,round of 16,1,0,not applicable,0,0
-1998,Italy v Norway,1998-06-27,round of 16,1,0,not applicable,0,0
-1998,France v Paraguay,1998-06-28,round of 16,1,0,not applicable,0,0
-1998,Nigeria v Denmark,1998-06-28,round of 16,1,0,not applicable,0,0
-1998,Germany v Mexico,1998-06-29,round of 16,1,0,not applicable,0,0
-1998,Netherlands v Yugoslavia,1998-06-29,round of 16,1,0,not applicable,0,0
-1998,Argentina v England,1998-06-30,round of 16,1,0,not applicable,0,0
-1998,Romania v Croatia,1998-06-30,round of 16,1,0,not applicable,0,0
-1998,Brazil v Denmark,1998-07-03,quarter-finals,1,0,not applicable,0,0
-1998,Italy v France,1998-07-03,quarter-finals,1,0,not applicable,0,0
-1998,Germany v Croatia,1998-07-04,quarter-finals,1,0,not applicable,0,0
-1998,Netherlands v Argentina,1998-07-04,quarter-finals,1,0,not applicable,0,0
-1998,Brazil v Netherlands,1998-07-07,semi-finals,1,0,not applicable,0,0
-1998,France v Croatia,1998-07-08,semi-finals,1,0,not applicable,0,0
-1998,Netherlands v Croatia,1998-07-11,third-place match,1,0,not applicable,0,0
-1998,Brazil v France,1998-07-12,final,1,0,not applicable,0,0
-2002,France v Senegal,2002-05-31,group stage,0,1,Group A,0,0
-2002,Uruguay v Denmark,2002-06-01,group stage,0,1,Group A,0,0
-2002,Germany v Saudi Arabia,2002-06-01,group stage,0,1,Group E,0,0
-2002,Republic of Ireland v Cameroon,2002-06-01,group stage,0,1,Group E,0,0
-2002,Paraguay v South Africa,2002-06-02,group stage,0,1,Group B,0,0
-2002,Spain v Slovenia,2002-06-02,group stage,0,1,Group B,0,0
-2002,Argentina v Nigeria,2002-06-02,group stage,0,1,Group F,0,0
-2002,England v Sweden,2002-06-02,group stage,0,1,Group F,0,0
-2002,Brazil v Turkey,2002-06-03,group stage,0,1,Group C,0,0
-2002,Croatia v Mexico,2002-06-03,group stage,0,1,Group G,0,0
-2002,Italy v Ecuador,2002-06-03,group stage,0,1,Group G,0,0
-2002,China v Costa Rica,2002-06-04,group stage,0,1,Group C,0,0
-2002,South Korea v Poland,2002-06-04,group stage,0,1,Group D,0,0
-2002,Japan v Belgium,2002-06-04,group stage,0,1,Group H,0,0
-2002,United States v Portugal,2002-06-05,group stage,0,1,Group D,0,0
-2002,Germany v Republic of Ireland,2002-06-05,group stage,0,1,Group E,0,0
-2002,Russia v Tunisia,2002-06-05,group stage,0,1,Group H,0,0
-2002,Denmark v Senegal,2002-06-06,group stage,0,1,Group A,0,0
-2002,France v Uruguay,2002-06-06,group stage,0,1,Group A,0,0
-2002,Cameroon v Saudi Arabia,2002-06-06,group stage,0,1,Group E,0,0
-2002,Spain v Paraguay,2002-06-07,group stage,0,1,Group B,0,0
-2002,Argentina v England,2002-06-07,group stage,0,1,Group F,0,0
-2002,Sweden v Nigeria,2002-06-07,group stage,0,1,Group F,0,0
-2002,South Africa v Slovenia,2002-06-08,group stage,0,1,Group B,0,0
-2002,Brazil v China,2002-06-08,group stage,0,1,Group C,0,0
-2002,Italy v Croatia,2002-06-08,group stage,0,1,Group G,0,0
-2002,Costa Rica v Turkey,2002-06-09,group stage,0,1,Group C,0,0
-2002,Mexico v Ecuador,2002-06-09,group stage,0,1,Group G,0,0
-2002,Japan v Russia,2002-06-09,group stage,0,1,Group H,0,0
-2002,Portugal v Poland,2002-06-10,group stage,0,1,Group D,0,0
-2002,South Korea v United States,2002-06-10,group stage,0,1,Group D,0,0
-2002,Tunisia v Belgium,2002-06-10,group stage,0,1,Group H,0,0
-2002,Denmark v France,2002-06-11,group stage,0,1,Group A,0,0
-2002,Senegal v Uruguay,2002-06-11,group stage,0,1,Group A,0,0
-2002,Cameroon v Germany,2002-06-11,group stage,0,1,Group E,0,0
-2002,Saudi Arabia v Republic of Ireland,2002-06-11,group stage,0,1,Group E,0,0
-2002,Slovenia v Paraguay,2002-06-12,group stage,0,1,Group B,0,0
-2002,South Africa v Spain,2002-06-12,group stage,0,1,Group B,0,0
-2002,Nigeria v England,2002-06-12,group stage,0,1,Group F,0,0
-2002,Sweden v Argentina,2002-06-12,group stage,0,1,Group F,0,0
-2002,Costa Rica v Brazil,2002-06-13,group stage,0,1,Group C,0,0
-2002,Turkey v China,2002-06-13,group stage,0,1,Group C,0,0
-2002,Ecuador v Croatia,2002-06-13,group stage,0,1,Group G,0,0
-2002,Mexico v Italy,2002-06-13,group stage,0,1,Group G,0,0
-2002,Poland v United States,2002-06-14,group stage,0,1,Group D,0,0
-2002,Portugal v South Korea,2002-06-14,group stage,0,1,Group D,0,0
-2002,Belgium v Russia,2002-06-14,group stage,0,1,Group H,0,0
-2002,Tunisia v Japan,2002-06-14,group stage,0,1,Group H,0,0
-2002,Denmark v England,2002-06-15,round of 16,1,0,not applicable,0,0
-2002,Germany v Paraguay,2002-06-15,round of 16,1,0,not applicable,0,0
-2002,Spain v Republic of Ireland,2002-06-16,round of 16,1,0,not applicable,0,0
-2002,Sweden v Senegal,2002-06-16,round of 16,1,0,not applicable,0,0
-2002,Brazil v Belgium,2002-06-17,round of 16,1,0,not applicable,0,0
-2002,Mexico v United States,2002-06-17,round of 16,1,0,not applicable,0,0
-2002,Japan v Turkey,2002-06-18,round of 16,1,0,not applicable,0,0
-2002,South Korea v Italy,2002-06-18,round of 16,1,0,not applicable,0,0
-2002,England v Brazil,2002-06-21,quarter-finals,1,0,not applicable,0,0
-2002,Germany v United States,2002-06-21,quarter-finals,1,0,not applicable,0,0
-2002,Senegal v Turkey,2002-06-22,quarter-finals,1,0,not applicable,0,0
-2002,Spain v South Korea,2002-06-22,quarter-finals,1,0,not applicable,0,0
-2002,Germany v South Korea,2002-06-25,semi-finals,1,0,not applicable,0,0
-2002,Brazil v Turkey,2002-06-26,semi-finals,1,0,not applicable,0,0
-2002,South Korea v Turkey,2002-06-29,third-place match,1,0,not applicable,0,0
-2002,Germany v Brazil,2002-06-30,final,1,0,not applicable,0,0
-2006,Germany v Costa Rica,2006-06-09,group stage,0,1,Group A,0,0
-2006,Poland v Ecuador,2006-06-09,group stage,0,1,Group A,0,0
-2006,England v Paraguay,2006-06-10,group stage,0,1,Group B,0,0
-2006,Trinidad and Tobago v Sweden,2006-06-10,group stage,0,1,Group B,0,0
-2006,Argentina v Ivory Coast,2006-06-10,group stage,0,1,Group C,0,0
-2006,Serbia and Montenegro v Netherlands,2006-06-11,group stage,0,1,Group C,0,0
-2006,Angola v Portugal,2006-06-11,group stage,0,1,Group D,0,0
-2006,Mexico v Iran,2006-06-11,group stage,0,1,Group D,0,0
-2006,Italy v Ghana,2006-06-12,group stage,0,1,Group E,0,0
-2006,United States v Czech Republic,2006-06-12,group stage,0,1,Group E,0,0
-2006,Australia v Japan,2006-06-12,group stage,0,1,Group F,0,0
-2006,Brazil v Croatia,2006-06-13,group stage,0,1,Group F,0,0
-2006,France v Switzerland,2006-06-13,group stage,0,1,Group G,0,0
-2006,South Korea v Togo,2006-06-13,group stage,0,1,Group G,0,0
-2006,Germany v Poland,2006-06-14,group stage,0,1,Group A,0,0
-2006,Spain v Ukraine,2006-06-14,group stage,0,1,Group H,0,0
-2006,Tunisia v Saudi Arabia,2006-06-14,group stage,0,1,Group H,0,0
-2006,Ecuador v Costa Rica,2006-06-15,group stage,0,1,Group A,0,0
-2006,England v Trinidad and Tobago,2006-06-15,group stage,0,1,Group B,0,0
-2006,Sweden v Paraguay,2006-06-15,group stage,0,1,Group B,0,0
-2006,Argentina v Serbia and Montenegro,2006-06-16,group stage,0,1,Group C,0,0
-2006,Netherlands v Ivory Coast,2006-06-16,group stage,0,1,Group C,0,0
-2006,Mexico v Angola,2006-06-16,group stage,0,1,Group D,0,0
-2006,Portugal v Iran,2006-06-17,group stage,0,1,Group D,0,0
-2006,Czech Republic v Ghana,2006-06-17,group stage,0,1,Group E,0,0
-2006,Italy v United States,2006-06-17,group stage,0,1,Group E,0,0
-2006,Brazil v Australia,2006-06-18,group stage,0,1,Group F,0,0
-2006,Japan v Croatia,2006-06-18,group stage,0,1,Group F,0,0
-2006,France v South Korea,2006-06-18,group stage,0,1,Group G,0,0
-2006,Togo v Switzerland,2006-06-19,group stage,0,1,Group G,0,0
-2006,Saudi Arabia v Ukraine,2006-06-19,group stage,0,1,Group H,0,0
-2006,Spain v Tunisia,2006-06-19,group stage,0,1,Group H,0,0
-2006,Costa Rica v Poland,2006-06-20,group stage,0,1,Group A,0,0
-2006,Ecuador v Germany,2006-06-20,group stage,0,1,Group A,0,0
-2006,Paraguay v Trinidad and Tobago,2006-06-20,group stage,0,1,Group B,0,0
-2006,Sweden v England,2006-06-20,group stage,0,1,Group B,0,0
-2006,Ivory Coast v Serbia and Montenegro,2006-06-21,group stage,0,1,Group C,0,0
-2006,Netherlands v Argentina,2006-06-21,group stage,0,1,Group C,0,0
-2006,Iran v Angola,2006-06-21,group stage,0,1,Group D,0,0
-2006,Portugal v Mexico,2006-06-21,group stage,0,1,Group D,0,0
-2006,Czech Republic v Italy,2006-06-22,group stage,0,1,Group E,0,0
-2006,Ghana v United States,2006-06-22,group stage,0,1,Group E,0,0
-2006,Croatia v Australia,2006-06-22,group stage,0,1,Group F,0,0
-2006,Japan v Brazil,2006-06-22,group stage,0,1,Group F,0,0
-2006,Switzerland v South Korea,2006-06-23,group stage,0,1,Group G,0,0
-2006,Togo v France,2006-06-23,group stage,0,1,Group G,0,0
-2006,Saudi Arabia v Spain,2006-06-23,group stage,0,1,Group H,0,0
-2006,Ukraine v Tunisia,2006-06-23,group stage,0,1,Group H,0,0
-2006,Argentina v Mexico,2006-06-24,round of 16,1,0,not applicable,0,0
-2006,Germany v Sweden,2006-06-24,round of 16,1,0,not applicable,0,0
-2006,England v Ecuador,2006-06-25,round of 16,1,0,not applicable,0,0
-2006,Portugal v Netherlands,2006-06-25,round of 16,1,0,not applicable,0,0
-2006,Italy v Australia,2006-06-26,round of 16,1,0,not applicable,0,0
-2006,Switzerland v Ukraine,2006-06-26,round of 16,1,0,not applicable,0,0
-2006,Brazil v Ghana,2006-06-27,round of 16,1,0,not applicable,0,0
-2006,Spain v France,2006-06-27,round of 16,1,0,not applicable,0,0
-2006,Germany v Argentina,2006-06-30,quarter-finals,1,0,not applicable,0,0
-2006,Italy v Ukraine,2006-06-30,quarter-finals,1,0,not applicable,0,0
-2006,Brazil v France,2006-07-01,quarter-finals,1,0,not applicable,0,0
-2006,England v Portugal,2006-07-01,quarter-finals,1,0,not applicable,0,0
-2006,Germany v Italy,2006-07-04,semi-finals,1,0,not applicable,0,0
-2006,Portugal v France,2006-07-05,semi-finals,1,0,not applicable,0,0
-2006,Germany v Portugal,2006-07-08,third-place match,1,0,not applicable,0,0
-2006,Italy v France,2006-07-09,final,1,0,not applicable,0,0
-2010,South Africa v Mexico,2010-06-11,group stage,0,1,Group A,0,0
-2010,Uruguay v France,2010-06-11,group stage,0,1,Group A,0,0
-2010,Argentina v Nigeria,2010-06-12,group stage,0,1,Group B,0,0
-2010,South Korea v Greece,2010-06-12,group stage,0,1,Group B,0,0
-2010,England v United States,2010-06-12,group stage,0,1,Group C,0,0
-2010,Algeria v Slovenia,2010-06-13,group stage,0,1,Group C,0,0
-2010,Germany v Australia,2010-06-13,group stage,0,1,Group D,0,0
-2010,Serbia v Ghana,2010-06-13,group stage,0,1,Group D,0,0
-2010,Japan v Cameroon,2010-06-14,group stage,0,1,Group E,0,0
-2010,Netherlands v Denmark,2010-06-14,group stage,0,1,Group E,0,0
-2010,Italy v Paraguay,2010-06-14,group stage,0,1,Group F,0,0
-2010,New Zealand v Slovakia,2010-06-15,group stage,0,1,Group F,0,0
-2010,Brazil v North Korea,2010-06-15,group stage,0,1,Group G,0,0
-2010,Ivory Coast v Portugal,2010-06-15,group stage,0,1,Group G,0,0
-2010,South Africa v Uruguay,2010-06-16,group stage,0,1,Group A,0,0
-2010,Honduras v Chile,2010-06-16,group stage,0,1,Group H,0,0
-2010,Spain v Switzerland,2010-06-16,group stage,0,1,Group H,0,0
-2010,France v Mexico,2010-06-17,group stage,0,1,Group A,0,0
-2010,Argentina v South Korea,2010-06-17,group stage,0,1,Group B,0,0
-2010,Greece v Nigeria,2010-06-17,group stage,0,1,Group B,0,0
-2010,England v Algeria,2010-06-18,group stage,0,1,Group C,0,0
-2010,Slovenia v United States,2010-06-18,group stage,0,1,Group C,0,0
-2010,Germany v Serbia,2010-06-18,group stage,0,1,Group D,0,0
-2010,Ghana v Australia,2010-06-19,group stage,0,1,Group D,0,0
-2010,Cameroon v Denmark,2010-06-19,group stage,0,1,Group E,0,0
-2010,Netherlands v Japan,2010-06-19,group stage,0,1,Group E,0,0
-2010,Italy v New Zealand,2010-06-20,group stage,0,1,Group F,0,0
-2010,Slovakia v Paraguay,2010-06-20,group stage,0,1,Group F,0,0
-2010,Brazil v Ivory Coast,2010-06-20,group stage,0,1,Group G,0,0
-2010,Portugal v North Korea,2010-06-21,group stage,0,1,Group G,0,0
-2010,Chile v Switzerland,2010-06-21,group stage,0,1,Group H,0,0
-2010,Spain v Honduras,2010-06-21,group stage,0,1,Group H,0,0
-2010,France v South Africa,2010-06-22,group stage,0,1,Group A,0,0
-2010,Mexico v Uruguay,2010-06-22,group stage,0,1,Group A,0,0
-2010,Greece v Argentina,2010-06-22,group stage,0,1,Group B,0,0
-2010,Nigeria v South Korea,2010-06-22,group stage,0,1,Group B,0,0
-2010,Slovenia v England,2010-06-23,group stage,0,1,Group C,0,0
-2010,United States v Algeria,2010-06-23,group stage,0,1,Group C,0,0
-2010,Australia v Serbia,2010-06-23,group stage,0,1,Group D,0,0
-2010,Ghana v Germany,2010-06-23,group stage,0,1,Group D,0,0
-2010,Cameroon v Netherlands,2010-06-24,group stage,0,1,Group E,0,0
-2010,Denmark v Japan,2010-06-24,group stage,0,1,Group E,0,0
-2010,Paraguay v New Zealand,2010-06-24,group stage,0,1,Group F,0,0
-2010,Slovakia v Italy,2010-06-24,group stage,0,1,Group F,0,0
-2010,North Korea v Ivory Coast,2010-06-25,group stage,0,1,Group G,0,0
-2010,Portugal v Brazil,2010-06-25,group stage,0,1,Group G,0,0
-2010,Chile v Spain,2010-06-25,group stage,0,1,Group H,0,0
-2010,Switzerland v Honduras,2010-06-25,group stage,0,1,Group H,0,0
-2010,United States v Ghana,2010-06-26,round of 16,1,0,not applicable,0,0
-2010,Uruguay v South Korea,2010-06-26,round of 16,1,0,not applicable,0,0
-2010,Argentina v Mexico,2010-06-27,round of 16,1,0,not applicable,0,0
-2010,Germany v England,2010-06-27,round of 16,1,0,not applicable,0,0
-2010,Brazil v Chile,2010-06-28,round of 16,1,0,not applicable,0,0
-2010,Netherlands v Slovakia,2010-06-28,round of 16,1,0,not applicable,0,0
-2010,Paraguay v Japan,2010-06-29,round of 16,1,0,not applicable,0,0
-2010,Spain v Portugal,2010-06-29,round of 16,1,0,not applicable,0,0
-2010,Netherlands v Brazil,2010-07-02,quarter-finals,1,0,not applicable,0,0
-2010,Uruguay v Ghana,2010-07-02,quarter-finals,1,0,not applicable,0,0
-2010,Argentina v Germany,2010-07-03,quarter-finals,1,0,not applicable,0,0
-2010,Paraguay v Spain,2010-07-03,quarter-finals,1,0,not applicable,0,0
-2010,Uruguay v Netherlands,2010-07-06,semi-finals,1,0,not applicable,0,0
-2010,Germany v Spain,2010-07-07,semi-finals,1,0,not applicable,0,0
-2010,Uruguay v Germany,2010-07-10,third-place match,1,0,not applicable,0,0
-2010,Netherlands v Spain,2010-07-11,final,1,0,not applicable,0,0
-2014,Brazil v Croatia,2014-06-12,group stage,0,1,Group A,0,0
-2014,Mexico v Cameroon,2014-06-13,group stage,0,1,Group A,0,0
-2014,Chile v Australia,2014-06-13,group stage,0,1,Group B,0,0
-2014,Spain v Netherlands,2014-06-13,group stage,0,1,Group B,0,0
-2014,Colombia v Greece,2014-06-14,group stage,0,1,Group C,0,0
-2014,Ivory Coast v Japan,2014-06-14,group stage,0,1,Group C,0,0
-2014,England v Italy,2014-06-14,group stage,0,1,Group D,0,0
-2014,Uruguay v Costa Rica,2014-06-14,group stage,0,1,Group D,0,0
-2014,France v Honduras,2014-06-15,group stage,0,1,Group E,0,0
-2014,Switzerland v Ecuador,2014-06-15,group stage,0,1,Group E,0,0
-2014,Argentina v Bosnia and Herzegovina,2014-06-15,group stage,0,1,Group F,0,0
-2014,Iran v Nigeria,2014-06-16,group stage,0,1,Group F,0,0
-2014,Germany v Portugal,2014-06-16,group stage,0,1,Group G,0,0
-2014,Ghana v United States,2014-06-16,group stage,0,1,Group G,0,0
-2014,Brazil v Mexico,2014-06-17,group stage,0,1,Group A,0,0
-2014,Belgium v Algeria,2014-06-17,group stage,0,1,Group H,0,0
-2014,Russia v South Korea,2014-06-17,group stage,0,1,Group H,0,0
-2014,Cameroon v Croatia,2014-06-18,group stage,0,1,Group A,0,0
-2014,Australia v Netherlands,2014-06-18,group stage,0,1,Group B,0,0
-2014,Spain v Chile,2014-06-18,group stage,0,1,Group B,0,0
-2014,Colombia v Ivory Coast,2014-06-19,group stage,0,1,Group C,0,0
-2014,Japan v Greece,2014-06-19,group stage,0,1,Group C,0,0
-2014,Uruguay v England,2014-06-19,group stage,0,1,Group D,0,0
-2014,Italy v Costa Rica,2014-06-20,group stage,0,1,Group D,0,0
-2014,Honduras v Ecuador,2014-06-20,group stage,0,1,Group E,0,0
-2014,Switzerland v France,2014-06-20,group stage,0,1,Group E,0,0
-2014,Argentina v Iran,2014-06-21,group stage,0,1,Group F,0,0
-2014,Nigeria v Bosnia and Herzegovina,2014-06-21,group stage,0,1,Group F,0,0
-2014,Germany v Ghana,2014-06-21,group stage,0,1,Group G,0,0
-2014,United States v Portugal,2014-06-22,group stage,0,1,Group G,0,0
-2014,Belgium v Russia,2014-06-22,group stage,0,1,Group H,0,0
-2014,South Korea v Algeria,2014-06-22,group stage,0,1,Group H,0,0
-2014,Cameroon v Brazil,2014-06-23,group stage,0,1,Group A,0,0
-2014,Croatia v Mexico,2014-06-23,group stage,0,1,Group A,0,0
-2014,Australia v Spain,2014-06-23,group stage,0,1,Group B,0,0
-2014,Netherlands v Chile,2014-06-23,group stage,0,1,Group B,0,0
-2014,Greece v Ivory Coast,2014-06-24,group stage,0,1,Group C,0,0
-2014,Japan v Colombia,2014-06-24,group stage,0,1,Group C,0,0
-2014,Costa Rica v England,2014-06-24,group stage,0,1,Group D,0,0
-2014,Italy v Uruguay,2014-06-24,group stage,0,1,Group D,0,0
-2014,Ecuador v France,2014-06-25,group stage,0,1,Group E,0,0
-2014,Honduras v Switzerland,2014-06-25,group stage,0,1,Group E,0,0
-2014,Bosnia and Herzegovina v Iran,2014-06-25,group stage,0,1,Group F,0,0
-2014,Nigeria v Argentina,2014-06-25,group stage,0,1,Group F,0,0
-2014,Portugal v Ghana,2014-06-26,group stage,0,1,Group G,0,0
-2014,United States v Germany,2014-06-26,group stage,0,1,Group G,0,0
-2014,Algeria v Russia,2014-06-26,group stage,0,1,Group H,0,0
-2014,South Korea v Belgium,2014-06-26,group stage,0,1,Group H,0,0
-2014,Brazil v Chile,2014-06-28,round of 16,1,0,not applicable,0,0
-2014,Colombia v Uruguay,2014-06-28,round of 16,1,0,not applicable,0,0
-2014,Costa Rica v Greece,2014-06-29,round of 16,1,0,not applicable,0,0
-2014,Netherlands v Mexico,2014-06-29,round of 16,1,0,not applicable,0,0
-2014,France v Nigeria,2014-06-30,round of 16,1,0,not applicable,0,0
-2014,Germany v Algeria,2014-06-30,round of 16,1,0,not applicable,0,0
-2014,Argentina v Switzerland,2014-07-01,round of 16,1,0,not applicable,0,0
-2014,Belgium v United States,2014-07-01,round of 16,1,0,not applicable,0,0
-2014,Brazil v Colombia,2014-07-04,quarter-finals,1,0,not applicable,0,0
-2014,France v Germany,2014-07-04,quarter-finals,1,0,not applicable,0,0
-2014,Argentina v Belgium,2014-07-05,quarter-finals,1,0,not applicable,0,0
-2014,Netherlands v Costa Rica,2014-07-05,quarter-finals,1,0,not applicable,0,0
-2014,Brazil v Germany,2014-07-08,semi-finals,1,0,not applicable,0,0
-2014,Netherlands v Argentina,2014-07-09,semi-finals,1,0,not applicable,0,0
-2014,Brazil v Netherlands,2014-07-12,third-place match,1,0,not applicable,0,0
-2014,Germany v Argentina,2014-07-13,final,1,0,not applicable,0,0
-2018,Russia v Saudi Arabia,2018-06-14,group stage,0,1,Group A,0,0
-2018,Egypt v Uruguay,2018-06-15,group stage,0,1,Group A,0,0
-2018,Morocco v Iran,2018-06-15,group stage,0,1,Group B,0,0
-2018,Portugal v Spain,2018-06-15,group stage,0,1,Group B,0,0
-2018,France v Australia,2018-06-16,group stage,0,1,Group C,0,0
-2018,Peru v Denmark,2018-06-16,group stage,0,1,Group C,0,0
-2018,Argentina v Iceland,2018-06-16,group stage,0,1,Group D,0,0
-2018,Croatia v Nigeria,2018-06-16,group stage,0,1,Group D,0,0
-2018,Brazil v Switzerland,2018-06-17,group stage,0,1,Group E,0,0
-2018,Costa Rica v Serbia,2018-06-17,group stage,0,1,Group E,0,0
-2018,Germany v Mexico,2018-06-17,group stage,0,1,Group F,0,0
-2018,Sweden v South Korea,2018-06-18,group stage,0,1,Group F,0,0
-2018,Belgium v Panama,2018-06-18,group stage,0,1,Group G,0,0
-2018,Tunisia v England,2018-06-18,group stage,0,1,Group G,0,0
-2018,Russia v Egypt,2018-06-19,group stage,0,1,Group A,0,0
-2018,Colombia v Japan,2018-06-19,group stage,0,1,Group H,0,0
-2018,Poland v Senegal,2018-06-19,group stage,0,1,Group H,0,0
-2018,Uruguay v Saudi Arabia,2018-06-20,group stage,0,1,Group A,0,0
-2018,Iran v Spain,2018-06-20,group stage,0,1,Group B,0,0
-2018,Portugal v Morocco,2018-06-20,group stage,0,1,Group B,0,0
-2018,Denmark v Australia,2018-06-21,group stage,0,1,Group C,0,0
-2018,France v Peru,2018-06-21,group stage,0,1,Group C,0,0
-2018,Argentina v Croatia,2018-06-21,group stage,0,1,Group D,0,0
-2018,Nigeria v Iceland,2018-06-22,group stage,0,1,Group D,0,0
-2018,Brazil v Costa Rica,2018-06-22,group stage,0,1,Group E,0,0
-2018,Serbia v Switzerland,2018-06-22,group stage,0,1,Group E,0,0
-2018,Germany v Sweden,2018-06-23,group stage,0,1,Group F,0,0
-2018,South Korea v Mexico,2018-06-23,group stage,0,1,Group F,0,0
-2018,Belgium v Tunisia,2018-06-23,group stage,0,1,Group G,0,0
-2018,England v Panama,2018-06-24,group stage,0,1,Group G,0,0
-2018,Japan v Senegal,2018-06-24,group stage,0,1,Group H,0,0
-2018,Poland v Colombia,2018-06-24,group stage,0,1,Group H,0,0
-2018,Saudi Arabia v Egypt,2018-06-25,group stage,0,1,Group A,0,0
-2018,Uruguay v Russia,2018-06-25,group stage,0,1,Group A,0,0
-2018,Iran v Portugal,2018-06-25,group stage,0,1,Group B,0,0
-2018,Spain v Morocco,2018-06-25,group stage,0,1,Group B,0,0
-2018,Australia v Peru,2018-06-26,group stage,0,1,Group C,0,0
-2018,Denmark v France,2018-06-26,group stage,0,1,Group C,0,0
-2018,Iceland v Croatia,2018-06-26,group stage,0,1,Group D,0,0
-2018,Nigeria v Argentina,2018-06-26,group stage,0,1,Group D,0,0
-2018,Serbia v Brazil,2018-06-27,group stage,0,1,Group E,0,0
-2018,Switzerland v Costa Rica,2018-06-27,group stage,0,1,Group E,0,0
-2018,Mexico v Sweden,2018-06-27,group stage,0,1,Group F,0,0
-2018,South Korea v Germany,2018-06-27,group stage,0,1,Group F,0,0
-2018,England v Belgium,2018-06-28,group stage,0,1,Group G,0,0
-2018,Panama v Tunisia,2018-06-28,group stage,0,1,Group G,0,0
-2018,Japan v Poland,2018-06-28,group stage,0,1,Group H,0,0
-2018,Senegal v Colombia,2018-06-28,group stage,0,1,Group H,0,0
-2018,France v Argentina,2018-06-30,round of 16,1,0,not applicable,0,0
-2018,Uruguay v Portugal,2018-06-30,round of 16,1,0,not applicable,0,0
-2018,Croatia v Denmark,2018-07-01,round of 16,1,0,not applicable,0,0
-2018,Spain v Russia,2018-07-01,round of 16,1,0,not applicable,0,0
-2018,Belgium v Japan,2018-07-02,round of 16,1,0,not applicable,0,0
-2018,Brazil v Mexico,2018-07-02,round of 16,1,0,not applicable,0,0
-2018,Colombia v England,2018-07-03,round of 16,1,0,not applicable,0,0
-2018,Sweden v Switzerland,2018-07-03,round of 16,1,0,not applicable,0,0
-2018,Brazil v Belgium,2018-07-06,quarter-finals,1,0,not applicable,0,0
-2018,Uruguay v France,2018-07-06,quarter-finals,1,0,not applicable,0,0
-2018,Russia v Croatia,2018-07-07,quarter-finals,1,0,not applicable,0,0
-2018,Sweden v England,2018-07-07,quarter-finals,1,0,not applicable,0,0
-2018,France v Belgium,2018-07-10,semi-finals,1,0,not applicable,0,0
-2018,Croatia v England,2018-07-11,semi-finals,1,0,not applicable,0,0
-2018,Belgium v England,2018-07-14,third-place match,1,0,not applicable,0,0
-2018,France v Croatia,2018-07-15,final,1,0,not applicable,0,0
-2022,Qatar v Ecuador,2022-11-20,group stage,0,1,Group A,0,0
-2022,Senegal v Netherlands,2022-11-21,group stage,0,1,Group A,0,0
-2022,Qatar v Senegal,2022-11-25,group stage,0,1,Group A,0,0
-2022,Netherlands v Ecuador,2022-11-25,group stage,0,1,Group A,0,0
-2022,Ecuador v Senegal,2022-11-29,group stage,0,1,Group A,0,0
-2022,Netherlands v Qatar,2022-11-29,group stage,0,1,Group A,0,0
-2022,England v Iran,2022-11-21,group stage,0,1,Group B,0,0
-2022,United States v Wales,2022-11-21,group stage,0,1,Group B,0,0
-2022,Wales v Iran,2022-11-25,group stage,0,1,Group B,0,0
-2022,England v United States,2022-11-25,group stage,0,1,Group B,0,0
-2022,Wales v England,2022-11-29,group stage,0,1,Group B,0,0
-2022,Iran v United States,2022-11-29,group stage,0,1,Group B,0,0
-2022,Argentina v Saudi Arabia,2022-11-22,group stage,0,1,Group C,0,0
-2022,Mexico v Poland,2022-11-22,group stage,0,1,Group C,0,0
-2022,Poland v Saudi Arabia,2022-11-26,group stage,0,1,Group C,0,0
-2022,Argentina v Mexico,2022-11-26,group stage,0,1,Group C,0,0
-2022,Poland v Argentina,2022-11-30,group stage,0,1,Group C,0,0
-2022,Saudi Arabia v Mexico,2022-11-30,group stage,0,1,Group C,0,0
-2022,Denmark v Tunisia,2022-11-22,group stage,0,1,Group D,0,0
-2022,France v Australia,2022-11-22,group stage,0,1,Group D,0,0
-2022,Tunisia v Australia,2022-11-26,group stage,0,1,Group D,0,0
-2022,France v Denmark,2022-11-26,group stage,0,1,Group D,0,0
-2022,Australia v Denmark,2022-11-30,group stage,0,1,Group D,0,0
-2022,Tunisia v France,2022-11-30,group stage,0,1,Group D,0,0
-2022,Germany v Japan,2022-11-23,group stage,0,1,Group E,0,0
-2022,Spain v Costa Rica,2022-11-23,group stage,0,1,Group E,0,0
-2022,Japan v Costa Rica,2022-11-27,group stage,0,1,Group E,0,0
-2022,Spain v Germany,2022-11-27,group stage,0,1,Group E,0,0
-2022,Japan v Spain,2022-12-01,group stage,0,1,Group E,0,0
-2022,Costa Rica v Germany,2022-12-01,group stage,0,1,Group E,0,0
-2022,Morocco v Croatia,2022-11-23,group stage,0,1,Group F,0,0
-2022,Belgium v Canada,2022-11-23,group stage,0,1,Group F,0,0
-2022,Belgium v Morocco,2022-11-27,group stage,0,1,Group F,0,0
-2022,Croatia v Canada,2022-11-27,group stage,0,1,Group F,0,0
-2022,Croatia v Belgium,2022-12-01,group stage,0,1,Group F,0,0
-2022,Canada v Morocco,2022-12-01,group stage,0,1,Group F,0,0
-2022,Switzerland v Cameroon,2022-11-24,group stage,0,1,Group G,0,0
-2022,Brazil v Serbia,2022-11-24,group stage,0,1,Group G,0,0
-2022,Cameroon v Serbia,2022-11-28,group stage,0,1,Group G,0,0
-2022,Brazil v Switzerland,2022-11-28,group stage,0,1,Group G,0,0
-2022,Serbia v Switzerland,2022-12-02,group stage,0,1,Group G,0,0
-2022,Cameroon v Brazil,2022-12-02,group stage,0,1,Group G,0,0
-2022,Uruguay v South Korea,2022-11-24,group stage,0,1,Group H,0,0
-2022,Portugal v Ghana,2022-11-24,group stage,0,1,Group H,0,0
-2022,South Korea v Ghana,2022-11-28,group stage,0,1,Group H,0,0
-2022,Portugal v Uruguay,2022-11-28,group stage,0,1,Group H,0,0
-2022,Ghana v Uruguay,2022-12-02,group stage,0,1,Group H,0,0
-2022,South Korea v Portugal,2022-12-02,group stage,0,1,Group H,0,0
-2022,Netherlands v United States,2022-12-03,round of 16,1,0,not applicable,0,0
-2022,Argentina v Australia,2022-12-03,round of 16,1,0,not applicable,0,0
-2022,France v Poland,2022-12-04,round of 16,1,0,not applicable,0,0
-2022,England v Senegal,2022-12-04,round of 16,1,0,not applicable,0,0
-2022,Japan v Croatia,2022-12-05,round of 16,1,0,not applicable,0,0
-2022,Brazil v South Korea,2022-12-05,round of 16,1,0,not applicable,0,0
-2022,Morocco v Spain,2022-12-06,round of 16,1,0,not applicable,0,0
-2022,Portugal v Switzerland,2022-12-06,round of 16,1,0,not applicable,0,0
-2022,Croatia v Brazil,2022-12-09,quarter-finals,1,0,not applicable,0,0
-2022,Netherlands v Argentina,2022-12-09,quarter-finals,1,0,not applicable,0,0
-2022,Morocco v Portugal,2022-12-10,quarter-finals,1,0,not applicable,0,0
-2022,England v France,2022-12-10,quarter-finals,1,0,not applicable,0,0
-2022,Argentina v Croatia,2022-12-13,semi-finals,1,0,not applicable,0,0
-2022,France v Morocco,2022-12-14,semi-finals,1,0,not applicable,0,0
-2022,Croatia v Morocco,2022-12-17,third-place match,1,0,not applicable,0,0
-2022,Argentina v France,2022-12-18,final,1,0,not applicable,0,0
+tournament,year,match_name,match_date,stage_name,group_name,group_stage,knockout_stage,replayed,replay
+FIFA Men's World Cup,1930,France vs Mexico,1930-07-13,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1930,United States vs Belgium,1930-07-13,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1930,Romania vs Peru,1930-07-14,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1930,Yugoslavia vs Brazil,1930-07-14,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1930,Argentina vs France,1930-07-15,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1930,Chile vs Mexico,1930-07-16,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1930,United States vs Paraguay,1930-07-17,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1930,Yugoslavia vs Bolivia,1930-07-17,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1930,Uruguay vs Peru,1930-07-18,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1930,Argentina vs Mexico,1930-07-19,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1930,Chile vs France,1930-07-19,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1930,Brazil vs Bolivia,1930-07-20,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1930,Paraguay vs Belgium,1930-07-20,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1930,Uruguay vs Romania,1930-07-21,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1930,Argentina vs Chile,1930-07-22,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1930,Argentina vs United States,1930-07-26,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1930,Uruguay vs Yugoslavia,1930-07-27,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1930,Uruguay vs Argentina,1930-07-30,final,not applicable,0,1,0,0
+FIFA Men's World Cup,1934,Austria vs France,1934-05-27,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1934,Czechoslovakia vs Romania,1934-05-27,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1934,Germany vs Belgium,1934-05-27,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1934,Hungary vs Egypt,1934-05-27,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1934,Italy vs United States,1934-05-27,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1934,Spain vs Brazil,1934-05-27,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1934,Sweden vs Argentina,1934-05-27,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1934,Switzerland vs Netherlands,1934-05-27,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1934,Austria vs Hungary,1934-05-31,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1934,Czechoslovakia vs Switzerland,1934-05-31,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1934,Germany vs Sweden,1934-05-31,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1934,Italy vs Spain,1934-05-31,quarter-finals,not applicable,0,1,1,0
+FIFA Men's World Cup,1934,Italy vs Spain,1934-06-01,quarter-finals,not applicable,0,1,0,1
+FIFA Men's World Cup,1934,Czechoslovakia vs Germany,1934-06-03,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1934,Italy vs Austria,1934-06-03,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1934,Germany vs Austria,1934-06-07,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,1934,Italy vs Czechoslovakia,1934-06-10,final,not applicable,0,1,0,0
+FIFA Men's World Cup,1938,Switzerland vs Germany,1938-06-04,round of 16,not applicable,0,1,1,0
+FIFA Men's World Cup,1938,Brazil vs Poland,1938-06-05,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1938,Cuba vs Romania,1938-06-05,round of 16,not applicable,0,1,1,0
+FIFA Men's World Cup,1938,Czechoslovakia vs Netherlands,1938-06-05,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1938,France vs Belgium,1938-06-05,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1938,Hungary vs Dutch East Indies,1938-06-05,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1938,Italy vs Norway,1938-06-05,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1938,Cuba vs Romania,1938-06-09,round of 16,not applicable,0,1,0,1
+FIFA Men's World Cup,1938,Switzerland vs Germany,1938-06-09,round of 16,not applicable,0,1,0,1
+FIFA Men's World Cup,1938,Brazil vs Czechoslovakia,1938-06-12,quarter-finals,not applicable,0,1,1,0
+FIFA Men's World Cup,1938,Hungary vs Switzerland,1938-06-12,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1938,Italy vs France,1938-06-12,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1938,Sweden vs Cuba,1938-06-12,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1938,Brazil vs Czechoslovakia,1938-06-14,quarter-finals,not applicable,0,1,0,1
+FIFA Men's World Cup,1938,Hungary vs Sweden,1938-06-16,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1938,Italy vs Brazil,1938-06-16,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1938,Brazil vs Sweden,1938-06-19,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,1938,Italy vs Hungary,1938-06-19,final,not applicable,0,1,0,0
+FIFA Men's World Cup,1950,Brazil vs Mexico,1950-06-24,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1950,England vs Chile,1950-06-25,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1950,Spain vs United States,1950-06-25,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1950,Sweden vs Italy,1950-06-25,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1950,Yugoslavia vs Switzerland,1950-06-25,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1950,Brazil vs Switzerland,1950-06-28,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1950,Yugoslavia vs Mexico,1950-06-28,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1950,Spain vs Chile,1950-06-29,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1950,Sweden vs Paraguay,1950-06-29,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1950,United States vs England,1950-06-29,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1950,Brazil vs Yugoslavia,1950-07-01,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1950,Chile vs United States,1950-07-02,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1950,Italy vs Paraguay,1950-07-02,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1950,Spain vs England,1950-07-02,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1950,Switzerland vs Mexico,1950-07-02,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1950,Uruguay vs Bolivia,1950-07-02,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1950,Brazil vs Sweden,1950-07-09,final round,not applicable,1,0,0,0
+FIFA Men's World Cup,1950,Uruguay vs Spain,1950-07-09,final round,not applicable,1,0,0,0
+FIFA Men's World Cup,1950,Brazil vs Spain,1950-07-13,final round,not applicable,1,0,0,0
+FIFA Men's World Cup,1950,Uruguay vs Sweden,1950-07-13,final round,not applicable,1,0,0,0
+FIFA Men's World Cup,1950,Sweden vs Spain,1950-07-16,final round,not applicable,1,0,0,0
+FIFA Men's World Cup,1950,Uruguay vs Brazil,1950-07-16,final round,not applicable,1,0,0,0
+FIFA Men's World Cup,1954,Austria vs Scotland,1954-06-16,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1954,Brazil vs Mexico,1954-06-16,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1954,Uruguay vs Czechoslovakia,1954-06-16,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1954,Yugoslavia vs France,1954-06-16,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1954,England vs Belgium,1954-06-17,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1954,Hungary vs South Korea,1954-06-17,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1954,Switzerland vs Italy,1954-06-17,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1954,West Germany vs Turkey,1954-06-17,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1954,Austria vs Czechoslovakia,1954-06-19,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1954,Brazil vs Yugoslavia,1954-06-19,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1954,France vs Mexico,1954-06-19,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1954,Uruguay vs Scotland,1954-06-19,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1954,England vs Switzerland,1954-06-20,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1954,Hungary vs West Germany,1954-06-20,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1954,Italy vs Belgium,1954-06-20,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1954,Turkey vs South Korea,1954-06-20,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1954,Switzerland vs Italy,1954-06-23,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1954,West Germany vs Turkey,1954-06-23,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1954,Austria vs Switzerland,1954-06-26,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1954,Uruguay vs England,1954-06-26,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1954,Hungary vs Brazil,1954-06-27,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1954,West Germany vs Yugoslavia,1954-06-27,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1954,Hungary vs Uruguay,1954-06-30,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1954,West Germany vs Austria,1954-06-30,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1954,Austria vs Uruguay,1954-07-03,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,1954,West Germany vs Hungary,1954-07-04,final,not applicable,0,1,0,0
+FIFA Men's World Cup,1958,Argentina vs West Germany,1958-06-08,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1958,Brazil vs Austria,1958-06-08,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1958,France vs Paraguay,1958-06-08,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1958,Hungary vs Wales,1958-06-08,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1958,Northern Ireland vs Czechoslovakia,1958-06-08,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1958,Soviet Union vs England,1958-06-08,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1958,Sweden vs Mexico,1958-06-08,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1958,Yugoslavia vs Scotland,1958-06-08,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1958,Argentina vs Northern Ireland,1958-06-11,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1958,Brazil vs England,1958-06-11,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1958,Mexico vs Wales,1958-06-11,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1958,Paraguay vs Scotland,1958-06-11,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1958,Soviet Union vs Austria,1958-06-11,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1958,West Germany vs Czechoslovakia,1958-06-11,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1958,Yugoslavia vs France,1958-06-11,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1958,Sweden vs Hungary,1958-06-12,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1958,Brazil vs Soviet Union,1958-06-15,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1958,Czechoslovakia vs Argentina,1958-06-15,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1958,England vs Austria,1958-06-15,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1958,France vs Scotland,1958-06-15,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1958,Hungary vs Mexico,1958-06-15,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1958,Paraguay vs Yugoslavia,1958-06-15,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1958,Sweden vs Wales,1958-06-15,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1958,West Germany vs Northern Ireland,1958-06-15,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1958,Northern Ireland vs Czechoslovakia,1958-06-17,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1958,Soviet Union vs England,1958-06-17,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1958,Wales vs Hungary,1958-06-17,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1958,Brazil vs Wales,1958-06-19,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1958,France vs Northern Ireland,1958-06-19,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1958,Sweden vs Soviet Union,1958-06-19,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1958,West Germany vs Yugoslavia,1958-06-19,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1958,Brazil vs France,1958-06-24,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1958,Sweden vs West Germany,1958-06-24,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1958,France vs West Germany,1958-06-28,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,1958,Brazil vs Sweden,1958-06-29,final,not applicable,0,1,0,0
+FIFA Men's World Cup,1962,Argentina vs Bulgaria,1962-05-30,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1962,Brazil vs Mexico,1962-05-30,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1962,Chile vs Switzerland,1962-05-30,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1962,Uruguay vs Colombia,1962-05-30,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1962,Czechoslovakia vs Spain,1962-05-31,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1962,Hungary vs England,1962-05-31,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1962,Soviet Union vs Yugoslavia,1962-05-31,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1962,West Germany vs Italy,1962-05-31,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1962,Brazil vs Czechoslovakia,1962-06-02,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1962,Chile vs Italy,1962-06-02,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1962,England vs Argentina,1962-06-02,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1962,Yugoslavia vs Uruguay,1962-06-02,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1962,Hungary vs Bulgaria,1962-06-03,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1962,Soviet Union vs Colombia,1962-06-03,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1962,Spain vs Mexico,1962-06-03,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1962,West Germany vs Switzerland,1962-06-03,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1962,Brazil vs Spain,1962-06-06,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1962,Hungary vs Argentina,1962-06-06,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1962,Soviet Union vs Uruguay,1962-06-06,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1962,West Germany vs Chile,1962-06-06,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1962,England vs Bulgaria,1962-06-07,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1962,Italy vs Switzerland,1962-06-07,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1962,Mexico vs Czechoslovakia,1962-06-07,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1962,Yugoslavia vs Colombia,1962-06-07,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1962,Brazil vs England,1962-06-10,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1962,Chile vs Soviet Union,1962-06-10,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1962,Czechoslovakia vs Hungary,1962-06-10,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1962,Yugoslavia vs West Germany,1962-06-10,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1962,Brazil vs Chile,1962-06-13,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1962,Czechoslovakia vs Yugoslavia,1962-06-13,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1962,Chile vs Yugoslavia,1962-06-16,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,1962,Brazil vs Czechoslovakia,1962-06-17,final,not applicable,0,1,0,0
+FIFA Men's World Cup,1966,England vs Uruguay,1966-07-11,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1966,Brazil vs Bulgaria,1966-07-12,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1966,Soviet Union vs North Korea,1966-07-12,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1966,West Germany vs Switzerland,1966-07-12,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1966,Argentina vs Spain,1966-07-13,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1966,France vs Mexico,1966-07-13,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1966,Italy vs Chile,1966-07-13,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1966,Portugal vs Hungary,1966-07-13,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1966,Chile vs North Korea,1966-07-15,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1966,Hungary vs Brazil,1966-07-15,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1966,Spain vs Switzerland,1966-07-15,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1966,Uruguay vs France,1966-07-15,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1966,Argentina vs West Germany,1966-07-16,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1966,England vs Mexico,1966-07-16,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1966,Portugal vs Bulgaria,1966-07-16,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1966,Soviet Union vs Italy,1966-07-16,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1966,Argentina vs Switzerland,1966-07-19,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1966,Mexico vs Uruguay,1966-07-19,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1966,North Korea vs Italy,1966-07-19,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1966,Portugal vs Brazil,1966-07-19,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1966,England vs France,1966-07-20,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1966,Hungary vs Bulgaria,1966-07-20,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1966,Soviet Union vs Chile,1966-07-20,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1966,West Germany vs Spain,1966-07-20,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1966,England vs Argentina,1966-07-23,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1966,Portugal vs North Korea,1966-07-23,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1966,Soviet Union vs Hungary,1966-07-23,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1966,West Germany vs Uruguay,1966-07-23,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1966,West Germany vs Soviet Union,1966-07-25,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1966,England vs Portugal,1966-07-26,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1966,Portugal vs Soviet Union,1966-07-28,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,1966,England vs West Germany,1966-07-30,final,not applicable,0,1,0,0
+FIFA Men's World Cup,1970,Mexico vs Soviet Union,1970-05-31,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1970,England vs Romania,1970-06-02,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1970,Peru vs Bulgaria,1970-06-02,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1970,Uruguay vs Israel,1970-06-02,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1970,Belgium vs El Salvador,1970-06-03,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1970,Brazil vs Czechoslovakia,1970-06-03,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1970,Italy vs Sweden,1970-06-03,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1970,West Germany vs Morocco,1970-06-03,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1970,Peru vs Morocco,1970-06-06,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1970,Romania vs Czechoslovakia,1970-06-06,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1970,Soviet Union vs Belgium,1970-06-06,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1970,Uruguay vs Italy,1970-06-06,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1970,Brazil vs England,1970-06-07,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1970,Mexico vs El Salvador,1970-06-07,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1970,Sweden vs Israel,1970-06-07,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1970,West Germany vs Bulgaria,1970-06-07,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1970,Brazil vs Romania,1970-06-10,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1970,Soviet Union vs El Salvador,1970-06-10,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1970,Sweden vs Uruguay,1970-06-10,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1970,West Germany vs Peru,1970-06-10,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1970,Bulgaria vs Morocco,1970-06-11,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1970,England vs Czechoslovakia,1970-06-11,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1970,Italy vs Israel,1970-06-11,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1970,Mexico vs Belgium,1970-06-11,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1970,Brazil vs Peru,1970-06-14,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1970,Italy vs Mexico,1970-06-14,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1970,Soviet Union vs Uruguay,1970-06-14,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1970,West Germany vs England,1970-06-14,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1970,Brazil vs Uruguay,1970-06-17,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1970,Italy vs West Germany,1970-06-17,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1970,West Germany vs Uruguay,1970-06-20,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,1970,Brazil vs Italy,1970-06-21,final,not applicable,0,1,0,0
+FIFA Men's World Cup,1974,Brazil vs Yugoslavia,1974-06-13,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1974,East Germany vs Australia,1974-06-14,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1974,West Germany vs Chile,1974-06-14,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1974,Zaire vs Scotland,1974-06-14,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1974,Italy vs Haiti,1974-06-15,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1974,Poland vs Argentina,1974-06-15,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1974,Sweden vs Bulgaria,1974-06-15,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1974,Uruguay vs Netherlands,1974-06-15,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1974,Australia vs West Germany,1974-06-18,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1974,Chile vs East Germany,1974-06-18,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1974,Scotland vs Brazil,1974-06-18,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1974,Yugoslavia vs Zaire,1974-06-18,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1974,Argentina vs Italy,1974-06-19,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1974,Bulgaria vs Uruguay,1974-06-19,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1974,Haiti vs Poland,1974-06-19,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1974,Netherlands vs Sweden,1974-06-19,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1974,Australia vs Chile,1974-06-22,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1974,East Germany vs West Germany,1974-06-22,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1974,Scotland vs Yugoslavia,1974-06-22,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1974,Zaire vs Brazil,1974-06-22,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1974,Argentina vs Haiti,1974-06-23,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1974,Bulgaria vs Netherlands,1974-06-23,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1974,Poland vs Italy,1974-06-23,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1974,Sweden vs Uruguay,1974-06-23,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1974,Brazil vs East Germany,1974-06-26,second group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1974,Netherlands vs Argentina,1974-06-26,second group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1974,Sweden vs Poland,1974-06-26,second group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1974,Yugoslavia vs West Germany,1974-06-26,second group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1974,Argentina vs Brazil,1974-06-30,second group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1974,East Germany vs Netherlands,1974-06-30,second group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1974,Poland vs Yugoslavia,1974-06-30,second group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1974,West Germany vs Sweden,1974-06-30,second group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1974,Argentina vs East Germany,1974-07-03,second group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1974,Netherlands vs Brazil,1974-07-03,second group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1974,Poland vs West Germany,1974-07-03,second group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1974,Sweden vs Yugoslavia,1974-07-03,second group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1974,Brazil vs Poland,1974-07-06,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,1974,Netherlands vs West Germany,1974-07-07,final,not applicable,0,1,0,0
+FIFA Men's World Cup,1978,West Germany vs Poland,1978-06-01,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1978,Argentina vs Hungary,1978-06-02,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1978,Italy vs France,1978-06-02,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1978,Tunisia vs Mexico,1978-06-02,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1978,Austria vs Spain,1978-06-03,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1978,Brazil vs Sweden,1978-06-03,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1978,Netherlands vs Iran,1978-06-03,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1978,Peru vs Scotland,1978-06-03,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1978,Argentina vs France,1978-06-06,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1978,Italy vs Hungary,1978-06-06,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1978,Poland vs Tunisia,1978-06-06,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1978,West Germany vs Mexico,1978-06-06,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1978,Austria vs Sweden,1978-06-07,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1978,Brazil vs Spain,1978-06-07,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1978,Netherlands vs Peru,1978-06-07,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1978,Scotland vs Iran,1978-06-07,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1978,Argentina vs Italy,1978-06-10,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1978,France vs Hungary,1978-06-10,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1978,Poland vs Mexico,1978-06-10,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1978,West Germany vs Tunisia,1978-06-10,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1978,Brazil vs Austria,1978-06-11,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1978,Peru vs Iran,1978-06-11,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1978,Scotland vs Netherlands,1978-06-11,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1978,Spain vs Sweden,1978-06-11,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1978,Argentina vs Poland,1978-06-14,second group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1978,Austria vs Netherlands,1978-06-14,second group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1978,Brazil vs Peru,1978-06-14,second group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1978,Italy vs West Germany,1978-06-14,second group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1978,Argentina vs Brazil,1978-06-18,second group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1978,Italy vs Austria,1978-06-18,second group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1978,Netherlands vs West Germany,1978-06-18,second group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1978,Peru vs Poland,1978-06-18,second group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1978,Argentina vs Peru,1978-06-21,second group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1978,Austria vs West Germany,1978-06-21,second group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1978,Brazil vs Poland,1978-06-21,second group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1978,Italy vs Netherlands,1978-06-21,second group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1978,Brazil vs Italy,1978-06-24,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,1978,Argentina vs Netherlands,1978-06-25,final,not applicable,0,1,0,0
+FIFA Men's World Cup,1982,Argentina vs Belgium,1982-06-13,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1982,Brazil vs Soviet Union,1982-06-14,group stage,Group 6,1,0,0,0
+FIFA Men's World Cup,1982,Italy vs Poland,1982-06-14,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1982,Hungary vs El Salvador,1982-06-15,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1982,Peru vs Cameroon,1982-06-15,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1982,Scotland vs New Zealand,1982-06-15,group stage,Group 6,1,0,0,0
+FIFA Men's World Cup,1982,England vs France,1982-06-16,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1982,Spain vs Honduras,1982-06-16,group stage,Group 5,1,0,0,0
+FIFA Men's World Cup,1982,West Germany vs Algeria,1982-06-16,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1982,Chile vs Austria,1982-06-17,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1982,Czechoslovakia vs Kuwait,1982-06-17,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1982,Yugoslavia vs Northern Ireland,1982-06-17,group stage,Group 5,1,0,0,0
+FIFA Men's World Cup,1982,Argentina vs Hungary,1982-06-18,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1982,Brazil vs Scotland,1982-06-18,group stage,Group 6,1,0,0,0
+FIFA Men's World Cup,1982,Italy vs Peru,1982-06-18,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1982,Belgium vs El Salvador,1982-06-19,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1982,Poland vs Cameroon,1982-06-19,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1982,Soviet Union vs New Zealand,1982-06-19,group stage,Group 6,1,0,0,0
+FIFA Men's World Cup,1982,England vs Czechoslovakia,1982-06-20,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1982,Spain vs Yugoslavia,1982-06-20,group stage,Group 5,1,0,0,0
+FIFA Men's World Cup,1982,West Germany vs Chile,1982-06-20,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1982,Algeria vs Austria,1982-06-21,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1982,France vs Kuwait,1982-06-21,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1982,Honduras vs Northern Ireland,1982-06-21,group stage,Group 5,1,0,0,0
+FIFA Men's World Cup,1982,Belgium vs Hungary,1982-06-22,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1982,Poland vs Peru,1982-06-22,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1982,Soviet Union vs Scotland,1982-06-22,group stage,Group 6,1,0,0,0
+FIFA Men's World Cup,1982,Argentina vs El Salvador,1982-06-23,group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1982,Brazil vs New Zealand,1982-06-23,group stage,Group 6,1,0,0,0
+FIFA Men's World Cup,1982,Italy vs Cameroon,1982-06-23,group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1982,Algeria vs Chile,1982-06-24,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1982,France vs Czechoslovakia,1982-06-24,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1982,Honduras vs Yugoslavia,1982-06-24,group stage,Group 5,1,0,0,0
+FIFA Men's World Cup,1982,England vs Kuwait,1982-06-25,group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1982,Spain vs Northern Ireland,1982-06-25,group stage,Group 5,1,0,0,0
+FIFA Men's World Cup,1982,West Germany vs Austria,1982-06-25,group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1982,Austria vs France,1982-06-28,second group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1982,Poland vs Belgium,1982-06-28,second group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1982,Italy vs Argentina,1982-06-29,second group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1982,West Germany vs England,1982-06-29,second group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1982,Austria vs Northern Ireland,1982-07-01,second group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1982,Belgium vs Soviet Union,1982-07-01,second group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1982,Argentina vs Brazil,1982-07-02,second group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1982,West Germany vs Spain,1982-07-02,second group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1982,France vs Northern Ireland,1982-07-04,second group stage,Group 4,1,0,0,0
+FIFA Men's World Cup,1982,Soviet Union vs Poland,1982-07-04,second group stage,Group 1,1,0,0,0
+FIFA Men's World Cup,1982,Italy vs Brazil,1982-07-05,second group stage,Group 3,1,0,0,0
+FIFA Men's World Cup,1982,Spain vs England,1982-07-05,second group stage,Group 2,1,0,0,0
+FIFA Men's World Cup,1982,Poland vs Italy,1982-07-08,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1982,West Germany vs France,1982-07-08,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1982,Poland vs France,1982-07-10,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,1982,Italy vs West Germany,1982-07-11,final,not applicable,0,1,0,0
+FIFA Men's World Cup,1986,Bulgaria vs Italy,1986-05-31,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1986,Canada vs France,1986-06-01,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1986,Spain vs Brazil,1986-06-01,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1986,Argentina vs South Korea,1986-06-02,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1986,Morocco vs Poland,1986-06-02,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1986,Soviet Union vs Hungary,1986-06-02,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1986,Algeria vs Northern Ireland,1986-06-03,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1986,Belgium vs Mexico,1986-06-03,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1986,Portugal vs England,1986-06-03,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1986,Paraguay vs Iraq,1986-06-04,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1986,Scotland vs Denmark,1986-06-04,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1986,Uruguay vs West Germany,1986-06-04,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1986,France vs Soviet Union,1986-06-05,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1986,Italy vs Argentina,1986-06-05,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1986,South Korea vs Bulgaria,1986-06-05,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1986,Brazil vs Algeria,1986-06-06,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1986,England vs Morocco,1986-06-06,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1986,Hungary vs Canada,1986-06-06,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1986,Mexico vs Paraguay,1986-06-07,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1986,Northern Ireland vs Spain,1986-06-07,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1986,Poland vs Portugal,1986-06-07,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1986,Denmark vs Uruguay,1986-06-08,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1986,Iraq vs Belgium,1986-06-08,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1986,West Germany vs Scotland,1986-06-08,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1986,Hungary vs France,1986-06-09,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1986,Soviet Union vs Canada,1986-06-09,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1986,Argentina vs Bulgaria,1986-06-10,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1986,South Korea vs Italy,1986-06-10,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1986,England vs Poland,1986-06-11,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1986,Iraq vs Mexico,1986-06-11,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1986,Paraguay vs Belgium,1986-06-11,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1986,Portugal vs Morocco,1986-06-11,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1986,Algeria vs Spain,1986-06-12,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1986,Northern Ireland vs Brazil,1986-06-12,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1986,Denmark vs West Germany,1986-06-13,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1986,Scotland vs Uruguay,1986-06-13,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1986,Mexico vs Bulgaria,1986-06-15,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1986,Soviet Union vs Belgium,1986-06-15,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1986,Argentina vs Uruguay,1986-06-16,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1986,Brazil vs Poland,1986-06-16,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1986,Italy vs France,1986-06-17,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1986,Morocco vs West Germany,1986-06-17,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1986,Denmark vs Spain,1986-06-18,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1986,England vs Paraguay,1986-06-18,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1986,Brazil vs France,1986-06-21,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1986,West Germany vs Mexico,1986-06-21,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1986,Argentina vs England,1986-06-22,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1986,Spain vs Belgium,1986-06-22,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1986,Argentina vs Belgium,1986-06-25,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1986,France vs West Germany,1986-06-25,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1986,Belgium vs France,1986-06-28,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,1986,Argentina vs West Germany,1986-06-29,final,not applicable,0,1,0,0
+FIFA Men's World Cup,1990,Argentina vs Cameroon,1990-06-08,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1990,Italy vs Austria,1990-06-09,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1990,Soviet Union vs Romania,1990-06-09,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1990,United Arab Emirates vs Colombia,1990-06-09,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1990,Brazil vs Sweden,1990-06-10,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1990,United States vs Czechoslovakia,1990-06-10,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1990,West Germany vs Yugoslavia,1990-06-10,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1990,Costa Rica vs Scotland,1990-06-11,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1990,England vs Republic of Ireland,1990-06-11,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1990,Belgium vs South Korea,1990-06-12,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1990,Netherlands vs Egypt,1990-06-12,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1990,Argentina vs Soviet Union,1990-06-13,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1990,Uruguay vs Spain,1990-06-13,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1990,Cameroon vs Romania,1990-06-14,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1990,Italy vs United States,1990-06-14,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1990,Yugoslavia vs Colombia,1990-06-14,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1990,Austria vs Czechoslovakia,1990-06-15,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1990,West Germany vs United Arab Emirates,1990-06-15,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1990,Brazil vs Costa Rica,1990-06-16,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1990,England vs Netherlands,1990-06-16,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1990,Sweden vs Scotland,1990-06-16,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1990,Belgium vs Uruguay,1990-06-17,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1990,Republic of Ireland vs Egypt,1990-06-17,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1990,South Korea vs Spain,1990-06-17,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1990,Argentina vs Romania,1990-06-18,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1990,Cameroon vs Soviet Union,1990-06-18,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1990,Austria vs United States,1990-06-19,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1990,Italy vs Czechoslovakia,1990-06-19,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1990,West Germany vs Colombia,1990-06-19,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1990,Yugoslavia vs United Arab Emirates,1990-06-19,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1990,Brazil vs Scotland,1990-06-20,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1990,Sweden vs Costa Rica,1990-06-20,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1990,Belgium vs Spain,1990-06-21,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1990,England vs Egypt,1990-06-21,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1990,Republic of Ireland vs Netherlands,1990-06-21,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1990,South Korea vs Uruguay,1990-06-21,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1990,Cameroon vs Colombia,1990-06-23,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1990,Czechoslovakia vs Costa Rica,1990-06-23,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1990,Brazil vs Argentina,1990-06-24,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1990,West Germany vs Netherlands,1990-06-24,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1990,Italy vs Uruguay,1990-06-25,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1990,Republic of Ireland vs Romania,1990-06-25,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1990,England vs Belgium,1990-06-26,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1990,Spain vs Yugoslavia,1990-06-26,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1990,Argentina vs Yugoslavia,1990-06-30,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1990,Republic of Ireland vs Italy,1990-06-30,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1990,Cameroon vs England,1990-07-01,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1990,Czechoslovakia vs West Germany,1990-07-01,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1990,Argentina vs Italy,1990-07-03,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1990,West Germany vs England,1990-07-04,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1990,Italy vs England,1990-07-07,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,1990,West Germany vs Argentina,1990-07-08,final,not applicable,0,1,0,0
+FIFA Men's World Cup,1994,Germany vs Bolivia,1994-06-17,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1994,Spain vs South Korea,1994-06-17,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1994,Colombia vs Romania,1994-06-18,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1994,Italy vs Republic of Ireland,1994-06-18,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1994,United States vs Switzerland,1994-06-18,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1994,Belgium vs Morocco,1994-06-19,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1994,Cameroon vs Sweden,1994-06-19,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1994,Norway vs Mexico,1994-06-19,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1994,Brazil vs Russia,1994-06-20,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1994,Netherlands vs Saudi Arabia,1994-06-20,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1994,Argentina vs Greece,1994-06-21,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1994,Germany vs Spain,1994-06-21,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1994,Nigeria vs Bulgaria,1994-06-21,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1994,Romania vs Switzerland,1994-06-22,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1994,United States vs Colombia,1994-06-22,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1994,Italy vs Norway,1994-06-23,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1994,South Korea vs Bolivia,1994-06-23,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1994,Brazil vs Cameroon,1994-06-24,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1994,Mexico vs Republic of Ireland,1994-06-24,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1994,Sweden vs Russia,1994-06-24,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1994,Argentina vs Nigeria,1994-06-25,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1994,Belgium vs Netherlands,1994-06-25,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1994,Saudi Arabia vs Morocco,1994-06-25,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1994,Bulgaria vs Greece,1994-06-26,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1994,Switzerland vs Colombia,1994-06-26,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1994,United States vs Romania,1994-06-26,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1994,Bolivia vs Spain,1994-06-27,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1994,Germany vs South Korea,1994-06-27,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1994,Brazil vs Sweden,1994-06-28,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1994,Italy vs Mexico,1994-06-28,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1994,Republic of Ireland vs Norway,1994-06-28,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1994,Russia vs Cameroon,1994-06-28,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1994,Belgium vs Saudi Arabia,1994-06-29,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1994,Morocco vs Netherlands,1994-06-29,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1994,Argentina vs Bulgaria,1994-06-30,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1994,Greece vs Nigeria,1994-06-30,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1994,Germany vs Belgium,1994-07-02,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1994,Spain vs Switzerland,1994-07-02,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1994,Romania vs Argentina,1994-07-03,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1994,Saudi Arabia vs Sweden,1994-07-03,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1994,Brazil vs United States,1994-07-04,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1994,Netherlands vs Republic of Ireland,1994-07-04,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1994,Mexico vs Bulgaria,1994-07-05,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1994,Nigeria vs Italy,1994-07-05,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1994,Italy vs Spain,1994-07-09,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1994,Netherlands vs Brazil,1994-07-09,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1994,Bulgaria vs Germany,1994-07-10,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1994,Romania vs Sweden,1994-07-10,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1994,Bulgaria vs Italy,1994-07-13,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1994,Sweden vs Brazil,1994-07-13,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1994,Sweden vs Bulgaria,1994-07-16,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,1994,Brazil vs Italy,1994-07-17,final,not applicable,0,1,0,0
+FIFA Men's World Cup,1998,Brazil vs Scotland,1998-06-10,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1998,Morocco vs Norway,1998-06-10,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1998,Cameroon vs Austria,1998-06-11,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1998,Italy vs Chile,1998-06-11,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1998,France vs South Africa,1998-06-12,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1998,Paraguay vs Bulgaria,1998-06-12,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1998,Saudi Arabia vs Denmark,1998-06-12,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1998,Netherlands vs Belgium,1998-06-13,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1998,South Korea vs Mexico,1998-06-13,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1998,Spain vs Nigeria,1998-06-13,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1998,Argentina vs Japan,1998-06-14,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,1998,Jamaica vs Croatia,1998-06-14,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,1998,Yugoslavia vs Iran,1998-06-14,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1998,England vs Tunisia,1998-06-15,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,1998,Germany vs United States,1998-06-15,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1998,Romania vs Colombia,1998-06-15,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,1998,Brazil vs Morocco,1998-06-16,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1998,Scotland vs Norway,1998-06-16,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1998,Chile vs Austria,1998-06-17,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1998,Italy vs Cameroon,1998-06-17,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1998,France vs Saudi Arabia,1998-06-18,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1998,South Africa vs Denmark,1998-06-18,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1998,Nigeria vs Bulgaria,1998-06-19,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1998,Spain vs Paraguay,1998-06-19,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1998,Belgium vs Mexico,1998-06-20,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1998,Japan vs Croatia,1998-06-20,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,1998,Netherlands vs South Korea,1998-06-20,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1998,Argentina vs Jamaica,1998-06-21,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,1998,Germany vs Yugoslavia,1998-06-21,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1998,United States vs Iran,1998-06-21,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1998,Colombia vs Tunisia,1998-06-22,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,1998,Romania vs England,1998-06-22,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,1998,Brazil vs Norway,1998-06-23,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1998,Chile vs Cameroon,1998-06-23,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1998,Italy vs Austria,1998-06-23,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,1998,Scotland vs Morocco,1998-06-23,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,1998,France vs Denmark,1998-06-24,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1998,Nigeria vs Paraguay,1998-06-24,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1998,South Africa vs Saudi Arabia,1998-06-24,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,1998,Spain vs Bulgaria,1998-06-24,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,1998,Belgium vs South Korea,1998-06-25,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1998,Germany vs Iran,1998-06-25,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1998,Netherlands vs Mexico,1998-06-25,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,1998,United States vs Yugoslavia,1998-06-25,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,1998,Argentina vs Croatia,1998-06-26,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,1998,Colombia vs England,1998-06-26,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,1998,Japan vs Jamaica,1998-06-26,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,1998,Romania vs Tunisia,1998-06-26,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,1998,Brazil vs Chile,1998-06-27,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1998,Italy vs Norway,1998-06-27,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1998,France vs Paraguay,1998-06-28,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1998,Nigeria vs Denmark,1998-06-28,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1998,Germany vs Mexico,1998-06-29,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1998,Netherlands vs Yugoslavia,1998-06-29,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1998,Argentina vs England,1998-06-30,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1998,Romania vs Croatia,1998-06-30,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,1998,Brazil vs Denmark,1998-07-03,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1998,Italy vs France,1998-07-03,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1998,Germany vs Croatia,1998-07-04,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1998,Netherlands vs Argentina,1998-07-04,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1998,Brazil vs Netherlands,1998-07-07,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1998,France vs Croatia,1998-07-08,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,1998,Netherlands vs Croatia,1998-07-11,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,1998,Brazil vs France,1998-07-12,final,not applicable,0,1,0,0
+FIFA Men's World Cup,2002,France vs Senegal,2002-05-31,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2002,Germany vs Saudi Arabia,2002-06-01,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2002,Republic of Ireland vs Cameroon,2002-06-01,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2002,Uruguay vs Denmark,2002-06-01,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2002,Argentina vs Nigeria,2002-06-02,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2002,England vs Sweden,2002-06-02,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2002,Paraguay vs South Africa,2002-06-02,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2002,Spain vs Slovenia,2002-06-02,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2002,Brazil vs Turkey,2002-06-03,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2002,Croatia vs Mexico,2002-06-03,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2002,Italy vs Ecuador,2002-06-03,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2002,China vs Costa Rica,2002-06-04,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2002,Japan vs Belgium,2002-06-04,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2002,South Korea vs Poland,2002-06-04,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2002,Germany vs Republic of Ireland,2002-06-05,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2002,Russia vs Tunisia,2002-06-05,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2002,United States vs Portugal,2002-06-05,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2002,Cameroon vs Saudi Arabia,2002-06-06,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2002,Denmark vs Senegal,2002-06-06,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2002,France vs Uruguay,2002-06-06,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2002,Argentina vs England,2002-06-07,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2002,Spain vs Paraguay,2002-06-07,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2002,Sweden vs Nigeria,2002-06-07,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2002,Brazil vs China,2002-06-08,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2002,Italy vs Croatia,2002-06-08,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2002,South Africa vs Slovenia,2002-06-08,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2002,Costa Rica vs Turkey,2002-06-09,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2002,Japan vs Russia,2002-06-09,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2002,Mexico vs Ecuador,2002-06-09,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2002,Portugal vs Poland,2002-06-10,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2002,South Korea vs United States,2002-06-10,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2002,Tunisia vs Belgium,2002-06-10,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2002,Cameroon vs Germany,2002-06-11,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2002,Denmark vs France,2002-06-11,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2002,Saudi Arabia vs Republic of Ireland,2002-06-11,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2002,Senegal vs Uruguay,2002-06-11,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2002,Nigeria vs England,2002-06-12,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2002,Slovenia vs Paraguay,2002-06-12,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2002,South Africa vs Spain,2002-06-12,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2002,Sweden vs Argentina,2002-06-12,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2002,Costa Rica vs Brazil,2002-06-13,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2002,Ecuador vs Croatia,2002-06-13,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2002,Mexico vs Italy,2002-06-13,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2002,Turkey vs China,2002-06-13,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2002,Belgium vs Russia,2002-06-14,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2002,Poland vs United States,2002-06-14,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2002,Portugal vs South Korea,2002-06-14,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2002,Tunisia vs Japan,2002-06-14,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2002,Denmark vs England,2002-06-15,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2002,Germany vs Paraguay,2002-06-15,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2002,Spain vs Republic of Ireland,2002-06-16,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2002,Sweden vs Senegal,2002-06-16,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2002,Brazil vs Belgium,2002-06-17,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2002,Mexico vs United States,2002-06-17,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2002,Japan vs Turkey,2002-06-18,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2002,South Korea vs Italy,2002-06-18,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2002,England vs Brazil,2002-06-21,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2002,Germany vs United States,2002-06-21,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2002,Senegal vs Turkey,2002-06-22,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2002,Spain vs South Korea,2002-06-22,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2002,Germany vs South Korea,2002-06-25,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2002,Brazil vs Turkey,2002-06-26,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2002,South Korea vs Turkey,2002-06-29,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,2002,Germany vs Brazil,2002-06-30,final,not applicable,0,1,0,0
+FIFA Men's World Cup,2006,Germany vs Costa Rica,2006-06-09,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2006,Poland vs Ecuador,2006-06-09,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2006,Argentina vs Ivory Coast,2006-06-10,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2006,England vs Paraguay,2006-06-10,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2006,Trinidad and Tobago vs Sweden,2006-06-10,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2006,Angola vs Portugal,2006-06-11,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2006,Mexico vs Iran,2006-06-11,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2006,Serbia and Montenegro vs Netherlands,2006-06-11,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2006,Australia vs Japan,2006-06-12,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2006,Italy vs Ghana,2006-06-12,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2006,United States vs Czech Republic,2006-06-12,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2006,Brazil vs Croatia,2006-06-13,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2006,France vs Switzerland,2006-06-13,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2006,South Korea vs Togo,2006-06-13,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2006,Germany vs Poland,2006-06-14,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2006,Spain vs Ukraine,2006-06-14,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2006,Tunisia vs Saudi Arabia,2006-06-14,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2006,Ecuador vs Costa Rica,2006-06-15,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2006,England vs Trinidad and Tobago,2006-06-15,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2006,Sweden vs Paraguay,2006-06-15,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2006,Argentina vs Serbia and Montenegro,2006-06-16,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2006,Mexico vs Angola,2006-06-16,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2006,Netherlands vs Ivory Coast,2006-06-16,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2006,Czech Republic vs Ghana,2006-06-17,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2006,Italy vs United States,2006-06-17,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2006,Portugal vs Iran,2006-06-17,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2006,Brazil vs Australia,2006-06-18,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2006,France vs South Korea,2006-06-18,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2006,Japan vs Croatia,2006-06-18,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2006,Saudi Arabia vs Ukraine,2006-06-19,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2006,Spain vs Tunisia,2006-06-19,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2006,Togo vs Switzerland,2006-06-19,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2006,Costa Rica vs Poland,2006-06-20,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2006,Ecuador vs Germany,2006-06-20,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2006,Paraguay vs Trinidad and Tobago,2006-06-20,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2006,Sweden vs England,2006-06-20,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2006,Iran vs Angola,2006-06-21,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2006,Ivory Coast vs Serbia and Montenegro,2006-06-21,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2006,Netherlands vs Argentina,2006-06-21,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2006,Portugal vs Mexico,2006-06-21,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2006,Croatia vs Australia,2006-06-22,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2006,Czech Republic vs Italy,2006-06-22,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2006,Ghana vs United States,2006-06-22,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2006,Japan vs Brazil,2006-06-22,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2006,Saudi Arabia vs Spain,2006-06-23,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2006,Switzerland vs South Korea,2006-06-23,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2006,Togo vs France,2006-06-23,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2006,Ukraine vs Tunisia,2006-06-23,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2006,Argentina vs Mexico,2006-06-24,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2006,Germany vs Sweden,2006-06-24,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2006,England vs Ecuador,2006-06-25,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2006,Portugal vs Netherlands,2006-06-25,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2006,Italy vs Australia,2006-06-26,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2006,Switzerland vs Ukraine,2006-06-26,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2006,Brazil vs Ghana,2006-06-27,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2006,Spain vs France,2006-06-27,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2006,Germany vs Argentina,2006-06-30,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2006,Italy vs Ukraine,2006-06-30,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2006,Brazil vs France,2006-07-01,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2006,England vs Portugal,2006-07-01,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2006,Germany vs Italy,2006-07-04,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2006,Portugal vs France,2006-07-05,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2006,Germany vs Portugal,2006-07-08,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,2006,Italy vs France,2006-07-09,final,not applicable,0,1,0,0
+FIFA Men's World Cup,2010,South Africa vs Mexico,2010-06-11,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2010,Uruguay vs France,2010-06-11,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2010,Argentina vs Nigeria,2010-06-12,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2010,England vs United States,2010-06-12,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2010,South Korea vs Greece,2010-06-12,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2010,Algeria vs Slovenia,2010-06-13,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2010,Germany vs Australia,2010-06-13,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2010,Serbia vs Ghana,2010-06-13,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2010,Italy vs Paraguay,2010-06-14,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2010,Japan vs Cameroon,2010-06-14,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2010,Netherlands vs Denmark,2010-06-14,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2010,Brazil vs North Korea,2010-06-15,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2010,Ivory Coast vs Portugal,2010-06-15,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2010,New Zealand vs Slovakia,2010-06-15,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2010,Honduras vs Chile,2010-06-16,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2010,South Africa vs Uruguay,2010-06-16,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2010,Spain vs Switzerland,2010-06-16,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2010,Argentina vs South Korea,2010-06-17,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2010,France vs Mexico,2010-06-17,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2010,Greece vs Nigeria,2010-06-17,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2010,England vs Algeria,2010-06-18,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2010,Germany vs Serbia,2010-06-18,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2010,Slovenia vs United States,2010-06-18,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2010,Cameroon vs Denmark,2010-06-19,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2010,Ghana vs Australia,2010-06-19,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2010,Netherlands vs Japan,2010-06-19,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2010,Brazil vs Ivory Coast,2010-06-20,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2010,Italy vs New Zealand,2010-06-20,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2010,Slovakia vs Paraguay,2010-06-20,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2010,Chile vs Switzerland,2010-06-21,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2010,Portugal vs North Korea,2010-06-21,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2010,Spain vs Honduras,2010-06-21,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2010,France vs South Africa,2010-06-22,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2010,Greece vs Argentina,2010-06-22,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2010,Mexico vs Uruguay,2010-06-22,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2010,Nigeria vs South Korea,2010-06-22,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2010,Australia vs Serbia,2010-06-23,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2010,Ghana vs Germany,2010-06-23,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2010,Slovenia vs England,2010-06-23,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2010,United States vs Algeria,2010-06-23,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2010,Cameroon vs Netherlands,2010-06-24,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2010,Denmark vs Japan,2010-06-24,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2010,Paraguay vs New Zealand,2010-06-24,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2010,Slovakia vs Italy,2010-06-24,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2010,Chile vs Spain,2010-06-25,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2010,North Korea vs Ivory Coast,2010-06-25,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2010,Portugal vs Brazil,2010-06-25,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2010,Switzerland vs Honduras,2010-06-25,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2010,United States vs Ghana,2010-06-26,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2010,Uruguay vs South Korea,2010-06-26,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2010,Argentina vs Mexico,2010-06-27,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2010,Germany vs England,2010-06-27,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2010,Brazil vs Chile,2010-06-28,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2010,Netherlands vs Slovakia,2010-06-28,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2010,Paraguay vs Japan,2010-06-29,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2010,Spain vs Portugal,2010-06-29,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2010,Netherlands vs Brazil,2010-07-02,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2010,Uruguay vs Ghana,2010-07-02,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2010,Argentina vs Germany,2010-07-03,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2010,Paraguay vs Spain,2010-07-03,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2010,Uruguay vs Netherlands,2010-07-06,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2010,Germany vs Spain,2010-07-07,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2010,Uruguay vs Germany,2010-07-10,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,2010,Netherlands vs Spain,2010-07-11,final,not applicable,0,1,0,0
+FIFA Men's World Cup,2014,Brazil vs Croatia,2014-06-12,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2014,Chile vs Australia,2014-06-13,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2014,Mexico vs Cameroon,2014-06-13,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2014,Spain vs Netherlands,2014-06-13,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2014,Colombia vs Greece,2014-06-14,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2014,England vs Italy,2014-06-14,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2014,Ivory Coast vs Japan,2014-06-14,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2014,Uruguay vs Costa Rica,2014-06-14,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2014,Argentina vs Bosnia and Herzegovina,2014-06-15,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2014,France vs Honduras,2014-06-15,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2014,Switzerland vs Ecuador,2014-06-15,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2014,Germany vs Portugal,2014-06-16,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2014,Ghana vs United States,2014-06-16,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2014,Iran vs Nigeria,2014-06-16,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2014,Belgium vs Algeria,2014-06-17,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2014,Brazil vs Mexico,2014-06-17,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2014,Russia vs South Korea,2014-06-17,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2014,Australia vs Netherlands,2014-06-18,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2014,Cameroon vs Croatia,2014-06-18,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2014,Spain vs Chile,2014-06-18,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2014,Colombia vs Ivory Coast,2014-06-19,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2014,Japan vs Greece,2014-06-19,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2014,Uruguay vs England,2014-06-19,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2014,Honduras vs Ecuador,2014-06-20,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2014,Italy vs Costa Rica,2014-06-20,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2014,Switzerland vs France,2014-06-20,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2014,Argentina vs Iran,2014-06-21,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2014,Germany vs Ghana,2014-06-21,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2014,Nigeria vs Bosnia and Herzegovina,2014-06-21,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2014,Belgium vs Russia,2014-06-22,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2014,South Korea vs Algeria,2014-06-22,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2014,United States vs Portugal,2014-06-22,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2014,Australia vs Spain,2014-06-23,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2014,Cameroon vs Brazil,2014-06-23,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2014,Croatia vs Mexico,2014-06-23,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2014,Netherlands vs Chile,2014-06-23,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2014,Costa Rica vs England,2014-06-24,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2014,Greece vs Ivory Coast,2014-06-24,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2014,Italy vs Uruguay,2014-06-24,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2014,Japan vs Colombia,2014-06-24,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2014,Bosnia and Herzegovina vs Iran,2014-06-25,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2014,Ecuador vs France,2014-06-25,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2014,Honduras vs Switzerland,2014-06-25,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2014,Nigeria vs Argentina,2014-06-25,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2014,Algeria vs Russia,2014-06-26,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2014,Portugal vs Ghana,2014-06-26,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2014,South Korea vs Belgium,2014-06-26,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2014,United States vs Germany,2014-06-26,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2014,Brazil vs Chile,2014-06-28,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2014,Colombia vs Uruguay,2014-06-28,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2014,Costa Rica vs Greece,2014-06-29,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2014,Netherlands vs Mexico,2014-06-29,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2014,France vs Nigeria,2014-06-30,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2014,Germany vs Algeria,2014-06-30,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2014,Argentina vs Switzerland,2014-07-01,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2014,Belgium vs United States,2014-07-01,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2014,Brazil vs Colombia,2014-07-04,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2014,France vs Germany,2014-07-04,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2014,Argentina vs Belgium,2014-07-05,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2014,Netherlands vs Costa Rica,2014-07-05,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2014,Brazil vs Germany,2014-07-08,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2014,Netherlands vs Argentina,2014-07-09,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2014,Brazil vs Netherlands,2014-07-12,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,2014,Germany vs Argentina,2014-07-13,final,not applicable,0,1,0,0
+FIFA Men's World Cup,2018,Russia vs Saudi Arabia,2018-06-14,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2018,Egypt vs Uruguay,2018-06-15,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2018,Morocco vs Iran,2018-06-15,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2018,Portugal vs Spain,2018-06-15,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2018,Argentina vs Iceland,2018-06-16,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2018,Croatia vs Nigeria,2018-06-16,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2018,France vs Australia,2018-06-16,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2018,Peru vs Denmark,2018-06-16,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2018,Brazil vs Switzerland,2018-06-17,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2018,Costa Rica vs Serbia,2018-06-17,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2018,Germany vs Mexico,2018-06-17,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2018,Belgium vs Panama,2018-06-18,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2018,Sweden vs South Korea,2018-06-18,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2018,Tunisia vs England,2018-06-18,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2018,Colombia vs Japan,2018-06-19,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2018,Poland vs Senegal,2018-06-19,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2018,Russia vs Egypt,2018-06-19,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2018,Iran vs Spain,2018-06-20,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2018,Portugal vs Morocco,2018-06-20,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2018,Uruguay vs Saudi Arabia,2018-06-20,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2018,Argentina vs Croatia,2018-06-21,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2018,Denmark vs Australia,2018-06-21,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2018,France vs Peru,2018-06-21,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2018,Brazil vs Costa Rica,2018-06-22,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2018,Nigeria vs Iceland,2018-06-22,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2018,Serbia vs Switzerland,2018-06-22,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2018,Belgium vs Tunisia,2018-06-23,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2018,Germany vs Sweden,2018-06-23,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2018,South Korea vs Mexico,2018-06-23,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2018,England vs Panama,2018-06-24,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2018,Japan vs Senegal,2018-06-24,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2018,Poland vs Colombia,2018-06-24,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2018,Iran vs Portugal,2018-06-25,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2018,Saudi Arabia vs Egypt,2018-06-25,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2018,Spain vs Morocco,2018-06-25,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2018,Uruguay vs Russia,2018-06-25,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2018,Australia vs Peru,2018-06-26,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2018,Denmark vs France,2018-06-26,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2018,Iceland vs Croatia,2018-06-26,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2018,Nigeria vs Argentina,2018-06-26,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2018,Mexico vs Sweden,2018-06-27,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2018,Serbia vs Brazil,2018-06-27,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2018,South Korea vs Germany,2018-06-27,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2018,Switzerland vs Costa Rica,2018-06-27,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2018,England vs Belgium,2018-06-28,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2018,Japan vs Poland,2018-06-28,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2018,Panama vs Tunisia,2018-06-28,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2018,Senegal vs Colombia,2018-06-28,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2018,France vs Argentina,2018-06-30,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2018,Uruguay vs Portugal,2018-06-30,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2018,Croatia vs Denmark,2018-07-01,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2018,Spain vs Russia,2018-07-01,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2018,Belgium vs Japan,2018-07-02,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2018,Brazil vs Mexico,2018-07-02,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2018,Colombia vs England,2018-07-03,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2018,Sweden vs Switzerland,2018-07-03,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2018,Brazil vs Belgium,2018-07-06,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2018,Uruguay vs France,2018-07-06,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2018,Russia vs Croatia,2018-07-07,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2018,Sweden vs England,2018-07-07,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2018,France vs Belgium,2018-07-10,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2018,Croatia vs England,2018-07-11,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2018,Belgium vs England,2018-07-14,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,2018,France vs Croatia,2018-07-15,final,not applicable,0,1,0,0
+FIFA Men's World Cup,2022,Qatar vs Ecuador,2022-11-20,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2022,England vs Iran,2022-11-21,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2022,Senegal vs Netherlands,2022-11-21,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2022,United States vs Wales,2022-11-21,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2022,Argentina vs Saudi Arabia,2022-11-22,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2022,Denmark vs Tunisia,2022-11-22,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2022,France vs Australia,2022-11-22,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2022,Mexico vs Poland,2022-11-22,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2022,Belgium vs Canada,2022-11-23,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2022,Germany vs Japan,2022-11-23,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2022,Morocco vs Croatia,2022-11-23,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2022,Spain vs Costa Rica,2022-11-23,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2022,Brazil vs Serbia,2022-11-24,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2022,Portugal vs Ghana,2022-11-24,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2022,Switzerland vs Cameroon,2022-11-24,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2022,Uruguay vs South Korea,2022-11-24,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2022,England vs United States,2022-11-25,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2022,Netherlands vs Ecuador,2022-11-25,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2022,Qatar vs Senegal,2022-11-25,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2022,Wales vs Iran,2022-11-25,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2022,Argentina vs Mexico,2022-11-26,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2022,France vs Denmark,2022-11-26,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2022,Poland vs Saudi Arabia,2022-11-26,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2022,Tunisia vs Australia,2022-11-26,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2022,Belgium vs Morocco,2022-11-27,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2022,Croatia vs Canada,2022-11-27,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2022,Japan vs Costa Rica,2022-11-27,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2022,Spain vs Germany,2022-11-27,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2022,Brazil vs Switzerland,2022-11-28,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2022,Cameroon vs Serbia,2022-11-28,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2022,Portugal vs Uruguay,2022-11-28,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2022,South Korea vs Ghana,2022-11-28,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2022,Ecuador vs Senegal,2022-11-29,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2022,Iran vs United States,2022-11-29,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2022,Netherlands vs Qatar,2022-11-29,group stage,Group A,1,0,0,0
+FIFA Men's World Cup,2022,Wales vs England,2022-11-29,group stage,Group B,1,0,0,0
+FIFA Men's World Cup,2022,Australia vs Denmark,2022-11-30,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2022,Poland vs Argentina,2022-11-30,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2022,Saudi Arabia vs Mexico,2022-11-30,group stage,Group C,1,0,0,0
+FIFA Men's World Cup,2022,Tunisia vs France,2022-11-30,group stage,Group D,1,0,0,0
+FIFA Men's World Cup,2022,Canada vs Morocco,2022-12-01,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2022,Costa Rica vs Germany,2022-12-01,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2022,Croatia vs Belgium,2022-12-01,group stage,Group F,1,0,0,0
+FIFA Men's World Cup,2022,Japan vs Spain,2022-12-01,group stage,Group E,1,0,0,0
+FIFA Men's World Cup,2022,Cameroon vs Brazil,2022-12-02,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2022,Ghana vs Uruguay,2022-12-02,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2022,Serbia vs Switzerland,2022-12-02,group stage,Group G,1,0,0,0
+FIFA Men's World Cup,2022,South Korea vs Portugal,2022-12-02,group stage,Group H,1,0,0,0
+FIFA Men's World Cup,2022,Argentina vs Australia,2022-12-03,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2022,Netherlands vs United States,2022-12-03,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2022,England vs Senegal,2022-12-04,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2022,France vs Poland,2022-12-04,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2022,Brazil vs South Korea,2022-12-05,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2022,Japan vs Croatia,2022-12-05,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2022,Morocco vs Spain,2022-12-06,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2022,Portugal vs Switzerland,2022-12-06,round of 16,not applicable,0,1,0,0
+FIFA Men's World Cup,2022,Croatia vs Brazil,2022-12-09,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2022,Netherlands vs Argentina,2022-12-09,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2022,England vs France,2022-12-10,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2022,Morocco vs Portugal,2022-12-10,quarter-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2022,Argentina vs Croatia,2022-12-13,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2022,France vs Morocco,2022-12-14,semi-finals,not applicable,0,1,0,0
+FIFA Men's World Cup,2022,Croatia vs Morocco,2022-12-17,third-place match,not applicable,0,1,0,0
+FIFA Men's World Cup,2022,Argentina vs France,2022-12-18,final,not applicable,0,1,0,0
+FIFA Women's World Cup,1991,China vs Norway,1991-11-16,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1991,Chinese Taipei vs Italy,1991-11-17,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1991,Denmark vs New Zealand,1991-11-17,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1991,Germany vs Nigeria,1991-11-17,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1991,Japan vs Brazil,1991-11-17,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1991,Sweden vs United States,1991-11-17,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1991,Brazil vs United States,1991-11-19,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1991,China vs Denmark,1991-11-19,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1991,Chinese Taipei vs Germany,1991-11-19,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1991,Italy vs Nigeria,1991-11-19,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1991,Japan vs Sweden,1991-11-19,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1991,Norway vs New Zealand,1991-11-19,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1991,Brazil vs Sweden,1991-11-21,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1991,China vs New Zealand,1991-11-21,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1991,Chinese Taipei vs Nigeria,1991-11-21,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1991,Italy vs Germany,1991-11-21,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1991,Japan vs United States,1991-11-21,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1991,Norway vs Denmark,1991-11-21,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1991,China vs Sweden,1991-11-24,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1991,Denmark vs Germany,1991-11-24,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1991,Norway vs Italy,1991-11-24,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1991,United States vs Chinese Taipei,1991-11-24,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1991,Germany vs United States,1991-11-27,semi-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1991,Sweden vs Norway,1991-11-27,semi-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1991,Sweden vs Germany,1991-11-29,third-place match,not applicable,0,1,0,0
+FIFA Women's World Cup,1991,Norway vs United States,1991-11-30,final,not applicable,0,1,0,0
+FIFA Women's World Cup,1995,Germany vs Japan,1995-06-05,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1995,Sweden vs Brazil,1995-06-05,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1995,Denmark vs Australia,1995-06-06,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1995,England vs Canada,1995-06-06,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1995,Norway vs Nigeria,1995-06-06,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1995,United States vs China,1995-06-06,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1995,Brazil vs Japan,1995-06-07,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1995,Sweden vs Germany,1995-06-07,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1995,China vs Australia,1995-06-08,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1995,Nigeria vs Canada,1995-06-08,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1995,Norway vs England,1995-06-08,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1995,United States vs Denmark,1995-06-08,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1995,Brazil vs Germany,1995-06-09,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1995,Sweden vs Japan,1995-06-09,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1995,China vs Denmark,1995-06-10,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1995,Nigeria vs England,1995-06-10,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1995,Norway vs Canada,1995-06-10,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1995,United States vs Australia,1995-06-10,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1995,Germany vs England,1995-06-13,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1995,Japan vs United States,1995-06-13,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1995,Norway vs Denmark,1995-06-13,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1995,Sweden vs China,1995-06-13,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1995,Germany vs China,1995-06-15,semi-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1995,United States vs Norway,1995-06-15,semi-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1995,China vs United States,1995-06-17,third-place match,not applicable,0,1,0,0
+FIFA Women's World Cup,1995,Germany vs Norway,1995-06-18,final,not applicable,0,1,0,0
+FIFA Women's World Cup,1999,Brazil vs Mexico,1999-06-19,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1999,China vs Sweden,1999-06-19,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,1999,Japan vs Canada,1999-06-19,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1999,United States vs Denmark,1999-06-19,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1999,Australia vs Ghana,1999-06-20,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,1999,Germany vs Italy,1999-06-20,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1999,North Korea vs Nigeria,1999-06-20,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1999,Norway vs Russia,1999-06-20,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1999,Australia vs Sweden,1999-06-23,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,1999,China vs Ghana,1999-06-23,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,1999,Japan vs Russia,1999-06-23,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1999,Norway vs Canada,1999-06-23,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1999,Brazil vs Italy,1999-06-24,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1999,Germany vs Mexico,1999-06-24,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1999,North Korea vs Denmark,1999-06-24,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1999,United States vs Nigeria,1999-06-24,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1999,Canada vs Russia,1999-06-26,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1999,China vs Australia,1999-06-26,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,1999,Ghana vs Sweden,1999-06-26,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,1999,Norway vs Japan,1999-06-26,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,1999,Germany vs Brazil,1999-06-27,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1999,Mexico vs Italy,1999-06-27,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,1999,Nigeria vs Denmark,1999-06-27,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1999,United States vs North Korea,1999-06-27,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,1999,China vs Russia,1999-06-30,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1999,Norway vs Sweden,1999-06-30,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1999,Brazil vs Nigeria,1999-07-01,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1999,United States vs Germany,1999-07-01,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1999,Norway vs China,1999-07-04,semi-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1999,United States vs Brazil,1999-07-04,semi-final,not applicable,0,1,0,0
+FIFA Women's World Cup,1999,Brazil vs Norway,1999-07-10,third-place match,not applicable,0,1,0,0
+FIFA Women's World Cup,1999,United States vs China,1999-07-10,final,not applicable,0,1,0,0
+FIFA Women's World Cup,2003,Germany vs Canada,2003-09-20,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2003,Japan vs Argentina,2003-09-20,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2003,Nigeria vs North Korea,2003-09-20,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2003,Norway vs France,2003-09-20,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2003,Australia vs Russia,2003-09-21,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2003,Brazil vs South Korea,2003-09-21,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2003,China vs Ghana,2003-09-21,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2003,United States vs Sweden,2003-09-21,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2003,Canada vs Argentina,2003-09-24,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2003,France vs South Korea,2003-09-24,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2003,Germany vs Japan,2003-09-24,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2003,Norway vs Brazil,2003-09-24,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2003,China vs Australia,2003-09-25,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2003,Ghana vs Russia,2003-09-25,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2003,Sweden vs North Korea,2003-09-25,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2003,United States vs Nigeria,2003-09-25,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2003,Argentina vs Germany,2003-09-27,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2003,Canada vs Japan,2003-09-27,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2003,France vs Brazil,2003-09-27,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2003,South Korea vs Norway,2003-09-27,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2003,China vs Russia,2003-09-28,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2003,Ghana vs Australia,2003-09-28,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2003,North Korea vs United States,2003-09-28,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2003,Sweden vs Nigeria,2003-09-28,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2003,Brazil vs Sweden,2003-10-01,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2003,United States vs Norway,2003-10-01,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2003,China vs Canada,2003-10-02,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2003,Germany vs Russia,2003-10-02,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2003,Sweden vs Canada,2003-10-05,semi-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2003,United States vs Germany,2003-10-05,semi-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2003,United States vs Canada,2003-10-11,third-place match,not applicable,0,1,0,0
+FIFA Women's World Cup,2003,Germany vs Sweden,2003-10-12,final,not applicable,0,1,0,0
+FIFA Women's World Cup,2007,Germany vs Argentina,2007-09-10,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2007,Japan vs England,2007-09-11,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2007,Nigeria vs Sweden,2007-09-11,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2007,United States vs North Korea,2007-09-11,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2007,China vs Denmark,2007-09-12,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2007,Ghana vs Australia,2007-09-12,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2007,New Zealand vs Brazil,2007-09-12,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2007,Norway vs Canada,2007-09-12,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2007,Argentina vs Japan,2007-09-14,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2007,England vs Germany,2007-09-14,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2007,North Korea vs Nigeria,2007-09-14,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2007,Sweden vs United States,2007-09-14,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2007,Australia vs Norway,2007-09-15,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2007,Brazil vs China,2007-09-15,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2007,Canada vs Ghana,2007-09-15,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2007,Denmark vs New Zealand,2007-09-15,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2007,England vs Argentina,2007-09-17,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2007,Germany vs Japan,2007-09-17,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2007,Nigeria vs United States,2007-09-18,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2007,North Korea vs Sweden,2007-09-18,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2007,Australia vs Canada,2007-09-20,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2007,Brazil vs Denmark,2007-09-20,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2007,China vs New Zealand,2007-09-20,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2007,Norway vs Ghana,2007-09-20,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2007,Germany vs North Korea,2007-09-22,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2007,United States vs England,2007-09-22,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2007,Brazil vs Australia,2007-09-23,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2007,Norway vs China,2007-09-23,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2007,Germany vs Norway,2007-09-26,semi-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2007,United States vs Brazil,2007-09-27,semi-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2007,Germany vs Brazil,2007-09-30,final,not applicable,0,1,0,0
+FIFA Women's World Cup,2007,Norway vs United States,2007-09-30,third-place match,not applicable,0,1,0,0
+FIFA Women's World Cup,2011,Germany vs Canada,2011-06-26,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2011,Nigeria vs France,2011-06-26,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2011,Japan vs New Zealand,2011-06-27,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2011,Mexico vs England,2011-06-27,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2011,Colombia vs Sweden,2011-06-28,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2011,United States vs North Korea,2011-06-28,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2011,Brazil vs Australia,2011-06-29,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2011,Norway vs Equatorial Guinea,2011-06-29,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2011,Canada vs France,2011-06-30,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2011,Germany vs Nigeria,2011-06-30,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2011,Japan vs Mexico,2011-07-01,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2011,New Zealand vs England,2011-07-01,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2011,North Korea vs Sweden,2011-07-02,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2011,United States vs Colombia,2011-07-02,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2011,Australia vs Equatorial Guinea,2011-07-03,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2011,Brazil vs Norway,2011-07-03,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2011,Canada vs Nigeria,2011-07-05,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2011,England vs Japan,2011-07-05,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2011,France vs Germany,2011-07-05,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2011,New Zealand vs Mexico,2011-07-05,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2011,Australia vs Norway,2011-07-06,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2011,Equatorial Guinea vs Brazil,2011-07-06,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2011,North Korea vs Colombia,2011-07-06,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2011,Sweden vs United States ,2011-07-06,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2011,England vs France,2011-07-09,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2011,Germany vs Japan,2011-07-09,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2011,Brazil vs United States,2011-07-10,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2011,Sweden vs Australia,2011-07-10,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2011,France vs United States,2011-07-13,semi-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2011,Japan vs Sweden,2011-07-13,semi-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2011,Sweden vs France,2011-07-16,third-place match,not applicable,0,1,0,0
+FIFA Women's World Cup,2011,Japan vs United States,2011-07-17,final,not applicable,0,1,0,0
+FIFA Women's World Cup,2015,Canada vs China,2015-06-06,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2015,New Zealand vs Netherlands,2015-06-06,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2015,Germany vs Ivory Coast,2015-06-07,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2015,Norway vs Thailand,2015-06-07,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2015,Cameroon vs Ecuador,2015-06-08,group stage,Group c,1,0,0,0
+FIFA Women's World Cup,2015,Japan vs Switzerland,2015-06-08,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2015,Sweden vs Nigeria,2015-06-08,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2015,United States vs Australia,2015-06-08,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2015,Brazil vs South Korea,2015-06-09,group stage,Group E,1,0,0,0
+FIFA Women's World Cup,2015,Colombia vs Mexico,2015-06-09,group stage,Group F,1,0,0,0
+FIFA Women's World Cup,2015,France vs England,2015-06-09,group stage,Group F,1,0,0,0
+FIFA Women's World Cup,2015,Spain vs Costa Rica,2015-06-09,group stage,Group E,1,0,0,0
+FIFA Women's World Cup,2015,Canada vs New Zealand,2015-06-11,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2015,China vs Netherlands,2015-06-11,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2015,Germany vs Norway,2015-06-11,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2015,Ivory Coast vs Thailand,2015-06-11,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2015,Australia vs Nigeria,2015-06-12,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2015,Japan vs Cameroon,2015-06-12,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2015,Switzerland vs Ecuador,2015-06-12,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2015,United States vs Sweden,2015-06-12,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2015,Brazil vs Spain,2015-06-13,group stage,Group E,1,0,0,0
+FIFA Women's World Cup,2015,England vs Mexico,2015-06-13,group stage,Group F,1,0,0,0
+FIFA Women's World Cup,2015,France vs Colombia,2015-06-13,group stage,Group F,1,0,0,0
+FIFA Women's World Cup,2015,South Korea vs Costa Rica,2015-06-13,group stage,Group E,1,0,0,0
+FIFA Women's World Cup,2015,China vs New Zealand,2015-06-15,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2015,Ivory Coast vs Norway,2015-06-15,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2015,Netherlands vs Canada,2015-06-15,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2015,Thailand vs Germany,2015-06-15,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2015,Australia vs Sweden,2015-06-16,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2015,Ecuador vs Japan,2015-06-16,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2015,Nigeria vs United States,2015-06-16,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2015,Switzerland vs Cameroon,2015-06-16,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2015,Costa Rica vs Brazil,2015-06-17,group stage,Group E,1,0,0,0
+FIFA Women's World Cup,2015,England vs Colombia,2015-06-17,group stage,Group F,1,0,0,0
+FIFA Women's World Cup,2015,Mexico vs France,2015-06-17,group stage,Group F,1,0,0,0
+FIFA Women's World Cup,2015,South Korea vs Spain,2015-06-17,group stage,Group E,1,0,0,0
+FIFA Women's World Cup,2015,China vs Cameroon,2015-06-20,round of 16,not applicable,0,1,0,0
+FIFA Women's World Cup,2015,Germany vs Sweden,2015-06-20,round of 16,not applicable,0,1,0,0
+FIFA Women's World Cup,2015,Brazil vs Australia,2015-06-21,round of 16,not applicable,0,1,0,0
+FIFA Women's World Cup,2015,Canada vs Switzerland,2015-06-21,round of 16,not applicable,0,1,0,0
+FIFA Women's World Cup,2015,France vs South Korea,2015-06-21,round of 16,not applicable,0,1,0,0
+FIFA Women's World Cup,2015,Norway vs England,2015-06-22,round of 16,not applicable,0,1,0,0
+FIFA Women's World Cup,2015,United States vs Colombia,2015-06-22,round of 16,not applicable,0,1,0,0
+FIFA Women's World Cup,2015,Japan vs Netherlands,2015-06-23,round of 16,not applicable,0,1,0,0
+FIFA Women's World Cup,2015,China vs United States,2015-06-26,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2015,Germany vs France,2015-06-26,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2015,Australia vs Japan,2015-06-27,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2015,England vs Canada,2015-06-27,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2015,United States vs Germany,2015-06-30,semi-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2015,Japan vs England,2015-07-01,semi-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2015,Germany vs England,2015-07-04,third-place match,not applicable,0,1,0,0
+FIFA Women's World Cup,2015,United States vs Japan,2015-07-05,final,not applicable,0,1,0,0
+FIFA Women's World Cup,2019,France vs South Korea,2019-06-07,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2019,Germany vs China,2019-06-08,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2019,Norway vs Nigeria,2019-06-08,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2019,Spain vs South Africa,2019-06-08,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2019,Australia vs Italy,2019-06-09,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2019,Brazil vs Jamaica,2019-06-09,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2019,England vs Scotland,2019-06-09,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2019,Argentina vs Japan,2019-06-10,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2019,Canada vs Cameroon,2019-06-10,group stage,Group E,1,0,0,0
+FIFA Women's World Cup,2019,Chile vs Sweden,2019-06-11,group stage,Group F,1,0,0,0
+FIFA Women's World Cup,2019,New Zealand vs Netherlands,2019-06-11,group stage,Group E,1,0,0,0
+FIFA Women's World Cup,2019,United States vs Thailand,2019-06-11,group stage,Group F,1,0,0,0
+FIFA Women's World Cup,2019,France vs Norway,2019-06-12,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2019,Germany vs Spain,2019-06-12,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2019,Nigeria vs South Korea,2019-06-12,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2019,Australia vs Brazil,2019-06-13,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2019,South Africa vs China,2019-06-13,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2019,England vs Argentina,2019-06-14,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2019,Jamaica vs Italy,2019-06-14,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2019,Japan vs Scotland,2019-06-14,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2019,Canada vs New Zealand,2019-06-15,group stage,Group E,1,0,0,0
+FIFA Women's World Cup,2019,Netherlands vs Cameroon,2019-06-15,group stage,Group E,1,0,0,0
+FIFA Women's World Cup,2019,Sweden vs Thailand,2019-06-16,group stage,Group F,1,0,0,0
+FIFA Women's World Cup,2019,United States vs Chile,2019-06-16,group stage,Group F,1,0,0,0
+FIFA Women's World Cup,2019,China vs Spain,2019-06-17,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2019,Nigeria vs France,2019-06-17,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2019,South Africa vs Germany,2019-06-17,group stage,Group B,1,0,0,0
+FIFA Women's World Cup,2019,South Korea vs Norway,2019-06-17,group stage,Group A,1,0,0,0
+FIFA Women's World Cup,2019,Italy vs Brazil,2019-06-18,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2019,Jamaica vs Australia,2019-06-18,group stage,Group C,1,0,0,0
+FIFA Women's World Cup,2019,Japan vs England,2019-06-19,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2019,Scotland vs Argentina,2019-06-19,group stage,Group D,1,0,0,0
+FIFA Women's World Cup,2019,Cameroon vs New Zealand,2019-06-20,group stage,Group E,1,0,0,0
+FIFA Women's World Cup,2019,Netherlands vs Canada,2019-06-20,group stage,Group E,1,0,0,0
+FIFA Women's World Cup,2019,Sweden vs United States,2019-06-20,group stage,Group F,1,0,0,0
+FIFA Women's World Cup,2019,Thailand vs Chile,2019-06-20,group stage,Group F,1,0,0,0
+FIFA Women's World Cup,2019,Germany vs Nigeria,2019-06-22,round of 16,not applicable,0,1,0,0
+FIFA Women's World Cup,2019,Norway vs Australia,2019-06-22,round of 16,not applicable,0,1,0,0
+FIFA Women's World Cup,2019,England vs Cameroon,2019-06-23,round of 16,not applicable,0,1,0,0
+FIFA Women's World Cup,2019,France vs Brazil,2019-06-23,round of 16,not applicable,0,1,0,0
+FIFA Women's World Cup,2019,Spain vs United States,2019-06-24,round of 16,not applicable,0,1,0,0
+FIFA Women's World Cup,2019,Sweden vs Canada,2019-06-24,round of 16,not applicable,0,1,0,0
+FIFA Women's World Cup,2019,Italy vs China,2019-06-25,round of 16,not applicable,0,1,0,0
+FIFA Women's World Cup,2019,Netherlands vs Japan,2019-06-25,round of 16,not applicable,0,1,0,0
+FIFA Women's World Cup,2019,Norway vs England,2019-06-27,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2019,France vs United States,2019-06-28,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2019,Germany vs Sweden,2019-06-29,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2019,Italy vs Netherlands,2019-06-29,quarter-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2019,England vs United States,2019-07-02,semi-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2019,Netherlands vs Sweden,2019-07-03,semi-final,not applicable,0,1,0,0
+FIFA Women's World Cup,2019,England vs Sweden,2019-07-06,third-place match,not applicable,0,1,0,0
+FIFA Women's World Cup,2019,United States vs Netherlands,2019-07-07,final,not applicable,0,1,0,0

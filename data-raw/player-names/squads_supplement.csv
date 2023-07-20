@@ -1,10 +1,10 @@
-year,team_name,shirt_number,position_name,position_code,player_name,birth_date,player_wikipedia_link
-1930,Brazil,0,midfielder,MF,Benvenuto,1903-08-04,/wiki/Benevenuto_(footballer)
-1930,Brazil,0,forward,FW,Doca,1903-04-07,/wiki/Doca_(footballer)
-1930,Peru,0,midfielder,MF,Juan Alfonso Valle,not available,/wiki/Juan_Alfonso_Valle
-1930,Peru,0,forward,FW,Jorge Góngora,1906-10-12,/wiki/Jorge_Góngora
-1934,Sweden,0,midfielder,MF,Erik Granath,not available,not available
-1934,Sweden,0,midfielder,MF,Carl Johnsson,not available,not available
-1934,Switzerland,0,defender,DF,Max Weiler,1900-09-25,/wiki/Max_Weiler
-1938,Dutch East Indies,0,defender,DF,Dorst,not available,/wiki/Dorst_(footballer)
-1938,Dutch East Indies,0,forward,FW,Teilherber,not available,/wiki/Teilherber_(footballer)
+tournament,year,team_name,shirt_number,position_name,position_code,player_name,birth_date,player_wikipedia_link
+FIFA Men's World Cup,1930,Brazil,0,midfielder,MF,Benvenuto,1903-08-04,/wiki/Benevenuto_(footballer)
+FIFA Men's World Cup,1930,Brazil,0,forward,FW,Doca,1903-04-07,/wiki/Doca_(footballer)
+FIFA Men's World Cup,1930,Peru,0,midfielder,MF,Juan Alfonso Valle,not available,/wiki/Juan_Alfonso_Valle
+FIFA Men's World Cup,1930,Peru,0,forward,FW,Jorge Góngora,1906-10-12,/wiki/Jorge_Góngora
+FIFA Men's World Cup,1934,Sweden,0,midfielder,MF,Erik Granath,not available,not available
+FIFA Men's World Cup,1934,Sweden,0,midfielder,MF,Carl Johnsson,not available,not available
+FIFA Men's World Cup,1934,Switzerland,0,defender,DF,Max Weiler,1900-09-25,/wiki/Max_Weiler
+FIFA Men's World Cup,1938,Dutch East Indies,0,defender,DF,Dorst,not available,/wiki/Dorst_(footballer)
+FIFA Men's World Cup,1938,Dutch East Indies,0,forward,FW,Teilherber,not available,/wiki/Teilherber_(footballer)
