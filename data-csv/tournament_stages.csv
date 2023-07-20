@@ -1,114 +1,156 @@
 key_id,tournament_id,tournament_name,stage_number,stage_name,group_stage,knockout_stage,unbalanced_groups,start_date,end_date,count_matches,count_teams,count_scheduled,count_replays,count_playoffs,count_walkovers
-1,WC-1930,1930 FIFA World Cup,1,group stage,1,0,1,1930-07-13,1930-07-22,15,13,15,0,0,0
-2,WC-1930,1930 FIFA World Cup,2,semi-finals,0,1,0,1930-07-26,1930-07-27,2,4,2,0,0,0
-3,WC-1930,1930 FIFA World Cup,3,final,0,1,0,1930-07-30,1930-07-30,1,2,1,0,0,0
-4,WC-1934,1934 FIFA World Cup,1,round of 16,0,1,0,1934-05-27,1934-05-27,8,16,8,0,0,0
-5,WC-1934,1934 FIFA World Cup,2,quarter-finals,0,1,0,1934-05-31,1934-06-01,5,8,4,1,0,0
-6,WC-1934,1934 FIFA World Cup,3,semi-finals,0,1,0,1934-06-03,1934-06-03,2,4,2,0,0,0
-7,WC-1934,1934 FIFA World Cup,4,third-place match,0,1,0,1934-06-07,1934-06-07,1,2,1,0,0,0
-8,WC-1934,1934 FIFA World Cup,5,final,0,1,0,1934-06-10,1934-06-10,1,2,1,0,0,0
-9,WC-1938,1938 FIFA World Cup,1,round of 16,0,1,0,1938-06-04,1938-06-09,9,16,8,2,0,1
-10,WC-1938,1938 FIFA World Cup,2,quarter-finals,0,1,0,1938-06-12,1938-06-14,5,8,4,1,0,0
-11,WC-1938,1938 FIFA World Cup,3,semi-finals,0,1,0,1938-06-16,1938-06-16,2,4,2,0,0,0
-12,WC-1938,1938 FIFA World Cup,4,third-place match,0,1,0,1938-06-19,1938-06-19,1,2,1,0,0,0
-13,WC-1938,1938 FIFA World Cup,5,final,0,1,0,1938-06-19,1938-06-19,1,2,1,0,0,0
-14,WC-1950,1950 FIFA World Cup,1,group stage,1,0,1,1950-06-24,1950-07-02,16,13,16,0,0,0
-15,WC-1950,1950 FIFA World Cup,2,final round,1,0,0,1950-07-09,1950-07-16,6,4,6,0,0,0
-16,WC-1954,1954 FIFA World Cup,1,group stage,1,0,0,1954-06-16,1954-06-23,18,16,16,0,2,0
-17,WC-1954,1954 FIFA World Cup,2,quarter-finals,0,1,0,1954-06-26,1954-06-27,4,8,4,0,0,0
-18,WC-1954,1954 FIFA World Cup,3,semi-finals,0,1,0,1954-06-30,1954-06-30,2,4,2,0,0,0
-19,WC-1954,1954 FIFA World Cup,4,third-place match,0,1,0,1954-07-03,1954-07-03,1,2,1,0,0,0
-20,WC-1954,1954 FIFA World Cup,5,final,0,1,0,1954-07-04,1954-07-04,1,2,1,0,0,0
-21,WC-1958,1958 FIFA World Cup,1,group stage,1,0,0,1958-06-08,1958-06-17,27,16,24,0,3,0
-22,WC-1958,1958 FIFA World Cup,2,quarter-finals,0,1,0,1958-06-19,1958-06-19,4,8,4,0,0,0
-23,WC-1958,1958 FIFA World Cup,3,semi-finals,0,1,0,1958-06-24,1958-06-24,2,4,2,0,0,0
-24,WC-1958,1958 FIFA World Cup,4,third-place match,0,1,0,1958-06-28,1958-06-28,1,2,1,0,0,0
-25,WC-1958,1958 FIFA World Cup,5,final,0,1,0,1958-06-29,1958-06-29,1,2,1,0,0,0
-26,WC-1962,1962 FIFA World Cup,1,group stage,1,0,0,1962-05-30,1962-06-07,24,16,24,0,0,0
-27,WC-1962,1962 FIFA World Cup,2,quarter-finals,0,1,0,1962-06-10,1962-06-10,4,8,4,0,0,0
-28,WC-1962,1962 FIFA World Cup,3,semi-finals,0,1,0,1962-06-13,1962-06-13,2,4,2,0,0,0
-29,WC-1962,1962 FIFA World Cup,4,third-place match,0,1,0,1962-06-16,1962-06-16,1,2,1,0,0,0
-30,WC-1962,1962 FIFA World Cup,5,final,0,1,0,1962-06-17,1962-06-17,1,2,1,0,0,0
-31,WC-1966,1966 FIFA World Cup,1,group stage,1,0,0,1966-07-11,1966-07-20,24,16,24,0,0,0
-32,WC-1966,1966 FIFA World Cup,2,quarter-finals,0,1,0,1966-07-23,1966-07-23,4,8,4,0,0,0
-33,WC-1966,1966 FIFA World Cup,3,semi-finals,0,1,0,1966-07-25,1966-07-26,2,4,2,0,0,0
-34,WC-1966,1966 FIFA World Cup,4,third-place match,0,1,0,1966-07-28,1966-07-28,1,2,1,0,0,0
-35,WC-1966,1966 FIFA World Cup,5,final,0,1,0,1966-07-30,1966-07-30,1,2,1,0,0,0
-36,WC-1970,1970 FIFA World Cup,1,group stage,1,0,0,1970-05-31,1970-06-11,24,16,24,0,0,0
-37,WC-1970,1970 FIFA World Cup,2,quarter-finals,0,1,0,1970-06-14,1970-06-14,4,8,4,0,0,0
-38,WC-1970,1970 FIFA World Cup,3,semi-finals,0,1,0,1970-06-17,1970-06-17,2,4,2,0,0,0
-39,WC-1970,1970 FIFA World Cup,4,third-place match,0,1,0,1970-06-20,1970-06-20,1,2,1,0,0,0
-40,WC-1970,1970 FIFA World Cup,5,final,0,1,0,1970-06-21,1970-06-21,1,2,1,0,0,0
-41,WC-1974,1974 FIFA World Cup,1,group stage,1,0,0,1974-06-13,1974-06-23,24,16,24,0,0,0
-42,WC-1974,1974 FIFA World Cup,2,second group stage,1,0,0,1974-06-26,1974-07-03,12,8,12,0,0,0
-43,WC-1974,1974 FIFA World Cup,3,third-place match,0,1,0,1974-07-06,1974-07-06,1,2,1,0,0,0
-44,WC-1974,1974 FIFA World Cup,4,final,0,1,0,1974-07-07,1974-07-07,1,2,1,0,0,0
-45,WC-1978,1978 FIFA World Cup,1,group stage,1,0,0,1978-06-01,1978-06-11,24,16,24,0,0,0
-46,WC-1978,1978 FIFA World Cup,2,second group stage,1,0,0,1978-06-14,1978-06-21,12,8,12,0,0,0
-47,WC-1978,1978 FIFA World Cup,3,third-place match,0,1,0,1978-06-24,1978-06-24,1,2,1,0,0,0
-48,WC-1978,1978 FIFA World Cup,4,final,0,1,0,1978-06-25,1978-06-25,1,2,1,0,0,0
-49,WC-1982,1982 FIFA World Cup,1,group stage,1,0,0,1982-06-13,1982-06-25,36,24,36,0,0,0
-50,WC-1982,1982 FIFA World Cup,2,second group stage,1,0,0,1982-06-28,1982-07-05,12,12,12,0,0,0
-51,WC-1982,1982 FIFA World Cup,3,semi-finals,0,1,0,1982-07-08,1982-07-08,2,4,2,0,0,0
-52,WC-1982,1982 FIFA World Cup,4,third-place match,0,1,0,1982-07-10,1982-07-10,1,2,1,0,0,0
-53,WC-1982,1982 FIFA World Cup,5,final,0,1,0,1982-07-11,1982-07-11,1,2,1,0,0,0
-54,WC-1986,1986 FIFA World Cup,1,group stage,1,0,0,1986-05-31,1986-06-13,36,24,36,0,0,0
-55,WC-1986,1986 FIFA World Cup,2,round of 16,0,1,0,1986-06-15,1986-06-18,8,16,8,0,0,0
-56,WC-1986,1986 FIFA World Cup,3,quarter-finals,0,1,0,1986-06-21,1986-06-22,4,8,4,0,0,0
-57,WC-1986,1986 FIFA World Cup,4,semi-finals,0,1,0,1986-06-25,1986-06-25,2,4,2,0,0,0
-58,WC-1986,1986 FIFA World Cup,5,third-place match,0,1,0,1986-06-28,1986-06-28,1,2,1,0,0,0
-59,WC-1986,1986 FIFA World Cup,6,final,0,1,0,1986-06-29,1986-06-29,1,2,1,0,0,0
-60,WC-1990,1990 FIFA World Cup,1,group stage,1,0,0,1990-06-08,1990-06-21,36,24,36,0,0,0
-61,WC-1990,1990 FIFA World Cup,2,round of 16,0,1,0,1990-06-23,1990-06-26,8,16,8,0,0,0
-62,WC-1990,1990 FIFA World Cup,3,quarter-finals,0,1,0,1990-06-30,1990-07-01,4,8,4,0,0,0
-63,WC-1990,1990 FIFA World Cup,4,semi-finals,0,1,0,1990-07-03,1990-07-04,2,4,2,0,0,0
-64,WC-1990,1990 FIFA World Cup,5,third-place match,0,1,0,1990-07-07,1990-07-07,1,2,1,0,0,0
-65,WC-1990,1990 FIFA World Cup,6,final,0,1,0,1990-07-08,1990-07-08,1,2,1,0,0,0
-66,WC-1994,1994 FIFA World Cup,1,group stage,1,0,0,1994-06-17,1994-06-30,36,24,36,0,0,0
-67,WC-1994,1994 FIFA World Cup,2,round of 16,0,1,0,1994-07-02,1994-07-05,8,16,8,0,0,0
-68,WC-1994,1994 FIFA World Cup,3,quarter-finals,0,1,0,1994-07-09,1994-07-10,4,8,4,0,0,0
-69,WC-1994,1994 FIFA World Cup,4,semi-finals,0,1,0,1994-07-13,1994-07-13,2,4,2,0,0,0
-70,WC-1994,1994 FIFA World Cup,5,third-place match,0,1,0,1994-07-16,1994-07-16,1,2,1,0,0,0
-71,WC-1994,1994 FIFA World Cup,6,final,0,1,0,1994-07-17,1994-07-17,1,2,1,0,0,0
-72,WC-1998,1998 FIFA World Cup,1,group stage,1,0,0,1998-06-10,1998-06-26,48,32,48,0,0,0
-73,WC-1998,1998 FIFA World Cup,2,round of 16,0,1,0,1998-06-27,1998-06-30,8,16,8,0,0,0
-74,WC-1998,1998 FIFA World Cup,3,quarter-finals,0,1,0,1998-07-03,1998-07-04,4,8,4,0,0,0
-75,WC-1998,1998 FIFA World Cup,4,semi-finals,0,1,0,1998-07-07,1998-07-08,2,4,2,0,0,0
-76,WC-1998,1998 FIFA World Cup,5,third-place match,0,1,0,1998-07-11,1998-07-11,1,2,1,0,0,0
-77,WC-1998,1998 FIFA World Cup,6,final,0,1,0,1998-07-12,1998-07-12,1,2,1,0,0,0
-78,WC-2002,2002 FIFA World Cup,1,group stage,1,0,0,2002-05-31,2002-06-14,48,32,48,0,0,0
-79,WC-2002,2002 FIFA World Cup,2,round of 16,0,1,0,2002-06-15,2002-06-18,8,16,8,0,0,0
-80,WC-2002,2002 FIFA World Cup,3,quarter-finals,0,1,0,2002-06-21,2002-06-22,4,8,4,0,0,0
-81,WC-2002,2002 FIFA World Cup,4,semi-finals,0,1,0,2002-06-25,2002-06-26,2,4,2,0,0,0
-82,WC-2002,2002 FIFA World Cup,5,third-place match,0,1,0,2002-06-29,2002-06-29,1,2,1,0,0,0
-83,WC-2002,2002 FIFA World Cup,6,final,0,1,0,2002-06-30,2002-06-30,1,2,1,0,0,0
-84,WC-2006,2006 FIFA World Cup,1,group stage,1,0,0,2006-06-09,2006-06-23,48,32,48,0,0,0
-85,WC-2006,2006 FIFA World Cup,2,round of 16,0,1,0,2006-06-24,2006-06-27,8,16,8,0,0,0
-86,WC-2006,2006 FIFA World Cup,3,quarter-finals,0,1,0,2006-06-30,2006-07-01,4,8,4,0,0,0
-87,WC-2006,2006 FIFA World Cup,4,semi-finals,0,1,0,2006-07-04,2006-07-05,2,4,2,0,0,0
-88,WC-2006,2006 FIFA World Cup,5,third-place match,0,1,0,2006-07-08,2006-07-08,1,2,1,0,0,0
-89,WC-2006,2006 FIFA World Cup,6,final,0,1,0,2006-07-09,2006-07-09,1,2,1,0,0,0
-90,WC-2010,2010 FIFA World Cup,1,group stage,1,0,0,2010-06-11,2010-06-25,48,32,48,0,0,0
-91,WC-2010,2010 FIFA World Cup,2,round of 16,0,1,0,2010-06-26,2010-06-29,8,16,8,0,0,0
-92,WC-2010,2010 FIFA World Cup,3,quarter-finals,0,1,0,2010-07-02,2010-07-03,4,8,4,0,0,0
-93,WC-2010,2010 FIFA World Cup,4,semi-finals,0,1,0,2010-07-06,2010-07-07,2,4,2,0,0,0
-94,WC-2010,2010 FIFA World Cup,5,third-place match,0,1,0,2010-07-10,2010-07-10,1,2,1,0,0,0
-95,WC-2010,2010 FIFA World Cup,6,final,0,1,0,2010-07-11,2010-07-11,1,2,1,0,0,0
-96,WC-2014,2014 FIFA World Cup,1,group stage,1,0,0,2014-06-12,2014-06-26,48,32,48,0,0,0
-97,WC-2014,2014 FIFA World Cup,2,round of 16,0,1,0,2014-06-28,2014-07-01,8,16,8,0,0,0
-98,WC-2014,2014 FIFA World Cup,3,quarter-finals,0,1,0,2014-07-04,2014-07-05,4,8,4,0,0,0
-99,WC-2014,2014 FIFA World Cup,4,semi-finals,0,1,0,2014-07-08,2014-07-09,2,4,2,0,0,0
-100,WC-2014,2014 FIFA World Cup,5,third-place match,0,1,0,2014-07-12,2014-07-12,1,2,1,0,0,0
-101,WC-2014,2014 FIFA World Cup,6,final,0,1,0,2014-07-13,2014-07-13,1,2,1,0,0,0
-102,WC-2018,2018 FIFA World Cup,1,group stage,1,0,0,2018-06-14,2018-06-28,48,32,48,0,0,0
-103,WC-2018,2018 FIFA World Cup,2,round of 16,0,1,0,2018-06-30,2018-07-03,8,16,8,0,0,0
-104,WC-2018,2018 FIFA World Cup,3,quarter-finals,0,1,0,2018-07-06,2018-07-07,4,8,4,0,0,0
-105,WC-2018,2018 FIFA World Cup,4,semi-finals,0,1,0,2018-07-10,2018-07-11,2,4,2,0,0,0
-106,WC-2018,2018 FIFA World Cup,5,third-place match,0,1,0,2018-07-14,2018-07-14,1,2,1,0,0,0
-107,WC-2018,2018 FIFA World Cup,6,final,0,1,0,2018-07-15,2018-07-15,1,2,1,0,0,0
-108,WC-2022,2022 FIFA World Cup,1,group stage,1,0,0,2022-11-20,2022-12-02,48,32,48,0,0,0
-109,WC-2022,2022 FIFA World Cup,2,round of 16,0,1,0,2022-12-03,2022-12-07,8,16,8,0,0,0
-110,WC-2022,2022 FIFA World Cup,3,quarter-finals,0,1,0,2022-12-09,2022-12-10,4,8,4,0,0,0
-111,WC-2022,2022 FIFA World Cup,4,semi-finals,0,1,0,2022-12-13,2022-12-14,2,4,2,0,0,0
-112,WC-2022,2022 FIFA World Cup,5,third-place match,0,1,0,2022-12-17,2022-12-17,1,2,1,0,0,0
-113,WC-2022,2022 FIFA World Cup,6,final,0,1,0,2022-12-18,2022-12-18,1,2,1,0,0,0
+1,WC-1930,1930 FIFA Men's World Cup,1,group stage,1,0,1,1930-07-13,1930-07-22,15,13,15,0,0,0
+2,WC-1930,1930 FIFA Men's World Cup,2,semi-finals,0,1,0,1930-07-26,1930-07-27,2,4,2,0,0,0
+3,WC-1930,1930 FIFA Men's World Cup,3,final,0,1,0,1930-07-30,1930-07-30,1,2,1,0,0,0
+4,WC-1934,1934 FIFA Men's World Cup,1,round of 16,0,1,0,1934-05-27,1934-05-27,8,16,8,0,0,0
+5,WC-1934,1934 FIFA Men's World Cup,2,quarter-finals,0,1,0,1934-05-31,1934-06-01,5,8,4,1,0,0
+6,WC-1934,1934 FIFA Men's World Cup,3,semi-finals,0,1,0,1934-06-03,1934-06-03,2,4,2,0,0,0
+7,WC-1934,1934 FIFA Men's World Cup,4,third-place match,0,1,0,1934-06-07,1934-06-07,1,2,1,0,0,0
+8,WC-1934,1934 FIFA Men's World Cup,5,final,0,1,0,1934-06-10,1934-06-10,1,2,1,0,0,0
+9,WC-1938,1938 FIFA Men's World Cup,1,round of 16,0,1,0,1938-06-04,1938-06-09,9,16,8,2,0,1
+10,WC-1938,1938 FIFA Men's World Cup,2,quarter-finals,0,1,0,1938-06-12,1938-06-14,5,8,4,1,0,0
+11,WC-1938,1938 FIFA Men's World Cup,3,semi-finals,0,1,0,1938-06-16,1938-06-16,2,4,2,0,0,0
+12,WC-1938,1938 FIFA Men's World Cup,4,third-place match,0,1,0,1938-06-19,1938-06-19,1,2,1,0,0,0
+13,WC-1938,1938 FIFA Men's World Cup,5,final,0,1,0,1938-06-19,1938-06-19,1,2,1,0,0,0
+14,WC-1950,1950 FIFA Men's World Cup,1,group stage,1,0,1,1950-06-24,1950-07-02,16,13,16,0,0,0
+15,WC-1950,1950 FIFA Men's World Cup,2,final round,1,0,0,1950-07-09,1950-07-16,6,4,6,0,0,0
+16,WC-1954,1954 FIFA Men's World Cup,1,group stage,1,0,0,1954-06-16,1954-06-23,18,16,16,0,2,0
+17,WC-1954,1954 FIFA Men's World Cup,2,quarter-finals,0,1,0,1954-06-26,1954-06-27,4,8,4,0,0,0
+18,WC-1954,1954 FIFA Men's World Cup,3,semi-finals,0,1,0,1954-06-30,1954-06-30,2,4,2,0,0,0
+19,WC-1954,1954 FIFA Men's World Cup,4,third-place match,0,1,0,1954-07-03,1954-07-03,1,2,1,0,0,0
+20,WC-1954,1954 FIFA Men's World Cup,5,final,0,1,0,1954-07-04,1954-07-04,1,2,1,0,0,0
+21,WC-1958,1958 FIFA Men's World Cup,1,group stage,1,0,0,1958-06-08,1958-06-17,27,16,24,0,3,0
+22,WC-1958,1958 FIFA Men's World Cup,2,quarter-finals,0,1,0,1958-06-19,1958-06-19,4,8,4,0,0,0
+23,WC-1958,1958 FIFA Men's World Cup,3,semi-finals,0,1,0,1958-06-24,1958-06-24,2,4,2,0,0,0
+24,WC-1958,1958 FIFA Men's World Cup,4,third-place match,0,1,0,1958-06-28,1958-06-28,1,2,1,0,0,0
+25,WC-1958,1958 FIFA Men's World Cup,5,final,0,1,0,1958-06-29,1958-06-29,1,2,1,0,0,0
+26,WC-1962,1962 FIFA Men's World Cup,1,group stage,1,0,0,1962-05-30,1962-06-07,24,16,24,0,0,0
+27,WC-1962,1962 FIFA Men's World Cup,2,quarter-finals,0,1,0,1962-06-10,1962-06-10,4,8,4,0,0,0
+28,WC-1962,1962 FIFA Men's World Cup,3,semi-finals,0,1,0,1962-06-13,1962-06-13,2,4,2,0,0,0
+29,WC-1962,1962 FIFA Men's World Cup,4,third-place match,0,1,0,1962-06-16,1962-06-16,1,2,1,0,0,0
+30,WC-1962,1962 FIFA Men's World Cup,5,final,0,1,0,1962-06-17,1962-06-17,1,2,1,0,0,0
+31,WC-1966,1966 FIFA Men's World Cup,1,group stage,1,0,0,1966-07-11,1966-07-20,24,16,24,0,0,0
+32,WC-1966,1966 FIFA Men's World Cup,2,quarter-finals,0,1,0,1966-07-23,1966-07-23,4,8,4,0,0,0
+33,WC-1966,1966 FIFA Men's World Cup,3,semi-finals,0,1,0,1966-07-25,1966-07-26,2,4,2,0,0,0
+34,WC-1966,1966 FIFA Men's World Cup,4,third-place match,0,1,0,1966-07-28,1966-07-28,1,2,1,0,0,0
+35,WC-1966,1966 FIFA Men's World Cup,5,final,0,1,0,1966-07-30,1966-07-30,1,2,1,0,0,0
+36,WC-1970,1970 FIFA Men's World Cup,1,group stage,1,0,0,1970-05-31,1970-06-11,24,16,24,0,0,0
+37,WC-1970,1970 FIFA Men's World Cup,2,quarter-finals,0,1,0,1970-06-14,1970-06-14,4,8,4,0,0,0
+38,WC-1970,1970 FIFA Men's World Cup,3,semi-finals,0,1,0,1970-06-17,1970-06-17,2,4,2,0,0,0
+39,WC-1970,1970 FIFA Men's World Cup,4,third-place match,0,1,0,1970-06-20,1970-06-20,1,2,1,0,0,0
+40,WC-1970,1970 FIFA Men's World Cup,5,final,0,1,0,1970-06-21,1970-06-21,1,2,1,0,0,0
+41,WC-1974,1974 FIFA Men's World Cup,1,group stage,1,0,0,1974-06-13,1974-06-23,24,16,24,0,0,0
+42,WC-1974,1974 FIFA Men's World Cup,2,second group stage,1,0,0,1974-06-26,1974-07-03,12,8,12,0,0,0
+43,WC-1974,1974 FIFA Men's World Cup,3,third-place match,0,1,0,1974-07-06,1974-07-06,1,2,1,0,0,0
+44,WC-1974,1974 FIFA Men's World Cup,4,final,0,1,0,1974-07-07,1974-07-07,1,2,1,0,0,0
+45,WC-1978,1978 FIFA Men's World Cup,1,group stage,1,0,0,1978-06-01,1978-06-11,24,16,24,0,0,0
+46,WC-1978,1978 FIFA Men's World Cup,2,second group stage,1,0,0,1978-06-14,1978-06-21,12,8,12,0,0,0
+47,WC-1978,1978 FIFA Men's World Cup,3,third-place match,0,1,0,1978-06-24,1978-06-24,1,2,1,0,0,0
+48,WC-1978,1978 FIFA Men's World Cup,4,final,0,1,0,1978-06-25,1978-06-25,1,2,1,0,0,0
+49,WC-1982,1982 FIFA Men's World Cup,1,group stage,1,0,0,1982-06-13,1982-06-25,36,24,36,0,0,0
+50,WC-1982,1982 FIFA Men's World Cup,2,second group stage,1,0,0,1982-06-28,1982-07-05,12,12,12,0,0,0
+51,WC-1982,1982 FIFA Men's World Cup,3,semi-finals,0,1,0,1982-07-08,1982-07-08,2,4,2,0,0,0
+52,WC-1982,1982 FIFA Men's World Cup,4,third-place match,0,1,0,1982-07-10,1982-07-10,1,2,1,0,0,0
+53,WC-1982,1982 FIFA Men's World Cup,5,final,0,1,0,1982-07-11,1982-07-11,1,2,1,0,0,0
+54,WC-1986,1986 FIFA Men's World Cup,1,group stage,1,0,0,1986-05-31,1986-06-13,36,24,36,0,0,0
+55,WC-1986,1986 FIFA Men's World Cup,2,round of 16,0,1,0,1986-06-15,1986-06-18,8,16,8,0,0,0
+56,WC-1986,1986 FIFA Men's World Cup,3,quarter-finals,0,1,0,1986-06-21,1986-06-22,4,8,4,0,0,0
+57,WC-1986,1986 FIFA Men's World Cup,4,semi-finals,0,1,0,1986-06-25,1986-06-25,2,4,2,0,0,0
+58,WC-1986,1986 FIFA Men's World Cup,5,third-place match,0,1,0,1986-06-28,1986-06-28,1,2,1,0,0,0
+59,WC-1986,1986 FIFA Men's World Cup,6,final,0,1,0,1986-06-29,1986-06-29,1,2,1,0,0,0
+60,WC-1990,1990 FIFA Men's World Cup,1,group stage,1,0,0,1990-06-08,1990-06-21,36,24,36,0,0,0
+61,WC-1990,1990 FIFA Men's World Cup,2,round of 16,0,1,0,1990-06-23,1990-06-26,8,16,8,0,0,0
+62,WC-1990,1990 FIFA Men's World Cup,3,quarter-finals,0,1,0,1990-06-30,1990-07-01,4,8,4,0,0,0
+63,WC-1990,1990 FIFA Men's World Cup,4,semi-finals,0,1,0,1990-07-03,1990-07-04,2,4,2,0,0,0
+64,WC-1990,1990 FIFA Men's World Cup,5,third-place match,0,1,0,1990-07-07,1990-07-07,1,2,1,0,0,0
+65,WC-1990,1990 FIFA Men's World Cup,6,final,0,1,0,1990-07-08,1990-07-08,1,2,1,0,0,0
+66,WC-1991,1991 FIFA Women's World Cup,1,group stage,1,0,0,1991-11-16,1991-11-21,18,12,18,0,0,0
+67,WC-1991,1991 FIFA Women's World Cup,2,quarter-finals,0,1,0,1991-11-24,1991-11-24,4,8,4,0,0,0
+68,WC-1991,1991 FIFA Women's World Cup,3,semi-finals,0,1,0,1991-11-27,1991-11-27,2,4,2,0,0,0
+69,WC-1991,1991 FIFA Women's World Cup,4,third-place match,0,1,0,1991-11-29,1991-11-29,1,2,1,0,0,0
+70,WC-1991,1991 FIFA Women's World Cup,5,final,0,1,0,1991-11-30,1991-11-30,1,2,1,0,0,0
+71,WC-1994,1994 FIFA Men's World Cup,1,group stage,1,0,0,1994-06-17,1994-06-30,36,24,36,0,0,0
+72,WC-1994,1994 FIFA Men's World Cup,2,round of 16,0,1,0,1994-07-02,1994-07-05,8,16,8,0,0,0
+73,WC-1994,1994 FIFA Men's World Cup,3,quarter-finals,0,1,0,1994-07-09,1994-07-10,4,8,4,0,0,0
+74,WC-1994,1994 FIFA Men's World Cup,4,semi-finals,0,1,0,1994-07-13,1994-07-13,2,4,2,0,0,0
+75,WC-1994,1994 FIFA Men's World Cup,5,third-place match,0,1,0,1994-07-16,1994-07-16,1,2,1,0,0,0
+76,WC-1994,1994 FIFA Men's World Cup,6,final,0,1,0,1994-07-17,1994-07-17,1,2,1,0,0,0
+77,WC-1995,1995 FIFA Women's World Cup,1,group stage,1,0,0,1995-06-05,1995-06-10,18,12,18,0,0,0
+78,WC-1995,1995 FIFA Women's World Cup,2,quarter-finals,0,1,0,1995-06-13,1995-06-13,4,8,4,0,0,0
+79,WC-1995,1995 FIFA Women's World Cup,3,semi-finals,0,1,0,1995-06-15,1995-06-15,2,4,2,0,0,0
+80,WC-1995,1995 FIFA Women's World Cup,4,third-place match,0,1,0,1995-06-17,1995-06-17,1,2,1,0,0,0
+81,WC-1995,1995 FIFA Women's World Cup,5,final,0,1,0,1995-06-18,1995-06-18,1,2,1,0,0,0
+82,WC-1998,1998 FIFA Men's World Cup,1,group stage,1,0,0,1998-06-10,1998-06-26,48,32,48,0,0,0
+83,WC-1998,1998 FIFA Men's World Cup,2,round of 16,0,1,0,1998-06-27,1998-06-30,8,16,8,0,0,0
+84,WC-1998,1998 FIFA Men's World Cup,3,quarter-finals,0,1,0,1998-07-03,1998-07-04,4,8,4,0,0,0
+85,WC-1998,1998 FIFA Men's World Cup,4,semi-finals,0,1,0,1998-07-07,1998-07-08,2,4,2,0,0,0
+86,WC-1998,1998 FIFA Men's World Cup,5,third-place match,0,1,0,1998-07-11,1998-07-11,1,2,1,0,0,0
+87,WC-1998,1998 FIFA Men's World Cup,6,final,0,1,0,1998-07-12,1998-07-12,1,2,1,0,0,0
+88,WC-1999,1999 FIFA Women's World Cup,1,group stage,1,0,0,1999-06-19,1999-06-27,24,16,24,0,0,0
+89,WC-1999,1999 FIFA Women's World Cup,2,quarter-finals,0,1,0,1999-06-30,1999-07-01,4,8,4,0,0,0
+90,WC-1999,1999 FIFA Women's World Cup,3,semi-finals,0,1,0,1999-07-04,1999-07-04,2,4,2,0,0,0
+91,WC-1999,1999 FIFA Women's World Cup,4,third-place match,0,1,0,1999-07-10,1999-07-10,1,2,1,0,0,0
+92,WC-1999,1999 FIFA Women's World Cup,5,final,0,1,0,1999-07-10,1999-07-10,1,2,1,0,0,0
+93,WC-2002,2002 FIFA Men's World Cup,1,group stage,1,0,0,2002-05-31,2002-06-14,48,32,48,0,0,0
+94,WC-2002,2002 FIFA Men's World Cup,2,round of 16,0,1,0,2002-06-15,2002-06-18,8,16,8,0,0,0
+95,WC-2002,2002 FIFA Men's World Cup,3,quarter-finals,0,1,0,2002-06-21,2002-06-22,4,8,4,0,0,0
+96,WC-2002,2002 FIFA Men's World Cup,4,semi-finals,0,1,0,2002-06-25,2002-06-26,2,4,2,0,0,0
+97,WC-2002,2002 FIFA Men's World Cup,5,third-place match,0,1,0,2002-06-29,2002-06-29,1,2,1,0,0,0
+98,WC-2002,2002 FIFA Men's World Cup,6,final,0,1,0,2002-06-30,2002-06-30,1,2,1,0,0,0
+99,WC-2003,2003 FIFA Women's World Cup,1,group stage,1,0,0,2003-09-20,2003-09-28,24,16,24,0,0,0
+100,WC-2003,2003 FIFA Women's World Cup,2,quarter-finals,0,1,0,2003-10-01,2003-10-02,4,8,4,0,0,0
+101,WC-2003,2003 FIFA Women's World Cup,3,semi-finals,0,1,0,2003-10-05,2003-10-05,2,4,2,0,0,0
+102,WC-2003,2003 FIFA Women's World Cup,4,third-place match,0,1,0,2003-10-11,2003-10-11,1,2,1,0,0,0
+103,WC-2003,2003 FIFA Women's World Cup,5,final,0,1,0,2003-10-12,2003-10-12,1,2,1,0,0,0
+104,WC-2006,2006 FIFA Men's World Cup,1,group stage,1,0,0,2006-06-09,2006-06-23,48,32,48,0,0,0
+105,WC-2006,2006 FIFA Men's World Cup,2,round of 16,0,1,0,2006-06-24,2006-06-27,8,16,8,0,0,0
+106,WC-2006,2006 FIFA Men's World Cup,3,quarter-finals,0,1,0,2006-06-30,2006-07-01,4,8,4,0,0,0
+107,WC-2006,2006 FIFA Men's World Cup,4,semi-finals,0,1,0,2006-07-04,2006-07-05,2,4,2,0,0,0
+108,WC-2006,2006 FIFA Men's World Cup,5,third-place match,0,1,0,2006-07-08,2006-07-08,1,2,1,0,0,0
+109,WC-2006,2006 FIFA Men's World Cup,6,final,0,1,0,2006-07-09,2006-07-09,1,2,1,0,0,0
+110,WC-2007,2007 FIFA Women's World Cup,1,group stage,1,0,0,2007-09-10,2007-09-20,24,16,24,0,0,0
+111,WC-2007,2007 FIFA Women's World Cup,2,quarter-finals,0,1,0,2007-09-22,2007-09-23,4,8,4,0,0,0
+112,WC-2007,2007 FIFA Women's World Cup,3,semi-finals,0,1,0,2007-09-26,2007-09-27,2,4,2,0,0,0
+113,WC-2007,2007 FIFA Women's World Cup,4,third-place match,0,1,0,2007-09-30,2007-09-30,1,2,1,0,0,0
+114,WC-2007,2007 FIFA Women's World Cup,5,final,0,1,0,2007-09-30,2007-09-30,1,2,1,0,0,0
+115,WC-2010,2010 FIFA Men's World Cup,1,group stage,1,0,0,2010-06-11,2010-06-25,48,32,48,0,0,0
+116,WC-2010,2010 FIFA Men's World Cup,2,round of 16,0,1,0,2010-06-26,2010-06-29,8,16,8,0,0,0
+117,WC-2010,2010 FIFA Men's World Cup,3,quarter-finals,0,1,0,2010-07-02,2010-07-03,4,8,4,0,0,0
+118,WC-2010,2010 FIFA Men's World Cup,4,semi-finals,0,1,0,2010-07-06,2010-07-07,2,4,2,0,0,0
+119,WC-2010,2010 FIFA Men's World Cup,5,third-place match,0,1,0,2010-07-10,2010-07-10,1,2,1,0,0,0
+120,WC-2010,2010 FIFA Men's World Cup,6,final,0,1,0,2010-07-11,2010-07-11,1,2,1,0,0,0
+121,WC-2011,2011 FIFA Women's World Cup,1,group stage,1,0,0,2011-06-26,2011-07-06,24,16,24,0,0,0
+122,WC-2011,2011 FIFA Women's World Cup,2,quarter-finals,0,1,0,2011-07-09,2011-07-10,4,8,4,0,0,0
+123,WC-2011,2011 FIFA Women's World Cup,3,semi-finals,0,1,0,2011-07-13,2011-07-13,2,4,2,0,0,0
+124,WC-2011,2011 FIFA Women's World Cup,4,third-place match,0,1,0,2011-07-16,2011-07-16,1,2,1,0,0,0
+125,WC-2011,2011 FIFA Women's World Cup,5,final,0,1,0,2011-07-17,2011-07-17,1,2,1,0,0,0
+126,WC-2014,2014 FIFA Men's World Cup,1,group stage,1,0,0,2014-06-12,2014-06-26,48,32,48,0,0,0
+127,WC-2014,2014 FIFA Men's World Cup,2,round of 16,0,1,0,2014-06-28,2014-07-01,8,16,8,0,0,0
+128,WC-2014,2014 FIFA Men's World Cup,3,quarter-finals,0,1,0,2014-07-04,2014-07-05,4,8,4,0,0,0
+129,WC-2014,2014 FIFA Men's World Cup,4,semi-finals,0,1,0,2014-07-08,2014-07-09,2,4,2,0,0,0
+130,WC-2014,2014 FIFA Men's World Cup,5,third-place match,0,1,0,2014-07-12,2014-07-12,1,2,1,0,0,0
+131,WC-2014,2014 FIFA Men's World Cup,6,final,0,1,0,2014-07-13,2014-07-13,1,2,1,0,0,0
+132,WC-2015,2015 FIFA Women's World Cup,1,group stage,1,0,0,2015-06-06,2015-06-17,36,24,36,0,0,0
+133,WC-2015,2015 FIFA Women's World Cup,2,round of 16,0,1,0,2015-06-20,2015-06-23,8,16,8,0,0,0
+134,WC-2015,2015 FIFA Women's World Cup,3,quarter-finals,0,1,0,2015-06-26,2015-06-27,4,8,4,0,0,0
+135,WC-2015,2015 FIFA Women's World Cup,4,semi-finals,0,1,0,2015-06-30,2015-07-01,2,4,2,0,0,0
+136,WC-2015,2015 FIFA Women's World Cup,5,third-place match,0,1,0,2015-07-04,2015-07-04,1,2,1,0,0,0
+137,WC-2015,2015 FIFA Women's World Cup,6,final,0,1,0,2015-07-05,2015-07-05,1,2,1,0,0,0
+138,WC-2018,2018 FIFA Men's World Cup,1,group stage,1,0,0,2018-06-14,2018-06-28,48,32,48,0,0,0
+139,WC-2018,2018 FIFA Men's World Cup,2,round of 16,0,1,0,2018-06-30,2018-07-03,8,16,8,0,0,0
+140,WC-2018,2018 FIFA Men's World Cup,3,quarter-finals,0,1,0,2018-07-06,2018-07-07,4,8,4,0,0,0
+141,WC-2018,2018 FIFA Men's World Cup,4,semi-finals,0,1,0,2018-07-10,2018-07-11,2,4,2,0,0,0
+142,WC-2018,2018 FIFA Men's World Cup,5,third-place match,0,1,0,2018-07-14,2018-07-14,1,2,1,0,0,0
+143,WC-2018,2018 FIFA Men's World Cup,6,final,0,1,0,2018-07-15,2018-07-15,1,2,1,0,0,0
+144,WC-2019,2019 FIFA Women's World Cup,1,group stage,1,0,0,2019-06-07,2019-06-20,36,24,36,0,0,0
+145,WC-2019,2019 FIFA Women's World Cup,2,round of 16,0,1,0,2019-06-22,2019-06-25,8,16,8,0,0,0
+146,WC-2019,2019 FIFA Women's World Cup,3,quarter-finals,0,1,0,2019-06-27,2019-06-29,4,8,4,0,0,0
+147,WC-2019,2019 FIFA Women's World Cup,4,semi-finals,0,1,0,2019-07-02,2019-07-03,2,4,2,0,0,0
+148,WC-2019,2019 FIFA Women's World Cup,5,third-place match,0,1,0,2019-07-06,2019-07-06,1,2,1,0,0,0
+149,WC-2019,2019 FIFA Women's World Cup,6,final,0,1,0,2019-07-07,2019-07-07,1,2,1,0,0,0
+150,WC-2022,2022 FIFA Men's World Cup,1,group stage,1,0,0,2022-11-20,2022-12-02,48,32,48,0,0,0
+151,WC-2022,2022 FIFA Men's World Cup,2,round of 16,0,1,0,2022-12-03,2022-12-07,8,16,8,0,0,0
+152,WC-2022,2022 FIFA Men's World Cup,3,quarter-finals,0,1,0,2022-12-09,2022-12-10,4,8,4,0,0,0
+153,WC-2022,2022 FIFA Men's World Cup,4,semi-finals,0,1,0,2022-12-13,2022-12-14,2,4,2,0,0,0
+154,WC-2022,2022 FIFA Men's World Cup,5,third-place match,0,1,0,2022-12-17,2022-12-17,1,2,1,0,0,0
+155,WC-2022,2022 FIFA Men's World Cup,6,final,0,1,0,2022-12-18,2022-12-18,1,2,1,0,0,0

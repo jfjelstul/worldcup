@@ -1,401 +1,494 @@
-key_id,referee_id,family_name,given_name,country_name,confederation_id,confederation_name,confederation_code,referee_wikipedia_link
-1,R-001,Abdel-Fatah,Essam,Egypt,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Essam_Abd_El_Fatah
-2,R-002,Adair,John,Northern Ireland,CF-6,Union of European Football Associations,UEFA,not available
-3,R-003,Agnolin,Luigi,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Luigi_Agnolin
-4,R-004,Aguilar,Joel,El Salvador,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Joel_Aguilar
-5,R-005,Aguilar Elizalde,Abel,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
-6,R-006,Ahlner,Sten,Sweden,CF-6,Union of European Football Associations,UEFA,not available
-7,R-007,Al-Doy,Ibrahim Youssef,Bahrain,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Ibrahim_Youssef_Al-Doy
-8,R-008,Al-Ghamdi,Khalil,Saudi Arabia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Khalil_Al_Ghamdi
-9,R-009,Al-Ghandour,Gamal,Egypt,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Gamal_Al-Ghandour
-10,R-010,Al-Jassim,Abdulrahman,Qatar,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Abdulrahman_Al-Jassim
-11,R-011,Al-Shanar,Fallaj,Saudi Arabia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Fallaj_Al_Shanar
-12,R-012,Al-Sharif,Jamal,Syria,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Jamal_Al_Sharif
-13,R-013,Alghoul,Yousef,Libya,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Yousef_Alghoul
-14,R-014,Amarilla,Carlos,Paraguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Carlos_Amarilla
-15,R-015,Angeles,Arturo,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Arturo_Angeles
-16,R-016,Angonese,Aurelio,Italy,CF-6,Union of European Football Associations,UEFA,not available
-17,R-017,Aquino,Ubaldo,Paraguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Ubaldo_Aquino
-18,R-018,Archundia,Benito,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Benito_Archundia
-19,R-019,Aristizábal,Gilberto,Colombia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Gilberto_Aristiz%C3%A1bal
-20,R-020,Arppi Filho,Romualdo,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Romualdo_Arppi_Filho
-21,R-021,Asensi,Manuel,Spain,CF-6,Union of European Football Associations,UEFA,not available
-22,R-022,Ashkenazi,Menachem,Israel,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Menachem_Ashkenazi
-23,R-023,Aston,Kenneth,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ken_Aston
-24,R-024,Azón Romá,Ramón,Spain,CF-6,Union of European Football Associations,UEFA,not available
-25,R-025,Babacan,Doğan,Turkey,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Do%C4%9Fan_Babacan
-26,R-026,Badilla,Rodrigo,Costa Rica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Rodrigo_Badilla
-27,R-027,Baert,Louis,Belgium,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Louis_Baert
-28,R-028,Baharmast,Esfandiar,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Esfandiar_Baharmast
-29,R-029,Bahramov,Tofiq,Soviet Union,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Tofiq_Bahramov
-30,R-030,Baldas,Fabio,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Fabio_Baldas
-31,R-031,Baldassi,Héctor,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/H%C3%A9ctor_Baldassi
-32,R-032,Balvay,Thomas,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Thomas_Balvay
-33,R-033,Bambridge,Chris,Australia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Chris_Bambridge
-34,R-034,Barlassina,Rinaldo,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Rinaldo_Barlassina
-35,R-035,Barrancos,Luis,Bolivia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Luis_Barrancos
-36,R-036,Barreto Ruíz,Ramón,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Ram%C3%B3n_Barreto
-37,R-037,Barton,Iván,El Salvador,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Iván_Barton
-38,R-038,Batres,Carlos Alberto,Guatemala,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Carlos_Alberto_Batres
-39,R-039,Batta,Marc,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Marc_Batta
-40,R-040,Beath,Chris,Australia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Chris_Beath
-41,R-041,Belqola,Said,Morocco,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Said_Belqola
-42,R-042,Benkö,Günter,Austria,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/G%C3%BCnter_Benk%C3%B6
-43,R-043,Benquerença,Olegário,Portugal,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Oleg%C3%A1rio_Benqueren%C3%A7a
-44,R-044,Beranek,Alois,Austria,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alois_Beranek
-45,R-045,Bin Nasser,Ali,Tunisia,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Ali_Bin_Nasser
-46,R-046,Birlem,Alfred,Germany,CF-6,Union of European Football Associations,UEFA,not available
-47,R-047,Biwersi,Ferdinand,West Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ferdinand_Biwersi
-48,R-048,Blavier,Antoine,Belgium,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Antoine_Blavier
-49,R-049,Boskovic,Tony,Australia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Tony_Boskovic
-50,R-050,Bouchardeau,Lucien,Niger,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Lucien_Bouchardeau
-51,R-051,Bouzo,Farouk,Syria,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Farouk_Bouzo
-52,R-052,Braun,Eugen,Austria,CF-6,Union of European Football Associations,UEFA,not available
-53,R-053,Brizio Carter,Arturo,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Arturo_Brizio_Carter
-54,R-054,Bronkhorst,Jan,Netherlands,CF-6,Union of European Football Associations,UEFA,not available
-55,R-055,Brummeier,Horst,Austria,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Horst_Brummeier
-56,R-056,Brych,Felix,Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Felix_Brych
-57,R-057,Bujsaim,Ali,United Arab Emirates,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Ali_Bujsaim
-58,R-058,Busacca,Massimo,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Massimo_Busacca
-59,R-059,Bustamante,Sergio,Chile,CF-4,South American Football Confederation,CONMEBOL,not available
-60,R-060,Butenko,Valeri,Soviet Union,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Valeri_Butenko
-61,R-061,Cáceres,Enrique,Paraguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Enrique_C%C3%A1ceres
-62,R-062,Çakır,Cüneyt,Turkey,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/C%C3%BCneyt_%C3%87ak%C4%B1r
-63,R-063,Callaghan,Leo,Wales,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Leo_Callaghan
-64,R-064,Campos,Joaquim,Portugal,CF-6,Union of European Football Associations,UEFA,not available
-65,R-065,Capdeville,Georges,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Georges_Capdeville
-66,R-066,Cardellino,Juan Daniel,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Juan_Daniel_Cardellino
-67,R-067,Carraro,Albino,Italy,CF-6,Union of European Football Associations,UEFA,not available
-68,R-068,Casarin,Paolo,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Paolo_Casarin
-69,R-069,Castrilli,Javier,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Javier_Castrilli
-70,R-070,Castro,Gastón,Chile,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Gast%C3%B3n_Castro
-71,R-071,Cavani,Filippi,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Filippi_Cavani
-72,R-072,Chan,Tam Sun,Hong Kong,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Thomson_Chan
-73,R-073,Christophe,Henri,Belgium,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Henri_Christophe_(referee)
-74,R-074,Christov,Vojtěch,Czechoslovakia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Vojt%C4%9Bch_Christov
-75,R-075,Claus,Raphael,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Raphael_Claus
-76,R-076,Codesal,Edgardo,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Edgardo_Codesal
-77,R-077,Codesal,José María,Uruguay,CF-4,South American Football Confederation,CONMEBOL,not available
-78,R-078,Codjia,Coffi,Benin,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Coffi_Codjia
-79,R-079,Coelho,Arnaldo Cézar,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Arnaldo_C%C3%A9zar_Coelho
-80,R-080,Coerezza,Ángel Norberto,Argentina,CF-4,South American Football Confederation,CONMEBOL,not available
-81,R-081,Collina,Pierluigi,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pierluigi_Collina
-82,R-082,Conger,Matthew,New Zealand,CF-5,Oceania Football Confederation,OFC,https://en.wikipedia.org/wiki/Matthew_Conger
-83,R-083,Conrié,Roger,France,CF-6,Union of European Football Associations,UEFA,not available
-84,R-084,Corver,Charles,Netherlands,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Charles_Corver
-85,R-085,Coulibaly,Koman,Mali,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Koman_Coulibaly
-86,R-086,Courtney,George,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/George_Courtney
-87,R-087,Cunha,Andrés,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Andr%C3%A9s_Cunha
-88,R-088,da Costa Vieira,Jose,Portugal,CF-6,Union of European Football Associations,UEFA,not available
-89,R-089,Daami,Mourad,Tunisia,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Mourad_Daami
-90,R-090,Dagnall,Ken,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ken_Dagnall
-91,R-091,Daina,André,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Andr%C3%A9_Daina
-92,R-092,Dallas,Hugh,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Hugh_Dallas
-93,R-093,Damon,Jerome,South Africa,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Jerome_Damon
-94,R-094,Dattilo,Generoso,Italy,CF-6,Union of European Football Associations,UEFA,not available
-95,R-095,Davidson,Bobby,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bobby_Davidson
-96,R-096,de Almeida Rêgo,Gilberto,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Gilberto_de_Almeida_R%C3%AAgo
-97,R-097,De Bleeckere,Frank,Belgium,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Frank_De_Bleeckere
-98,R-098,De Leo,Diego,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Diego_De_Leo
-99,R-099,Delgado Gómez,Omar,Colombia,CF-4,South American Football Confederation,CONMEBOL,not available
-100,R-100,Díaz,Jesús,Colombia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jes%C3%BAs_D%C3%ADaz_(football_referee)
-101,R-101,Díaz Vega,Manuel,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Manuel_D%C3%ADaz_Vega
-102,R-102,Diedhiou,Malang,Senegal,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Malang_Diedhiou
-103,R-103,Dienst,Gottfried,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Gottfried_Dienst
-104,R-104,Don,Philip,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Philip_Don
-105,R-105,Dorogi,Andor,Hungary,CF-6,Union of European Football Associations,UEFA,not available
-106,R-106,Dotchev,Bogdan,Bulgaria,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bogdan_Dotchev
-107,R-107,Doué,Noumandiez,Ivory Coast,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Noumandiez_Dou%C3%A9
-108,R-108,Dubach,Jean,Switzerland,CF-6,Union of European Football Associations,UEFA,not available
-109,R-109,Durkin,Paul,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Paul_Durkin
-110,R-110,Dusch,Albert,West Germany,CF-6,Union of European Football Associations,UEFA,not available
-111,R-111,Dwomoh,Benjamin,Ghana,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Benjamin_Dwomoh
-112,R-112,Eklind,Ivan,Sweden,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ivan_Eklind
-113,R-113,Elfath,Ismail,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Ismail_Elfath
-114,R-114,Elizondo,Horacio,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Horacio_Elizondo
-115,R-115,Ellis,Arthur Edward,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Arthur_Edward_Ellis
-116,R-116,Eriksson,Arne,Finland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Arne_Eriksson
-117,R-117,Eriksson,Jonas,Sweden,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jonas_Eriksson_(referee)
-118,R-118,Eriksson,Ulf,Sweden,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ulf_Eriksson_(referee)
-119,R-119,Eschweiler,Walter,West Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Walter_Eschweiler
-120,R-120,Escobar,Mario,Guatemala,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Mario_Escobar_(referee)
-121,R-121,Espósito,Carlos,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Carlos_Esp%C3%B3sito
-122,R-122,Etzel Filho,João,Brazil,CF-4,South American Football Confederation,CONMEBOL,not available
-123,R-123,Faghani,Alireza,Iran,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Alireza_Faghani
-124,R-124,Faultless,Charlie,Scotland,CF-6,Union of European Football Associations,UEFA,not available
-125,R-125,Finney,Jim,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jim_Finney
-126,R-126,Franken,Laurent,Belgium,CF-6,Union of European Football Associations,UEFA,not available
-127,R-127,Frappart,Stéphanie,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Stéphanie_Frappart
-128,R-128,Fredriksson,Erik,Sweden,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Erik_Fredriksson
-129,R-129,Frisk,Anders,Sweden,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Anders_Frisk
-130,R-130,Galba,Karol,Czechoslovakia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Karol_Galba
-131,R-131,Galeati,Giovanni,Italy,CF-6,Union of European Football Associations,UEFA,not available
-132,R-132,Galler,Bruno,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bruno_Galler
-133,R-133,Garay Gardeazábal,Juan,Spain,CF-6,Union of European Football Associations,UEFA,not available
-134,R-134,García-Aranda,José María,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Garc%C3%ADa-Aranda
-135,R-135,Gardelli,Mário,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/M%C3%A1rio_Gardelli
-136,R-136,Garrido,António,Portugal,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ant%C3%B3nio_Garrido_(referee)
-137,R-137,Gassama,Bakary,Gambia,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Bakary_Gassama
-138,R-138,Geiger,Mark,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Mark_Geiger
-139,R-139,Ghorbal,Mustapha,Algeria,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Mustapha_Ghorbal
-140,R-140,Glöckner,Rudi,East Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Rudi_Gl%C3%B6ckner
-141,R-141,Goicoechea,Roberto,Argentina,CF-4,South American Football Confederation,CONMEBOL,not available
-142,R-142,Gomes,Victor,South Africa,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Victor_Gomes
-143,R-143,Gonella,Sergio,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Sergio_Gonella
-144,R-144,González,Epifanio,Paraguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Epifanio_Gonz%C3%A1lez
-145,R-145,González,Gabriel,Paraguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Gabriel_Gonz%C3%A1lez_(referee)
-146,R-146,González Archundía,Alfonso,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
-147,R-147,Gordon,John,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/John_Gordon_(referee)
-148,R-148,Griffiths,Sandy,Wales,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Sandy_Griffiths
-149,R-149,Grisha,Gehad,Egypt,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Gehad_Grisha
-150,R-150,Guerrero Orosco,César,Peru,CF-4,South American Football Confederation,CONMEBOL,not available
-151,R-151,Guezzaz,Mohamed,Morocco,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Mohamed_Guezzaz
-152,R-152,Guigue,Maurice,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Maurice_Guigue
-153,R-153,Haimoudi,Djamel,Algeria,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Djamel_Haimoudi
-154,R-154,Hall,Brian,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Brian_Hall_(referee)
-155,R-155,Hassan Mohamed,Mohammed Abdulla,United Arab Emirates,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Mohammed_Abdulla_Hassan_Mohamed
-156,R-156,Hauge,Terje,Norway,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Terje_Hauge
-157,R-157,Hester,Michael,New Zealand,CF-5,Oceania Football Confederation,OFC,https://en.wikipedia.org/wiki/Michael_Hester
-158,R-158,Heynemann,Bernd,Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bernd_Heynemann
-159,R-159,Hormazábal Díaz,Rafael,Chile,CF-4,South American Football Confederation,CONMEBOL,not available
-160,R-160,Horn,Leo,Netherlands,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Leo_Horn
-161,R-161,Igna,Ioan,Romania,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ioan_Igna
-162,R-162,Irmatov,Ravshan,Uzbekistan,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Ravshan_Irmatov
-163,R-163,Ithurralde,Arturo,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Arturo_Ithurralde
-164,R-164,Ivanov,Valentin,Russia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Valentin_Ivanov_(footballer_born_1961)
-165,R-165,Jácome,Elías,Ecuador,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/El%C3%ADas_J%C3%A1come
-166,R-166,Jarguz,Alojzy,Poland,CF-6,Union of European Football Associations,UEFA,not available
-167,R-167,Jonni,Cesare,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Cesare_Jonni
-168,R-168,Jørgensen,Carl,Denmark,CF-6,Union of European Football Associations,UEFA,not available
-169,R-169,Jouini,Neji,Tunisia,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Neji_Jouini
-170,R-170,Kamikawa,Toru,Japan,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Toru_Kamikawa
-171,R-171,Kandil,Ali,United Arab Republic,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Ali_Kandil
-172,R-172,Karasev,Sergei,Russia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Sergei_Karasev
-173,R-173,Karlsson,Bo,Sweden,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bo_Karlsson
-174,R-174,Kassai,Viktor,Hungary,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Viktor_Kassai
-175,R-175,Kazakov,Pavel,Soviet Union,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pavel_Kazakov
-176,R-176,Keizer,Jan,Netherlands,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jan_Keizer_(referee)
-177,R-177,Kim,Young-joo,South Korea,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Kim_Young-joo
-178,R-178,Kirschen,Siegfried,East Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Siegfried_Kirschen
-179,R-179,Klein,Abraham,Israel,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Abraham_Klein_(referee)
-180,R-180,Kohl,Helmut,Austria,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Helmut_Kohl_(referee)
-181,R-181,Kreitlein,Rudolf,West Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Rudolf_Kreitlein
-182,R-182,Krist,Augustin,Czechoslovakia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Augustin_Krist
-183,R-183,Krug,Hellmut,Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Hellmut_Krug
-184,R-184,Kuipers,Björn,Netherlands,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bj%C3%B6rn_Kuipers
-185,R-185,Labo Revoredo,Enrique,Peru,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Enrique_Labo_Revoredo
-186,R-186,Lacarne,Belaïd,Algeria,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Bela%C3%AFd_Lacarne
-187,R-187,Lamo Castillo,Augusto,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Augusto_Lamo_Castillo
-188,R-188,Lamolina,Francisco Oscar,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Francisco_Oscar_Lamolina
-189,R-189,Landauer,Henry,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
-190,R-190,Lanese,Tullio,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Tullio_Lanese
-191,R-191,Langenus,John,Belgium,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/John_Langenus
-192,R-192,Lannoy,Stéphane,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/St%C3%A9phane_Lannoy
-193,R-193,Larrionda,Jorge,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jorge_Larrionda
-194,R-194,Leafe,Reginald,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Reginald_Leafe
-195,R-195,Leclerq,Lucien,France,CF-6,Union of European Football Associations,UEFA,not available
-196,R-196,Lemesic,Leo,Yugoslavia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Leo_Lemesic
-197,R-197,Lennie,Eddie,Australia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Eddie_Lennie
-198,R-198,Levnikov,Nikolai,Soviet Union,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Nikolai_Levnikov
-199,R-199,Lim,Kee Chong,Mauritius,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Lim_Kee_Chong
-200,R-200,Linemayr,Erich,Austria,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Erich_Linemayr
-201,R-201,Ling,William,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/William_Ling_(referee)
-202,R-202,Llobregat,Vicente,Venezuela,CF-4,South American Football Confederation,CONMEBOL,not available
-203,R-203,Lo Bello,Concetto,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Concetto_Lo_Bello
-204,R-204,Lombardi,Domingo,Uruguay,CF-4,South American Football Confederation,CONMEBOL,not available
-205,R-205,Lööw,Bertil,Sweden,CF-6,Union of European Football Associations,UEFA,not available
-206,R-206,López Nieto,Antonio,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_Nieto
-207,R-207,Loraux,Vital,Belgium,CF-6,Union of European Football Associations,UEFA,not available
-208,R-208,Loustau,Juan Carlos,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Juan_Carlos_Loustau
-209,R-209,Lu,Jun,China,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Lu_Jun
-210,R-210,Lund-Sørensen,Henning,Denmark,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Henning_Lund-S%C3%B8rensen
-211,R-211,Lutz,Jean,Switzerland,CF-6,Union of European Football Associations,UEFA,not available
-212,R-212,Machin,Roger,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Roger_Machin
-213,R-213,Macías,José,Argentina,CF-4,South American Football Confederation,CONMEBOL,not available
-214,R-214,Maciel,Carlos,Paraguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Carlos_Maciel
-215,R-215,Macko,Martin,Czechoslovakia,CF-6,Union of European Football Associations,UEFA,not available
-216,R-216,Maidin,Shamsul,Singapore,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Shamsul_Maidin
-217,R-217,Maillet,Eddy,Seychelles,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Eddy_Maillet
-218,R-218,Makkelie,Danny,Netherlands,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Danny_Makkelie
-219,R-219,Maksimović,Dušan,Yugoslavia,CF-6,Union of European Football Associations,UEFA,not available
-220,R-220,Malcher,Alberto,Brazil,CF-4,South American Football Confederation,CONMEBOL,not available
-221,R-221,Mane,Saad,Kuwait,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Saad_Mane
-222,R-222,Marciniak,Szymon,Poland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Szymon_Marciniak
-223,R-223,Marino,Esteban,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Esteban_Marino
-224,R-224,Marques,Armando,Brazil,CF-4,South American Football Confederation,CONMEBOL,not available
-225,R-225,Márquez Ramírez,Antonio,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Antonio_M%C3%A1rquez_Ram%C3%ADrez
-226,R-226,Marrufo,Jair,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Jair_Marrufo
-227,R-227,Marschall,Ferdinand,Austria,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ferdinand_Marschall
-228,R-228,Marsiglia,Renato,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Renato_Marsiglia
-229,R-229,Martínez,Ángel Franco,Spain,CF-6,Union of European Football Associations,UEFA,not available
-230,R-230,Martínez Bazán,José Luis,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Mart%C3%ADnez_Baz%C3%A1n
-231,R-231,Mateu Lahoz,Antonio,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Antonio_Mateu_Lahoz
-232,R-232,Mateucci,Francisco,Uruguay,CF-4,South American Football Confederation,CONMEBOL,not available
-233,R-233,Matonte,Andrés,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Andrés_Matonte
-234,R-234,Matovinović,Damir,Yugoslavia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Damir_Matovinovi%C4%87
-235,R-235,Mattea,Francesco,Italy,CF-6,Union of European Football Associations,UEFA,not available
-236,R-236,Mattus,William,Costa Rica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/William_Mattus
-237,R-237,Mauro,Vincent,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
-238,R-238,Mažić,Milorad,Serbia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Milorad_Ma%C5%BEi%C4%87
-239,R-239,McCabe,George,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/George_McCabe
-240,R-240,McLeod,Ian,South Africa,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Ian_McLeod_(referee)
-241,R-241,Medina Cantalejo,Luis,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Luis_Medina_Cantalejo
-242,R-242,Meier,Urs,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Urs_Meier
-243,R-243,Melo Pereira,Vítor,Portugal,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/V%C3%ADtor_Melo_Pereira
-244,R-244,Méndez,Rómulo,Guatemala,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/R%C3%B3mulo_M%C3%A9ndez
-245,R-245,Mercet,René,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ren%C3%A9_Mercet
-246,R-246,Merk,Markus,Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Markus_Merk
-247,R-247,Micheľ,Ľuboš,Slovakia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/%C4%BDubo%C5%A1_Miche%C4%BE
-248,R-248,Mikkelsen,Peter,Denmark,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Peter_Mikkelsen_(referee)
-249,R-249,Mitchell,George,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/George_Mitchell_(referee)
-250,R-250,Moffat,Malcolm,Northern Ireland,CF-6,Union of European Football Associations,UEFA,not available
-251,R-251,Moreno,Byron,Ecuador,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Byron_Moreno
-252,R-252,Mottram,Leslie,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Leslie_Mottram
-253,R-253,Mowat,Jack,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jack_Mowat
-254,R-254,Mustafa Kamel,Mahmoud,Egypt,CF-2,Confederation of African Football,CAF,not available
-255,R-255,N'Diaye,Youssou,Senegal,CF-2,Confederation of African Football,CAF,not available
-256,R-256,N'Doye,Falla,Senegal,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Falla_N%27Doye
-257,R-257,Namdar,Jafar,Iran,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Jafar_Namdar
-258,R-258,Németh,Lajos,Hungary,CF-6,Union of European Football Associations,UEFA,not available
-259,R-259,Nielsen,Kim Milton,Denmark,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Kim_Milton_Nielsen
-260,R-260,Nishimura,Yuichi,Japan,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Yuichi_Nishimura
-261,R-261,O'Leary,Peter,New Zealand,CF-5,Oceania Football Confederation,OFC,https://en.wikipedia.org/wiki/Peter_O%27Leary_(referee)
-262,R-262,Okada,Masayoshi,Japan,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Masayoshi_Okada
-263,R-263,Oliver,Michael,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Michael_Oliver_(referee)
-264,R-264,Orlandini,Vincenzo,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Vincenzo_Orlandini
-265,R-265,Orsato,Daniele,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Daniele_Orsato
-266,R-266,Ortiz,Héctor,Paraguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/H%C3%A9ctor_Ortiz_(referee)
-267,R-267,Ortiz de Mendíbil,José María,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Ortiz_de_Mend%C3%ADbil
-268,R-268,Ortubé,René,Bolivia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Ren%C3%A9_Ortub%C3%A9
-269,R-269,Osses,Enrique,Chile,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Enrique_Osses
-270,R-270,Pairetto,Pierluigi,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pierluigi_Pairetto
-271,R-271,Palotai,Károly,Hungary,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/K%C3%A1roly_Palotai
-272,R-272,Partridge,Pat,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pat_Partridge
-273,R-273,Paulino Siles,Luis,Costa Rica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Luis_Paulino_Siles
-274,R-274,Pedersen,Rune,Norway,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Rune_Pedersen_(referee)
-275,R-275,Peréz Núñez,Edison,Peru,CF-4,South American Football Confederation,CONMEBOL,not available
-276,R-276,Pestarino,Luis,Argentina,CF-4,South American Football Confederation,CONMEBOL,not available
-277,R-277,Petrović,Zoran,Yugoslavia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Zoran_Petrovi%C4%87_(referee)
-278,R-278,Phillips,Hugh,Scotland,CF-6,Union of European Football Associations,UEFA,not available
-279,R-279,Picon-Ackong,Edwin,Mauritius,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Edwin_Picon-Ackong
-280,R-280,Pitana,Néstor,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/N%C3%A9stor_Pitana
-281,R-281,Poll,Graham,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Graham_Poll
-282,R-282,Ponnet,Alexis,Belgium,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alexis_Ponnet
-283,R-283,Poulat,Éric,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/%C3%89ric_Poulat
-284,R-284,Pozo,Pablo,Chile,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Pablo_Pozo
-285,R-285,Prendergast,Peter,Jamaica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Peter_Prendergast_(referee)
-286,R-286,Proença,Pedro,Portugal,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pedro_Proen%C3%A7a
-287,R-287,Prokop,Adolf,East Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Adolf_Prokop
-288,R-288,Puhl,Sándor,Hungary,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/S%C3%A1ndor_Puhl
-289,R-289,Quiniou,Joël,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jo%C3%ABl_Quiniou
-290,R-290,Rădulescu,Andrei,Romania,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Andrei_R%C4%83dulescu_(footballer)
-291,R-291,Rahman Al-Zeid,Abdul,Saudi Arabia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Abdul_Rahman_Al-Zeid
-292,R-292,Rainea,Nicolae,Romania,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Nicolae_Rainea
-293,R-293,Ramdhan,Ramesh,Trinidad and Tobago,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Ramesh_Ramdhan
-294,R-294,Ramos,César Arturo,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/C%C3%A9sar_Arturo_Ramos
-295,R-295,Ramos,Felipe,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Felipe_Ramos
-296,R-296,Rapallini,Fernando,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Fernando_Rapallini
-297,R-297,Reader,George,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/George_Reader
-298,R-298,Regis Brozzi,Juan,Argentina,CF-4,South American Football Confederation,CONMEBOL,not available
-299,R-299,Rezende de Freitas,Márcio,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/M%C3%A1rcio_Rezende_de_Freitas
-300,R-300,Ribeiro Saldanha,Antonio,Portugal,CF-6,Union of European Football Associations,UEFA,not available
-301,R-301,Ricci,Sandro,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Sandro_Ricci
-302,R-302,Rion,Francis,Belgium,CF-6,Union of European Football Associations,UEFA,not available
-303,R-303,Rizzoli,Nicola,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Nicola_Rizzoli
-304,R-304,Robles,Carlos,Chile,CF-4,South American Football Confederation,CONMEBOL,not available
-305,R-305,Rocchi,Gianluca,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Gianluca_Rocchi
-306,R-306,Rodríguez,Marco Antonio,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Marco_Antonio_Rodr%C3%ADguez
-307,R-307,Roldán,Wilmar,Colombia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Wilmar_Rold%C3%A1n
-308,R-308,Rosetti,Roberto,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Roberto_Rosetti
-309,R-309,Roth,Volker,West Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Volker_Roth
-310,R-310,Röthlisberger,Kurt,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Kurt_R%C3%B6thlisberger
-311,R-311,Ruiz,Óscar,Colombia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/%C3%93scar_Ruiz
-312,R-312,Rumenchev,Dimitar,Bulgaria,CF-6,Union of European Football Associations,UEFA,not available
-313,R-313,Sampaio,Wilton,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Wilton_Sampaio
-314,R-314,Sánchez,Ángel,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/%C3%81ngel_S%C3%A1nchez_(referee)
-315,R-315,Sánchez Arminio,Victoriano,Spain,CF-6,Union of European Football Associations,UEFA,not available
-316,R-316,Sánchez Ibáñez,Pablo,Spain,CF-6,Union of European Football Associations,UEFA,not available
-317,R-317,Sánchez Yantén,Mario,Chile,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Mario_S%C3%A1nchez_Yant%C3%A9n
-318,R-318,Saucedo,Ulises,Bolivia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Ulises_Saucedo
-319,R-319,Sbardella,Antonio,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Antonio_Sbardella
-320,R-320,Scarpi,Giuseppe,Italy,CF-6,Union of European Football Associations,UEFA,not available
-321,R-321,Scheurer,Rudolf,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Rudolf_Scheurer
-322,R-322,Schmetzer,Emil,West Germany,CF-6,Union of European Football Associations,UEFA,not available
-323,R-323,Schmidhuber,Aron,West Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Aron_Schmidhuber
-324,R-324,Schulenburg,Gerhard,West Germany,CF-6,Union of European Football Associations,UEFA,not available
-325,R-325,Schwinte,Pierre,France,CF-6,Union of European Football Associations,UEFA,not available
-326,R-326,Seipelt,Fritz,Austria,CF-6,Union of European Football Associations,UEFA,not available
-327,R-327,Shield,Mark,Australia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Mark_Shield
-328,R-328,Shukralla,Nawaf,Bahrain,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Nawaf_Shukralla
-329,R-329,Siebert,Daniel,Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Daniel_Siebert_(referee)
-330,R-330,Sikazwe,Janny,Zambia,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Janny_Sikazwe
-331,R-331,Silva,Hernán,Chile,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Hern%C3%A1n_Silva
-332,R-332,Silva Valente,Carlos,Portugal,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Carlos_Silva_Valente
-333,R-333,Silvagno Cavanna,Juan,Chile,CF-4,South American Football Confederation,CONMEBOL,not available
-334,R-334,Simon,Carlos Eugênio,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Carlos_Eug%C3%AAnio_Simon
-335,R-335,Skomina,Damir,Slovenia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Damir_Skomina
-336,R-336,Smith,George,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/George_Smith_(referee)
-337,R-337,Snoddy,Alan,Northern Ireland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alan_Snoddy
-338,R-338,Socha,David,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/David_Socha
-339,R-339,Soriano Aladrén,Emilio,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Emilio_Soriano_Aladr%C3%A9n
-340,R-340,Spirin,Alexey,Soviet Union,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alexey_Spirin
-341,R-341,Stark,Wolfgang,Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Wolfgang_Stark
-342,R-342,Stefanovic,Vasa,Yugoslavia,CF-6,Union of European Football Associations,UEFA,not available
-343,R-343,Steiner,Carl Erich,Austria,CF-6,Union of European Football Associations,UEFA,not available
-344,R-344,Stupar,Myroslav,Soviet Union,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Myroslav_Stupar
-345,R-345,Suppiah,Govindasamy,Singapore,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Govindasamy_Suppiah
-346,R-346,Takada,Shizuo,Japan,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Shizuo_Takada
-347,R-347,Tarekegn,Seyoum,Ethiopia,CF-2,Confederation of African Football,CAF,not available
-348,R-348,Taylor,Anthony,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Anthony_Taylor_(referee)
-349,R-349,Taylor,Jack,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jack_Taylor_(referee)
-350,R-350,Tejada,Aníbal,Uruguay,CF-4,South American Football Confederation,CONMEBOL,not available
-351,R-351,Tejada Noriega,Alberto,Peru,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Alberto_Tejada_Noriega
-352,R-352,Tello,Facundo,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Facundo_Tello
-353,R-353,Tesanić,Branko,Yugoslavia,CF-6,Union of European Football Associations,UEFA,not available
-354,R-354,Thomas,Clive,Wales,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Clive_Thomas_(football)
-355,R-355,Toro Rendón,John,Colombia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/John_Toro_Rend%C3%B3n
-356,R-356,Torres Cadena,José,Colombia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jos%C3%A9_Torres_Cadena
-357,R-357,Traoré,Idrissa,Mali,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Idrissa_Traor%C3%A9_(referee)
-358,R-358,Tschenscher,Kurt,West Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Kurt_Tschenscher
-359,R-359,Turpin,Clément,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Cl%C3%A9ment_Turpin
-360,R-360,Ulloa Morera,Berny,Costa Rica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Berny_Ulloa_Morera
-361,R-361,Un-prasert,Pirom,Thailand,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Pirom_Un-prasert
-362,R-362,Undiano Mallenco,Alberto,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alberto_Undiano_Mallenco
-363,R-363,Vágner,László,Hungary,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_V%C3%A1gner
-364,R-364,Valentine,Bob,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bob_Valentine_(referee)
-365,R-365,Valenzuela,Jesús,Venezuela,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jesús_Valenzuela
-366,R-366,Vallarino,Ricardo,Uruguay,CF-4,South American Football Confederation,CONMEBOL,not available
-367,R-367,van der Ende,Mario,Netherlands,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Mario_van_der_Ende
-368,R-368,van der Meer,Karel,Netherlands,CF-6,Union of European Football Associations,UEFA,not available
-369,R-369,van Gemert,Arie,Netherlands,CF-6,Union of European Football Associations,UEFA,not available
-370,R-370,van Langenhove,Marcel,Belgium,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Marcel_van_Langenhove_(referee)
-371,R-371,van Moorsel,Johannes,Netherlands,CF-6,Union of European Football Associations,UEFA,not available
-372,R-372,van Nuffel,Lucien,Belgium,CF-6,Union of European Football Associations,UEFA,not available
-373,R-373,van Ravens,Laurens,Netherlands,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Laurens_van_Ravens
-374,R-374,Vassaras,Kyros,Greece,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Kyros_Vassaras
-375,R-375,Vautrot,Michel,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Michel_Vautrot
-376,R-376,Vázquez,Mario Rubio,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
-377,R-377,Veissière,Gilles,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Gilles_Veissi%C3%A8re
-378,R-378,Velasco Carballo,Carlos,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Carlos_Velasco_Carballo
-379,R-379,Vera,Carlos,Ecuador,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Carlos_Vera
-380,R-380,Vianna,Mário,Brazil,CF-4,South American Football Confederation,CONMEBOL,not available
-381,R-381,Vieira de Moraes,Ayrton,Brazil,CF-4,South American Football Confederation,CONMEBOL,not available
-382,R-382,Vincenti,Raymond,France,CF-6,Union of European Football Associations,UEFA,not available
-383,R-383,Vinčić,Slavko,Slovenia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Slavko_Vinčić
-384,R-384,von Hertzka,Pál,Hungary,CF-6,Union of European Football Associations,UEFA,not available
-385,R-385,Warnken,Alberto,Chile,CF-4,South American Football Confederation,CONMEBOL,not available
-386,R-386,Webb,Howard,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Howard_Webb
-387,R-387,Wegereef,Jan,Netherlands,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jan_Wegereef
-388,R-388,Weyland,Hans-Joachim,West Germany,CF-6,Union of European Football Associations,UEFA,not available
-389,R-389,White,Clive,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Clive_White
-390,R-390,Williams,Ben,Australia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Ben_Williams_(referee)
-391,R-391,Winsemann,Werner,Canada,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Werner_Winsemann
-392,R-392,Wöhrer,Franz,Austria,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Franz_W%C3%B6hrer
-393,R-393,Wójcik,Ryszard,Poland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ryszard_W%C3%B3jcik
-394,R-394,Wright,José Roberto,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jos%C3%A9_Roberto_Wright
-395,R-395,Wurtz,Robert,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Robert_Wurtz_(referee)
-396,R-396,Wüthrich,Hans,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Hans_Wuthrich
-397,R-397,Wyssling,Raymond,Switzerland,CF-6,Union of European Football Associations,UEFA,not available
-398,R-398,Yamasaki Maldonado,Arturo,Peru,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Arturo_Yamasaki
-399,R-399,Zečević,Konstantin,Yugoslavia,CF-6,Union of European Football Associations,UEFA,not available
-400,R-400,Zsolt,István,Hungary,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Istv%C3%A1n_Zsolt
+key_id,referee_id,family_name,given_name,female,country_name,confederation_id,confederation_name,confederation_code,referee_wikipedia_link
+1,R-001,Abdel-Fatah,Essam,0,Egypt,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Essam_Abd_El_Fatah
+2,R-002,Abidoye,Bola Elizabeth,1,Nigeria,CF-2,Confederation of African Football,CAF,not available
+3,R-003,Adair,John,0,Northern Ireland,CF-6,Union of European Football Associations,UEFA,not available
+4,R-004,Adámková,Jana,1,Czech Republic,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jana_Ad%C3%A1mkov%C3%A1
+5,R-005,Agboyi,Xonam,1,Togo,CF-2,Confederation of African Football,CAF,not available
+6,R-006,Agnolin,Luigi,0,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Luigi_Agnolin
+7,R-007,Aguilar,Joel,0,El Salvador,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Joel_Aguilar
+8,R-008,Aguilar Elizalde,Abel,0,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
+9,R-009,Ahlner,Sten,0,Sweden,CF-6,Union of European Football Associations,UEFA,not available
+10,R-010,Al-Doy,Ibrahim Youssef,0,Bahrain,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Ibrahim_Youssef_Al-Doy
+11,R-011,Al-Ghamdi,Khalil,0,Saudi Arabia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Khalil_Al_Ghamdi
+12,R-012,Al-Ghandour,Gamal,0,Egypt,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Gamal_Al-Ghandour
+13,R-013,Al-Jassim,Abdulrahman,0,Qatar,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Abdulrahman_Al-Jassim
+14,R-014,Al-Shanar,Fallaj,0,Saudi Arabia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Fallaj_Al_Shanar
+15,R-015,Al-Sharif,Jamal,0,Syria,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Jamal_Al_Sharif
+16,R-016,Albon,Teodora,1,Romania,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Teodora_Albon
+17,R-017,Alghoul,Yousef,0,Libya,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Yousef_Alghoul
+18,R-018,Alvarado,Quetzalli,1,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
+19,R-019,Álvarez,Estela,1,Argentina,CF-4,South American Football Confederation,CONMEBOL,not available
+20,R-020,Alves Batista,Edina,1,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Edina_Alves_Batista
+21,R-021,Amarilla,Carlos,0,Paraguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Carlos_Amarilla
+22,R-022,Angeles,Arturo,0,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Arturo_Angeles
+23,R-023,Angonese,Aurelio,0,Italy,CF-6,Union of European Football Associations,UEFA,not available
+24,R-024,Aquino,Ubaldo,0,Paraguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Ubaldo_Aquino
+25,R-025,Archundia,Benito,0,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Benito_Archundia
+26,R-026,Aristizábal,Gilberto,0,Colombia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Gilberto_Aristiz%C3%A1bal
+27,R-027,Arppi Filho,Romualdo,0,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Romualdo_Arppi_Filho
+28,R-028,Asensi,Manuel,0,Spain,CF-6,Union of European Football Associations,UEFA,not available
+29,R-029,Ashkenazi,Menachem,0,Israel,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Menachem_Ashkenazi
+30,R-030,Aston,Kenneth,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ken_Aston
+31,R-031,Azón Romá,Ramón,0,Spain,CF-6,Union of European Football Associations,UEFA,not available
+32,R-032,Babacan,Doğan,0,Turkey,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Do%C4%9Fan_Babacan
+33,R-033,Badilla,Rodrigo,0,Costa Rica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Rodrigo_Badilla
+34,R-034,Baert,Louis,0,Belgium,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Louis_Baert
+35,R-035,Baharmast,Esfandiar,0,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Esfandiar_Baharmast
+36,R-036,Bahramov,Tofiq,0,Soviet Union,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Tofiq_Bahramov
+37,R-037,Baldas,Fabio,0,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Fabio_Baldas
+38,R-038,Baldassi,Héctor,0,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/H%C3%A9ctor_Baldassi
+39,R-039,Balvay,Thomas,0,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Thomas_Balvay
+40,R-040,Bambridge,Chris,0,Australia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Chris_Bambridge
+41,R-041,Barlassina,Rinaldo,0,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Rinaldo_Barlassina
+42,R-042,Barrancos,Luis,0,Bolivia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Luis_Barrancos
+43,R-043,Barreto Ruíz,Ramón,0,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Ram%C3%B3n_Barreto
+44,R-044,Barton,Iván,0,El Salvador,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Iván_Barton
+45,R-045,Batres,Carlos Alberto,0,Guatemala,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Carlos_Alberto_Batres
+46,R-046,Batta,Marc,0,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Marc_Batta
+47,R-047,Beath,Chris,0,Australia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Chris_Beath
+48,R-048,Beaudoin,Marie-Soleil,1,Canada,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Marie-Soleil_Beaudoin
+49,R-049,Beck,Christine,1,Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Christine_Baitinger
+50,R-050,Belqola,Said,0,Morocco,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Said_Belqola
+51,R-051,Benkö,Günter,0,Austria,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/G%C3%BCnter_Benk%C3%B6
+52,R-052,Bennett,Jennifer,1,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
+53,R-053,Benquerença,Olegário,0,Portugal,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Oleg%C3%A1rio_Benqueren%C3%A7a
+54,R-054,Beranek,Alois,0,Austria,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alois_Beranek
+55,R-055,Bin Nasser,Ali,0,Tunisia,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Ali_Bin_Nasser
+56,R-056,Birlem,Alfred,0,Germany,CF-6,Union of European Football Associations,UEFA,not available
+57,R-057,Biwersi,Ferdinand,0,West Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ferdinand_Biwersi
+58,R-058,Black,Linda May,1,New Zealand,CF-5,Oceania Football Confederation,OFC,not available
+59,R-059,Blavier,Antoine,0,Belgium,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Antoine_Blavier
+60,R-060,Borjas,Melissa,1,Honduras,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Melissa_Borjas
+61,R-061,Boskovic,Tony,0,Australia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Tony_Boskovic
+62,R-062,Boucetta,Fethi,0,Tunisia,CF-2,Confederation of African Football,CAF,not available
+63,R-063,Bouchardeau,Lucien,0,Niger,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Lucien_Bouchardeau
+64,R-064,Bouzo,Farouk,0,Syria,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Farouk_Bouzo
+65,R-065,Braun,Eugen,0,Austria,CF-6,Union of European Football Associations,UEFA,not available
+66,R-066,Braz,Sandra,1,Portugal,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Sandra_Braz
+67,R-067,Brizio Carter,Arturo,0,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Arturo_Brizio_Carter
+68,R-068,Bronkhorst,Jan,0,Netherlands,CF-6,Union of European Football Associations,UEFA,not available
+69,R-069,Brummeier,Horst,0,Austria,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Horst_Brummeier
+70,R-070,Brych,Felix,0,Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Felix_Brych
+71,R-071,Bujsaim,Ali,0,United Arab Emirates,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Ali_Bujsaim
+72,R-072,Busacca,Massimo,0,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Massimo_Busacca
+73,R-073,Bustamante,Sergio,0,Chile,CF-4,South American Football Confederation,CONMEBOL,not available
+74,R-074,Butenko,Valeri,0,Soviet Union,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Valeri_Butenko
+75,R-075,Cáceres,Enrique,0,Paraguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Enrique_C%C3%A1ceres
+76,R-076,Çakır,Cüneyt,0,Turkey,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/C%C3%BCneyt_%C3%87ak%C4%B1r
+77,R-077,Callaghan,Leo,0,Wales,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Leo_Callaghan
+78,R-078,Camara,Engage,0,Guinea,CF-2,Confederation of African Football,CAF,not available
+79,R-079,Campos,Joaquim,0,Portugal,CF-6,Union of European Football Associations,UEFA,not available
+80,R-080,Capdeville,Georges,0,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Georges_Capdeville
+81,R-081,Cardellino,Juan Daniel,0,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Juan_Daniel_Cardellino
+82,R-082,Carraro,Albino,0,Italy,CF-6,Union of European Football Associations,UEFA,not available
+83,R-083,Carvajal,María,1,Chile,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Mar%C3%ADa_Carvajal
+84,R-084,Casarin,Paolo,0,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Paolo_Casarin
+85,R-085,Castrilli,Javier,0,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Javier_Castrilli
+86,R-086,Castro,Gastón,0,Chile,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Gast%C3%B3n_Castro
+87,R-087,Cavani,Filippi,0,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Filippi_Cavani
+88,R-088,Cha,Sung-mi,1,South Korea,CF-1,Asian Football Confederation,AFC,not available
+89,R-089,Chan,Tam Sun,0,Hong Kong,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Thomson_Chan
+90,R-090,Chenard,Carol Anne,1,Canada,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
+91,R-091,Christophe,Henri,0,Belgium,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Henri_Christophe_(referee)
+92,R-092,Christov,Vojtěch,0,Czechoslovakia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Vojt%C4%9Bch_Christov
+93,R-093,Claus,Raphael,0,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Raphael_Claus
+94,R-094,Codesal,Edgardo,0,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Edgardo_Codesal
+95,R-095,Codesal,José María,0,Uruguay,CF-4,South American Football Confederation,CONMEBOL,not available
+96,R-096,Codjia,Coffi,0,Benin,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Coffi_Codjia
+97,R-097,Coelho,Arnaldo Cézar,0,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Arnaldo_C%C3%A9zar_Coelho
+98,R-098,Collina,Pierluigi,0,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pierluigi_Collina
+99,R-099,Conger,Matthew,0,New Zealand,CF-5,Oceania Football Confederation,OFC,https://en.wikipedia.org/wiki/Matthew_Conger
+100,R-100,Conrié,Roger,0,France,CF-6,Union of European Football Associations,UEFA,not available
+101,R-101,Contreras,Marisela,1,Venezuela,CF-4,South American Football Confederation,CONMEBOL,not available
+102,R-102,Correa,Adriana,1,Colombia,CF-4,South American Football Confederation,CONMEBOL,not available
+103,R-103,Corver,Charles,0,Netherlands,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Charles_Corver
+104,R-104,Coulibaly,Koman,0,Mali,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Koman_Coulibaly
+105,R-105,Courtney,George,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/George_Courtney
+106,R-106,Cunha,Andrés,0,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Andr%C3%A9s_Cunha
+107,R-107,da Costa Vieira,Jose,0,Portugal,CF-6,Union of European Football Associations,UEFA,not available
+108,R-108,Daami,Mourad,0,Tunisia,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Mourad_Daami
+109,R-109,Dagnall,Ken,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ken_Dagnall
+110,R-110,Daina,André,0,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Andr%C3%A9_Daina
+111,R-111,Dallas,Hugh,0,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Hugh_Dallas
+112,R-112,Damková,Dagmar,1,Czech Republic,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Dagmar_Damkov%C3%A1
+113,R-113,Damon,Jerome,0,South Africa,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Jerome_Damon
+114,R-114,Dattilo,Generoso,0,Italy,CF-6,Union of European Football Associations,UEFA,not available
+115,R-115,Davidson,Bobby,0,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bobby_Davidson
+116,R-116,de Almeida Rêgo,Gilberto,0,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Gilberto_de_Almeida_R%C3%AAgo
+117,R-117,De Bleeckere,Frank,0,Belgium,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Frank_De_Bleeckere
+118,R-118,De Leo,Diego,0,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Diego_De_Leo
+119,R-119,Delgado Gómez,Omar,0,Colombia,CF-4,South American Football Confederation,CONMEBOL,not available
+120,R-120,Denoncourt,Sonia,1,Canada,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Sonia_Denoncourt
+121,R-121,di Iorio,Salomé,1,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Salom%C3%A9_di_Iorio
+122,R-122,Díaz,Jesús,0,Colombia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jes%C3%BAs_D%C3%ADaz_(football_referee)
+123,R-123,Díaz Vega,Manuel,0,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Manuel_D%C3%ADaz_Vega
+124,R-124,Diedhiou,Malang,0,Senegal,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Malang_Diedhiou
+125,R-125,Dienst,Gottfried,0,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Gottfried_Dienst
+126,R-126,Domka,Margaret,1,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Margaret_Domka
+127,R-127,Don,Philip,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Philip_Don
+128,R-128,Dorogi,Andor,0,Hungary,CF-6,Union of European Football Associations,UEFA,not available
+129,R-129,Dotchev,Bogdan,0,Bulgaria,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bogdan_Dotchev
+130,R-130,Doué,Noumandiez,0,Ivory Coast,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Noumandiez_Dou%C3%A9
+131,R-131,Dubach,Jean,0,Switzerland,CF-6,Union of European Football Associations,UEFA,not available
+132,R-132,Durkin,Paul,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Paul_Durkin
+133,R-133,Dusch,Albert,0,West Germany,CF-6,Union of European Football Associations,UEFA,not available
+134,R-134,Dwomoh,Benjamin,0,Ghana,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Benjamin_Dwomoh
+135,R-135,Eklind,Ivan,0,Sweden,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ivan_Eklind
+136,R-136,Elfath,Ismail,0,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Ismail_Elfath
+137,R-137,Elizondo,Horacio,0,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Horacio_Elizondo
+138,R-138,Ellis,Arthur Edward,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Arthur_Edward_Ellis
+139,R-139,Elovirta,Katriina,1,Finland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Katriina_Elovirta
+140,R-140,Eriksson,Arne,0,Finland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Arne_Eriksson
+141,R-141,Eriksson,Jonas,0,Sweden,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jonas_Eriksson_(referee)
+142,R-142,Eriksson,Ulf,0,Sweden,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ulf_Eriksson_(referee)
+143,R-143,Eschweiler,Walter,0,West Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Walter_Eschweiler
+144,R-144,Escobar,Mario,0,Guatemala,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Mario_Escobar_(referee)
+145,R-145,Espósito,Carlos,0,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Carlos_Esp%C3%B3sito
+146,R-146,Etzel Filho,João,0,Brazil,CF-4,South American Football Confederation,CONMEBOL,not available
+147,R-147,Faghani,Alireza,0,Iran,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Alireza_Faghani
+148,R-148,Faultless,Charlie,0,Scotland,CF-6,Union of European Football Associations,UEFA,not available
+149,R-149,Ferreira-James,Dianne,1,Guyana,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
+150,R-150,Finney,Jim,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jim_Finney
+151,R-151,Fortunato,Laura,1,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Laura_Fortunato_(referee)
+152,R-152,Franken,Laurent,0,Belgium,CF-6,Union of European Football Associations,UEFA,not available
+153,R-153,Frappart,Stéphanie,1,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Stéphanie_Frappart
+154,R-154,Fredriksson,Erik,0,Sweden,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Erik_Fredriksson
+155,R-155,Frisk,Anders,0,Sweden,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Anders_Frisk
+156,R-156,Fukano,Etsuko,1,Japan,CF-1,Asian Football Confederation,AFC,not available
+157,R-157,Gaál,Gyöngyi,1,Hungary,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Gy%C3%B6ngyi_Ga%C3%A1l
+158,R-158,Galba,Karol,0,Czechoslovakia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Karol_Galba
+159,R-159,Galeati,Giovanni,0,Italy,CF-6,Union of European Football Associations,UEFA,not available
+160,R-160,Galler,Bruno,0,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bruno_Galler
+161,R-161,Gamboa,Eduardo,0,Chile,CF-4,South American Football Confederation,CONMEBOL,not available
+162,R-162,Gani,Rita,1,Malaysia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Rita_Gani
+163,R-163,Garay Gardeazábal,Juan,0,Spain,CF-6,Union of European Football Associations,UEFA,not available
+164,R-164,García-Aranda,José María,0,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Garc%C3%ADa-Aranda
+165,R-165,Gardelli,Mário,0,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/M%C3%A1rio_Gardelli
+166,R-166,Garrido,António,0,Portugal,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ant%C3%B3nio_Garrido_(referee)
+167,R-167,Gassama,Bakary,0,Gambia,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Bakary_Gassama
+168,R-168,Gaye,Fatou,1,Senegal,CF-2,Confederation of African Football,CAF,not available
+169,R-169,Geiger,Mark,0,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Mark_Geiger
+170,R-170,Ghorbal,Mustapha,0,Algeria,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Mustapha_Ghorbal
+171,R-171,Glöckner,Rudi,0,East Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Rudi_Gl%C3%B6ckner
+172,R-172,Goicoechea,Roberto,0,Argentina,CF-4,South American Football Confederation,CONMEBOL,not available
+173,R-173,Gomes,Victor,0,South Africa,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Victor_Gomes
+174,R-174,Gonella,Sergio,0,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Sergio_Gonella
+175,R-175,González,Epifanio,0,Paraguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Epifanio_Gonz%C3%A1lez
+176,R-176,González,Gabriel,0,Paraguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Gabriel_Gonz%C3%A1lez_(referee)
+177,R-177,González Archundía,Alfonso,0,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
+178,R-178,Gordon,John,0,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/John_Gordon_(referee)
+179,R-179,Griffiths,Sandy,0,Wales,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Sandy_Griffiths
+180,R-180,Grisha,Gehad,0,Egypt,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Gehad_Grisha
+181,R-181,Guerrero Orosco,César,0,Peru,CF-4,South American Football Confederation,CONMEBOL,not available
+182,R-182,Guezzaz,Mohamed,0,Morocco,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Mohamed_Guezzaz
+183,R-183,Guigue,Maurice,0,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Maurice_Guigue
+184,R-184,Günthner,Elke,1,Germany,CF-6,Union of European Football Associations,UEFA,not available
+185,R-185,Haimoudi,Djamel,0,Algeria,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Djamel_Haimoudi
+186,R-186,Hall,Brian,0,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Brian_Hall_(referee)
+187,R-187,Hamer,Alain,0,Luxembourg,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alain_Hamer
+188,R-188,Hassan Mohamed,Mohammed Abdulla,0,United Arab Emirates,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Mohammed_Abdulla_Hassan_Mohamed
+189,R-189,Hauge,Terje,0,Norway,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Terje_Hauge
+190,R-190,Heikkinen,Kirsi,1,Finland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Kirsi_Heikkinen
+191,R-191,Hepburn,Catherine Leann,1,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
+192,R-192,Hester,Michael,0,New Zealand,CF-5,Oceania Football Confederation,OFC,https://en.wikipedia.org/wiki/Michael_Hester
+193,R-193,Heynemann,Bernd,0,Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bernd_Heynemann
+194,R-194,Hormazábal Díaz,Rafael,0,Chile,CF-4,South American Football Confederation,CONMEBOL,not available
+195,R-195,Horn,Leo,0,Netherlands,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Leo_Horn
+196,R-196,Hunt,Sandra,1,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Sandra_Hunt
+197,R-197,Hussein,Riem,1,Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Riem_Hussein
+198,R-198,Igna,Ioan,0,Romania,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ioan_Igna
+199,R-199,Im,Eun-ju,1,South Korea,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Im_Eun-ju
+200,R-200,Imperatore,Salvador,0,Chile,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Salvador_Imperatore
+201,R-201,Ionescu,Cristina,1,Romania,CF-6,Union of European Football Associations,UEFA,not available
+202,R-202,Irmatov,Ravshan,0,Uzbekistan,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Ravshan_Irmatov
+203,R-203,Ithurralde,Arturo,0,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Arturo_Ithurralde
+204,R-204,Ivanov,Valentin,0,Russia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Valentin_Ivanov_(footballer_born_1961)
+205,R-205,Jacewicz,Kate,1,Australia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Kate_Jacewicz
+206,R-206,Jácome,Elías,0,Ecuador,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/El%C3%ADas_J%C3%A1come
+207,R-207,Jarguz,Alojzy,0,Poland,CF-6,Union of European Football Associations,UEFA,not available
+208,R-208,Jonni,Cesare,0,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Cesare_Jonni
+209,R-209,Jonsson,Ingrid,1,Sweden,CF-6,Union of European Football Associations,UEFA,not available
+210,R-210,Jørgensen,Carl,0,Denmark,CF-6,Union of European Football Associations,UEFA,not available
+211,R-211,Jouini,Neji,0,Tunisia,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Neji_Jouini
+212,R-212,Kamikawa,Toru,0,Japan,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Toru_Kamikawa
+213,R-213,Kamnueng,Pannipar,1,Thailand,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Pannipar_Kamnueng
+214,R-214,Kandil,Ali,0,United Arab Republic,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Ali_Kandil
+215,R-215,Karasev,Sergei,0,Russia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Sergei_Karasev
+216,R-216,Karlsson,Bo,0,Sweden,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bo_Karlsson
+217,R-217,Kassai,Viktor,0,Hungary,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Viktor_Kassai
+218,R-218,Kazakov,Pavel,0,Soviet Union,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pavel_Kazakov
+219,R-219,Keighley,Anna-Marie,1,New Zealand,CF-5,Oceania Football Confederation,OFC,https://en.wikipedia.org/wiki/Anna-Marie_Keighley
+220,R-220,Keizer,Jan,0,Netherlands,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jan_Keizer_(referee)
+221,R-221,Kim,Young-joo,0,South Korea,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Kim_Young-joo
+222,R-222,Kirschen,Siegfried,0,East Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Siegfried_Kirschen
+223,R-223,Klein,Abraham,0,Israel,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Abraham_Klein_(referee)
+224,R-224,Kohl,Helmut,0,Austria,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Helmut_Kohl_(referee)
+225,R-225,Kreitlein,Rudolf,0,West Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Rudolf_Kreitlein
+226,R-226,Krist,Augustin,0,Czechoslovakia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Augustin_Krist
+227,R-227,Krug,Hellmut,0,Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Hellmut_Krug
+228,R-228,Kuipers,Björn,0,Netherlands,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bj%C3%B6rn_Kuipers
+229,R-229,Kulcsár,Katalin,1,Hungary,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Katalin_Kulcs%C3%A1r
+230,R-230,Labo Revoredo,Enrique,0,Peru,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Enrique_Labo_Revoredo
+231,R-231,Lacarne,Belaïd,0,Algeria,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Bela%C3%AFd_Lacarne
+232,R-232,Lamo Castillo,Augusto,0,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Augusto_Lamo_Castillo
+233,R-233,Lamolina,Francisco Oscar,0,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Francisco_Oscar_Lamolina
+234,R-234,Landauer,Henry,0,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
+235,R-235,Lanese,Tullio,0,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Tullio_Lanese
+236,R-236,Langenus,John,0,Belgium,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/John_Langenus
+237,R-237,Lannoy,Stéphane,0,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/St%C3%A9phane_Lannoy
+238,R-238,Larrionda,Jorge,0,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jorge_Larrionda
+239,R-239,Larsson,Pernilla,1,Sweden,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pernilla_Larsson
+240,R-240,Leafe,Reginald,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Reginald_Leafe
+241,R-241,Leclerq,Lucien,0,France,CF-6,Union of European Football Associations,UEFA,not available
+242,R-242,Lemesic,Leo,0,Yugoslavia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Leo_Lemesic
+243,R-243,Lengwe,Gladys,1,Zambia,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Gladys_Lengwe
+244,R-244,Lennie,Eddie,0,Australia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Eddie_Lennie
+245,R-245,Levnikov,Nikolai,0,Soviet Union,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Nikolai_Levnikov
+246,R-246,Lim,Kee Chong,0,Mauritius,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Lim_Kee_Chong
+247,R-247,Linemayr,Erich,0,Austria,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Erich_Linemayr
+248,R-248,Ling,William,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/William_Ling_(referee)
+249,R-249,Llobregat,Vicente,0,Venezuela,CF-4,South American Football Confederation,CONMEBOL,not available
+250,R-250,Lo Bello,Concetto,0,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Concetto_Lo_Bello
+251,R-251,Lombardi,Domingo,0,Uruguay,CF-4,South American Football Confederation,CONMEBOL,not available
+252,R-252,Lööw,Bertil,0,Sweden,CF-6,Union of European Football Associations,UEFA,not available
+253,R-253,López Nieto,Antonio,0,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_Nieto
+254,R-254,Loraux,Vital,0,Belgium,CF-6,Union of European Football Associations,UEFA,not available
+255,R-255,Loustau,Juan Carlos,0,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Juan_Carlos_Loustau
+256,R-256,Lu,Jun,0,China,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Lu_Jun
+257,R-257,Lund-Sørensen,Henning,0,Denmark,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Henning_Lund-S%C3%B8rensen
+258,R-258,Lutz,Jean,0,Switzerland,CF-6,Union of European Football Associations,UEFA,not available
+259,R-259,Machin,Roger,0,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Roger_Machin
+260,R-260,Macías,José,0,Argentina,CF-4,South American Football Confederation,CONMEBOL,not available
+261,R-261,Maciel,Carlos,0,Paraguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Carlos_Maciel
+262,R-262,Macko,Martin,0,Czechoslovakia,CF-6,Union of European Football Associations,UEFA,not available
+263,R-263,Maidin,Shamsul,0,Singapore,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Shamsul_Maidin
+264,R-264,Maillet,Eddy,0,Seychelles,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Eddy_Maillet
+265,R-265,Makkelie,Danny,0,Netherlands,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Danny_Makkelie
+266,R-266,Maksimović,Dušan,0,Yugoslavia,CF-6,Union of European Football Associations,UEFA,not available
+267,R-267,Malcher,Alberto,0,Brazil,CF-4,South American Football Confederation,CONMEBOL,not available
+268,R-268,Mane,Saad,0,Kuwait,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Saad_Mane
+269,R-269,Marciniak,Szymon,0,Poland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Szymon_Marciniak
+270,R-270,Marino,Esteban,0,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Esteban_Marino
+271,R-271,Marques,Armando,0,Brazil,CF-4,South American Football Confederation,CONMEBOL,not available
+272,R-272,Márquez Ramírez,Antonio,0,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Antonio_M%C3%A1rquez_Ram%C3%ADrez
+273,R-273,Marrufo,Jair,0,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Jair_Marrufo
+274,R-274,Marschall,Ferdinand,0,Austria,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ferdinand_Marschall
+275,R-275,Marsiglia,Renato,0,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Renato_Marsiglia
+276,R-276,Martínez,Ángel Franco,0,Spain,CF-6,Union of European Football Associations,UEFA,not available
+277,R-277,Martínez,Yeimy,1,Colombia,CF-4,South American Football Confederation,CONMEBOL,not available
+278,R-278,Martínez Bazán,José Luis,0,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Mart%C3%ADnez_Baz%C3%A1n
+279,R-279,Mateu Lahoz,Antonio,0,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Antonio_Mateu_Lahoz
+280,R-280,Mateucci,Francisco,0,Uruguay,CF-4,South American Football Confederation,CONMEBOL,not available
+281,R-281,Mathabela,Petros,0,South Africa,CF-2,Confederation of African Football,CAF,not available
+282,R-282,Matonte,Andrés,0,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Andrés_Matonte
+283,R-283,Matovinović,Damir,0,Yugoslavia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Damir_Matovinovi%C4%87
+284,R-284,Mattea,Francesco,0,Italy,CF-6,Union of European Football Associations,UEFA,not available
+285,R-285,Mattus,William,0,Costa Rica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/William_Mattus
+286,R-286,Mauro,Vincent,0,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
+287,R-287,Mažić,Milorad,0,Serbia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Milorad_Ma%C5%BEi%C4%87
+288,R-288,McCabe,George,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/George_McCabe
+289,R-289,McCluskey,Jim,0,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jim_McCluskey
+290,R-290,McLeod,Ian,0,South Africa,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Ian_McLeod_(referee)
+291,R-291,Medina Cantalejo,Luis,0,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Luis_Medina_Cantalejo
+292,R-292,Meier,Urs,0,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Urs_Meier
+293,R-293,Melksham,Jacqui,1,Australia,CF-1,Asian Football Confederation,AFC,not available
+294,R-294,Melo Pereira,Vítor,0,Portugal,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/V%C3%ADtor_Melo_Pereira
+295,R-295,Méndez,Rómulo,0,Guatemala,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/R%C3%B3mulo_M%C3%A9ndez
+296,R-296,Mercet,René,0,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ren%C3%A9_Mercet
+297,R-297,Merk,Markus,0,Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Markus_Merk
+298,R-298,Micheľ,Ľuboš,0,Slovakia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/%C4%BDubo%C5%A1_Miche%C4%BE
+299,R-299,Mikkelsen,Peter,0,Denmark,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Peter_Mikkelsen_(referee)
+300,R-300,Mitchell,George,0,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/George_Mitchell_(referee)
+301,R-301,Mitsi,Efthalia,1,Greece,CF-6,Union of European Football Associations,UEFA,not available
+302,R-302,Moffat,Malcolm,0,Northern Ireland,CF-6,Union of European Football Associations,UEFA,not available
+303,R-303,Monzul,Kateryna,1,Ukraine,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Kateryna_Monzul
+304,R-304,Moreno,Byron,0,Ecuador,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Byron_Moreno
+305,R-305,Mottram,Leslie,0,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Leslie_Mottram
+306,R-306,Mowat,Jack,0,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jack_Mowat
+307,R-307,Mukansanga,Salima,1,Rwanda,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Salima_Mukansanga
+308,R-308,Mustafa Kamel,Mahmoud,0,Egypt,CF-2,Confederation of African Football,CAF,not available
+309,R-309,N'Diaye,Youssou,0,Senegal,CF-2,Confederation of African Football,CAF,not available
+310,R-310,N'Doye,Falla,0,Senegal,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Falla_N%27Doye
+311,R-311,Namdar,Jafar,0,Iran,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Jafar_Namdar
+312,R-312,Neguel,Thérèse,1,Cameroon,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Neguel
+313,R-313,Németh,Lajos,0,Hungary,CF-6,Union of European Football Associations,UEFA,not available
+314,R-314,Nielsen,Gitte,1,Denmark,CF-6,Union of European Football Associations,UEFA,not available
+315,R-315,Nielsen,Kim Milton,0,Denmark,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Kim_Milton_Nielsen
+316,R-316,Nikakis,Vassilios,0,Greece,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Vassilios_Nikakis
+317,R-317,Nishimura,Yuichi,0,Japan,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Yuichi_Nishimura
+318,R-318,Niu,Huijun,1,China,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Niu_Huijun
+319,R-319,Norberto Coerezza,Ángel,0,Argentina,CF-4,South American Football Confederation,CONMEBOL,not available
+320,R-320,O'Leary,Peter,0,New Zealand,CF-5,Oceania Football Confederation,OFC,https://en.wikipedia.org/wiki/Peter_O%27Leary_(referee)
+321,R-321,Ödlund,Eva,1,Sweden,CF-6,Union of European Football Associations,UEFA,not available
+322,R-322,Ogston,Tammy,1,Australia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Tammy_Ogston
+323,R-323,Oiwa,Mayumi,1,Japan,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Mayumi_Oiwa
+324,R-324,Okada,Masayoshi,0,Japan,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Masayoshi_Okada
+325,R-325,Oliver,Michael,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Michael_Oliver_(referee)
+326,R-326,Orlandini,Vincenzo,0,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Vincenzo_Orlandini
+327,R-327,Orsato,Daniele,0,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Daniele_Orsato
+328,R-328,Ortiz,Héctor,0,Paraguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/H%C3%A9ctor_Ortiz_(referee)
+329,R-329,Ortiz de Mendíbil,José María,0,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Ortiz_de_Mend%C3%ADbil
+330,R-330,Ortubé,René,0,Bolivia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Ren%C3%A9_Ortub%C3%A9
+331,R-331,Osses,Enrique,0,Chile,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Enrique_Osses
+332,R-332,Pairetto,Pierluigi,0,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pierluigi_Pairetto
+333,R-333,Palmqvist,Jenny,1,Sweden,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jenny_Palmqvist
+334,R-334,Palotai,Károly,0,Hungary,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/K%C3%A1roly_Palotai
+335,R-335,Pardo,Martha Liliana,1,Colombia,CF-4,South American Football Confederation,CONMEBOL,not available
+336,R-336,Partridge,Pat,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pat_Partridge
+337,R-337,Paulino Siles,Luis,0,Costa Rica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Luis_Paulino_Siles
+338,R-338,Pedersen,Christina,1,Norway,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Christina_Pedersen_(referee)
+339,R-339,Pedersen,Rune,0,Norway,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Rune_Pedersen_(referee)
+340,R-340,Peréz Núñez,Edison,0,Peru,CF-4,South American Football Confederation,CONMEBOL,not available
+341,R-341,Pestarino,Luis,0,Argentina,CF-4,South American Football Confederation,CONMEBOL,not available
+342,R-342,Petignat,Nicole,1,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Nicole_Petignat
+343,R-343,Petrović,Zoran,0,Yugoslavia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Zoran_Petrovi%C4%87_(referee)
+344,R-344,Phillips,Hugh,0,Scotland,CF-6,Union of European Football Associations,UEFA,not available
+345,R-345,Picon-Ackong,Edwin,0,Mauritius,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Edwin_Picon-Ackong
+346,R-346,Pitana,Néstor,0,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/N%C3%A9stor_Pitana
+347,R-347,Poll,Graham,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Graham_Poll
+348,R-348,Ponnet,Alexis,0,Belgium,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alexis_Ponnet
+349,R-349,Poulat,Éric,0,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/%C3%89ric_Poulat
+350,R-350,Pozo,Pablo,0,Chile,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Pablo_Pozo
+351,R-351,Prendergast,Peter,0,Jamaica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Peter_Prendergast_(referee)
+352,R-352,Proença,Pedro,0,Portugal,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pedro_Proen%C3%A7a
+353,R-353,Prokop,Adolf,0,East Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Adolf_Prokop
+354,R-354,Puhl,Sándor,0,Hungary,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/S%C3%A1ndor_Puhl
+355,R-355,Pustovoitova,Anastasia,1,Russia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Anastasia_Pustovoitova
+356,R-356,Qin,Liang,1,China,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Qin_Liang
+357,R-357,Quiniou,Joël,0,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jo%C3%ABl_Quiniou
+358,R-358,Rădulescu,Andrei,0,Romania,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Andrei_R%C4%83dulescu_(footballer)
+359,R-359,Rahman Al-Zeid,Abdul,0,Saudi Arabia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Abdul_Rahman_Al-Zeid
+360,R-360,Rainea,Nicolae,0,Romania,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Nicolae_Rainea
+361,R-361,Ramdhan,Ramesh,0,Trinidad and Tobago,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Ramesh_Ramdhan
+362,R-362,Ramos,César Arturo,0,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/C%C3%A9sar_Arturo_Ramos
+363,R-363,Ramos,Felipe,0,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Felipe_Ramos
+364,R-364,Rapallini,Fernando,0,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Fernando_Rapallini
+365,R-365,Reader,George,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/George_Reader
+366,R-366,Regis Brozzi,Juan,0,Argentina,CF-4,South American Football Confederation,CONMEBOL,not available
+367,R-367,Reibelt,Casey,1,Australia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Casey_Reibelt
+368,R-368,Reyes,Silvia,1,Peru,CF-4,South American Football Confederation,CONMEBOL,not available
+369,R-369,Rezende de Freitas,Márcio,0,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/M%C3%A1rcio_Rezende_de_Freitas
+370,R-370,Ri,Hyang-ok,1,North Korea,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Ri_Hyang-ok
+371,R-371,Ribeiro Saldanha,Antonio,0,Portugal,CF-6,Union of European Football Associations,UEFA,not available
+372,R-372,Ricci,Sandro,0,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Sandro_Ricci
+373,R-373,Rion,Francis,0,Belgium,CF-6,Union of European Football Associations,UEFA,not available
+374,R-374,Rizzoli,Nicola,0,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Nicola_Rizzoli
+375,R-375,Robles,Carlos,0,Chile,CF-4,South American Football Confederation,CONMEBOL,not available
+376,R-376,Rocchi,Gianluca,0,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Gianluca_Rocchi
+377,R-377,Rodríguez,Marco Antonio,0,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Marco_Antonio_Rodr%C3%ADguez
+378,R-378,Rodríguez Medina,Rafael,0,El Salvador,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
+379,R-379,Roldán,Wilmar,0,Colombia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Wilmar_Rold%C3%A1n
+380,R-380,Romano,Florencia,1,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Florencia_Romano
+381,R-381,Rosetti,Roberto,0,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Roberto_Rosetti
+382,R-382,Roth,Volker,0,West Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Volker_Roth
+383,R-383,Röthlisberger,Kurt,0,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Kurt_R%C3%B6thlisberger
+384,R-384,Ruiz,Óscar,0,Colombia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/%C3%93scar_Ruiz
+385,R-385,Rumenchev,Dimitar,0,Bulgaria,CF-6,Union of European Football Associations,UEFA,not available
+386,R-386,Sampaio,Wilton,0,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Wilton_Sampaio
+387,R-387,Sánchez,Ángel,0,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/%C3%81ngel_S%C3%A1nchez_(referee)
+388,R-388,Sánchez Arminio,Victoriano,0,Spain,CF-6,Union of European Football Associations,UEFA,not available
+389,R-389,Sánchez Ibáñez,Pablo,0,Spain,CF-6,Union of European Football Associations,UEFA,not available
+390,R-390,Sánchez Yantén,Mario,0,Chile,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Mario_S%C3%A1nchez_Yant%C3%A9n
+391,R-391,Saucedo,Ulises,0,Bolivia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Ulises_Saucedo
+392,R-392,Sbardella,Antonio,0,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Antonio_Sbardella
+393,R-393,Scarpi,Giuseppe,0,Italy,CF-6,Union of European Football Associations,UEFA,not available
+394,R-394,Scheurer,Rudolf,0,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Rudolf_Scheurer
+395,R-395,Schmetzer,Emil,0,West Germany,CF-6,Union of European Football Associations,UEFA,not available
+396,R-396,Schmidhuber,Aron,0,West Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Aron_Schmidhuber
+397,R-397,Schulenburg,Gerhard,0,West Germany,CF-6,Union of European Football Associations,UEFA,not available
+398,R-398,Schwinte,Pierre,0,France,CF-6,Union of European Football Associations,UEFA,not available
+399,R-399,Seipelt,Fritz,0,Austria,CF-6,Union of European Football Associations,UEFA,not available
+400,R-400,Seitz,Kari,1,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Kari_Seitz
+401,R-401,Shield,Mark,0,Australia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Mark_Shield
+402,R-402,Shrestha,Gyanu Raja,0,Nepal,CF-1,Asian Football Confederation,AFC,not available
+403,R-403,Shukralla,Nawaf,0,Bahrain,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Nawaf_Shukralla
+404,R-404,Siebert,Daniel,0,Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Daniel_Siebert_(referee)
+405,R-405,Sikazwe,Janny,0,Zambia,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Janny_Sikazwe
+406,R-406,Silva,Hernán,0,Chile,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Hern%C3%A1n_Silva
+407,R-407,Silva Valente,Carlos,0,Portugal,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Carlos_Silva_Valente
+408,R-408,Silvagno Cavanna,Juan,0,Chile,CF-4,South American Football Confederation,CONMEBOL,not available
+409,R-409,Simon,Carlos Eugênio,0,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Carlos_Eug%C3%AAnio_Simon
+410,R-410,Siqueira,Maria Edilene,1,Brazil,CF-4,South American Football Confederation,CONMEBOL,not available
+411,R-411,Skogvang,Bente,1,Norway,CF-6,Union of European Football Associations,UEFA,not available
+412,R-412,Skomina,Damir,0,Slovenia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Damir_Skomina
+413,R-413,Smith,George,0,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/George_Smith_(referee)
+414,R-414,Snoddy,Alan,0,Northern Ireland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alan_Snoddy
+415,R-415,Socha,David,0,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/David_Socha
+416,R-416,Soriano Aladrén,Emilio,0,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Emilio_Soriano_Aladr%C3%A9n
+417,R-417,Spirin,Alexey,0,Soviet Union,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alexey_Spirin
+418,R-418,Stark,Wolfgang,0,Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Wolfgang_Stark
+419,R-419,Staubli,Esther,1,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Esther_Staubli
+420,R-420,Stefanovic,Vasa,0,Yugoslavia,CF-6,Union of European Football Associations,UEFA,not available
+421,R-421,Steiner,Carl Erich,0,Austria,CF-6,Union of European Football Associations,UEFA,not available
+422,R-422,Steinhaus,Bibiana,1,Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bibiana_Steinhaus
+423,R-423,Stupar,Myroslav,0,Soviet Union,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Myroslav_Stupar
+424,R-424,Suppiah,Govindasamy,0,Singapore,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Govindasamy_Suppiah
+425,R-425,Tafesse,Lidya,1,Ethiopia,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Lidya_Tafesse
+426,R-426,Takada,Shizuo,0,Japan,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Shizuo_Takada
+427,R-427,Tarekegn,Seyoum,0,Ethiopia,CF-2,Confederation of African Football,CAF,not available
+428,R-428,Taylor,Anthony,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Anthony_Taylor_(referee)
+429,R-429,Taylor,Jack,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jack_Taylor_(referee)
+430,R-430,Tejada,Aníbal,0,Uruguay,CF-4,South American Football Confederation,CONMEBOL,not available
+431,R-431,Tejada Noriega,Alberto,0,Peru,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Alberto_Tejada_Noriega
+432,R-432,Tello,Facundo,0,Argentina,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Facundo_Tello
+433,R-433,Tesanić,Branko,0,Yugoslavia,CF-6,Union of European Football Associations,UEFA,not available
+434,R-434,Thomas,Clive,0,Wales,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Clive_Thomas_(football)
+435,R-435,Toro Rendón,John,0,Colombia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/John_Toro_Rend%C3%B3n
+436,R-436,Torres Cadena,José,0,Colombia,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jos%C3%A9_Torres_Cadena
+437,R-437,Tortura,Sueli,1,Brazil,CF-4,South American Football Confederation,CONMEBOL,not available
+438,R-438,Tovar,Virginia,1,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
+439,R-439,Traoré,Idrissa,0,Mali,CF-2,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Idrissa_Traor%C3%A9_(referee)
+440,R-440,Tschenscher,Kurt,0,West Germany,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Kurt_Tschenscher
+441,R-441,Turpin,Clément,0,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Cl%C3%A9ment_Turpin
+442,R-442,Ulloa Morera,Berny,0,Costa Rica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Berny_Ulloa_Morera
+443,R-443,Umpiérrez,Claudia,1,Uruguay,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Claudia_Umpi%C3%A9rrez
+444,R-444,Un-prasert,Pirom,0,Thailand,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Pirom_Un-prasert
+445,R-445,Undiano Mallenco,Alberto,0,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alberto_Undiano_Mallenco
+446,R-446,Vágner,László,0,Hungary,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_V%C3%A1gner
+447,R-447,Valentine,Bob,0,Scotland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bob_Valentine_(referee)
+448,R-448,Valenzuela,Jesús,0,Venezuela,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jesús_Valenzuela
+449,R-449,Vallarino,Ricardo,0,Uruguay,CF-4,South American Football Confederation,CONMEBOL,not available
+450,R-450,van der Ende,Mario,0,Netherlands,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Mario_van_der_Ende
+451,R-451,van der Meer,Karel,0,Netherlands,CF-6,Union of European Football Associations,UEFA,not available
+452,R-452,van Gemert,Arie,0,Netherlands,CF-6,Union of European Football Associations,UEFA,not available
+453,R-453,van Langenhove,Marcel,0,Belgium,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Marcel_van_Langenhove_(referee)
+454,R-454,van Moorsel,Johannes,0,Netherlands,CF-6,Union of European Football Associations,UEFA,not available
+455,R-455,van Nuffel,Lucien,0,Belgium,CF-6,Union of European Football Associations,UEFA,not available
+456,R-456,van Ravens,Laurens,0,Netherlands,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Laurens_van_Ravens
+457,R-457,Vasconcelos,Cláudia,1,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Cl%C3%A1udia_Vasconcelos
+458,R-458,Vassaras,Kyros,0,Greece,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Kyros_Vassaras
+459,R-459,Vautrot,Michel,0,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Michel_Vautrot
+460,R-460,Vázquez,Mario Rubio,0,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,not available
+461,R-461,Veissière,Gilles,0,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Gilles_Veissi%C3%A8re
+462,R-462,Velasco Carballo,Carlos,0,Spain,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Carlos_Velasco_Carballo
+463,R-463,Venegas,Lucila,1,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Lucila_Venegas
+464,R-464,Vera,Carlos,0,Ecuador,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Carlos_Vera
+465,R-465,Vianna,Mário,0,Brazil,CF-4,South American Football Confederation,CONMEBOL,not available
+466,R-466,Vieira de Moraes,Ayrton,0,Brazil,CF-4,South American Football Confederation,CONMEBOL,not available
+467,R-467,Vincenti,Raymond,0,France,CF-6,Union of European Football Associations,UEFA,not available
+468,R-468,Vinčić,Slavko,0,Slovenia,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Slavko_Vinčić
+469,R-469,Vitulano,Carina,1,Italy,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Carina_Vitulano
+470,R-470,von Hertzka,Pál,0,Hungary,CF-6,Union of European Football Associations,UEFA,not available
+471,R-471,Vulivuli,Finau,1,Fiji,CF-5,Oceania Football Confederation,OFC,https://en.wikipedia.org/wiki/Finau_Vulivuli
+472,R-472,Warnken,Alberto,0,Chile,CF-4,South American Football Confederation,CONMEBOL,not available
+473,R-473,Webb,Howard,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Howard_Webb
+474,R-474,Wegereef,Jan,0,Netherlands,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jan_Wegereef
+475,R-475,Weyland,Hans-Joachim,0,West Germany,CF-6,Union of European Football Associations,UEFA,not available
+476,R-476,White,Clive,0,England,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Clive_White
+477,R-477,Williams,Ben,0,Australia,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Ben_Williams_(referee)
+478,R-478,Winsemann,Werner,0,Canada,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Werner_Winsemann
+479,R-479,Wöhrer,Franz,0,Austria,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Franz_W%C3%B6hrer
+480,R-480,Wójcik,Ryszard,0,Poland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ryszard_W%C3%B3jcik
+481,R-481,Wright,José Roberto,0,Brazil,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jos%C3%A9_Roberto_Wright
+482,R-482,Wurtz,Robert,0,France,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Robert_Wurtz_(referee)
+483,R-483,Wüthrich,Hans,0,Switzerland,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Hans_Wuthrich
+484,R-484,Wyssling,Raymond,0,Switzerland,CF-6,Union of European Football Associations,UEFA,not available
+485,R-485,Yamagishi,Sachiko,1,Japan,CF-1,Asian Football Confederation,AFC,not available
+486,R-486,Yamasaki Maldonado,Arturo,0,Peru,CF-4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Arturo_Yamasaki
+487,R-487,Yamashita,Yoshimi,1,Japan,CF-1,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Yoshimi_Yamashita
+488,R-488,Yengo,Omer,0,Congo,CF-2,Confederation of African Football,CAF,not available
+489,R-489,Zečević,Konstantin,0,Yugoslavia,CF-6,Union of European Football Associations,UEFA,not available
+490,R-490,Zhang,Dongqing,1,China,CF-1,Asian Football Confederation,AFC,not available
+491,R-491,Zhuk,Vadim,0,Soviet Union,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Vadim_Zhuk
+492,R-492,Zsolt,István,0,Hungary,CF-6,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Istv%C3%A1n_Zsolt
+493,R-493,Zuo,Xiudi,1,China,CF-1,Asian Football Confederation,AFC,not available

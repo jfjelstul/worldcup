@@ -1,321 +1,397 @@
 key_id,penalty_kick_id,tournament_id,tournament_name,match_id,match_name,match_date,stage_name,group_name,team_id,team_name,team_code,home_team,away_team,player_id,family_name,given_name,shirt_number,converted
-1,PK-001,WC-1982,1982 FIFA World Cup,M-1982-50,West Germany v France,1982-07-08,semi-finals,not applicable,T-83,West Germany,DEU,1,0,P-07966,Kaltz,Manfred,20,1
-2,PK-002,WC-1982,1982 FIFA World Cup,M-1982-50,West Germany v France,1982-07-08,semi-finals,not applicable,T-83,West Germany,DEU,1,0,P-02579,Breitner,Paul,3,1
-3,PK-003,WC-1982,1982 FIFA World Cup,M-1982-50,West Germany v France,1982-07-08,semi-finals,not applicable,T-83,West Germany,DEU,1,0,P-07440,Stielike,Uli,15,0
-4,PK-004,WC-1982,1982 FIFA World Cup,M-1982-50,West Germany v France,1982-07-08,semi-finals,not applicable,T-83,West Germany,DEU,1,0,P-07890,Littbarski,Pierre,7,1
-5,PK-005,WC-1982,1982 FIFA World Cup,M-1982-50,West Germany v France,1982-07-08,semi-finals,not applicable,T-83,West Germany,DEU,1,0,P-05861,Rummenigge,Karl-Heinz,11,1
-6,PK-006,WC-1982,1982 FIFA World Cup,M-1982-50,West Germany v France,1982-07-08,semi-finals,not applicable,T-83,West Germany,DEU,1,0,P-05306,Hrubesch,Horst,9,1
-7,PK-007,WC-1982,1982 FIFA World Cup,M-1982-50,West Germany v France,1982-07-08,semi-finals,not applicable,T-28,France,FRA,0,1,P-02905,Giresse,Alain,12,1
-8,PK-008,WC-1982,1982 FIFA World Cup,M-1982-50,West Germany v France,1982-07-08,semi-finals,not applicable,T-28,France,FRA,0,1,P-06010,Amoros,Manuel,2,1
-9,PK-009,WC-1982,1982 FIFA World Cup,M-1982-50,West Germany v France,1982-07-08,semi-finals,not applicable,T-28,France,FRA,0,1,P-06645,Rocheteau,Dominique,18,1
-10,PK-010,WC-1982,1982 FIFA World Cup,M-1982-50,West Germany v France,1982-07-08,semi-finals,not applicable,T-28,France,FRA,0,1,P-00598,Six,Didier,19,0
-11,PK-011,WC-1982,1982 FIFA World Cup,M-1982-50,West Germany v France,1982-07-08,semi-finals,not applicable,T-28,France,FRA,0,1,P-09482,Platini,Michel,10,1
-12,PK-012,WC-1982,1982 FIFA World Cup,M-1982-50,West Germany v France,1982-07-08,semi-finals,not applicable,T-28,France,FRA,0,1,P-05285,Bossis,Maxime,4,0
-13,PK-013,WC-1986,1986 FIFA World Cup,M-1986-45,Brazil v France,1986-06-21,quarter-finals,not applicable,T-09,Brazil,BRA,1,0,P-06794,Sócrates,not applicable,18,0
-14,PK-014,WC-1986,1986 FIFA World Cup,M-1986-45,Brazil v France,1986-06-21,quarter-finals,not applicable,T-09,Brazil,BRA,1,0,P-06253,Alemão,not applicable,15,1
-15,PK-015,WC-1986,1986 FIFA World Cup,M-1986-45,Brazil v France,1986-06-21,quarter-finals,not applicable,T-09,Brazil,BRA,1,0,P-06918,Zico,not applicable,10,1
-16,PK-016,WC-1986,1986 FIFA World Cup,M-1986-45,Brazil v France,1986-06-21,quarter-finals,not applicable,T-09,Brazil,BRA,1,0,P-09611,Branco,not applicable,17,1
-17,PK-017,WC-1986,1986 FIFA World Cup,M-1986-45,Brazil v France,1986-06-21,quarter-finals,not applicable,T-09,Brazil,BRA,1,0,P-09342,César,Júlio,14,0
-18,PK-018,WC-1986,1986 FIFA World Cup,M-1986-45,Brazil v France,1986-06-21,quarter-finals,not applicable,T-28,France,FRA,0,1,P-03798,Stopyra,Yannick,19,1
-19,PK-019,WC-1986,1986 FIFA World Cup,M-1986-45,Brazil v France,1986-06-21,quarter-finals,not applicable,T-28,France,FRA,0,1,P-06010,Amoros,Manuel,2,1
-20,PK-020,WC-1986,1986 FIFA World Cup,M-1986-45,Brazil v France,1986-06-21,quarter-finals,not applicable,T-28,France,FRA,0,1,P-02460,Bellone,Bruno,16,1
-21,PK-021,WC-1986,1986 FIFA World Cup,M-1986-45,Brazil v France,1986-06-21,quarter-finals,not applicable,T-28,France,FRA,0,1,P-09482,Platini,Michel,10,0
-22,PK-022,WC-1986,1986 FIFA World Cup,M-1986-45,Brazil v France,1986-06-21,quarter-finals,not applicable,T-28,France,FRA,0,1,P-00718,Fernández,Luis,9,1
-23,PK-023,WC-1986,1986 FIFA World Cup,M-1986-46,West Germany v Mexico,1986-06-21,quarter-finals,not applicable,T-83,West Germany,DEU,1,0,P-00351,Allofs,Klaus,19,1
-24,PK-024,WC-1986,1986 FIFA World Cup,M-1986-46,West Germany v Mexico,1986-06-21,quarter-finals,not applicable,T-83,West Germany,DEU,1,0,P-00830,Brehme,Andreas,3,1
-25,PK-025,WC-1986,1986 FIFA World Cup,M-1986-46,West Germany v Mexico,1986-06-21,quarter-finals,not applicable,T-83,West Germany,DEU,1,0,P-09502,Matthäus,Lothar,8,1
-26,PK-026,WC-1986,1986 FIFA World Cup,M-1986-46,West Germany v Mexico,1986-06-21,quarter-finals,not applicable,T-83,West Germany,DEU,1,0,P-07890,Littbarski,Pierre,7,1
-27,PK-027,WC-1986,1986 FIFA World Cup,M-1986-46,West Germany v Mexico,1986-06-21,quarter-finals,not applicable,T-44,Mexico,MEX,0,1,P-08019,Negrete,Manuel,22,1
-28,PK-028,WC-1986,1986 FIFA World Cup,M-1986-46,West Germany v Mexico,1986-06-21,quarter-finals,not applicable,T-44,Mexico,MEX,0,1,P-06199,Quirarte,Fernando,3,0
-29,PK-029,WC-1986,1986 FIFA World Cup,M-1986-46,West Germany v Mexico,1986-06-21,quarter-finals,not applicable,T-44,Mexico,MEX,0,1,P-01898,Servín,Raúl,17,0
-30,PK-030,WC-1986,1986 FIFA World Cup,M-1986-48,Spain v Belgium,1986-06-22,quarter-finals,not applicable,T-71,Spain,ESP,1,0,P-03206,Señor,Juan Antonio,7,1
-31,PK-031,WC-1986,1986 FIFA World Cup,M-1986-48,Spain v Belgium,1986-06-22,quarter-finals,not applicable,T-71,Spain,ESP,1,0,P-08130,Eloy,not applicable,20,0
-32,PK-032,WC-1986,1986 FIFA World Cup,M-1986-48,Spain v Belgium,1986-06-22,quarter-finals,not applicable,T-71,Spain,ESP,1,0,P-07698,Chendo,not applicable,15,1
-33,PK-033,WC-1986,1986 FIFA World Cup,M-1986-48,Spain v Belgium,1986-06-22,quarter-finals,not applicable,T-71,Spain,ESP,1,0,P-03484,Butragueño,Emilio,9,1
-34,PK-034,WC-1986,1986 FIFA World Cup,M-1986-48,Spain v Belgium,1986-06-22,quarter-finals,not applicable,T-71,Spain,ESP,1,0,P-08454,Víctor,not applicable,5,1
-35,PK-035,WC-1986,1986 FIFA World Cup,M-1986-48,Spain v Belgium,1986-06-22,quarter-finals,not applicable,T-06,Belgium,BEL,0,1,P-09968,Claesen,Nico,16,1
-36,PK-036,WC-1986,1986 FIFA World Cup,M-1986-48,Spain v Belgium,1986-06-22,quarter-finals,not applicable,T-06,Belgium,BEL,0,1,P-04956,Scifo,Enzo,8,1
-37,PK-037,WC-1986,1986 FIFA World Cup,M-1986-48,Spain v Belgium,1986-06-22,quarter-finals,not applicable,T-06,Belgium,BEL,0,1,P-09107,Broos,Hugo,19,1
-38,PK-038,WC-1986,1986 FIFA World Cup,M-1986-48,Spain v Belgium,1986-06-22,quarter-finals,not applicable,T-06,Belgium,BEL,0,1,P-00580,Vervoort,Patrick,22,1
-39,PK-039,WC-1986,1986 FIFA World Cup,M-1986-48,Spain v Belgium,1986-06-22,quarter-finals,not applicable,T-06,Belgium,BEL,0,1,P-03405,Van Der Elst,Leo,15,1
-40,PK-040,WC-1990,1990 FIFA World Cup,M-1990-41,Republic of Ireland v Romania,1990-06-25,round of 16,not applicable,T-58,Republic of Ireland,IRL,1,0,P-01770,Sheedy,Kevin,11,1
-41,PK-041,WC-1990,1990 FIFA World Cup,M-1990-41,Republic of Ireland v Romania,1990-06-25,round of 16,not applicable,T-58,Republic of Ireland,IRL,1,0,P-01610,Houghton,Ray,8,1
-42,PK-042,WC-1990,1990 FIFA World Cup,M-1990-41,Republic of Ireland v Romania,1990-06-25,round of 16,not applicable,T-58,Republic of Ireland,IRL,1,0,P-01088,Townsend,Andy,13,1
-43,PK-043,WC-1990,1990 FIFA World Cup,M-1990-41,Republic of Ireland v Romania,1990-06-25,round of 16,not applicable,T-58,Republic of Ireland,IRL,1,0,P-00421,Cascarino,Tony,10,1
-44,PK-044,WC-1990,1990 FIFA World Cup,M-1990-41,Republic of Ireland v Romania,1990-06-25,round of 16,not applicable,T-58,Republic of Ireland,IRL,1,0,P-09145,O'Leary,David,12,1
-45,PK-045,WC-1990,1990 FIFA World Cup,M-1990-41,Republic of Ireland v Romania,1990-06-25,round of 16,not applicable,T-59,Romania,ROU,0,1,P-04906,Hagi,Gheorghe,10,1
-46,PK-046,WC-1990,1990 FIFA World Cup,M-1990-41,Republic of Ireland v Romania,1990-06-25,round of 16,not applicable,T-59,Romania,ROU,0,1,P-07394,Lupu,Dănuț,11,1
-47,PK-047,WC-1990,1990 FIFA World Cup,M-1990-41,Republic of Ireland v Romania,1990-06-25,round of 16,not applicable,T-59,Romania,ROU,0,1,P-09320,Rotariu,Iosif,5,1
-48,PK-048,WC-1990,1990 FIFA World Cup,M-1990-41,Republic of Ireland v Romania,1990-06-25,round of 16,not applicable,T-59,Romania,ROU,0,1,P-08905,Lupescu,Ioan,21,1
-49,PK-049,WC-1990,1990 FIFA World Cup,M-1990-41,Republic of Ireland v Romania,1990-06-25,round of 16,not applicable,T-59,Romania,ROU,0,1,P-05599,Timofte,Daniel,16,0
-50,PK-050,WC-1990,1990 FIFA World Cup,M-1990-45,Argentina v Yugoslavia,1990-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,1,0,P-02881,Serrizuela,José,18,1
-51,PK-051,WC-1990,1990 FIFA World Cup,M-1990-45,Argentina v Yugoslavia,1990-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,1,0,P-02448,Burruchaga,Jorge,7,1
-52,PK-052,WC-1990,1990 FIFA World Cup,M-1990-45,Argentina v Yugoslavia,1990-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,1,0,P-05008,Maradona,Diego,10,0
-53,PK-053,WC-1990,1990 FIFA World Cup,M-1990-45,Argentina v Yugoslavia,1990-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,1,0,P-07676,Troglio,Pedro,21,0
-54,PK-054,WC-1990,1990 FIFA World Cup,M-1990-45,Argentina v Yugoslavia,1990-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,1,0,P-00752,Dezotti,Gustavo,9,1
-55,PK-055,WC-1990,1990 FIFA World Cup,M-1990-45,Argentina v Yugoslavia,1990-06-30,quarter-finals,not applicable,T-84,Yugoslavia,YUG,0,1,P-09681,Stojković,Dragan,10,0
-56,PK-056,WC-1990,1990 FIFA World Cup,M-1990-45,Argentina v Yugoslavia,1990-06-30,quarter-finals,not applicable,T-84,Yugoslavia,YUG,0,1,P-02576,Prosinečki,Robert,15,1
-57,PK-057,WC-1990,1990 FIFA World Cup,M-1990-45,Argentina v Yugoslavia,1990-06-30,quarter-finals,not applicable,T-84,Yugoslavia,YUG,0,1,P-03349,Savićević,Dejan,19,1
-58,PK-058,WC-1990,1990 FIFA World Cup,M-1990-45,Argentina v Yugoslavia,1990-06-30,quarter-finals,not applicable,T-84,Yugoslavia,YUG,0,1,P-00615,Brnović,Dragoljub,7,0
-59,PK-059,WC-1990,1990 FIFA World Cup,M-1990-45,Argentina v Yugoslavia,1990-06-30,quarter-finals,not applicable,T-84,Yugoslavia,YUG,0,1,P-06105,Hadžibegić,Faruk,5,0
-60,PK-060,WC-1990,1990 FIFA World Cup,M-1990-49,Argentina v Italy,1990-07-03,semi-finals,not applicable,T-03,Argentina,ARG,1,0,P-02881,Serrizuela,José,18,1
-61,PK-061,WC-1990,1990 FIFA World Cup,M-1990-49,Argentina v Italy,1990-07-03,semi-finals,not applicable,T-03,Argentina,ARG,1,0,P-02448,Burruchaga,Jorge,7,1
-62,PK-062,WC-1990,1990 FIFA World Cup,M-1990-49,Argentina v Italy,1990-07-03,semi-finals,not applicable,T-03,Argentina,ARG,1,0,P-02511,Olarticoechea,Julio,16,1
-63,PK-063,WC-1990,1990 FIFA World Cup,M-1990-49,Argentina v Italy,1990-07-03,semi-finals,not applicable,T-03,Argentina,ARG,1,0,P-05008,Maradona,Diego,10,1
-64,PK-064,WC-1990,1990 FIFA World Cup,M-1990-49,Argentina v Italy,1990-07-03,semi-finals,not applicable,T-39,Italy,ITA,0,1,P-02667,Baresi,Franco,2,1
-65,PK-065,WC-1990,1990 FIFA World Cup,M-1990-49,Argentina v Italy,1990-07-03,semi-finals,not applicable,T-39,Italy,ITA,0,1,P-09710,Baggio,Roberto,15,1
-66,PK-066,WC-1990,1990 FIFA World Cup,M-1990-49,Argentina v Italy,1990-07-03,semi-finals,not applicable,T-39,Italy,ITA,0,1,P-08995,De Agostini,Luigi,4,1
-67,PK-067,WC-1990,1990 FIFA World Cup,M-1990-49,Argentina v Italy,1990-07-03,semi-finals,not applicable,T-39,Italy,ITA,0,1,P-01113,Donadoni,Roberto,17,0
-68,PK-068,WC-1990,1990 FIFA World Cup,M-1990-49,Argentina v Italy,1990-07-03,semi-finals,not applicable,T-39,Italy,ITA,0,1,P-06857,Serena,Aldo,20,0
-69,PK-069,WC-1990,1990 FIFA World Cup,M-1990-50,West Germany v England,1990-07-04,semi-finals,not applicable,T-83,West Germany,DEU,1,0,P-00830,Brehme,Andreas,3,1
-70,PK-070,WC-1990,1990 FIFA World Cup,M-1990-50,West Germany v England,1990-07-04,semi-finals,not applicable,T-83,West Germany,DEU,1,0,P-09502,Matthäus,Lothar,10,1
-71,PK-071,WC-1990,1990 FIFA World Cup,M-1990-50,West Germany v England,1990-07-04,semi-finals,not applicable,T-83,West Germany,DEU,1,0,P-07779,Riedle,Karl-Heinz,13,1
-72,PK-072,WC-1990,1990 FIFA World Cup,M-1990-50,West Germany v England,1990-07-04,semi-finals,not applicable,T-83,West Germany,DEU,1,0,P-07346,Thon,Olaf,20,1
-73,PK-073,WC-1990,1990 FIFA World Cup,M-1990-50,West Germany v England,1990-07-04,semi-finals,not applicable,T-27,England,ENG,0,1,P-00324,Lineker,Gary,10,1
-74,PK-074,WC-1990,1990 FIFA World Cup,M-1990-50,West Germany v England,1990-07-04,semi-finals,not applicable,T-27,England,ENG,0,1,P-03367,Beardsley,Peter,9,1
-75,PK-075,WC-1990,1990 FIFA World Cup,M-1990-50,West Germany v England,1990-07-04,semi-finals,not applicable,T-27,England,ENG,0,1,P-02030,Platt,David,17,1
-76,PK-076,WC-1990,1990 FIFA World Cup,M-1990-50,West Germany v England,1990-07-04,semi-finals,not applicable,T-27,England,ENG,0,1,P-04997,Pearce,Stuart,3,0
-77,PK-077,WC-1990,1990 FIFA World Cup,M-1990-50,West Germany v England,1990-07-04,semi-finals,not applicable,T-27,England,ENG,0,1,P-02594,Waddle,Chris,8,0
-78,PK-078,WC-1994,1994 FIFA World Cup,M-1994-44,Mexico v Bulgaria,1994-07-05,round of 16,not applicable,T-44,Mexico,MEX,1,0,P-00086,García Aspe,Alberto,8,0
-79,PK-079,WC-1994,1994 FIFA World Cup,M-1994-44,Mexico v Bulgaria,1994-07-05,round of 16,not applicable,T-44,Mexico,MEX,1,0,P-06529,Bernal,Marcelino,6,0
-80,PK-080,WC-1994,1994 FIFA World Cup,M-1994-44,Mexico v Bulgaria,1994-07-05,round of 16,not applicable,T-44,Mexico,MEX,1,0,P-06753,Rodríguez,Jorge,20,0
-81,PK-081,WC-1994,1994 FIFA World Cup,M-1994-44,Mexico v Bulgaria,1994-07-05,round of 16,not applicable,T-44,Mexico,MEX,1,0,P-07362,Suárez,Claudio,2,1
-82,PK-082,WC-1994,1994 FIFA World Cup,M-1994-44,Mexico v Bulgaria,1994-07-05,round of 16,not applicable,T-10,Bulgaria,BGR,0,1,P-09519,Balakov,Krasimir,20,0
-83,PK-083,WC-1994,1994 FIFA World Cup,M-1994-44,Mexico v Bulgaria,1994-07-05,round of 16,not applicable,T-10,Bulgaria,BGR,0,1,P-04475,Genchev,Boncho,14,1
-84,PK-084,WC-1994,1994 FIFA World Cup,M-1994-44,Mexico v Bulgaria,1994-07-05,round of 16,not applicable,T-10,Bulgaria,BGR,0,1,P-00813,Borimirov,Daniel,11,1
-85,PK-085,WC-1994,1994 FIFA World Cup,M-1994-44,Mexico v Bulgaria,1994-07-05,round of 16,not applicable,T-10,Bulgaria,BGR,0,1,P-00210,Letchkov,Yordan,9,1
-86,PK-086,WC-1994,1994 FIFA World Cup,M-1994-48,Romania v Sweden,1994-07-10,quarter-finals,not applicable,T-59,Romania,ROU,1,0,P-07631,Răducioiu,Florin,9,1
-87,PK-087,WC-1994,1994 FIFA World Cup,M-1994-48,Romania v Sweden,1994-07-10,quarter-finals,not applicable,T-59,Romania,ROU,1,0,P-04906,Hagi,Gheorghe,10,1
-88,PK-088,WC-1994,1994 FIFA World Cup,M-1994-48,Romania v Sweden,1994-07-10,quarter-finals,not applicable,T-59,Romania,ROU,1,0,P-08905,Lupescu,Ioan,5,1
-89,PK-089,WC-1994,1994 FIFA World Cup,M-1994-48,Romania v Sweden,1994-07-10,quarter-finals,not applicable,T-59,Romania,ROU,1,0,P-09465,Petrescu,Dan,2,0
-90,PK-090,WC-1994,1994 FIFA World Cup,M-1994-48,Romania v Sweden,1994-07-10,quarter-finals,not applicable,T-59,Romania,ROU,1,0,P-05505,Dumitrescu,Ilie,11,1
-91,PK-091,WC-1994,1994 FIFA World Cup,M-1994-48,Romania v Sweden,1994-07-10,quarter-finals,not applicable,T-59,Romania,ROU,1,0,P-04412,Belodedici,Miodrag,4,0
-92,PK-092,WC-1994,1994 FIFA World Cup,M-1994-48,Romania v Sweden,1994-07-10,quarter-finals,not applicable,T-72,Sweden,SWE,0,1,P-08544,Mild,Håkan,18,0
-93,PK-093,WC-1994,1994 FIFA World Cup,M-1994-48,Romania v Sweden,1994-07-10,quarter-finals,not applicable,T-72,Sweden,SWE,0,1,P-08185,Andersson,Kennet,19,1
-94,PK-094,WC-1994,1994 FIFA World Cup,M-1994-48,Romania v Sweden,1994-07-10,quarter-finals,not applicable,T-72,Sweden,SWE,0,1,P-05567,Brolin,Tomas,11,1
-95,PK-095,WC-1994,1994 FIFA World Cup,M-1994-48,Romania v Sweden,1994-07-10,quarter-finals,not applicable,T-72,Sweden,SWE,0,1,P-01010,Ingesson,Klas,8,1
-96,PK-096,WC-1994,1994 FIFA World Cup,M-1994-48,Romania v Sweden,1994-07-10,quarter-finals,not applicable,T-72,Sweden,SWE,0,1,P-04066,Nilsson,Roland,2,1
-97,PK-097,WC-1994,1994 FIFA World Cup,M-1994-48,Romania v Sweden,1994-07-10,quarter-finals,not applicable,T-72,Sweden,SWE,0,1,P-01768,Larsson,Henrik,7,1
-98,PK-098,WC-1994,1994 FIFA World Cup,M-1994-52,Brazil v Italy,1994-07-17,final,not applicable,T-09,Brazil,BRA,1,0,P-07530,Santos,Márcio,15,0
-99,PK-099,WC-1994,1994 FIFA World Cup,M-1994-52,Brazil v Italy,1994-07-17,final,not applicable,T-09,Brazil,BRA,1,0,P-02205,Romário,not applicable,11,1
-100,PK-100,WC-1994,1994 FIFA World Cup,M-1994-52,Brazil v Italy,1994-07-17,final,not applicable,T-09,Brazil,BRA,1,0,P-09611,Branco,not applicable,6,1
-101,PK-101,WC-1994,1994 FIFA World Cup,M-1994-52,Brazil v Italy,1994-07-17,final,not applicable,T-09,Brazil,BRA,1,0,P-07630,Dunga,not applicable,8,1
-102,PK-102,WC-1994,1994 FIFA World Cup,M-1994-52,Brazil v Italy,1994-07-17,final,not applicable,T-39,Italy,ITA,0,1,P-02667,Baresi,Franco,6,0
-103,PK-103,WC-1994,1994 FIFA World Cup,M-1994-52,Brazil v Italy,1994-07-17,final,not applicable,T-39,Italy,ITA,0,1,P-04376,Albertini,Demetrio,11,1
-104,PK-104,WC-1994,1994 FIFA World Cup,M-1994-52,Brazil v Italy,1994-07-17,final,not applicable,T-39,Italy,ITA,0,1,P-07220,Evani,Alberigo,17,1
-105,PK-105,WC-1994,1994 FIFA World Cup,M-1994-52,Brazil v Italy,1994-07-17,final,not applicable,T-39,Italy,ITA,0,1,P-03525,Massaro,Daniele,19,0
-106,PK-106,WC-1994,1994 FIFA World Cup,M-1994-52,Brazil v Italy,1994-07-17,final,not applicable,T-39,Italy,ITA,0,1,P-09710,Baggio,Roberto,10,0
-107,PK-107,WC-1998,1998 FIFA World Cup,M-1998-56,Argentina v England,1998-06-30,round of 16,not applicable,T-03,Argentina,ARG,1,0,P-05733,Berti,Sergio,16,1
-108,PK-108,WC-1998,1998 FIFA World Cup,M-1998-56,Argentina v England,1998-06-30,round of 16,not applicable,T-03,Argentina,ARG,1,0,P-04864,Crespo,Hernán,19,0
-109,PK-109,WC-1998,1998 FIFA World Cup,M-1998-56,Argentina v England,1998-06-30,round of 16,not applicable,T-03,Argentina,ARG,1,0,P-00271,Verón,Juan Sebastián,11,1
-110,PK-110,WC-1998,1998 FIFA World Cup,M-1998-56,Argentina v England,1998-06-30,round of 16,not applicable,T-03,Argentina,ARG,1,0,P-01972,Gallardo,Marcelo,20,1
-111,PK-111,WC-1998,1998 FIFA World Cup,M-1998-56,Argentina v England,1998-06-30,round of 16,not applicable,T-03,Argentina,ARG,1,0,P-05831,Ayala,Roberto,2,1
-112,PK-112,WC-1998,1998 FIFA World Cup,M-1998-56,Argentina v England,1998-06-30,round of 16,not applicable,T-27,England,ENG,0,1,P-03717,Shearer,Alan,9,1
-113,PK-113,WC-1998,1998 FIFA World Cup,M-1998-56,Argentina v England,1998-06-30,round of 16,not applicable,T-27,England,ENG,0,1,P-04688,Ince,Paul,4,0
-114,PK-114,WC-1998,1998 FIFA World Cup,M-1998-56,Argentina v England,1998-06-30,round of 16,not applicable,T-27,England,ENG,0,1,P-02334,Merson,Paul,15,1
-115,PK-115,WC-1998,1998 FIFA World Cup,M-1998-56,Argentina v England,1998-06-30,round of 16,not applicable,T-27,England,ENG,0,1,P-09801,Owen,Michael,20,1
-116,PK-116,WC-1998,1998 FIFA World Cup,M-1998-56,Argentina v England,1998-06-30,round of 16,not applicable,T-27,England,ENG,0,1,P-09925,Batty,David,8,0
-117,PK-117,WC-1998,1998 FIFA World Cup,M-1998-57,Italy v France,1998-07-03,quarter-finals,not applicable,T-39,Italy,ITA,1,0,P-09710,Baggio,Roberto,18,1
-118,PK-118,WC-1998,1998 FIFA World Cup,M-1998-57,Italy v France,1998-07-03,quarter-finals,not applicable,T-39,Italy,ITA,1,0,P-04376,Albertini,Demetrio,9,0
-119,PK-119,WC-1998,1998 FIFA World Cup,M-1998-57,Italy v France,1998-07-03,quarter-finals,not applicable,T-39,Italy,ITA,1,0,P-03903,Costacurta,Alessandro,5,1
-120,PK-120,WC-1998,1998 FIFA World Cup,M-1998-57,Italy v France,1998-07-03,quarter-finals,not applicable,T-39,Italy,ITA,1,0,P-07756,Vieri,Christian,21,1
-121,PK-121,WC-1998,1998 FIFA World Cup,M-1998-57,Italy v France,1998-07-03,quarter-finals,not applicable,T-39,Italy,ITA,1,0,P-01554,Di Biagio,Luigi,14,0
-122,PK-122,WC-1998,1998 FIFA World Cup,M-1998-57,Italy v France,1998-07-03,quarter-finals,not applicable,T-28,France,FRA,0,1,P-03294,Zidane,Zinedine,10,1
-123,PK-123,WC-1998,1998 FIFA World Cup,M-1998-57,Italy v France,1998-07-03,quarter-finals,not applicable,T-28,France,FRA,0,1,P-08661,Lizarazu,Bixente,3,0
-124,PK-124,WC-1998,1998 FIFA World Cup,M-1998-57,Italy v France,1998-07-03,quarter-finals,not applicable,T-28,France,FRA,0,1,P-06598,Trezeguet,David,20,1
-125,PK-125,WC-1998,1998 FIFA World Cup,M-1998-57,Italy v France,1998-07-03,quarter-finals,not applicable,T-28,France,FRA,0,1,P-00514,Henry,Thierry,12,1
-126,PK-126,WC-1998,1998 FIFA World Cup,M-1998-57,Italy v France,1998-07-03,quarter-finals,not applicable,T-28,France,FRA,0,1,P-09168,Blanc,Laurent,5,1
-127,PK-127,WC-1998,1998 FIFA World Cup,M-1998-61,Brazil v Netherlands,1998-07-07,semi-finals,not applicable,T-09,Brazil,BRA,1,0,P-08490,Ronaldo,not applicable,9,1
-128,PK-128,WC-1998,1998 FIFA World Cup,M-1998-61,Brazil v Netherlands,1998-07-07,semi-finals,not applicable,T-09,Brazil,BRA,1,0,P-09998,Rivaldo,not applicable,10,1
-129,PK-129,WC-1998,1998 FIFA World Cup,M-1998-61,Brazil v Netherlands,1998-07-07,semi-finals,not applicable,T-09,Brazil,BRA,1,0,P-00624,Emerson,not applicable,11,1
-130,PK-130,WC-1998,1998 FIFA World Cup,M-1998-61,Brazil v Netherlands,1998-07-07,semi-finals,not applicable,T-09,Brazil,BRA,1,0,P-07630,Dunga,not applicable,8,1
-131,PK-131,WC-1998,1998 FIFA World Cup,M-1998-61,Brazil v Netherlands,1998-07-07,semi-finals,not applicable,T-46,Netherlands,NLD,0,1,P-07291,de Boer,Frank,4,1
-132,PK-132,WC-1998,1998 FIFA World Cup,M-1998-61,Brazil v Netherlands,1998-07-07,semi-finals,not applicable,T-46,Netherlands,NLD,0,1,P-03548,Bergkamp,Dennis,8,1
-133,PK-133,WC-1998,1998 FIFA World Cup,M-1998-61,Brazil v Netherlands,1998-07-07,semi-finals,not applicable,T-46,Netherlands,NLD,0,1,P-06921,Cocu,Phillip,11,0
-134,PK-134,WC-1998,1998 FIFA World Cup,M-1998-61,Brazil v Netherlands,1998-07-07,semi-finals,not applicable,T-46,Netherlands,NLD,0,1,P-00207,de Boer,Ronald,7,0
-135,PK-135,WC-2002,2002 FIFA World Cup,M-2002-52,Spain v Republic of Ireland,2002-06-16,round of 16,not applicable,T-71,Spain,ESP,1,0,P-03203,Hierro,Fernando,6,1
-136,PK-136,WC-2002,2002 FIFA World Cup,M-2002-52,Spain v Republic of Ireland,2002-06-16,round of 16,not applicable,T-71,Spain,ESP,1,0,P-02395,Baraja,Rubén,8,1
-137,PK-137,WC-2002,2002 FIFA World Cup,M-2002-52,Spain v Republic of Ireland,2002-06-16,round of 16,not applicable,T-71,Spain,ESP,1,0,P-02986,Juanfran,not applicable,3,0
-138,PK-138,WC-2002,2002 FIFA World Cup,M-2002-52,Spain v Republic of Ireland,2002-06-16,round of 16,not applicable,T-71,Spain,ESP,1,0,P-02400,Valerón,Juan Carlos,17,0
-139,PK-139,WC-2002,2002 FIFA World Cup,M-2002-52,Spain v Republic of Ireland,2002-06-16,round of 16,not applicable,T-71,Spain,ESP,1,0,P-00219,Mendieta,Gaizka,16,1
-140,PK-140,WC-2002,2002 FIFA World Cup,M-2002-52,Spain v Republic of Ireland,2002-06-16,round of 16,not applicable,T-58,Republic of Ireland,IRL,0,1,P-02128,Keane,Robbie,10,1
-141,PK-141,WC-2002,2002 FIFA World Cup,M-2002-52,Spain v Republic of Ireland,2002-06-16,round of 16,not applicable,T-58,Republic of Ireland,IRL,0,1,P-09839,Holland,Matt,8,0
-142,PK-142,WC-2002,2002 FIFA World Cup,M-2002-52,Spain v Republic of Ireland,2002-06-16,round of 16,not applicable,T-58,Republic of Ireland,IRL,0,1,P-07115,Connolly,David,13,0
-143,PK-143,WC-2002,2002 FIFA World Cup,M-2002-52,Spain v Republic of Ireland,2002-06-16,round of 16,not applicable,T-58,Republic of Ireland,IRL,0,1,P-06261,Kilbane,Kevin,11,0
-144,PK-144,WC-2002,2002 FIFA World Cup,M-2002-52,Spain v Republic of Ireland,2002-06-16,round of 16,not applicable,T-58,Republic of Ireland,IRL,0,1,P-07550,Finnan,Steve,2,1
-145,PK-145,WC-2002,2002 FIFA World Cup,M-2002-59,Spain v South Korea,2002-06-22,quarter-finals,not applicable,T-71,Spain,ESP,1,0,P-03203,Hierro,Fernando,6,1
-146,PK-146,WC-2002,2002 FIFA World Cup,M-2002-59,Spain v South Korea,2002-06-22,quarter-finals,not applicable,T-71,Spain,ESP,1,0,P-02395,Baraja,Rubén,8,1
-147,PK-147,WC-2002,2002 FIFA World Cup,M-2002-59,Spain v South Korea,2002-06-22,quarter-finals,not applicable,T-71,Spain,ESP,1,0,P-04975,Xavi,not applicable,19,1
-148,PK-148,WC-2002,2002 FIFA World Cup,M-2002-59,Spain v South Korea,2002-06-22,quarter-finals,not applicable,T-71,Spain,ESP,1,0,P-00386,Joaquín,not applicable,22,0
-149,PK-149,WC-2002,2002 FIFA World Cup,M-2002-59,Spain v South Korea,2002-06-22,quarter-finals,not applicable,T-69,South Korea,KOR,0,1,P-07049,Hwang,Sun-hong,18,1
-150,PK-150,WC-2002,2002 FIFA World Cup,M-2002-59,Spain v South Korea,2002-06-22,quarter-finals,not applicable,T-69,South Korea,KOR,0,1,P-02922,Park,Ji-sung,21,1
-151,PK-151,WC-2002,2002 FIFA World Cup,M-2002-59,Spain v South Korea,2002-06-22,quarter-finals,not applicable,T-69,South Korea,KOR,0,1,P-07113,Seol,Ki-hyeon,9,1
-152,PK-152,WC-2002,2002 FIFA World Cup,M-2002-59,Spain v South Korea,2002-06-22,quarter-finals,not applicable,T-69,South Korea,KOR,0,1,P-07558,Ahn,Jung-hwan,19,1
-153,PK-153,WC-2002,2002 FIFA World Cup,M-2002-59,Spain v South Korea,2002-06-22,quarter-finals,not applicable,T-69,South Korea,KOR,0,1,P-04888,Hong,Myung-bo,20,1
-154,PK-154,WC-2006,2006 FIFA World Cup,M-2006-54,Switzerland v Ukraine,2006-06-26,round of 16,not applicable,T-73,Switzerland,CHE,1,0,P-08118,Streller,Marco,11,0
-155,PK-155,WC-2006,2006 FIFA World Cup,M-2006-54,Switzerland v Ukraine,2006-06-26,round of 16,not applicable,T-73,Switzerland,CHE,1,0,P-02336,Barnetta,Tranquillo,16,0
-156,PK-156,WC-2006,2006 FIFA World Cup,M-2006-54,Switzerland v Ukraine,2006-06-26,round of 16,not applicable,T-73,Switzerland,CHE,1,0,P-08521,Cabanas,Ricardo,7,0
-157,PK-157,WC-2006,2006 FIFA World Cup,M-2006-54,Switzerland v Ukraine,2006-06-26,round of 16,not applicable,T-78,Ukraine,UKR,0,1,P-03363,Shevchenko,Andriy,7,0
-158,PK-158,WC-2006,2006 FIFA World Cup,M-2006-54,Switzerland v Ukraine,2006-06-26,round of 16,not applicable,T-78,Ukraine,UKR,0,1,P-08531,Milevskyi,Artem,15,1
-159,PK-159,WC-2006,2006 FIFA World Cup,M-2006-54,Switzerland v Ukraine,2006-06-26,round of 16,not applicable,T-78,Ukraine,UKR,0,1,P-09412,Rebrov,Serhii,11,1
-160,PK-160,WC-2006,2006 FIFA World Cup,M-2006-54,Switzerland v Ukraine,2006-06-26,round of 16,not applicable,T-78,Ukraine,UKR,0,1,P-08663,Husyev,Oleh,9,1
-161,PK-161,WC-2006,2006 FIFA World Cup,M-2006-57,Germany v Argentina,2006-06-30,quarter-finals,not applicable,T-29,Germany,DEU,1,0,P-09562,Neuville,Oliver,10,1
-162,PK-162,WC-2006,2006 FIFA World Cup,M-2006-57,Germany v Argentina,2006-06-30,quarter-finals,not applicable,T-29,Germany,DEU,1,0,P-07241,Ballack,Michael,13,1
-163,PK-163,WC-2006,2006 FIFA World Cup,M-2006-57,Germany v Argentina,2006-06-30,quarter-finals,not applicable,T-29,Germany,DEU,1,0,P-01888,Podolski,Lukas,20,1
-164,PK-164,WC-2006,2006 FIFA World Cup,M-2006-57,Germany v Argentina,2006-06-30,quarter-finals,not applicable,T-29,Germany,DEU,1,0,P-05270,Borowski,Tim,18,1
-165,PK-165,WC-2006,2006 FIFA World Cup,M-2006-57,Germany v Argentina,2006-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-07762,Cruz,Julio,20,1
-166,PK-166,WC-2006,2006 FIFA World Cup,M-2006-57,Germany v Argentina,2006-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-05831,Ayala,Roberto,2,0
-167,PK-167,WC-2006,2006 FIFA World Cup,M-2006-57,Germany v Argentina,2006-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-06058,Rodríguez,Maxi,18,1
-168,PK-168,WC-2006,2006 FIFA World Cup,M-2006-57,Germany v Argentina,2006-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-07072,Cambiasso,Esteban,5,0
-169,PK-169,WC-2006,2006 FIFA World Cup,M-2006-59,England v Portugal,2006-07-01,quarter-finals,not applicable,T-27,England,ENG,1,0,P-00791,Lampard,Frank,8,0
-170,PK-170,WC-2006,2006 FIFA World Cup,M-2006-59,England v Portugal,2006-07-01,quarter-finals,not applicable,T-27,England,ENG,1,0,P-00147,Hargreaves,Owen,16,1
-171,PK-171,WC-2006,2006 FIFA World Cup,M-2006-59,England v Portugal,2006-07-01,quarter-finals,not applicable,T-27,England,ENG,1,0,P-02373,Gerrard,Steven,4,0
-172,PK-172,WC-2006,2006 FIFA World Cup,M-2006-59,England v Portugal,2006-07-01,quarter-finals,not applicable,T-27,England,ENG,1,0,P-04836,Carragher,Jamie,15,0
-173,PK-173,WC-2006,2006 FIFA World Cup,M-2006-59,England v Portugal,2006-07-01,quarter-finals,not applicable,T-56,Portugal,PRT,0,1,P-01219,Simão,not applicable,11,1
-174,PK-174,WC-2006,2006 FIFA World Cup,M-2006-59,England v Portugal,2006-07-01,quarter-finals,not applicable,T-56,Portugal,PRT,0,1,P-03293,Viana,Hugo,10,0
-175,PK-175,WC-2006,2006 FIFA World Cup,M-2006-59,England v Portugal,2006-07-01,quarter-finals,not applicable,T-56,Portugal,PRT,0,1,P-04098,Petit,not applicable,8,0
-176,PK-176,WC-2006,2006 FIFA World Cup,M-2006-59,England v Portugal,2006-07-01,quarter-finals,not applicable,T-56,Portugal,PRT,0,1,P-08421,Postiga,Hélder,23,1
-177,PK-177,WC-2006,2006 FIFA World Cup,M-2006-59,England v Portugal,2006-07-01,quarter-finals,not applicable,T-56,Portugal,PRT,0,1,P-03142,Ronaldo,Cristiano,17,1
-178,PK-178,WC-2006,2006 FIFA World Cup,M-2006-64,Italy v France,2006-07-09,final,not applicable,T-39,Italy,ITA,1,0,P-07810,Pirlo,Andrea,21,1
-179,PK-179,WC-2006,2006 FIFA World Cup,M-2006-64,Italy v France,2006-07-09,final,not applicable,T-39,Italy,ITA,1,0,P-08313,Materazzi,Marco,23,1
-180,PK-180,WC-2006,2006 FIFA World Cup,M-2006-64,Italy v France,2006-07-09,final,not applicable,T-39,Italy,ITA,1,0,P-00192,De Rossi,Daniele,4,1
-181,PK-181,WC-2006,2006 FIFA World Cup,M-2006-64,Italy v France,2006-07-09,final,not applicable,T-39,Italy,ITA,1,0,P-06949,Del Piero,Alessandro,7,1
-182,PK-182,WC-2006,2006 FIFA World Cup,M-2006-64,Italy v France,2006-07-09,final,not applicable,T-39,Italy,ITA,1,0,P-02751,Grosso,Fabio,3,1
-183,PK-183,WC-2006,2006 FIFA World Cup,M-2006-64,Italy v France,2006-07-09,final,not applicable,T-28,France,FRA,0,1,P-07943,Wiltord,Sylvain,11,1
-184,PK-184,WC-2006,2006 FIFA World Cup,M-2006-64,Italy v France,2006-07-09,final,not applicable,T-28,France,FRA,0,1,P-06598,Trezeguet,David,20,0
-185,PK-185,WC-2006,2006 FIFA World Cup,M-2006-64,Italy v France,2006-07-09,final,not applicable,T-28,France,FRA,0,1,P-03868,Abidal,Eric,3,1
-186,PK-186,WC-2006,2006 FIFA World Cup,M-2006-64,Italy v France,2006-07-09,final,not applicable,T-28,France,FRA,0,1,P-04271,Sagnol,Willy,19,1
-187,PK-187,WC-2010,2010 FIFA World Cup,M-2010-55,Paraguay v Japan,2010-06-29,round of 16,not applicable,T-53,Paraguay,PRY,1,0,P-04472,Barreto,Édgar,8,1
-188,PK-188,WC-2010,2010 FIFA World Cup,M-2010-55,Paraguay v Japan,2010-06-29,round of 16,not applicable,T-53,Paraguay,PRY,1,0,P-02352,Barrios,Lucas,19,1
-189,PK-189,WC-2010,2010 FIFA World Cup,M-2010-55,Paraguay v Japan,2010-06-29,round of 16,not applicable,T-53,Paraguay,PRY,1,0,P-03428,Riveros,Cristian,16,1
-190,PK-190,WC-2010,2010 FIFA World Cup,M-2010-55,Paraguay v Japan,2010-06-29,round of 16,not applicable,T-53,Paraguay,PRY,1,0,P-08363,Valdez,Nelson,18,1
-191,PK-191,WC-2010,2010 FIFA World Cup,M-2010-55,Paraguay v Japan,2010-06-29,round of 16,not applicable,T-53,Paraguay,PRY,1,0,P-09362,Cardozo,Óscar,7,1
-192,PK-192,WC-2010,2010 FIFA World Cup,M-2010-55,Paraguay v Japan,2010-06-29,round of 16,not applicable,T-42,Japan,JPN,0,1,P-02015,Endō,Yasuhito,7,1
-193,PK-193,WC-2010,2010 FIFA World Cup,M-2010-55,Paraguay v Japan,2010-06-29,round of 16,not applicable,T-42,Japan,JPN,0,1,P-04090,Hasebe,Makoto,17,1
-194,PK-194,WC-2010,2010 FIFA World Cup,M-2010-55,Paraguay v Japan,2010-06-29,round of 16,not applicable,T-42,Japan,JPN,0,1,P-07529,Komano,Yūichi,3,0
-195,PK-195,WC-2010,2010 FIFA World Cup,M-2010-55,Paraguay v Japan,2010-06-29,round of 16,not applicable,T-42,Japan,JPN,0,1,P-06655,Honda,Keisuke,18,1
-196,PK-196,WC-2010,2010 FIFA World Cup,M-2010-58,Uruguay v Ghana,2010-07-02,quarter-finals,not applicable,T-81,Uruguay,URY,1,0,P-09223,Forlán,Diego,10,1
-197,PK-197,WC-2010,2010 FIFA World Cup,M-2010-58,Uruguay v Ghana,2010-07-02,quarter-finals,not applicable,T-81,Uruguay,URY,1,0,P-00776,Victorino,Mauricio,6,1
-198,PK-198,WC-2010,2010 FIFA World Cup,M-2010-58,Uruguay v Ghana,2010-07-02,quarter-finals,not applicable,T-81,Uruguay,URY,1,0,P-08368,Scotti,Andrés,19,1
-199,PK-199,WC-2010,2010 FIFA World Cup,M-2010-58,Uruguay v Ghana,2010-07-02,quarter-finals,not applicable,T-81,Uruguay,URY,1,0,P-08564,Pereira,Maxi,16,0
-200,PK-200,WC-2010,2010 FIFA World Cup,M-2010-58,Uruguay v Ghana,2010-07-02,quarter-finals,not applicable,T-81,Uruguay,URY,1,0,P-00305,Abreu,Sebastián,13,1
-201,PK-201,WC-2010,2010 FIFA World Cup,M-2010-58,Uruguay v Ghana,2010-07-02,quarter-finals,not applicable,T-30,Ghana,GHA,0,1,P-00211,Gyan,Asamoah,3,1
-202,PK-202,WC-2010,2010 FIFA World Cup,M-2010-58,Uruguay v Ghana,2010-07-02,quarter-finals,not applicable,T-30,Ghana,GHA,0,1,P-09890,Appiah,Stephen,10,1
-203,PK-203,WC-2010,2010 FIFA World Cup,M-2010-58,Uruguay v Ghana,2010-07-02,quarter-finals,not applicable,T-30,Ghana,GHA,0,1,P-00540,Mensah,John,5,0
-204,PK-204,WC-2010,2010 FIFA World Cup,M-2010-58,Uruguay v Ghana,2010-07-02,quarter-finals,not applicable,T-30,Ghana,GHA,0,1,P-05712,Adiyiah,Dominic,18,0
-205,PK-205,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-04256,Luiz,David,4,1
-206,PK-206,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-02731,Willian,not applicable,19,0
-207,PK-207,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-02638,Marcelo,not applicable,6,1
-208,PK-208,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-09724,Hulk,not applicable,7,0
-209,PK-209,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-04984,Neymar,not applicable,10,1
-210,PK-210,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-07897,Pinilla,Mauricio,9,0
-211,PK-211,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-08837,Sánchez,Alexis,7,0
-212,PK-212,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-03431,Aránguiz,Charles,20,1
-213,PK-213,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-01478,Díaz,Marcelo,21,1
-214,PK-214,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-08448,Jara,Gonzalo,18,0
-215,PK-215,WC-2014,2014 FIFA World Cup,M-2014-52,Costa Rica v Greece,2014-06-29,round of 16,not applicable,T-16,Costa Rica,CRI,1,0,P-05450,Borges,Celso,5,1
-216,PK-216,WC-2014,2014 FIFA World Cup,M-2014-52,Costa Rica v Greece,2014-06-29,round of 16,not applicable,T-16,Costa Rica,CRI,1,0,P-09367,Ruiz,Bryan,10,1
-217,PK-217,WC-2014,2014 FIFA World Cup,M-2014-52,Costa Rica v Greece,2014-06-29,round of 16,not applicable,T-16,Costa Rica,CRI,1,0,P-07063,González,Giancarlo,3,1
-218,PK-218,WC-2014,2014 FIFA World Cup,M-2014-52,Costa Rica v Greece,2014-06-29,round of 16,not applicable,T-16,Costa Rica,CRI,1,0,P-05030,Campbell,Joel,9,1
-219,PK-219,WC-2014,2014 FIFA World Cup,M-2014-52,Costa Rica v Greece,2014-06-29,round of 16,not applicable,T-16,Costa Rica,CRI,1,0,P-03972,Umaña,Michael,4,1
-220,PK-220,WC-2014,2014 FIFA World Cup,M-2014-52,Costa Rica v Greece,2014-06-29,round of 16,not applicable,T-31,Greece,GRC,0,1,P-00138,Mitroglou,Kostas,9,1
-221,PK-221,WC-2014,2014 FIFA World Cup,M-2014-52,Costa Rica v Greece,2014-06-29,round of 16,not applicable,T-31,Greece,GRC,0,1,P-05696,Christodoulopoulos,Lazaros,16,1
-222,PK-222,WC-2014,2014 FIFA World Cup,M-2014-52,Costa Rica v Greece,2014-06-29,round of 16,not applicable,T-31,Greece,GRC,0,1,P-01964,Holebas,José,20,1
-223,PK-223,WC-2014,2014 FIFA World Cup,M-2014-52,Costa Rica v Greece,2014-06-29,round of 16,not applicable,T-31,Greece,GRC,0,1,P-09310,Gekas,Theofanis,17,0
-224,PK-224,WC-2014,2014 FIFA World Cup,M-2014-60,Netherlands v Costa Rica,2014-07-05,quarter-finals,not applicable,T-46,Netherlands,NLD,1,0,P-09126,van Persie,Robin,9,1
-225,PK-225,WC-2014,2014 FIFA World Cup,M-2014-60,Netherlands v Costa Rica,2014-07-05,quarter-finals,not applicable,T-46,Netherlands,NLD,1,0,P-04780,Robben,Arjen,11,1
-226,PK-226,WC-2014,2014 FIFA World Cup,M-2014-60,Netherlands v Costa Rica,2014-07-05,quarter-finals,not applicable,T-46,Netherlands,NLD,1,0,P-00240,Sneijder,Wesley,10,1
-227,PK-227,WC-2014,2014 FIFA World Cup,M-2014-60,Netherlands v Costa Rica,2014-07-05,quarter-finals,not applicable,T-46,Netherlands,NLD,1,0,P-05728,Kuyt,Dirk,15,1
-228,PK-228,WC-2014,2014 FIFA World Cup,M-2014-60,Netherlands v Costa Rica,2014-07-05,quarter-finals,not applicable,T-16,Costa Rica,CRI,0,1,P-05450,Borges,Celso,5,1
-229,PK-229,WC-2014,2014 FIFA World Cup,M-2014-60,Netherlands v Costa Rica,2014-07-05,quarter-finals,not applicable,T-16,Costa Rica,CRI,0,1,P-09367,Ruiz,Bryan,10,0
-230,PK-230,WC-2014,2014 FIFA World Cup,M-2014-60,Netherlands v Costa Rica,2014-07-05,quarter-finals,not applicable,T-16,Costa Rica,CRI,0,1,P-07063,González,Giancarlo,3,1
-231,PK-231,WC-2014,2014 FIFA World Cup,M-2014-60,Netherlands v Costa Rica,2014-07-05,quarter-finals,not applicable,T-16,Costa Rica,CRI,0,1,P-03673,Bolaños,Christian,7,1
-232,PK-232,WC-2014,2014 FIFA World Cup,M-2014-60,Netherlands v Costa Rica,2014-07-05,quarter-finals,not applicable,T-16,Costa Rica,CRI,0,1,P-03972,Umaña,Michael,4,0
-233,PK-233,WC-2014,2014 FIFA World Cup,M-2014-62,Netherlands v Argentina,2014-07-09,semi-finals,not applicable,T-46,Netherlands,NLD,1,0,P-06886,Vlaar,Ron,2,0
-234,PK-234,WC-2014,2014 FIFA World Cup,M-2014-62,Netherlands v Argentina,2014-07-09,semi-finals,not applicable,T-46,Netherlands,NLD,1,0,P-04780,Robben,Arjen,11,1
-235,PK-235,WC-2014,2014 FIFA World Cup,M-2014-62,Netherlands v Argentina,2014-07-09,semi-finals,not applicable,T-46,Netherlands,NLD,1,0,P-00240,Sneijder,Wesley,10,0
-236,PK-236,WC-2014,2014 FIFA World Cup,M-2014-62,Netherlands v Argentina,2014-07-09,semi-finals,not applicable,T-46,Netherlands,NLD,1,0,P-05728,Kuyt,Dirk,15,1
-237,PK-237,WC-2014,2014 FIFA World Cup,M-2014-62,Netherlands v Argentina,2014-07-09,semi-finals,not applicable,T-03,Argentina,ARG,0,1,P-03429,Messi,Lionel,10,1
-238,PK-238,WC-2014,2014 FIFA World Cup,M-2014-62,Netherlands v Argentina,2014-07-09,semi-finals,not applicable,T-03,Argentina,ARG,0,1,P-04277,Garay,Ezequiel,2,1
-239,PK-239,WC-2014,2014 FIFA World Cup,M-2014-62,Netherlands v Argentina,2014-07-09,semi-finals,not applicable,T-03,Argentina,ARG,0,1,P-00204,Agüero,Sergio,20,1
-240,PK-240,WC-2014,2014 FIFA World Cup,M-2014-62,Netherlands v Argentina,2014-07-09,semi-finals,not applicable,T-03,Argentina,ARG,0,1,P-06058,Rodríguez,Maxi,11,1
-241,PK-241,WC-2018,2018 FIFA World Cup,M-2018-51,Spain v Russia,2018-07-01,round of 16,not applicable,T-71,Spain,ESP,1,0,P-02250,Iniesta,Andrés,6,1
-242,PK-242,WC-2018,2018 FIFA World Cup,M-2018-51,Spain v Russia,2018-07-01,round of 16,not applicable,T-71,Spain,ESP,1,0,P-08653,Piqué,Gerard,3,1
-243,PK-243,WC-2018,2018 FIFA World Cup,M-2018-51,Spain v Russia,2018-07-01,round of 16,not applicable,T-71,Spain,ESP,1,0,P-09849,Koke,not applicable,8,0
-244,PK-244,WC-2018,2018 FIFA World Cup,M-2018-51,Spain v Russia,2018-07-01,round of 16,not applicable,T-71,Spain,ESP,1,0,P-03356,Ramos,Sergio,15,1
-245,PK-245,WC-2018,2018 FIFA World Cup,M-2018-51,Spain v Russia,2018-07-01,round of 16,not applicable,T-71,Spain,ESP,1,0,P-01514,Aspas,Iago,17,0
-246,PK-246,WC-2018,2018 FIFA World Cup,M-2018-51,Spain v Russia,2018-07-01,round of 16,not applicable,T-60,Russia,RUS,0,1,P-09517,Smolov,Fyodor,10,1
-247,PK-247,WC-2018,2018 FIFA World Cup,M-2018-51,Spain v Russia,2018-07-01,round of 16,not applicable,T-60,Russia,RUS,0,1,P-02744,Ignashevich,Sergei,4,1
-248,PK-248,WC-2018,2018 FIFA World Cup,M-2018-51,Spain v Russia,2018-07-01,round of 16,not applicable,T-60,Russia,RUS,0,1,P-01065,Golovin,Aleksandr,17,1
-249,PK-249,WC-2018,2018 FIFA World Cup,M-2018-51,Spain v Russia,2018-07-01,round of 16,not applicable,T-60,Russia,RUS,0,1,P-07957,Cheryshev,Denis,6,1
-250,PK-250,WC-2018,2018 FIFA World Cup,M-2018-52,Croatia v Denmark,2018-07-01,round of 16,not applicable,T-17,Croatia,HRV,1,0,P-05172,Badelj,Milan,19,0
-251,PK-251,WC-2018,2018 FIFA World Cup,M-2018-52,Croatia v Denmark,2018-07-01,round of 16,not applicable,T-17,Croatia,HRV,1,0,P-03515,Kramarić,Andrej,9,1
-252,PK-252,WC-2018,2018 FIFA World Cup,M-2018-52,Croatia v Denmark,2018-07-01,round of 16,not applicable,T-17,Croatia,HRV,1,0,P-02212,Modrić,Luka,10,1
-253,PK-253,WC-2018,2018 FIFA World Cup,M-2018-52,Croatia v Denmark,2018-07-01,round of 16,not applicable,T-17,Croatia,HRV,1,0,P-09675,Pivarić,Josip,22,0
-254,PK-254,WC-2018,2018 FIFA World Cup,M-2018-52,Croatia v Denmark,2018-07-01,round of 16,not applicable,T-17,Croatia,HRV,1,0,P-05826,Rakitić,Ivan,7,1
-255,PK-255,WC-2018,2018 FIFA World Cup,M-2018-52,Croatia v Denmark,2018-07-01,round of 16,not applicable,T-21,Denmark,DNK,0,1,P-04961,Eriksen,Christian,10,0
-256,PK-256,WC-2018,2018 FIFA World Cup,M-2018-52,Croatia v Denmark,2018-07-01,round of 16,not applicable,T-21,Denmark,DNK,0,1,P-01855,Kjær,Simon,4,1
-257,PK-257,WC-2018,2018 FIFA World Cup,M-2018-52,Croatia v Denmark,2018-07-01,round of 16,not applicable,T-21,Denmark,DNK,0,1,P-08332,Krohn-Dehli,Michael,2,1
-258,PK-258,WC-2018,2018 FIFA World Cup,M-2018-52,Croatia v Denmark,2018-07-01,round of 16,not applicable,T-21,Denmark,DNK,0,1,P-09403,Schöne,Lasse,19,0
-259,PK-259,WC-2018,2018 FIFA World Cup,M-2018-52,Croatia v Denmark,2018-07-01,round of 16,not applicable,T-21,Denmark,DNK,0,1,P-01352,Jørgensen,Nicolai,9,0
-260,PK-260,WC-2018,2018 FIFA World Cup,M-2018-56,Colombia v England,2018-07-03,round of 16,not applicable,T-15,Colombia,COL,1,0,P-03916,Falcao,Radamel,9,1
-261,PK-261,WC-2018,2018 FIFA World Cup,M-2018-56,Colombia v England,2018-07-03,round of 16,not applicable,T-15,Colombia,COL,1,0,P-06555,Cuadrado,Juan,11,1
-262,PK-262,WC-2018,2018 FIFA World Cup,M-2018-56,Colombia v England,2018-07-03,round of 16,not applicable,T-15,Colombia,COL,1,0,P-01405,Muriel,Luis,14,1
-263,PK-263,WC-2018,2018 FIFA World Cup,M-2018-56,Colombia v England,2018-07-03,round of 16,not applicable,T-15,Colombia,COL,1,0,P-03566,Uribe,Mateus,15,0
-264,PK-264,WC-2018,2018 FIFA World Cup,M-2018-56,Colombia v England,2018-07-03,round of 16,not applicable,T-15,Colombia,COL,1,0,P-05926,Bacca,Carlos,7,0
-265,PK-265,WC-2018,2018 FIFA World Cup,M-2018-56,Colombia v England,2018-07-03,round of 16,not applicable,T-27,England,ENG,0,1,P-00376,Kane,Harry,9,1
-266,PK-266,WC-2018,2018 FIFA World Cup,M-2018-56,Colombia v England,2018-07-03,round of 16,not applicable,T-27,England,ENG,0,1,P-02742,Rashford,Marcus,19,1
-267,PK-267,WC-2018,2018 FIFA World Cup,M-2018-56,Colombia v England,2018-07-03,round of 16,not applicable,T-27,England,ENG,0,1,P-03347,Henderson,Jordan,8,0
-268,PK-268,WC-2018,2018 FIFA World Cup,M-2018-56,Colombia v England,2018-07-03,round of 16,not applicable,T-27,England,ENG,0,1,P-06283,Trippier,Kieran,12,1
-269,PK-269,WC-2018,2018 FIFA World Cup,M-2018-56,Colombia v England,2018-07-03,round of 16,not applicable,T-27,England,ENG,0,1,P-00470,Dier,Eric,4,1
-270,PK-270,WC-2018,2018 FIFA World Cup,M-2018-60,Russia v Croatia,2018-07-07,quarter-finals,not applicable,T-60,Russia,RUS,1,0,P-09517,Smolov,Fyodor,10,0
-271,PK-271,WC-2018,2018 FIFA World Cup,M-2018-60,Russia v Croatia,2018-07-07,quarter-finals,not applicable,T-60,Russia,RUS,1,0,P-02275,Dzagoev,Alan,9,1
-272,PK-272,WC-2018,2018 FIFA World Cup,M-2018-60,Russia v Croatia,2018-07-07,quarter-finals,not applicable,T-60,Russia,RUS,1,0,P-01407,Fernandes,Mário,2,0
-273,PK-273,WC-2018,2018 FIFA World Cup,M-2018-60,Russia v Croatia,2018-07-07,quarter-finals,not applicable,T-60,Russia,RUS,1,0,P-02744,Ignashevich,Sergei,4,1
-274,PK-274,WC-2018,2018 FIFA World Cup,M-2018-60,Russia v Croatia,2018-07-07,quarter-finals,not applicable,T-60,Russia,RUS,1,0,P-00627,Kuzyayev,Daler,7,1
-275,PK-275,WC-2018,2018 FIFA World Cup,M-2018-60,Russia v Croatia,2018-07-07,quarter-finals,not applicable,T-17,Croatia,HRV,0,1,P-00709,Brozović,Marcelo,11,1
-276,PK-276,WC-2018,2018 FIFA World Cup,M-2018-60,Russia v Croatia,2018-07-07,quarter-finals,not applicable,T-17,Croatia,HRV,0,1,P-06332,Kovačić,Mateo,8,0
-277,PK-277,WC-2018,2018 FIFA World Cup,M-2018-60,Russia v Croatia,2018-07-07,quarter-finals,not applicable,T-17,Croatia,HRV,0,1,P-02212,Modrić,Luka,10,1
-278,PK-278,WC-2018,2018 FIFA World Cup,M-2018-60,Russia v Croatia,2018-07-07,quarter-finals,not applicable,T-17,Croatia,HRV,0,1,P-00799,Vida,Domagoj,21,1
-279,PK-279,WC-2018,2018 FIFA World Cup,M-2018-60,Russia v Croatia,2018-07-07,quarter-finals,not applicable,T-17,Croatia,HRV,0,1,P-05826,Rakitić,Ivan,7,1
-280,PK-280,WC-2022,2022 FIFA World Cup,M-2022-53,Japan v Croatia,2022-12-05,round of 16,not applicable,T-42,Japan,JPN,1,0,P-05078,Minamino,Takumi,10,0
-281,PK-281,WC-2022,2022 FIFA World Cup,M-2022-53,Japan v Croatia,2022-12-05,round of 16,not applicable,T-42,Japan,JPN,1,0,P-01107,Mitoma,Kaoru,9,0
-282,PK-282,WC-2022,2022 FIFA World Cup,M-2022-53,Japan v Croatia,2022-12-05,round of 16,not applicable,T-42,Japan,JPN,1,0,P-03605,Asano,Takuma,18,1
-283,PK-283,WC-2022,2022 FIFA World Cup,M-2022-53,Japan v Croatia,2022-12-05,round of 16,not applicable,T-42,Japan,JPN,1,0,P-01475,Yoshida,Maya,22,0
-284,PK-284,WC-2022,2022 FIFA World Cup,M-2022-53,Japan v Croatia,2022-12-05,round of 16,not applicable,T-17,Croatia,HRV,0,1,P-09399,Vlašić,Nikola,13,1
-285,PK-285,WC-2022,2022 FIFA World Cup,M-2022-53,Japan v Croatia,2022-12-05,round of 16,not applicable,T-17,Croatia,HRV,0,1,P-00709,Brozović,Marcelo,11,1
-286,PK-286,WC-2022,2022 FIFA World Cup,M-2022-53,Japan v Croatia,2022-12-05,round of 16,not applicable,T-17,Croatia,HRV,0,1,P-00175,Livaja,Marko,14,0
-287,PK-287,WC-2022,2022 FIFA World Cup,M-2022-53,Japan v Croatia,2022-12-05,round of 16,not applicable,T-17,Croatia,HRV,0,1,P-01474,Pašalić,Mario,15,1
-288,PK-288,WC-2022,2022 FIFA World Cup,M-2022-55,Morocco v Spain,2022-12-06,round of 16,not applicable,T-45,Morocco,MAR,1,0,P-07872,Sabiri,Abdelhamid,11,1
-289,PK-289,WC-2022,2022 FIFA World Cup,M-2022-55,Morocco v Spain,2022-12-06,round of 16,not applicable,T-45,Morocco,MAR,1,0,P-00771,Ziyech,Hakim,7,1
-290,PK-290,WC-2022,2022 FIFA World Cup,M-2022-55,Morocco v Spain,2022-12-06,round of 16,not applicable,T-45,Morocco,MAR,1,0,P-03672,Benoun,Badr,24,0
-291,PK-291,WC-2022,2022 FIFA World Cup,M-2022-55,Morocco v Spain,2022-12-06,round of 16,not applicable,T-45,Morocco,MAR,1,0,P-02994,Hakimi,Achraf,2,1
-292,PK-292,WC-2022,2022 FIFA World Cup,M-2022-55,Morocco v Spain,2022-12-06,round of 16,not applicable,T-71,Spain,ESP,0,1,P-08299,Sarabia,Pablo,22,0
-293,PK-293,WC-2022,2022 FIFA World Cup,M-2022-55,Morocco v Spain,2022-12-06,round of 16,not applicable,T-71,Spain,ESP,0,1,P-07922,Soler,Carlos,19,0
-294,PK-294,WC-2022,2022 FIFA World Cup,M-2022-55,Morocco v Spain,2022-12-06,round of 16,not applicable,T-71,Spain,ESP,0,1,P-00986,Busquets,Sergio,5,0
-295,PK-295,WC-2022,2022 FIFA World Cup,M-2022-57,Croatia v Brazil,2022-12-09,quarter-finals,not applicable,T-17,Croatia,HRV,1,0,P-09399,Vlašić,Nikola,13,1
-296,PK-296,WC-2022,2022 FIFA World Cup,M-2022-57,Croatia v Brazil,2022-12-09,quarter-finals,not applicable,T-17,Croatia,HRV,1,0,P-00428,Majer,Lovro,7,1
-297,PK-297,WC-2022,2022 FIFA World Cup,M-2022-57,Croatia v Brazil,2022-12-09,quarter-finals,not applicable,T-17,Croatia,HRV,1,0,P-02212,Modrić,Luka,10,1
-298,PK-298,WC-2022,2022 FIFA World Cup,M-2022-57,Croatia v Brazil,2022-12-09,quarter-finals,not applicable,T-17,Croatia,HRV,1,0,P-04139,Oršić,Mislav,18,1
-299,PK-299,WC-2022,2022 FIFA World Cup,M-2022-57,Croatia v Brazil,2022-12-09,quarter-finals,not applicable,T-09,Brazil,BRA,0,1,P-04047,Rodrygo,not applicable,21,0
-300,PK-300,WC-2022,2022 FIFA World Cup,M-2022-57,Croatia v Brazil,2022-12-09,quarter-finals,not applicable,T-09,Brazil,BRA,0,1,P-05683,Casemiro,not applicable,5,1
-301,PK-301,WC-2022,2022 FIFA World Cup,M-2022-57,Croatia v Brazil,2022-12-09,quarter-finals,not applicable,T-09,Brazil,BRA,0,1,P-01447,Pedro,not applicable,25,1
-302,PK-302,WC-2022,2022 FIFA World Cup,M-2022-57,Croatia v Brazil,2022-12-09,quarter-finals,not applicable,T-09,Brazil,BRA,0,1,P-02223,Marquinhos,not applicable,4,0
-303,PK-303,WC-2022,2022 FIFA World Cup,M-2022-58,Netherlands v Argentina,2022-12-09,quarter-finals,not applicable,T-46,Netherlands,NLD,1,0,P-00725,van Dijk,Virgil,4,0
-304,PK-304,WC-2022,2022 FIFA World Cup,M-2022-58,Netherlands v Argentina,2022-12-09,quarter-finals,not applicable,T-46,Netherlands,NLD,1,0,P-04708,Berghuis,Steven,11,0
-305,PK-305,WC-2022,2022 FIFA World Cup,M-2022-58,Netherlands v Argentina,2022-12-09,quarter-finals,not applicable,T-46,Netherlands,NLD,1,0,P-02710,Koopmeiners,Teun,20,1
-306,PK-306,WC-2022,2022 FIFA World Cup,M-2022-58,Netherlands v Argentina,2022-12-09,quarter-finals,not applicable,T-46,Netherlands,NLD,1,0,P-00518,Weghorst,Wout,19,1
-307,PK-307,WC-2022,2022 FIFA World Cup,M-2022-58,Netherlands v Argentina,2022-12-09,quarter-finals,not applicable,T-46,Netherlands,NLD,1,0,P-00674,de Jong,Luuk,9,1
-308,PK-308,WC-2022,2022 FIFA World Cup,M-2022-58,Netherlands v Argentina,2022-12-09,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-03429,Messi,Lionel,10,1
-309,PK-309,WC-2022,2022 FIFA World Cup,M-2022-58,Netherlands v Argentina,2022-12-09,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-03419,Paredes,Leandro,5,1
-310,PK-310,WC-2022,2022 FIFA World Cup,M-2022-58,Netherlands v Argentina,2022-12-09,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-03476,Montiel,Gonzalo,4,1
-311,PK-311,WC-2022,2022 FIFA World Cup,M-2022-58,Netherlands v Argentina,2022-12-09,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-07584,Fernández,Enzo,24,0
-312,PK-312,WC-2022,2022 FIFA World Cup,M-2022-58,Netherlands v Argentina,2022-12-09,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-02728,Martínez,Lautaro,22,1
-313,PK-313,WC-2022,2022 FIFA World Cup,M-2022-64,Argentina v France,2022-12-18,final,not applicable,T-03,Argentina,ARG,1,0,P-03429,Messi,Lionel,10,1
-314,PK-314,WC-2022,2022 FIFA World Cup,M-2022-64,Argentina v France,2022-12-18,final,not applicable,T-03,Argentina,ARG,1,0,P-00463,Dybala,Paulo,21,1
-315,PK-315,WC-2022,2022 FIFA World Cup,M-2022-64,Argentina v France,2022-12-18,final,not applicable,T-03,Argentina,ARG,1,0,P-03419,Paredes,Leandro,5,1
-316,PK-316,WC-2022,2022 FIFA World Cup,M-2022-64,Argentina v France,2022-12-18,final,not applicable,T-03,Argentina,ARG,1,0,P-03476,Montiel,Gonzalo,4,1
-317,PK-317,WC-2022,2022 FIFA World Cup,M-2022-64,Argentina v France,2022-12-18,final,not applicable,T-28,France,FRA,0,1,P-06978,Mbappé,Kylian,10,1
-318,PK-318,WC-2022,2022 FIFA World Cup,M-2022-64,Argentina v France,2022-12-18,final,not applicable,T-28,France,FRA,0,1,P-01232,Coman,Kingsley,20,0
-319,PK-319,WC-2022,2022 FIFA World Cup,M-2022-64,Argentina v France,2022-12-18,final,not applicable,T-28,France,FRA,0,1,P-05019,Tchouaméni,Aurélien,8,0
-320,PK-320,WC-2022,2022 FIFA World Cup,M-2022-64,Argentina v France,2022-12-18,final,not applicable,T-28,France,FRA,0,1,P-09950,Kolo Muani,Randal,12,1
+1,PK-001,WC-1982,1982 FIFA Men's World Cup,M-1982-50,West Germany vs France,1982-07-08,semi-finals,not applicable,T-86,West Germany,DEU,1,0,P-68969,Kaltz,Manfred,20,1
+2,PK-002,WC-1982,1982 FIFA Men's World Cup,M-1982-50,West Germany vs France,1982-07-08,semi-finals,not applicable,T-86,West Germany,DEU,1,0,P-48686,Breitner,Paul,3,1
+3,PK-003,WC-1982,1982 FIFA Men's World Cup,M-1982-50,West Germany vs France,1982-07-08,semi-finals,not applicable,T-86,West Germany,DEU,1,0,P-45695,Stielike,Uli,15,0
+4,PK-004,WC-1982,1982 FIFA Men's World Cup,M-1982-50,West Germany vs France,1982-07-08,semi-finals,not applicable,T-86,West Germany,DEU,1,0,P-89975,Littbarski,Pierre,7,1
+5,PK-005,WC-1982,1982 FIFA Men's World Cup,M-1982-50,West Germany vs France,1982-07-08,semi-finals,not applicable,T-86,West Germany,DEU,1,0,P-59574,Rummenigge,Karl-Heinz,11,1
+6,PK-006,WC-1982,1982 FIFA Men's World Cup,M-1982-50,West Germany vs France,1982-07-08,semi-finals,not applicable,T-86,West Germany,DEU,1,0,P-89949,Hrubesch,Horst,9,1
+7,PK-007,WC-1982,1982 FIFA Men's World Cup,M-1982-50,West Germany vs France,1982-07-08,semi-finals,not applicable,T-30,France,FRA,0,1,P-79617,Giresse,Alain,12,1
+8,PK-008,WC-1982,1982 FIFA Men's World Cup,M-1982-50,West Germany vs France,1982-07-08,semi-finals,not applicable,T-30,France,FRA,0,1,P-69834,Amoros,Manuel,2,1
+9,PK-009,WC-1982,1982 FIFA Men's World Cup,M-1982-50,West Germany vs France,1982-07-08,semi-finals,not applicable,T-30,France,FRA,0,1,P-99991,Rocheteau,Dominique,18,1
+10,PK-010,WC-1982,1982 FIFA Men's World Cup,M-1982-50,West Germany vs France,1982-07-08,semi-finals,not applicable,T-30,France,FRA,0,1,P-74565,Six,Didier,19,0
+11,PK-011,WC-1982,1982 FIFA Men's World Cup,M-1982-50,West Germany vs France,1982-07-08,semi-finals,not applicable,T-30,France,FRA,0,1,P-08939,Platini,Michel,10,1
+12,PK-012,WC-1982,1982 FIFA Men's World Cup,M-1982-50,West Germany vs France,1982-07-08,semi-finals,not applicable,T-30,France,FRA,0,1,P-03719,Bossis,Maxime,4,0
+13,PK-013,WC-1986,1986 FIFA Men's World Cup,M-1986-45,Brazil vs France,1986-06-21,quarter-finals,not applicable,T-09,Brazil,BRA,1,0,P-78605,Sócrates,not applicable,18,0
+14,PK-014,WC-1986,1986 FIFA Men's World Cup,M-1986-45,Brazil vs France,1986-06-21,quarter-finals,not applicable,T-09,Brazil,BRA,1,0,P-76896,Alemão,not applicable,15,1
+15,PK-015,WC-1986,1986 FIFA Men's World Cup,M-1986-45,Brazil vs France,1986-06-21,quarter-finals,not applicable,T-09,Brazil,BRA,1,0,P-37483,Zico,not applicable,10,1
+16,PK-016,WC-1986,1986 FIFA Men's World Cup,M-1986-45,Brazil vs France,1986-06-21,quarter-finals,not applicable,T-09,Brazil,BRA,1,0,P-90842,Branco,not applicable,17,1
+17,PK-017,WC-1986,1986 FIFA Men's World Cup,M-1986-45,Brazil vs France,1986-06-21,quarter-finals,not applicable,T-09,Brazil,BRA,1,0,P-05820,César,Júlio,14,0
+18,PK-018,WC-1986,1986 FIFA Men's World Cup,M-1986-45,Brazil vs France,1986-06-21,quarter-finals,not applicable,T-30,France,FRA,0,1,P-22982,Stopyra,Yannick,19,1
+19,PK-019,WC-1986,1986 FIFA Men's World Cup,M-1986-45,Brazil vs France,1986-06-21,quarter-finals,not applicable,T-30,France,FRA,0,1,P-69834,Amoros,Manuel,2,1
+20,PK-020,WC-1986,1986 FIFA Men's World Cup,M-1986-45,Brazil vs France,1986-06-21,quarter-finals,not applicable,T-30,France,FRA,0,1,P-12716,Bellone,Bruno,16,1
+21,PK-021,WC-1986,1986 FIFA Men's World Cup,M-1986-45,Brazil vs France,1986-06-21,quarter-finals,not applicable,T-30,France,FRA,0,1,P-08939,Platini,Michel,10,0
+22,PK-022,WC-1986,1986 FIFA Men's World Cup,M-1986-45,Brazil vs France,1986-06-21,quarter-finals,not applicable,T-30,France,FRA,0,1,P-00643,Fernández,Luis,9,1
+23,PK-023,WC-1986,1986 FIFA Men's World Cup,M-1986-46,West Germany vs Mexico,1986-06-21,quarter-finals,not applicable,T-86,West Germany,DEU,1,0,P-95392,Allofs,Klaus,19,1
+24,PK-024,WC-1986,1986 FIFA Men's World Cup,M-1986-46,West Germany vs Mexico,1986-06-21,quarter-finals,not applicable,T-86,West Germany,DEU,1,0,P-67713,Brehme,Andreas,3,1
+25,PK-025,WC-1986,1986 FIFA Men's World Cup,M-1986-46,West Germany vs Mexico,1986-06-21,quarter-finals,not applicable,T-86,West Germany,DEU,1,0,P-49502,Matthäus,Lothar,8,1
+26,PK-026,WC-1986,1986 FIFA Men's World Cup,M-1986-46,West Germany vs Mexico,1986-06-21,quarter-finals,not applicable,T-86,West Germany,DEU,1,0,P-89975,Littbarski,Pierre,7,1
+27,PK-027,WC-1986,1986 FIFA Men's World Cup,M-1986-46,West Germany vs Mexico,1986-06-21,quarter-finals,not applicable,T-46,Mexico,MEX,0,1,P-66199,Negrete,Manuel,22,1
+28,PK-028,WC-1986,1986 FIFA Men's World Cup,M-1986-46,West Germany vs Mexico,1986-06-21,quarter-finals,not applicable,T-46,Mexico,MEX,0,1,P-28996,Quirarte,Fernando,3,0
+29,PK-029,WC-1986,1986 FIFA Men's World Cup,M-1986-46,West Germany vs Mexico,1986-06-21,quarter-finals,not applicable,T-46,Mexico,MEX,0,1,P-89412,Servín,Raúl,17,0
+30,PK-030,WC-1986,1986 FIFA Men's World Cup,M-1986-48,Spain vs Belgium,1986-06-22,quarter-finals,not applicable,T-73,Spain,ESP,1,0,P-32414,Señor,Juan Antonio,7,1
+31,PK-031,WC-1986,1986 FIFA Men's World Cup,M-1986-48,Spain vs Belgium,1986-06-22,quarter-finals,not applicable,T-73,Spain,ESP,1,0,P-74307,Eloy,not applicable,20,0
+32,PK-032,WC-1986,1986 FIFA Men's World Cup,M-1986-48,Spain vs Belgium,1986-06-22,quarter-finals,not applicable,T-73,Spain,ESP,1,0,P-31693,Chendo,not applicable,15,1
+33,PK-033,WC-1986,1986 FIFA Men's World Cup,M-1986-48,Spain vs Belgium,1986-06-22,quarter-finals,not applicable,T-73,Spain,ESP,1,0,P-12940,Butragueño,Emilio,9,1
+34,PK-034,WC-1986,1986 FIFA Men's World Cup,M-1986-48,Spain vs Belgium,1986-06-22,quarter-finals,not applicable,T-73,Spain,ESP,1,0,P-91970,Víctor,not applicable,5,1
+35,PK-035,WC-1986,1986 FIFA Men's World Cup,M-1986-48,Spain vs Belgium,1986-06-22,quarter-finals,not applicable,T-06,Belgium,BEL,0,1,P-47038,Claesen,Nico,16,1
+36,PK-036,WC-1986,1986 FIFA Men's World Cup,M-1986-48,Spain vs Belgium,1986-06-22,quarter-finals,not applicable,T-06,Belgium,BEL,0,1,P-97414,Scifo,Enzo,8,1
+37,PK-037,WC-1986,1986 FIFA Men's World Cup,M-1986-48,Spain vs Belgium,1986-06-22,quarter-finals,not applicable,T-06,Belgium,BEL,0,1,P-93848,Broos,Hugo,19,1
+38,PK-038,WC-1986,1986 FIFA Men's World Cup,M-1986-48,Spain vs Belgium,1986-06-22,quarter-finals,not applicable,T-06,Belgium,BEL,0,1,P-92384,Vervoort,Patrick,22,1
+39,PK-039,WC-1986,1986 FIFA Men's World Cup,M-1986-48,Spain vs Belgium,1986-06-22,quarter-finals,not applicable,T-06,Belgium,BEL,0,1,P-43888,Van Der Elst,Leo,15,1
+40,PK-040,WC-1990,1990 FIFA Men's World Cup,M-1990-41,Republic of Ireland vs Romania,1990-06-25,round of 16,not applicable,T-60,Republic of Ireland,IRL,1,0,P-72379,Sheedy,Kevin,11,1
+41,PK-041,WC-1990,1990 FIFA Men's World Cup,M-1990-41,Republic of Ireland vs Romania,1990-06-25,round of 16,not applicable,T-60,Republic of Ireland,IRL,1,0,P-95491,Houghton,Ray,8,1
+42,PK-042,WC-1990,1990 FIFA Men's World Cup,M-1990-41,Republic of Ireland vs Romania,1990-06-25,round of 16,not applicable,T-60,Republic of Ireland,IRL,1,0,P-28854,Townsend,Andy,13,1
+43,PK-043,WC-1990,1990 FIFA Men's World Cup,M-1990-41,Republic of Ireland vs Romania,1990-06-25,round of 16,not applicable,T-60,Republic of Ireland,IRL,1,0,P-94106,Cascarino,Tony,10,1
+44,PK-044,WC-1990,1990 FIFA Men's World Cup,M-1990-41,Republic of Ireland vs Romania,1990-06-25,round of 16,not applicable,T-60,Republic of Ireland,IRL,1,0,P-64796,O'Leary,David,12,1
+45,PK-045,WC-1990,1990 FIFA Men's World Cup,M-1990-41,Republic of Ireland vs Romania,1990-06-25,round of 16,not applicable,T-61,Romania,ROU,0,1,P-30739,Hagi,Gheorghe,10,1
+46,PK-046,WC-1990,1990 FIFA Men's World Cup,M-1990-41,Republic of Ireland vs Romania,1990-06-25,round of 16,not applicable,T-61,Romania,ROU,0,1,P-49988,Lupu,Dănuț,11,1
+47,PK-047,WC-1990,1990 FIFA Men's World Cup,M-1990-41,Republic of Ireland vs Romania,1990-06-25,round of 16,not applicable,T-61,Romania,ROU,0,1,P-23176,Rotariu,Iosif,5,1
+48,PK-048,WC-1990,1990 FIFA Men's World Cup,M-1990-41,Republic of Ireland vs Romania,1990-06-25,round of 16,not applicable,T-61,Romania,ROU,0,1,P-86528,Lupescu,Ioan,21,1
+49,PK-049,WC-1990,1990 FIFA Men's World Cup,M-1990-41,Republic of Ireland vs Romania,1990-06-25,round of 16,not applicable,T-61,Romania,ROU,0,1,P-40531,Timofte,Daniel,16,0
+50,PK-050,WC-1990,1990 FIFA Men's World Cup,M-1990-45,Argentina vs Yugoslavia,1990-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,1,0,P-80379,Serrizuela,José,18,1
+51,PK-051,WC-1990,1990 FIFA Men's World Cup,M-1990-45,Argentina vs Yugoslavia,1990-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,1,0,P-95267,Burruchaga,Jorge,7,1
+52,PK-052,WC-1990,1990 FIFA Men's World Cup,M-1990-45,Argentina vs Yugoslavia,1990-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,1,0,P-80404,Maradona,Diego,10,0
+53,PK-053,WC-1990,1990 FIFA Men's World Cup,M-1990-45,Argentina vs Yugoslavia,1990-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,1,0,P-30977,Troglio,Pedro,21,0
+54,PK-054,WC-1990,1990 FIFA Men's World Cup,M-1990-45,Argentina vs Yugoslavia,1990-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,1,0,P-53936,Dezotti,Gustavo,9,1
+55,PK-055,WC-1990,1990 FIFA Men's World Cup,M-1990-45,Argentina vs Yugoslavia,1990-06-30,quarter-finals,not applicable,T-87,Yugoslavia,YUG,0,1,P-93318,Stojković,Dragan,10,0
+56,PK-056,WC-1990,1990 FIFA Men's World Cup,M-1990-45,Argentina vs Yugoslavia,1990-06-30,quarter-finals,not applicable,T-87,Yugoslavia,YUG,0,1,P-62861,Prosinečki,Robert,15,1
+57,PK-057,WC-1990,1990 FIFA Men's World Cup,M-1990-45,Argentina vs Yugoslavia,1990-06-30,quarter-finals,not applicable,T-87,Yugoslavia,YUG,0,1,P-18303,Savićević,Dejan,19,1
+58,PK-058,WC-1990,1990 FIFA Men's World Cup,M-1990-45,Argentina vs Yugoslavia,1990-06-30,quarter-finals,not applicable,T-87,Yugoslavia,YUG,0,1,P-71107,Brnović,Dragoljub,7,0
+59,PK-059,WC-1990,1990 FIFA Men's World Cup,M-1990-45,Argentina vs Yugoslavia,1990-06-30,quarter-finals,not applicable,T-87,Yugoslavia,YUG,0,1,P-85893,Hadžibegić,Faruk,5,0
+60,PK-060,WC-1990,1990 FIFA Men's World Cup,M-1990-49,Argentina vs Italy,1990-07-03,semi-finals,not applicable,T-03,Argentina,ARG,1,0,P-80379,Serrizuela,José,18,1
+61,PK-061,WC-1990,1990 FIFA Men's World Cup,M-1990-49,Argentina vs Italy,1990-07-03,semi-finals,not applicable,T-03,Argentina,ARG,1,0,P-95267,Burruchaga,Jorge,7,1
+62,PK-062,WC-1990,1990 FIFA Men's World Cup,M-1990-49,Argentina vs Italy,1990-07-03,semi-finals,not applicable,T-03,Argentina,ARG,1,0,P-46907,Olarticoechea,Julio,16,1
+63,PK-063,WC-1990,1990 FIFA Men's World Cup,M-1990-49,Argentina vs Italy,1990-07-03,semi-finals,not applicable,T-03,Argentina,ARG,1,0,P-80404,Maradona,Diego,10,1
+64,PK-064,WC-1990,1990 FIFA Men's World Cup,M-1990-49,Argentina vs Italy,1990-07-03,semi-finals,not applicable,T-41,Italy,ITA,0,1,P-42920,Baresi,Franco,2,1
+65,PK-065,WC-1990,1990 FIFA Men's World Cup,M-1990-49,Argentina vs Italy,1990-07-03,semi-finals,not applicable,T-41,Italy,ITA,0,1,P-78756,Baggio,Roberto,15,1
+66,PK-066,WC-1990,1990 FIFA Men's World Cup,M-1990-49,Argentina vs Italy,1990-07-03,semi-finals,not applicable,T-41,Italy,ITA,0,1,P-35719,De Agostini,Luigi,4,1
+67,PK-067,WC-1990,1990 FIFA Men's World Cup,M-1990-49,Argentina vs Italy,1990-07-03,semi-finals,not applicable,T-41,Italy,ITA,0,1,P-38434,Donadoni,Roberto,17,0
+68,PK-068,WC-1990,1990 FIFA Men's World Cup,M-1990-49,Argentina vs Italy,1990-07-03,semi-finals,not applicable,T-41,Italy,ITA,0,1,P-35253,Serena,Aldo,20,0
+69,PK-069,WC-1990,1990 FIFA Men's World Cup,M-1990-50,West Germany vs England,1990-07-04,semi-finals,not applicable,T-86,West Germany,DEU,1,0,P-67713,Brehme,Andreas,3,1
+70,PK-070,WC-1990,1990 FIFA Men's World Cup,M-1990-50,West Germany vs England,1990-07-04,semi-finals,not applicable,T-86,West Germany,DEU,1,0,P-49502,Matthäus,Lothar,10,1
+71,PK-071,WC-1990,1990 FIFA Men's World Cup,M-1990-50,West Germany vs England,1990-07-04,semi-finals,not applicable,T-86,West Germany,DEU,1,0,P-43380,Riedle,Karl-Heinz,13,1
+72,PK-072,WC-1990,1990 FIFA Men's World Cup,M-1990-50,West Germany vs England,1990-07-04,semi-finals,not applicable,T-86,West Germany,DEU,1,0,P-45408,Thon,Olaf,20,1
+73,PK-073,WC-1990,1990 FIFA Men's World Cup,M-1990-50,West Germany vs England,1990-07-04,semi-finals,not applicable,T-28,England,ENG,0,1,P-36651,Lineker,Gary,10,1
+74,PK-074,WC-1990,1990 FIFA Men's World Cup,M-1990-50,West Germany vs England,1990-07-04,semi-finals,not applicable,T-28,England,ENG,0,1,P-18335,Beardsley,Peter,9,1
+75,PK-075,WC-1990,1990 FIFA Men's World Cup,M-1990-50,West Germany vs England,1990-07-04,semi-finals,not applicable,T-28,England,ENG,0,1,P-34450,Platt,David,17,1
+76,PK-076,WC-1990,1990 FIFA Men's World Cup,M-1990-50,West Germany vs England,1990-07-04,semi-finals,not applicable,T-28,England,ENG,0,1,P-67307,Pearce,Stuart,3,0
+77,PK-077,WC-1990,1990 FIFA Men's World Cup,M-1990-50,West Germany vs England,1990-07-04,semi-finals,not applicable,T-28,England,ENG,0,1,P-19351,Waddle,Chris,8,0
+78,PK-078,WC-1994,1994 FIFA Men's World Cup,M-1994-44,Mexico vs Bulgaria,1994-07-05,round of 16,not applicable,T-46,Mexico,MEX,1,0,P-21495,García Aspe,Alberto,8,0
+79,PK-079,WC-1994,1994 FIFA Men's World Cup,M-1994-44,Mexico vs Bulgaria,1994-07-05,round of 16,not applicable,T-46,Mexico,MEX,1,0,P-40627,Bernal,Marcelino,6,0
+80,PK-080,WC-1994,1994 FIFA Men's World Cup,M-1994-44,Mexico vs Bulgaria,1994-07-05,round of 16,not applicable,T-46,Mexico,MEX,1,0,P-35042,Rodríguez,Jorge,20,0
+81,PK-081,WC-1994,1994 FIFA Men's World Cup,M-1994-44,Mexico vs Bulgaria,1994-07-05,round of 16,not applicable,T-46,Mexico,MEX,1,0,P-78308,Suárez,Claudio,2,1
+82,PK-082,WC-1994,1994 FIFA Men's World Cup,M-1994-44,Mexico vs Bulgaria,1994-07-05,round of 16,not applicable,T-10,Bulgaria,BGR,0,1,P-22562,Balakov,Krasimir,20,0
+83,PK-083,WC-1994,1994 FIFA Men's World Cup,M-1994-44,Mexico vs Bulgaria,1994-07-05,round of 16,not applicable,T-10,Bulgaria,BGR,0,1,P-67920,Genchev,Boncho,14,1
+84,PK-084,WC-1994,1994 FIFA Men's World Cup,M-1994-44,Mexico vs Bulgaria,1994-07-05,round of 16,not applicable,T-10,Bulgaria,BGR,0,1,P-40793,Borimirov,Daniel,11,1
+85,PK-085,WC-1994,1994 FIFA Men's World Cup,M-1994-44,Mexico vs Bulgaria,1994-07-05,round of 16,not applicable,T-10,Bulgaria,BGR,0,1,P-19567,Letchkov,Yordan,9,1
+86,PK-086,WC-1994,1994 FIFA Men's World Cup,M-1994-48,Romania vs Sweden,1994-07-10,quarter-finals,not applicable,T-61,Romania,ROU,1,0,P-69340,Răducioiu,Florin,9,1
+87,PK-087,WC-1994,1994 FIFA Men's World Cup,M-1994-48,Romania vs Sweden,1994-07-10,quarter-finals,not applicable,T-61,Romania,ROU,1,0,P-30739,Hagi,Gheorghe,10,1
+88,PK-088,WC-1994,1994 FIFA Men's World Cup,M-1994-48,Romania vs Sweden,1994-07-10,quarter-finals,not applicable,T-61,Romania,ROU,1,0,P-86528,Lupescu,Ioan,5,1
+89,PK-089,WC-1994,1994 FIFA Men's World Cup,M-1994-48,Romania vs Sweden,1994-07-10,quarter-finals,not applicable,T-61,Romania,ROU,1,0,P-12625,Petrescu,Dan,2,0
+90,PK-090,WC-1994,1994 FIFA Men's World Cup,M-1994-48,Romania vs Sweden,1994-07-10,quarter-finals,not applicable,T-61,Romania,ROU,1,0,P-54322,Dumitrescu,Ilie,11,1
+91,PK-091,WC-1994,1994 FIFA Men's World Cup,M-1994-48,Romania vs Sweden,1994-07-10,quarter-finals,not applicable,T-61,Romania,ROU,1,0,P-43639,Belodedici,Miodrag,4,0
+92,PK-092,WC-1994,1994 FIFA Men's World Cup,M-1994-48,Romania vs Sweden,1994-07-10,quarter-finals,not applicable,T-74,Sweden,SWE,0,1,P-66178,Mild,Håkan,18,0
+93,PK-093,WC-1994,1994 FIFA Men's World Cup,M-1994-48,Romania vs Sweden,1994-07-10,quarter-finals,not applicable,T-74,Sweden,SWE,0,1,P-60371,Andersson,Kennet,19,1
+94,PK-094,WC-1994,1994 FIFA Men's World Cup,M-1994-48,Romania vs Sweden,1994-07-10,quarter-finals,not applicable,T-74,Sweden,SWE,0,1,P-26281,Brolin,Tomas,11,1
+95,PK-095,WC-1994,1994 FIFA Men's World Cup,M-1994-48,Romania vs Sweden,1994-07-10,quarter-finals,not applicable,T-74,Sweden,SWE,0,1,P-21234,Ingesson,Klas,8,1
+96,PK-096,WC-1994,1994 FIFA Men's World Cup,M-1994-48,Romania vs Sweden,1994-07-10,quarter-finals,not applicable,T-74,Sweden,SWE,0,1,P-23360,Nilsson,Roland,2,1
+97,PK-097,WC-1994,1994 FIFA Men's World Cup,M-1994-48,Romania vs Sweden,1994-07-10,quarter-finals,not applicable,T-74,Sweden,SWE,0,1,P-42895,Larsson,Henrik,7,1
+98,PK-098,WC-1994,1994 FIFA Men's World Cup,M-1994-52,Brazil vs Italy,1994-07-17,final,not applicable,T-09,Brazil,BRA,1,0,P-07679,Santos,Márcio,15,0
+99,PK-099,WC-1994,1994 FIFA Men's World Cup,M-1994-52,Brazil vs Italy,1994-07-17,final,not applicable,T-09,Brazil,BRA,1,0,P-61251,Romário,not applicable,11,1
+100,PK-100,WC-1994,1994 FIFA Men's World Cup,M-1994-52,Brazil vs Italy,1994-07-17,final,not applicable,T-09,Brazil,BRA,1,0,P-90842,Branco,not applicable,6,1
+101,PK-101,WC-1994,1994 FIFA Men's World Cup,M-1994-52,Brazil vs Italy,1994-07-17,final,not applicable,T-09,Brazil,BRA,1,0,P-32466,Dunga,not applicable,8,1
+102,PK-102,WC-1994,1994 FIFA Men's World Cup,M-1994-52,Brazil vs Italy,1994-07-17,final,not applicable,T-41,Italy,ITA,0,1,P-42920,Baresi,Franco,6,0
+103,PK-103,WC-1994,1994 FIFA Men's World Cup,M-1994-52,Brazil vs Italy,1994-07-17,final,not applicable,T-41,Italy,ITA,0,1,P-87231,Albertini,Demetrio,11,1
+104,PK-104,WC-1994,1994 FIFA Men's World Cup,M-1994-52,Brazil vs Italy,1994-07-17,final,not applicable,T-41,Italy,ITA,0,1,P-38178,Evani,Alberigo,17,1
+105,PK-105,WC-1994,1994 FIFA Men's World Cup,M-1994-52,Brazil vs Italy,1994-07-17,final,not applicable,T-41,Italy,ITA,0,1,P-31072,Massaro,Daniele,19,0
+106,PK-106,WC-1994,1994 FIFA Men's World Cup,M-1994-52,Brazil vs Italy,1994-07-17,final,not applicable,T-41,Italy,ITA,0,1,P-78756,Baggio,Roberto,10,0
+107,PK-107,WC-1995,1995 FIFA Women's World Cup,M-1995-22,Sweden vs China,1995-06-13,quarter-final,not applicable,T-74,Sweden,SWE,1,0,P-97773,Andersson,Malin,9,0
+108,PK-108,WC-1995,1995 FIFA Women's World Cup,M-1995-22,Sweden vs China,1995-06-13,quarter-final,not applicable,T-74,Sweden,SWE,1,0,P-33270,Videkull,Lena,7,1
+109,PK-109,WC-1995,1995 FIFA Women's World Cup,M-1995-22,Sweden vs China,1995-06-13,quarter-final,not applicable,T-74,Sweden,SWE,1,0,P-90709,Pohjanen,Anna,6,1
+110,PK-110,WC-1995,1995 FIFA Women's World Cup,M-1995-22,Sweden vs China,1995-06-13,quarter-final,not applicable,T-74,Sweden,SWE,1,0,P-12441,Sundhage,Pia,4,1
+111,PK-111,WC-1995,1995 FIFA Women's World Cup,M-1995-22,Sweden vs China,1995-06-13,quarter-final,not applicable,T-74,Sweden,SWE,1,0,P-82426,Nessvold,Annika,13,0
+112,PK-112,WC-1995,1995 FIFA Women's World Cup,M-1995-22,Sweden vs China,1995-06-13,quarter-final,not applicable,T-14,China,CHN,0,1,P-14903,Sun,Wen,9,1
+113,PK-113,WC-1995,1995 FIFA Women's World Cup,M-1995-22,Sweden vs China,1995-06-13,quarter-final,not applicable,T-14,China,CHN,0,1,P-46333,Xie,Huilin,14,1
+114,PK-114,WC-1995,1995 FIFA Women's World Cup,M-1995-22,Sweden vs China,1995-06-13,quarter-final,not applicable,T-14,China,CHN,0,1,P-51755,Chen,Yufeng,16,1
+115,PK-115,WC-1995,1995 FIFA Women's World Cup,M-1995-22,Sweden vs China,1995-06-13,quarter-final,not applicable,T-14,China,CHN,0,1,P-70203,Shui,Qingxia,8,1
+116,PK-116,WC-1995,1995 FIFA Women's World Cup,M-1995-22,Sweden vs China,1995-06-13,quarter-final,not applicable,T-14,China,CHN,0,1,P-10128,Liu,Ailing,10,0
+117,PK-117,WC-1998,1998 FIFA Men's World Cup,M-1998-56,Argentina vs England,1998-06-30,round of 16,not applicable,T-03,Argentina,ARG,1,0,P-70099,Berti,Sergio,16,1
+118,PK-118,WC-1998,1998 FIFA Men's World Cup,M-1998-56,Argentina vs England,1998-06-30,round of 16,not applicable,T-03,Argentina,ARG,1,0,P-19888,Crespo,Hernán,19,0
+119,PK-119,WC-1998,1998 FIFA Men's World Cup,M-1998-56,Argentina vs England,1998-06-30,round of 16,not applicable,T-03,Argentina,ARG,1,0,P-62209,Verón,Juan Sebastián,11,1
+120,PK-120,WC-1998,1998 FIFA Men's World Cup,M-1998-56,Argentina vs England,1998-06-30,round of 16,not applicable,T-03,Argentina,ARG,1,0,P-94002,Gallardo,Marcelo,20,1
+121,PK-121,WC-1998,1998 FIFA Men's World Cup,M-1998-56,Argentina vs England,1998-06-30,round of 16,not applicable,T-03,Argentina,ARG,1,0,P-83403,Ayala,Roberto,2,1
+122,PK-122,WC-1998,1998 FIFA Men's World Cup,M-1998-56,Argentina vs England,1998-06-30,round of 16,not applicable,T-28,England,ENG,0,1,P-63416,Shearer,Alan,9,1
+123,PK-123,WC-1998,1998 FIFA Men's World Cup,M-1998-56,Argentina vs England,1998-06-30,round of 16,not applicable,T-28,England,ENG,0,1,P-15550,Ince,Paul,4,0
+124,PK-124,WC-1998,1998 FIFA Men's World Cup,M-1998-56,Argentina vs England,1998-06-30,round of 16,not applicable,T-28,England,ENG,0,1,P-69168,Merson,Paul,15,1
+125,PK-125,WC-1998,1998 FIFA Men's World Cup,M-1998-56,Argentina vs England,1998-06-30,round of 16,not applicable,T-28,England,ENG,0,1,P-51130,Owen,Michael,20,1
+126,PK-126,WC-1998,1998 FIFA Men's World Cup,M-1998-56,Argentina vs England,1998-06-30,round of 16,not applicable,T-28,England,ENG,0,1,P-92367,Batty,David,8,0
+127,PK-127,WC-1998,1998 FIFA Men's World Cup,M-1998-57,Italy vs France,1998-07-03,quarter-finals,not applicable,T-41,Italy,ITA,1,0,P-78756,Baggio,Roberto,18,1
+128,PK-128,WC-1998,1998 FIFA Men's World Cup,M-1998-57,Italy vs France,1998-07-03,quarter-finals,not applicable,T-41,Italy,ITA,1,0,P-87231,Albertini,Demetrio,9,0
+129,PK-129,WC-1998,1998 FIFA Men's World Cup,M-1998-57,Italy vs France,1998-07-03,quarter-finals,not applicable,T-41,Italy,ITA,1,0,P-36036,Costacurta,Alessandro,5,1
+130,PK-130,WC-1998,1998 FIFA Men's World Cup,M-1998-57,Italy vs France,1998-07-03,quarter-finals,not applicable,T-41,Italy,ITA,1,0,P-34670,Vieri,Christian,21,1
+131,PK-131,WC-1998,1998 FIFA Men's World Cup,M-1998-57,Italy vs France,1998-07-03,quarter-finals,not applicable,T-41,Italy,ITA,1,0,P-42659,Di Biagio,Luigi,14,0
+132,PK-132,WC-1998,1998 FIFA Men's World Cup,M-1998-57,Italy vs France,1998-07-03,quarter-finals,not applicable,T-30,France,FRA,0,1,P-56430,Zidane,Zinedine,10,1
+133,PK-133,WC-1998,1998 FIFA Men's World Cup,M-1998-57,Italy vs France,1998-07-03,quarter-finals,not applicable,T-30,France,FRA,0,1,P-56735,Lizarazu,Bixente,3,0
+134,PK-134,WC-1998,1998 FIFA Men's World Cup,M-1998-57,Italy vs France,1998-07-03,quarter-finals,not applicable,T-30,France,FRA,0,1,P-12167,Trezeguet,David,20,1
+135,PK-135,WC-1998,1998 FIFA Men's World Cup,M-1998-57,Italy vs France,1998-07-03,quarter-finals,not applicable,T-30,France,FRA,0,1,P-51395,Henry,Thierry,12,1
+136,PK-136,WC-1998,1998 FIFA Men's World Cup,M-1998-57,Italy vs France,1998-07-03,quarter-finals,not applicable,T-30,France,FRA,0,1,P-74952,Blanc,Laurent,5,1
+137,PK-137,WC-1998,1998 FIFA Men's World Cup,M-1998-61,Brazil vs Netherlands,1998-07-07,semi-finals,not applicable,T-09,Brazil,BRA,1,0,P-62722,Ronaldo,not applicable,9,1
+138,PK-138,WC-1998,1998 FIFA Men's World Cup,M-1998-61,Brazil vs Netherlands,1998-07-07,semi-finals,not applicable,T-09,Brazil,BRA,1,0,P-74261,Rivaldo,not applicable,10,1
+139,PK-139,WC-1998,1998 FIFA Men's World Cup,M-1998-61,Brazil vs Netherlands,1998-07-07,semi-finals,not applicable,T-09,Brazil,BRA,1,0,P-52008,Emerson,not applicable,11,1
+140,PK-140,WC-1998,1998 FIFA Men's World Cup,M-1998-61,Brazil vs Netherlands,1998-07-07,semi-finals,not applicable,T-09,Brazil,BRA,1,0,P-32466,Dunga,not applicable,8,1
+141,PK-141,WC-1998,1998 FIFA Men's World Cup,M-1998-61,Brazil vs Netherlands,1998-07-07,semi-finals,not applicable,T-48,Netherlands,NLD,0,1,P-32212,de Boer,Frank,4,1
+142,PK-142,WC-1998,1998 FIFA Men's World Cup,M-1998-61,Brazil vs Netherlands,1998-07-07,semi-finals,not applicable,T-48,Netherlands,NLD,0,1,P-22409,Bergkamp,Dennis,8,1
+143,PK-143,WC-1998,1998 FIFA Men's World Cup,M-1998-61,Brazil vs Netherlands,1998-07-07,semi-finals,not applicable,T-48,Netherlands,NLD,0,1,P-42224,Cocu,Phillip,11,0
+144,PK-144,WC-1998,1998 FIFA Men's World Cup,M-1998-61,Brazil vs Netherlands,1998-07-07,semi-finals,not applicable,T-48,Netherlands,NLD,0,1,P-92804,de Boer,Ronald,7,0
+145,PK-145,WC-1999,1999 FIFA Women's World Cup,M-1999-31,Brazil vs Norway,1999-07-10,third-place match,not applicable,T-09,Brazil,BRA,1,0,P-26383,Pretinha,not applicable,17,0
+146,PK-146,WC-1999,1999 FIFA Women's World Cup,M-1999-31,Brazil vs Norway,1999-07-10,third-place match,not applicable,T-09,Brazil,BRA,1,0,P-96106,Cidinha,not applicable,5,1
+147,PK-147,WC-1999,1999 FIFA Women's World Cup,M-1999-31,Brazil vs Norway,1999-07-10,third-place match,not applicable,T-09,Brazil,BRA,1,0,P-90420,Kátia,not applicable,9,1
+148,PK-148,WC-1999,1999 FIFA Women's World Cup,M-1999-31,Brazil vs Norway,1999-07-10,third-place match,not applicable,T-09,Brazil,BRA,1,0,P-67574,Maycon,not applicable,7,1
+149,PK-149,WC-1999,1999 FIFA Women's World Cup,M-1999-31,Brazil vs Norway,1999-07-10,third-place match,not applicable,T-09,Brazil,BRA,1,0,P-09127,Nenê,not applicable,2,1
+150,PK-150,WC-1999,1999 FIFA Women's World Cup,M-1999-31,Brazil vs Norway,1999-07-10,third-place match,not applicable,T-09,Brazil,BRA,1,0,P-19610,Formiga,not applicable,8,1
+151,PK-151,WC-1999,1999 FIFA Women's World Cup,M-1999-31,Brazil vs Norway,1999-07-10,third-place match,not applicable,T-53,Norway,NOR,0,1,P-84389,Riise,Hege,6,1
+152,PK-152,WC-1999,1999 FIFA Women's World Cup,M-1999-31,Brazil vs Norway,1999-07-10,third-place match,not applicable,T-53,Norway,NOR,0,1,P-75121,Pettersen,Marianne,11,1
+153,PK-153,WC-1999,1999 FIFA Women's World Cup,M-1999-31,Brazil vs Norway,1999-07-10,third-place match,not applicable,T-53,Norway,NOR,0,1,P-31385,Jørgensen,Silje,4,0
+154,PK-154,WC-1999,1999 FIFA Women's World Cup,M-1999-31,Brazil vs Norway,1999-07-10,third-place match,not applicable,T-53,Norway,NOR,0,1,P-04956,Sandaune,Brit,2,1
+155,PK-155,WC-1999,1999 FIFA Women's World Cup,M-1999-31,Brazil vs Norway,1999-07-10,third-place match,not applicable,T-53,Norway,NOR,0,1,P-70069,Gulbrandsen,Solveig,16,1
+156,PK-156,WC-1999,1999 FIFA Women's World Cup,M-1999-31,Brazil vs Norway,1999-07-10,third-place match,not applicable,T-53,Norway,NOR,0,1,P-29915,Aarønes,Ann Kristin,9,0
+157,PK-157,WC-1999,1999 FIFA Women's World Cup,M-1999-32,United States vs China,1999-07-10,final,not applicable,T-83,United States,USA,1,0,P-56906,Overbeck,Carla,4,1
+158,PK-158,WC-1999,1999 FIFA Women's World Cup,M-1999-32,United States vs China,1999-07-10,final,not applicable,T-83,United States,USA,1,0,P-30345,Fawcett,Joy,14,1
+159,PK-159,WC-1999,1999 FIFA Women's World Cup,M-1999-32,United States vs China,1999-07-10,final,not applicable,T-83,United States,USA,1,0,P-25850,Lilly,Kristine,13,1
+160,PK-160,WC-1999,1999 FIFA Women's World Cup,M-1999-32,United States vs China,1999-07-10,final,not applicable,T-83,United States,USA,1,0,P-28901,Hamm,Mia,9,1
+161,PK-161,WC-1999,1999 FIFA Women's World Cup,M-1999-32,United States vs China,1999-07-10,final,not applicable,T-83,United States,USA,1,0,P-99201,Chastain,Brandi,6,1
+162,PK-162,WC-1999,1999 FIFA Women's World Cup,M-1999-32,United States vs China,1999-07-10,final,not applicable,T-14,China,CHN,0,1,P-46333,Xie,Huilin,5,1
+163,PK-163,WC-1999,1999 FIFA Women's World Cup,M-1999-32,United States vs China,1999-07-10,final,not applicable,T-14,China,CHN,0,1,P-84161,Qiu,Haiyan,15,1
+164,PK-164,WC-1999,1999 FIFA Women's World Cup,M-1999-32,United States vs China,1999-07-10,final,not applicable,T-14,China,CHN,0,1,P-48897,Liu,Ying,13,0
+165,PK-165,WC-1999,1999 FIFA Women's World Cup,M-1999-32,United States vs China,1999-07-10,final,not applicable,T-14,China,CHN,0,1,P-70314,Zhang,Ouying,7,1
+166,PK-166,WC-1999,1999 FIFA Women's World Cup,M-1999-32,United States vs China,1999-07-10,final,not applicable,T-14,China,CHN,0,1,P-14903,Sun,Wen,9,1
+167,PK-167,WC-2002,2002 FIFA Men's World Cup,M-2002-52,Spain vs Republic of Ireland,2002-06-16,round of 16,not applicable,T-73,Spain,ESP,1,0,P-35246,Hierro,Fernando,6,1
+168,PK-168,WC-2002,2002 FIFA Men's World Cup,M-2002-52,Spain vs Republic of Ireland,2002-06-16,round of 16,not applicable,T-73,Spain,ESP,1,0,P-23800,Baraja,Rubén,8,1
+169,PK-169,WC-2002,2002 FIFA Men's World Cup,M-2002-52,Spain vs Republic of Ireland,2002-06-16,round of 16,not applicable,T-73,Spain,ESP,1,0,P-29082,Juanfran,not applicable,3,0
+170,PK-170,WC-2002,2002 FIFA Men's World Cup,M-2002-52,Spain vs Republic of Ireland,2002-06-16,round of 16,not applicable,T-73,Spain,ESP,1,0,P-76612,Valerón,Juan Carlos,17,0
+171,PK-171,WC-2002,2002 FIFA Men's World Cup,M-2002-52,Spain vs Republic of Ireland,2002-06-16,round of 16,not applicable,T-73,Spain,ESP,1,0,P-37161,Mendieta,Gaizka,16,1
+172,PK-172,WC-2002,2002 FIFA Men's World Cup,M-2002-52,Spain vs Republic of Ireland,2002-06-16,round of 16,not applicable,T-60,Republic of Ireland,IRL,0,1,P-84878,Keane,Robbie,10,1
+173,PK-173,WC-2002,2002 FIFA Men's World Cup,M-2002-52,Spain vs Republic of Ireland,2002-06-16,round of 16,not applicable,T-60,Republic of Ireland,IRL,0,1,P-00105,Holland,Matt,8,0
+174,PK-174,WC-2002,2002 FIFA Men's World Cup,M-2002-52,Spain vs Republic of Ireland,2002-06-16,round of 16,not applicable,T-60,Republic of Ireland,IRL,0,1,P-20792,Connolly,David,13,0
+175,PK-175,WC-2002,2002 FIFA Men's World Cup,M-2002-52,Spain vs Republic of Ireland,2002-06-16,round of 16,not applicable,T-60,Republic of Ireland,IRL,0,1,P-32499,Kilbane,Kevin,11,0
+176,PK-176,WC-2002,2002 FIFA Men's World Cup,M-2002-52,Spain vs Republic of Ireland,2002-06-16,round of 16,not applicable,T-60,Republic of Ireland,IRL,0,1,P-56778,Finnan,Steve,2,1
+177,PK-177,WC-2002,2002 FIFA Men's World Cup,M-2002-59,Spain vs South Korea,2002-06-22,quarter-finals,not applicable,T-73,Spain,ESP,1,0,P-35246,Hierro,Fernando,6,1
+178,PK-178,WC-2002,2002 FIFA Men's World Cup,M-2002-59,Spain vs South Korea,2002-06-22,quarter-finals,not applicable,T-73,Spain,ESP,1,0,P-23800,Baraja,Rubén,8,1
+179,PK-179,WC-2002,2002 FIFA Men's World Cup,M-2002-59,Spain vs South Korea,2002-06-22,quarter-finals,not applicable,T-73,Spain,ESP,1,0,P-29415,Xavi,not applicable,19,1
+180,PK-180,WC-2002,2002 FIFA Men's World Cup,M-2002-59,Spain vs South Korea,2002-06-22,quarter-finals,not applicable,T-73,Spain,ESP,1,0,P-70144,Joaquín,not applicable,22,0
+181,PK-181,WC-2002,2002 FIFA Men's World Cup,M-2002-59,Spain vs South Korea,2002-06-22,quarter-finals,not applicable,T-71,South Korea,KOR,0,1,P-15222,Hwang,Sun-hong,18,1
+182,PK-182,WC-2002,2002 FIFA Men's World Cup,M-2002-59,Spain vs South Korea,2002-06-22,quarter-finals,not applicable,T-71,South Korea,KOR,0,1,P-25724,Park,Ji-sung,21,1
+183,PK-183,WC-2002,2002 FIFA Men's World Cup,M-2002-59,Spain vs South Korea,2002-06-22,quarter-finals,not applicable,T-71,South Korea,KOR,0,1,P-56626,Seol,Ki-hyeon,9,1
+184,PK-184,WC-2002,2002 FIFA Men's World Cup,M-2002-59,Spain vs South Korea,2002-06-22,quarter-finals,not applicable,T-71,South Korea,KOR,0,1,P-26616,Ahn,Jung-hwan,19,1
+185,PK-185,WC-2002,2002 FIFA Men's World Cup,M-2002-59,Spain vs South Korea,2002-06-22,quarter-finals,not applicable,T-71,South Korea,KOR,0,1,P-55097,Hong,Myung-bo,20,1
+186,PK-186,WC-2006,2006 FIFA Men's World Cup,M-2006-54,Switzerland vs Ukraine,2006-06-26,round of 16,not applicable,T-75,Switzerland,CHE,1,0,P-87221,Streller,Marco,11,0
+187,PK-187,WC-2006,2006 FIFA Men's World Cup,M-2006-54,Switzerland vs Ukraine,2006-06-26,round of 16,not applicable,T-75,Switzerland,CHE,1,0,P-97143,Barnetta,Tranquillo,16,0
+188,PK-188,WC-2006,2006 FIFA Men's World Cup,M-2006-54,Switzerland vs Ukraine,2006-06-26,round of 16,not applicable,T-75,Switzerland,CHE,1,0,P-11817,Cabanas,Ricardo,7,0
+189,PK-189,WC-2006,2006 FIFA Men's World Cup,M-2006-54,Switzerland vs Ukraine,2006-06-26,round of 16,not applicable,T-81,Ukraine,UKR,0,1,P-86650,Shevchenko,Andriy,7,0
+190,PK-190,WC-2006,2006 FIFA Men's World Cup,M-2006-54,Switzerland vs Ukraine,2006-06-26,round of 16,not applicable,T-81,Ukraine,UKR,0,1,P-69073,Milevskyi,Artem,15,1
+191,PK-191,WC-2006,2006 FIFA Men's World Cup,M-2006-54,Switzerland vs Ukraine,2006-06-26,round of 16,not applicable,T-81,Ukraine,UKR,0,1,P-56553,Rebrov,Serhii,11,1
+192,PK-192,WC-2006,2006 FIFA Men's World Cup,M-2006-54,Switzerland vs Ukraine,2006-06-26,round of 16,not applicable,T-81,Ukraine,UKR,0,1,P-82307,Husyev,Oleh,9,1
+193,PK-193,WC-2006,2006 FIFA Men's World Cup,M-2006-57,Germany vs Argentina,2006-06-30,quarter-finals,not applicable,T-31,Germany,DEU,1,0,P-55504,Neuville,Oliver,10,1
+194,PK-194,WC-2006,2006 FIFA Men's World Cup,M-2006-57,Germany vs Argentina,2006-06-30,quarter-finals,not applicable,T-31,Germany,DEU,1,0,P-84003,Ballack,Michael,13,1
+195,PK-195,WC-2006,2006 FIFA Men's World Cup,M-2006-57,Germany vs Argentina,2006-06-30,quarter-finals,not applicable,T-31,Germany,DEU,1,0,P-36287,Podolski,Lukas,20,1
+196,PK-196,WC-2006,2006 FIFA Men's World Cup,M-2006-57,Germany vs Argentina,2006-06-30,quarter-finals,not applicable,T-31,Germany,DEU,1,0,P-08154,Borowski,Tim,18,1
+197,PK-197,WC-2006,2006 FIFA Men's World Cup,M-2006-57,Germany vs Argentina,2006-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-38198,Cruz,Julio,20,1
+198,PK-198,WC-2006,2006 FIFA Men's World Cup,M-2006-57,Germany vs Argentina,2006-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-83403,Ayala,Roberto,2,0
+199,PK-199,WC-2006,2006 FIFA Men's World Cup,M-2006-57,Germany vs Argentina,2006-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-33570,Rodríguez,Maxi,18,1
+200,PK-200,WC-2006,2006 FIFA Men's World Cup,M-2006-57,Germany vs Argentina,2006-06-30,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-66229,Cambiasso,Esteban,5,0
+201,PK-201,WC-2006,2006 FIFA Men's World Cup,M-2006-59,England vs Portugal,2006-07-01,quarter-finals,not applicable,T-28,England,ENG,1,0,P-65534,Lampard,Frank,8,0
+202,PK-202,WC-2006,2006 FIFA Men's World Cup,M-2006-59,England vs Portugal,2006-07-01,quarter-finals,not applicable,T-28,England,ENG,1,0,P-61216,Hargreaves,Owen,16,1
+203,PK-203,WC-2006,2006 FIFA Men's World Cup,M-2006-59,England vs Portugal,2006-07-01,quarter-finals,not applicable,T-28,England,ENG,1,0,P-62157,Gerrard,Steven,4,0
+204,PK-204,WC-2006,2006 FIFA Men's World Cup,M-2006-59,England vs Portugal,2006-07-01,quarter-finals,not applicable,T-28,England,ENG,1,0,P-50944,Carragher,Jamie,15,0
+205,PK-205,WC-2006,2006 FIFA Men's World Cup,M-2006-59,England vs Portugal,2006-07-01,quarter-finals,not applicable,T-58,Portugal,PRT,0,1,P-32279,Simão,not applicable,11,1
+206,PK-206,WC-2006,2006 FIFA Men's World Cup,M-2006-59,England vs Portugal,2006-07-01,quarter-finals,not applicable,T-58,Portugal,PRT,0,1,P-83823,Viana,Hugo,10,0
+207,PK-207,WC-2006,2006 FIFA Men's World Cup,M-2006-59,England vs Portugal,2006-07-01,quarter-finals,not applicable,T-58,Portugal,PRT,0,1,P-92307,Petit,not applicable,8,0
+208,PK-208,WC-2006,2006 FIFA Men's World Cup,M-2006-59,England vs Portugal,2006-07-01,quarter-finals,not applicable,T-58,Portugal,PRT,0,1,P-83900,Postiga,Hélder,23,1
+209,PK-209,WC-2006,2006 FIFA Men's World Cup,M-2006-59,England vs Portugal,2006-07-01,quarter-finals,not applicable,T-58,Portugal,PRT,0,1,P-70442,Ronaldo,Cristiano,17,1
+210,PK-210,WC-2006,2006 FIFA Men's World Cup,M-2006-64,Italy vs France,2006-07-09,final,not applicable,T-41,Italy,ITA,1,0,P-99537,Pirlo,Andrea,21,1
+211,PK-211,WC-2006,2006 FIFA Men's World Cup,M-2006-64,Italy vs France,2006-07-09,final,not applicable,T-41,Italy,ITA,1,0,P-37126,Materazzi,Marco,23,1
+212,PK-212,WC-2006,2006 FIFA Men's World Cup,M-2006-64,Italy vs France,2006-07-09,final,not applicable,T-41,Italy,ITA,1,0,P-65802,De Rossi,Daniele,4,1
+213,PK-213,WC-2006,2006 FIFA Men's World Cup,M-2006-64,Italy vs France,2006-07-09,final,not applicable,T-41,Italy,ITA,1,0,P-83836,Del Piero,Alessandro,7,1
+214,PK-214,WC-2006,2006 FIFA Men's World Cup,M-2006-64,Italy vs France,2006-07-09,final,not applicable,T-41,Italy,ITA,1,0,P-99473,Grosso,Fabio,3,1
+215,PK-215,WC-2006,2006 FIFA Men's World Cup,M-2006-64,Italy vs France,2006-07-09,final,not applicable,T-30,France,FRA,0,1,P-00916,Wiltord,Sylvain,11,1
+216,PK-216,WC-2006,2006 FIFA Men's World Cup,M-2006-64,Italy vs France,2006-07-09,final,not applicable,T-30,France,FRA,0,1,P-12167,Trezeguet,David,20,0
+217,PK-217,WC-2006,2006 FIFA Men's World Cup,M-2006-64,Italy vs France,2006-07-09,final,not applicable,T-30,France,FRA,0,1,P-04469,Abidal,Eric,3,1
+218,PK-218,WC-2006,2006 FIFA Men's World Cup,M-2006-64,Italy vs France,2006-07-09,final,not applicable,T-30,France,FRA,0,1,P-23315,Sagnol,Willy,19,1
+219,PK-219,WC-2010,2010 FIFA Men's World Cup,M-2010-55,Paraguay vs Japan,2010-06-29,round of 16,not applicable,T-55,Paraguay,PRY,1,0,P-44396,Barreto,Édgar,8,1
+220,PK-220,WC-2010,2010 FIFA Men's World Cup,M-2010-55,Paraguay vs Japan,2010-06-29,round of 16,not applicable,T-55,Paraguay,PRY,1,0,P-41357,Barrios,Lucas,19,1
+221,PK-221,WC-2010,2010 FIFA Men's World Cup,M-2010-55,Paraguay vs Japan,2010-06-29,round of 16,not applicable,T-55,Paraguay,PRY,1,0,P-78654,Riveros,Cristian,16,1
+222,PK-222,WC-2010,2010 FIFA Men's World Cup,M-2010-55,Paraguay vs Japan,2010-06-29,round of 16,not applicable,T-55,Paraguay,PRY,1,0,P-50699,Valdez,Nelson,18,1
+223,PK-223,WC-2010,2010 FIFA Men's World Cup,M-2010-55,Paraguay vs Japan,2010-06-29,round of 16,not applicable,T-55,Paraguay,PRY,1,0,P-30381,Cardozo,Óscar,7,1
+224,PK-224,WC-2010,2010 FIFA Men's World Cup,M-2010-55,Paraguay vs Japan,2010-06-29,round of 16,not applicable,T-44,Japan,JPN,0,1,P-61292,Endō,Yasuhito,7,1
+225,PK-225,WC-2010,2010 FIFA Men's World Cup,M-2010-55,Paraguay vs Japan,2010-06-29,round of 16,not applicable,T-44,Japan,JPN,0,1,P-91793,Hasebe,Makoto,17,1
+226,PK-226,WC-2010,2010 FIFA Men's World Cup,M-2010-55,Paraguay vs Japan,2010-06-29,round of 16,not applicable,T-44,Japan,JPN,0,1,P-46091,Komano,Yūichi,3,0
+227,PK-227,WC-2010,2010 FIFA Men's World Cup,M-2010-55,Paraguay vs Japan,2010-06-29,round of 16,not applicable,T-44,Japan,JPN,0,1,P-33175,Honda,Keisuke,18,1
+228,PK-228,WC-2010,2010 FIFA Men's World Cup,M-2010-58,Uruguay vs Ghana,2010-07-02,quarter-finals,not applicable,T-84,Uruguay,URY,1,0,P-86087,Forlán,Diego,10,1
+229,PK-229,WC-2010,2010 FIFA Men's World Cup,M-2010-58,Uruguay vs Ghana,2010-07-02,quarter-finals,not applicable,T-84,Uruguay,URY,1,0,P-92649,Victorino,Mauricio,6,1
+230,PK-230,WC-2010,2010 FIFA Men's World Cup,M-2010-58,Uruguay vs Ghana,2010-07-02,quarter-finals,not applicable,T-84,Uruguay,URY,1,0,P-87316,Scotti,Andrés,19,1
+231,PK-231,WC-2010,2010 FIFA Men's World Cup,M-2010-58,Uruguay vs Ghana,2010-07-02,quarter-finals,not applicable,T-84,Uruguay,URY,1,0,P-41944,Pereira,Maxi,16,0
+232,PK-232,WC-2010,2010 FIFA Men's World Cup,M-2010-58,Uruguay vs Ghana,2010-07-02,quarter-finals,not applicable,T-84,Uruguay,URY,1,0,P-64372,Abreu,Sebastián,13,1
+233,PK-233,WC-2010,2010 FIFA Men's World Cup,M-2010-58,Uruguay vs Ghana,2010-07-02,quarter-finals,not applicable,T-32,Ghana,GHA,0,1,P-38556,Gyan,Asamoah,3,1
+234,PK-234,WC-2010,2010 FIFA Men's World Cup,M-2010-58,Uruguay vs Ghana,2010-07-02,quarter-finals,not applicable,T-32,Ghana,GHA,0,1,P-09728,Appiah,Stephen,10,1
+235,PK-235,WC-2010,2010 FIFA Men's World Cup,M-2010-58,Uruguay vs Ghana,2010-07-02,quarter-finals,not applicable,T-32,Ghana,GHA,0,1,P-29967,Mensah,John,5,0
+236,PK-236,WC-2010,2010 FIFA Men's World Cup,M-2010-58,Uruguay vs Ghana,2010-07-02,quarter-finals,not applicable,T-32,Ghana,GHA,0,1,P-65216,Adiyiah,Dominic,18,0
+237,PK-237,WC-2011,2011 FIFA Women's World Cup,M-2011-25,England vs France,2011-07-09,quarter-final,not applicable,T-28,England,ENG,1,0,P-12357,Smith,Kelly,10,1
+238,PK-238,WC-2011,2011 FIFA Women's World Cup,M-2011-25,England vs France,2011-07-09,quarter-final,not applicable,T-28,England,ENG,1,0,P-34666,Carney,Karen,12,1
+239,PK-239,WC-2011,2011 FIFA Women's World Cup,M-2011-25,England vs France,2011-07-09,quarter-final,not applicable,T-28,England,ENG,1,0,P-77877,Stoney,Casey,6,1
+240,PK-240,WC-2011,2011 FIFA Women's World Cup,M-2011-25,England vs France,2011-07-09,quarter-final,not applicable,T-28,England,ENG,1,0,P-35919,Rafferty,Claire,20,0
+241,PK-241,WC-2011,2011 FIFA Women's World Cup,M-2011-25,England vs France,2011-07-09,quarter-final,not applicable,T-28,England,ENG,1,0,P-81136,White,Faye,5,0
+242,PK-242,WC-2011,2011 FIFA Women's World Cup,M-2011-25,England vs France,2011-07-09,quarter-final,not applicable,T-30,France,FRA,0,1,P-72635,Abily,Camille,10,0
+243,PK-243,WC-2011,2011 FIFA Women's World Cup,M-2011-25,England vs France,2011-07-09,quarter-final,not applicable,T-30,France,FRA,0,1,P-81978,Bussaglia,Élise,15,1
+244,PK-244,WC-2011,2011 FIFA Women's World Cup,M-2011-25,England vs France,2011-07-09,quarter-final,not applicable,T-30,France,FRA,0,1,P-23859,Thiney,Gaëtane,17,1
+245,PK-245,WC-2011,2011 FIFA Women's World Cup,M-2011-25,England vs France,2011-07-09,quarter-final,not applicable,T-30,France,FRA,0,1,P-25958,Bompastor,Sonia,8,1
+246,PK-246,WC-2011,2011 FIFA Women's World Cup,M-2011-25,England vs France,2011-07-09,quarter-final,not applicable,T-30,France,FRA,0,1,P-70239,Le Sommer,Eugénie,9,1
+247,PK-247,WC-2011,2011 FIFA Women's World Cup,M-2011-28,Brazil vs United States,2011-07-10,quarter-final,not applicable,T-09,Brazil,BRA,1,0,P-93057,Cristiane,not applicable,11,1
+248,PK-248,WC-2011,2011 FIFA Women's World Cup,M-2011-28,Brazil vs United States,2011-07-10,quarter-final,not applicable,T-09,Brazil,BRA,1,0,P-07458,Marta,not applicable,10,1
+249,PK-249,WC-2011,2011 FIFA Women's World Cup,M-2011-28,Brazil vs United States,2011-07-10,quarter-final,not applicable,T-09,Brazil,BRA,1,0,P-25746,Daiane,not applicable,3,0
+250,PK-250,WC-2011,2011 FIFA Women's World Cup,M-2011-28,Brazil vs United States,2011-07-10,quarter-final,not applicable,T-09,Brazil,BRA,1,0,P-51448,Francielle,not applicable,15,1
+251,PK-251,WC-2011,2011 FIFA Women's World Cup,M-2011-28,Brazil vs United States,2011-07-10,quarter-final,not applicable,T-83,United States,USA,0,1,P-92403,Boxx,Shannon,7,1
+252,PK-252,WC-2011,2011 FIFA Women's World Cup,M-2011-28,Brazil vs United States,2011-07-10,quarter-final,not applicable,T-83,United States,USA,0,1,P-62104,Lloyd,Carli,10,1
+253,PK-253,WC-2011,2011 FIFA Women's World Cup,M-2011-28,Brazil vs United States,2011-07-10,quarter-final,not applicable,T-83,United States,USA,0,1,P-89236,Wambach,Abby,20,1
+254,PK-254,WC-2011,2011 FIFA Women's World Cup,M-2011-28,Brazil vs United States,2011-07-10,quarter-final,not applicable,T-83,United States,USA,0,1,P-09273,Rapinoe,Megan,15,1
+255,PK-255,WC-2011,2011 FIFA Women's World Cup,M-2011-28,Brazil vs United States,2011-07-10,quarter-final,not applicable,T-83,United States,USA,0,1,P-45187,Krieger,Ali,11,1
+256,PK-256,WC-2011,2011 FIFA Women's World Cup,M-2011-32,Japan vs United States,2011-07-17,final,not applicable,T-44,Japan,JPN,1,0,P-04310,Miyama,Aya,8,1
+257,PK-257,WC-2011,2011 FIFA Women's World Cup,M-2011-32,Japan vs United States,2011-07-17,final,not applicable,T-44,Japan,JPN,1,0,P-20246,Ōgimi,Yūki,17,0
+258,PK-258,WC-2011,2011 FIFA Women's World Cup,M-2011-32,Japan vs United States,2011-07-17,final,not applicable,T-44,Japan,JPN,1,0,P-99210,Sakaguchi,Mizuho,6,1
+259,PK-259,WC-2011,2011 FIFA Women's World Cup,M-2011-32,Japan vs United States,2011-07-17,final,not applicable,T-44,Japan,JPN,1,0,P-90878,Kumagai,Saki,4,1
+260,PK-260,WC-2011,2011 FIFA Women's World Cup,M-2011-32,Japan vs United States,2011-07-17,final,not applicable,T-83,United States,USA,0,1,P-92403,Boxx,Shannon,7,0
+261,PK-261,WC-2011,2011 FIFA Women's World Cup,M-2011-32,Japan vs United States,2011-07-17,final,not applicable,T-83,United States,USA,0,1,P-62104,Lloyd,Carli,10,0
+262,PK-262,WC-2011,2011 FIFA Women's World Cup,M-2011-32,Japan vs United States,2011-07-17,final,not applicable,T-83,United States,USA,0,1,P-35525,Heath,Tobin,17,0
+263,PK-263,WC-2011,2011 FIFA Women's World Cup,M-2011-32,Japan vs United States,2011-07-17,final,not applicable,T-83,United States,USA,0,1,P-89236,Wambach,Abby,20,1
+264,PK-264,WC-2014,2014 FIFA Men's World Cup,M-2014-49,Brazil vs Chile,2014-06-28,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-87449,Luiz,David,4,1
+265,PK-265,WC-2014,2014 FIFA Men's World Cup,M-2014-49,Brazil vs Chile,2014-06-28,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-62621,Willian,not applicable,19,0
+266,PK-266,WC-2014,2014 FIFA Men's World Cup,M-2014-49,Brazil vs Chile,2014-06-28,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-70650,Marcelo,not applicable,6,1
+267,PK-267,WC-2014,2014 FIFA Men's World Cup,M-2014-49,Brazil vs Chile,2014-06-28,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-86524,Hulk,not applicable,7,0
+268,PK-268,WC-2014,2014 FIFA Men's World Cup,M-2014-49,Brazil vs Chile,2014-06-28,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-87008,Neymar,not applicable,10,1
+269,PK-269,WC-2014,2014 FIFA Men's World Cup,M-2014-49,Brazil vs Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-89582,Pinilla,Mauricio,9,0
+270,PK-270,WC-2014,2014 FIFA Men's World Cup,M-2014-49,Brazil vs Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-30014,Sánchez,Alexis,7,0
+271,PK-271,WC-2014,2014 FIFA Men's World Cup,M-2014-49,Brazil vs Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-22391,Aránguiz,Charles,20,1
+272,PK-272,WC-2014,2014 FIFA Men's World Cup,M-2014-49,Brazil vs Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-74494,Díaz,Marcelo,21,1
+273,PK-273,WC-2014,2014 FIFA Men's World Cup,M-2014-49,Brazil vs Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-21890,Jara,Gonzalo,18,0
+274,PK-274,WC-2014,2014 FIFA Men's World Cup,M-2014-52,Costa Rica vs Greece,2014-06-29,round of 16,not applicable,T-17,Costa Rica,CRI,1,0,P-11767,Borges,Celso,5,1
+275,PK-275,WC-2014,2014 FIFA Men's World Cup,M-2014-52,Costa Rica vs Greece,2014-06-29,round of 16,not applicable,T-17,Costa Rica,CRI,1,0,P-99590,Ruiz,Bryan,10,1
+276,PK-276,WC-2014,2014 FIFA Men's World Cup,M-2014-52,Costa Rica vs Greece,2014-06-29,round of 16,not applicable,T-17,Costa Rica,CRI,1,0,P-04808,González,Giancarlo,3,1
+277,PK-277,WC-2014,2014 FIFA Men's World Cup,M-2014-52,Costa Rica vs Greece,2014-06-29,round of 16,not applicable,T-17,Costa Rica,CRI,1,0,P-70812,Campbell,Joel,9,1
+278,PK-278,WC-2014,2014 FIFA Men's World Cup,M-2014-52,Costa Rica vs Greece,2014-06-29,round of 16,not applicable,T-17,Costa Rica,CRI,1,0,P-52458,Umaña,Michael,4,1
+279,PK-279,WC-2014,2014 FIFA Men's World Cup,M-2014-52,Costa Rica vs Greece,2014-06-29,round of 16,not applicable,T-33,Greece,GRC,0,1,P-97050,Mitroglou,Kostas,9,1
+280,PK-280,WC-2014,2014 FIFA Men's World Cup,M-2014-52,Costa Rica vs Greece,2014-06-29,round of 16,not applicable,T-33,Greece,GRC,0,1,P-68693,Christodoulopoulos,Lazaros,16,1
+281,PK-281,WC-2014,2014 FIFA Men's World Cup,M-2014-52,Costa Rica vs Greece,2014-06-29,round of 16,not applicable,T-33,Greece,GRC,0,1,P-59823,Holebas,José,20,1
+282,PK-282,WC-2014,2014 FIFA Men's World Cup,M-2014-52,Costa Rica vs Greece,2014-06-29,round of 16,not applicable,T-33,Greece,GRC,0,1,P-56893,Gekas,Theofanis,17,0
+283,PK-283,WC-2014,2014 FIFA Men's World Cup,M-2014-60,Netherlands vs Costa Rica,2014-07-05,quarter-finals,not applicable,T-48,Netherlands,NLD,1,0,P-99934,van Persie,Robin,9,1
+284,PK-284,WC-2014,2014 FIFA Men's World Cup,M-2014-60,Netherlands vs Costa Rica,2014-07-05,quarter-finals,not applicable,T-48,Netherlands,NLD,1,0,P-23705,Robben,Arjen,11,1
+285,PK-285,WC-2014,2014 FIFA Men's World Cup,M-2014-60,Netherlands vs Costa Rica,2014-07-05,quarter-finals,not applicable,T-48,Netherlands,NLD,1,0,P-51336,Sneijder,Wesley,10,1
+286,PK-286,WC-2014,2014 FIFA Men's World Cup,M-2014-60,Netherlands vs Costa Rica,2014-07-05,quarter-finals,not applicable,T-48,Netherlands,NLD,1,0,P-33312,Kuyt,Dirk,15,1
+287,PK-287,WC-2014,2014 FIFA Men's World Cup,M-2014-60,Netherlands vs Costa Rica,2014-07-05,quarter-finals,not applicable,T-17,Costa Rica,CRI,0,1,P-11767,Borges,Celso,5,1
+288,PK-288,WC-2014,2014 FIFA Men's World Cup,M-2014-60,Netherlands vs Costa Rica,2014-07-05,quarter-finals,not applicable,T-17,Costa Rica,CRI,0,1,P-99590,Ruiz,Bryan,10,0
+289,PK-289,WC-2014,2014 FIFA Men's World Cup,M-2014-60,Netherlands vs Costa Rica,2014-07-05,quarter-finals,not applicable,T-17,Costa Rica,CRI,0,1,P-04808,González,Giancarlo,3,1
+290,PK-290,WC-2014,2014 FIFA Men's World Cup,M-2014-60,Netherlands vs Costa Rica,2014-07-05,quarter-finals,not applicable,T-17,Costa Rica,CRI,0,1,P-57722,Bolaños,Christian,7,1
+291,PK-291,WC-2014,2014 FIFA Men's World Cup,M-2014-60,Netherlands vs Costa Rica,2014-07-05,quarter-finals,not applicable,T-17,Costa Rica,CRI,0,1,P-52458,Umaña,Michael,4,0
+292,PK-292,WC-2014,2014 FIFA Men's World Cup,M-2014-62,Netherlands vs Argentina,2014-07-09,semi-finals,not applicable,T-48,Netherlands,NLD,1,0,P-21798,Vlaar,Ron,2,0
+293,PK-293,WC-2014,2014 FIFA Men's World Cup,M-2014-62,Netherlands vs Argentina,2014-07-09,semi-finals,not applicable,T-48,Netherlands,NLD,1,0,P-23705,Robben,Arjen,11,1
+294,PK-294,WC-2014,2014 FIFA Men's World Cup,M-2014-62,Netherlands vs Argentina,2014-07-09,semi-finals,not applicable,T-48,Netherlands,NLD,1,0,P-51336,Sneijder,Wesley,10,0
+295,PK-295,WC-2014,2014 FIFA Men's World Cup,M-2014-62,Netherlands vs Argentina,2014-07-09,semi-finals,not applicable,T-48,Netherlands,NLD,1,0,P-33312,Kuyt,Dirk,15,1
+296,PK-296,WC-2014,2014 FIFA Men's World Cup,M-2014-62,Netherlands vs Argentina,2014-07-09,semi-finals,not applicable,T-03,Argentina,ARG,0,1,P-14758,Messi,Lionel,10,1
+297,PK-297,WC-2014,2014 FIFA Men's World Cup,M-2014-62,Netherlands vs Argentina,2014-07-09,semi-finals,not applicable,T-03,Argentina,ARG,0,1,P-61051,Garay,Ezequiel,2,1
+298,PK-298,WC-2014,2014 FIFA Men's World Cup,M-2014-62,Netherlands vs Argentina,2014-07-09,semi-finals,not applicable,T-03,Argentina,ARG,0,1,P-36870,Agüero,Sergio,20,1
+299,PK-299,WC-2014,2014 FIFA Men's World Cup,M-2014-62,Netherlands vs Argentina,2014-07-09,semi-finals,not applicable,T-03,Argentina,ARG,0,1,P-33570,Rodríguez,Maxi,11,1
+300,PK-300,WC-2015,2015 FIFA Women's World Cup,M-2015-45,Germany vs France,2015-06-26,quarter-final,not applicable,T-31,Germany,DEU,1,0,P-39260,Behringer,Melanie,7,1
+301,PK-301,WC-2015,2015 FIFA Women's World Cup,M-2015-45,Germany vs France,2015-06-26,quarter-final,not applicable,T-31,Germany,DEU,1,0,P-47092,Laudehr,Simone,6,1
+302,PK-302,WC-2015,2015 FIFA Women's World Cup,M-2015-45,Germany vs France,2015-06-26,quarter-final,not applicable,T-31,Germany,DEU,1,0,P-59869,Peter,Babett,14,1
+303,PK-303,WC-2015,2015 FIFA Women's World Cup,M-2015-45,Germany vs France,2015-06-26,quarter-final,not applicable,T-31,Germany,DEU,1,0,P-84273,Marozsán,Dzsenifer,10,1
+304,PK-304,WC-2015,2015 FIFA Women's World Cup,M-2015-45,Germany vs France,2015-06-26,quarter-final,not applicable,T-31,Germany,DEU,1,0,P-66612,Šašić,Célia,13,1
+305,PK-305,WC-2015,2015 FIFA Women's World Cup,M-2015-45,Germany vs France,2015-06-26,quarter-final,not applicable,T-30,France,FRA,0,1,P-23859,Thiney,Gaëtane,17,1
+306,PK-306,WC-2015,2015 FIFA Women's World Cup,M-2015-45,Germany vs France,2015-06-26,quarter-final,not applicable,T-30,France,FRA,0,1,P-72635,Abily,Camille,10,1
+307,PK-307,WC-2015,2015 FIFA Women's World Cup,M-2015-45,Germany vs France,2015-06-26,quarter-final,not applicable,T-30,France,FRA,0,1,P-63892,Nécib,Louisa,14,1
+308,PK-308,WC-2015,2015 FIFA Women's World Cup,M-2015-45,Germany vs France,2015-06-26,quarter-final,not applicable,T-30,France,FRA,0,1,P-32017,Renard,Wendie,2,1
+309,PK-309,WC-2015,2015 FIFA Women's World Cup,M-2015-45,Germany vs France,2015-06-26,quarter-final,not applicable,T-30,France,FRA,0,1,P-13090,Lavogez,Claire,11,0
+310,PK-310,WC-2018,2018 FIFA Men's World Cup,M-2018-51,Spain vs Russia,2018-07-01,round of 16,not applicable,T-73,Spain,ESP,1,0,P-56330,Iniesta,Andrés,6,1
+311,PK-311,WC-2018,2018 FIFA Men's World Cup,M-2018-51,Spain vs Russia,2018-07-01,round of 16,not applicable,T-73,Spain,ESP,1,0,P-64348,Piqué,Gerard,3,1
+312,PK-312,WC-2018,2018 FIFA Men's World Cup,M-2018-51,Spain vs Russia,2018-07-01,round of 16,not applicable,T-73,Spain,ESP,1,0,P-37294,Koke,not applicable,8,0
+313,PK-313,WC-2018,2018 FIFA Men's World Cup,M-2018-51,Spain vs Russia,2018-07-01,round of 16,not applicable,T-73,Spain,ESP,1,0,P-89177,Ramos,Sergio,15,1
+314,PK-314,WC-2018,2018 FIFA Men's World Cup,M-2018-51,Spain vs Russia,2018-07-01,round of 16,not applicable,T-73,Spain,ESP,1,0,P-60554,Aspas,Iago,17,0
+315,PK-315,WC-2018,2018 FIFA Men's World Cup,M-2018-51,Spain vs Russia,2018-07-01,round of 16,not applicable,T-62,Russia,RUS,0,1,P-18383,Smolov,Fyodor,10,1
+316,PK-316,WC-2018,2018 FIFA Men's World Cup,M-2018-51,Spain vs Russia,2018-07-01,round of 16,not applicable,T-62,Russia,RUS,0,1,P-79763,Ignashevich,Sergei,4,1
+317,PK-317,WC-2018,2018 FIFA Men's World Cup,M-2018-51,Spain vs Russia,2018-07-01,round of 16,not applicable,T-62,Russia,RUS,0,1,P-22778,Golovin,Aleksandr,17,1
+318,PK-318,WC-2018,2018 FIFA Men's World Cup,M-2018-51,Spain vs Russia,2018-07-01,round of 16,not applicable,T-62,Russia,RUS,0,1,P-43675,Cheryshev,Denis,6,1
+319,PK-319,WC-2018,2018 FIFA Men's World Cup,M-2018-52,Croatia vs Denmark,2018-07-01,round of 16,not applicable,T-18,Croatia,HRV,1,0,P-77789,Badelj,Milan,19,0
+320,PK-320,WC-2018,2018 FIFA Men's World Cup,M-2018-52,Croatia vs Denmark,2018-07-01,round of 16,not applicable,T-18,Croatia,HRV,1,0,P-65182,Kramarić,Andrej,9,1
+321,PK-321,WC-2018,2018 FIFA Men's World Cup,M-2018-52,Croatia vs Denmark,2018-07-01,round of 16,not applicable,T-18,Croatia,HRV,1,0,P-29491,Modrić,Luka,10,1
+322,PK-322,WC-2018,2018 FIFA Men's World Cup,M-2018-52,Croatia vs Denmark,2018-07-01,round of 16,not applicable,T-18,Croatia,HRV,1,0,P-89420,Pivarić,Josip,22,0
+323,PK-323,WC-2018,2018 FIFA Men's World Cup,M-2018-52,Croatia vs Denmark,2018-07-01,round of 16,not applicable,T-18,Croatia,HRV,1,0,P-65979,Rakitić,Ivan,7,1
+324,PK-324,WC-2018,2018 FIFA Men's World Cup,M-2018-52,Croatia vs Denmark,2018-07-01,round of 16,not applicable,T-22,Denmark,DNK,0,1,P-50104,Eriksen,Christian,10,0
+325,PK-325,WC-2018,2018 FIFA Men's World Cup,M-2018-52,Croatia vs Denmark,2018-07-01,round of 16,not applicable,T-22,Denmark,DNK,0,1,P-14988,Kjær,Simon,4,1
+326,PK-326,WC-2018,2018 FIFA Men's World Cup,M-2018-52,Croatia vs Denmark,2018-07-01,round of 16,not applicable,T-22,Denmark,DNK,0,1,P-71525,Krohn-Dehli,Michael,2,1
+327,PK-327,WC-2018,2018 FIFA Men's World Cup,M-2018-52,Croatia vs Denmark,2018-07-01,round of 16,not applicable,T-22,Denmark,DNK,0,1,P-60880,Schöne,Lasse,19,0
+328,PK-328,WC-2018,2018 FIFA Men's World Cup,M-2018-52,Croatia vs Denmark,2018-07-01,round of 16,not applicable,T-22,Denmark,DNK,0,1,P-67216,Jørgensen,Nicolai,9,0
+329,PK-329,WC-2018,2018 FIFA Men's World Cup,M-2018-56,Colombia vs England,2018-07-03,round of 16,not applicable,T-16,Colombia,COL,1,0,P-74655,Falcao,Radamel,9,1
+330,PK-330,WC-2018,2018 FIFA Men's World Cup,M-2018-56,Colombia vs England,2018-07-03,round of 16,not applicable,T-16,Colombia,COL,1,0,P-83216,Cuadrado,Juan,11,1
+331,PK-331,WC-2018,2018 FIFA Men's World Cup,M-2018-56,Colombia vs England,2018-07-03,round of 16,not applicable,T-16,Colombia,COL,1,0,P-16245,Muriel,Luis,14,1
+332,PK-332,WC-2018,2018 FIFA Men's World Cup,M-2018-56,Colombia vs England,2018-07-03,round of 16,not applicable,T-16,Colombia,COL,1,0,P-07807,Uribe,Mateus,15,0
+333,PK-333,WC-2018,2018 FIFA Men's World Cup,M-2018-56,Colombia vs England,2018-07-03,round of 16,not applicable,T-16,Colombia,COL,1,0,P-12476,Bacca,Carlos,7,0
+334,PK-334,WC-2018,2018 FIFA Men's World Cup,M-2018-56,Colombia vs England,2018-07-03,round of 16,not applicable,T-28,England,ENG,0,1,P-58924,Kane,Harry,9,1
+335,PK-335,WC-2018,2018 FIFA Men's World Cup,M-2018-56,Colombia vs England,2018-07-03,round of 16,not applicable,T-28,England,ENG,0,1,P-59837,Rashford,Marcus,19,1
+336,PK-336,WC-2018,2018 FIFA Men's World Cup,M-2018-56,Colombia vs England,2018-07-03,round of 16,not applicable,T-28,England,ENG,0,1,P-08169,Henderson,Jordan,8,0
+337,PK-337,WC-2018,2018 FIFA Men's World Cup,M-2018-56,Colombia vs England,2018-07-03,round of 16,not applicable,T-28,England,ENG,0,1,P-25937,Trippier,Kieran,12,1
+338,PK-338,WC-2018,2018 FIFA Men's World Cup,M-2018-56,Colombia vs England,2018-07-03,round of 16,not applicable,T-28,England,ENG,0,1,P-31219,Dier,Eric,4,1
+339,PK-339,WC-2018,2018 FIFA Men's World Cup,M-2018-60,Russia vs Croatia,2018-07-07,quarter-finals,not applicable,T-62,Russia,RUS,1,0,P-18383,Smolov,Fyodor,10,0
+340,PK-340,WC-2018,2018 FIFA Men's World Cup,M-2018-60,Russia vs Croatia,2018-07-07,quarter-finals,not applicable,T-62,Russia,RUS,1,0,P-69896,Dzagoev,Alan,9,1
+341,PK-341,WC-2018,2018 FIFA Men's World Cup,M-2018-60,Russia vs Croatia,2018-07-07,quarter-finals,not applicable,T-62,Russia,RUS,1,0,P-17872,Fernandes,Mário,2,0
+342,PK-342,WC-2018,2018 FIFA Men's World Cup,M-2018-60,Russia vs Croatia,2018-07-07,quarter-finals,not applicable,T-62,Russia,RUS,1,0,P-79763,Ignashevich,Sergei,4,1
+343,PK-343,WC-2018,2018 FIFA Men's World Cup,M-2018-60,Russia vs Croatia,2018-07-07,quarter-finals,not applicable,T-62,Russia,RUS,1,0,P-17415,Kuzyayev,Daler,7,1
+344,PK-344,WC-2018,2018 FIFA Men's World Cup,M-2018-60,Russia vs Croatia,2018-07-07,quarter-finals,not applicable,T-18,Croatia,HRV,0,1,P-79215,Brozović,Marcelo,11,1
+345,PK-345,WC-2018,2018 FIFA Men's World Cup,M-2018-60,Russia vs Croatia,2018-07-07,quarter-finals,not applicable,T-18,Croatia,HRV,0,1,P-07670,Kovačić,Mateo,8,0
+346,PK-346,WC-2018,2018 FIFA Men's World Cup,M-2018-60,Russia vs Croatia,2018-07-07,quarter-finals,not applicable,T-18,Croatia,HRV,0,1,P-29491,Modrić,Luka,10,1
+347,PK-347,WC-2018,2018 FIFA Men's World Cup,M-2018-60,Russia vs Croatia,2018-07-07,quarter-finals,not applicable,T-18,Croatia,HRV,0,1,P-91294,Vida,Domagoj,21,1
+348,PK-348,WC-2018,2018 FIFA Men's World Cup,M-2018-60,Russia vs Croatia,2018-07-07,quarter-finals,not applicable,T-18,Croatia,HRV,0,1,P-65979,Rakitić,Ivan,7,1
+349,PK-349,WC-2019,2019 FIFA Women's World Cup,M-2019-38,Norway vs Australia,2019-06-22,round of 16,not applicable,T-53,Norway,NOR,1,0,P-22811,Hansen,Caroline Graham,10,1
+350,PK-350,WC-2019,2019 FIFA Women's World Cup,M-2019-38,Norway vs Australia,2019-06-22,round of 16,not applicable,T-53,Norway,NOR,1,0,P-77652,Reiten,Guro,16,1
+351,PK-351,WC-2019,2019 FIFA Women's World Cup,M-2019-38,Norway vs Australia,2019-06-22,round of 16,not applicable,T-53,Norway,NOR,1,0,P-74073,Mjelde,Maren,6,1
+352,PK-352,WC-2019,2019 FIFA Women's World Cup,M-2019-38,Norway vs Australia,2019-06-22,round of 16,not applicable,T-53,Norway,NOR,1,0,P-56682,Engen,Ingrid Syrstad,14,1
+353,PK-353,WC-2019,2019 FIFA Women's World Cup,M-2019-38,Norway vs Australia,2019-06-22,round of 16,not applicable,T-04,Australia,AUS,0,1,P-76435,Kerr,Sam,20,0
+354,PK-354,WC-2019,2019 FIFA Women's World Cup,M-2019-38,Norway vs Australia,2019-06-22,round of 16,not applicable,T-04,Australia,AUS,0,1,P-74493,Gielnik,Emily,15,0
+355,PK-355,WC-2019,2019 FIFA Women's World Cup,M-2019-38,Norway vs Australia,2019-06-22,round of 16,not applicable,T-04,Australia,AUS,0,1,P-28164,Catley,Steph,7,1
+356,PK-356,WC-2022,2022 FIFA Men's World Cup,M-2022-53,Japan vs Croatia,2022-12-05,round of 16,not applicable,T-44,Japan,JPN,1,0,P-05559,Minamino,Takumi,10,0
+357,PK-357,WC-2022,2022 FIFA Men's World Cup,M-2022-53,Japan vs Croatia,2022-12-05,round of 16,not applicable,T-44,Japan,JPN,1,0,P-22633,Mitoma,Kaoru,9,0
+358,PK-358,WC-2022,2022 FIFA Men's World Cup,M-2022-53,Japan vs Croatia,2022-12-05,round of 16,not applicable,T-44,Japan,JPN,1,0,P-46913,Asano,Takuma,18,1
+359,PK-359,WC-2022,2022 FIFA Men's World Cup,M-2022-53,Japan vs Croatia,2022-12-05,round of 16,not applicable,T-44,Japan,JPN,1,0,P-89321,Yoshida,Maya,22,0
+360,PK-360,WC-2022,2022 FIFA Men's World Cup,M-2022-53,Japan vs Croatia,2022-12-05,round of 16,not applicable,T-18,Croatia,HRV,0,1,P-22160,Vlašić,Nikola,13,1
+361,PK-361,WC-2022,2022 FIFA Men's World Cup,M-2022-53,Japan vs Croatia,2022-12-05,round of 16,not applicable,T-18,Croatia,HRV,0,1,P-79215,Brozović,Marcelo,11,1
+362,PK-362,WC-2022,2022 FIFA Men's World Cup,M-2022-53,Japan vs Croatia,2022-12-05,round of 16,not applicable,T-18,Croatia,HRV,0,1,P-31643,Livaja,Marko,14,0
+363,PK-363,WC-2022,2022 FIFA Men's World Cup,M-2022-53,Japan vs Croatia,2022-12-05,round of 16,not applicable,T-18,Croatia,HRV,0,1,P-89948,Pašalić,Mario,15,1
+364,PK-364,WC-2022,2022 FIFA Men's World Cup,M-2022-55,Morocco vs Spain,2022-12-06,round of 16,not applicable,T-47,Morocco,MAR,1,0,P-05265,Sabiri,Abdelhamid,11,1
+365,PK-365,WC-2022,2022 FIFA Men's World Cup,M-2022-55,Morocco vs Spain,2022-12-06,round of 16,not applicable,T-47,Morocco,MAR,1,0,P-70715,Ziyech,Hakim,7,1
+366,PK-366,WC-2022,2022 FIFA Men's World Cup,M-2022-55,Morocco vs Spain,2022-12-06,round of 16,not applicable,T-47,Morocco,MAR,1,0,P-00597,Benoun,Badr,24,0
+367,PK-367,WC-2022,2022 FIFA Men's World Cup,M-2022-55,Morocco vs Spain,2022-12-06,round of 16,not applicable,T-47,Morocco,MAR,1,0,P-45288,Hakimi,Achraf,2,1
+368,PK-368,WC-2022,2022 FIFA Men's World Cup,M-2022-55,Morocco vs Spain,2022-12-06,round of 16,not applicable,T-73,Spain,ESP,0,1,P-81427,Sarabia,Pablo,22,0
+369,PK-369,WC-2022,2022 FIFA Men's World Cup,M-2022-55,Morocco vs Spain,2022-12-06,round of 16,not applicable,T-73,Spain,ESP,0,1,P-30405,Soler,Carlos,19,0
+370,PK-370,WC-2022,2022 FIFA Men's World Cup,M-2022-55,Morocco vs Spain,2022-12-06,round of 16,not applicable,T-73,Spain,ESP,0,1,P-28010,Busquets,Sergio,5,0
+371,PK-371,WC-2022,2022 FIFA Men's World Cup,M-2022-57,Croatia vs Brazil,2022-12-09,quarter-finals,not applicable,T-18,Croatia,HRV,1,0,P-22160,Vlašić,Nikola,13,1
+372,PK-372,WC-2022,2022 FIFA Men's World Cup,M-2022-57,Croatia vs Brazil,2022-12-09,quarter-finals,not applicable,T-18,Croatia,HRV,1,0,P-64353,Majer,Lovro,7,1
+373,PK-373,WC-2022,2022 FIFA Men's World Cup,M-2022-57,Croatia vs Brazil,2022-12-09,quarter-finals,not applicable,T-18,Croatia,HRV,1,0,P-29491,Modrić,Luka,10,1
+374,PK-374,WC-2022,2022 FIFA Men's World Cup,M-2022-57,Croatia vs Brazil,2022-12-09,quarter-finals,not applicable,T-18,Croatia,HRV,1,0,P-26942,Oršić,Mislav,18,1
+375,PK-375,WC-2022,2022 FIFA Men's World Cup,M-2022-57,Croatia vs Brazil,2022-12-09,quarter-finals,not applicable,T-09,Brazil,BRA,0,1,P-06446,Rodrygo,not applicable,21,0
+376,PK-376,WC-2022,2022 FIFA Men's World Cup,M-2022-57,Croatia vs Brazil,2022-12-09,quarter-finals,not applicable,T-09,Brazil,BRA,0,1,P-02305,Casemiro,not applicable,5,1
+377,PK-377,WC-2022,2022 FIFA Men's World Cup,M-2022-57,Croatia vs Brazil,2022-12-09,quarter-finals,not applicable,T-09,Brazil,BRA,0,1,P-15197,Pedro,not applicable,25,1
+378,PK-378,WC-2022,2022 FIFA Men's World Cup,M-2022-57,Croatia vs Brazil,2022-12-09,quarter-finals,not applicable,T-09,Brazil,BRA,0,1,P-76060,Marquinhos,not applicable,4,0
+379,PK-379,WC-2022,2022 FIFA Men's World Cup,M-2022-58,Netherlands vs Argentina,2022-12-09,quarter-finals,not applicable,T-48,Netherlands,NLD,1,0,P-56029,van Dijk,Virgil,4,0
+380,PK-380,WC-2022,2022 FIFA Men's World Cup,M-2022-58,Netherlands vs Argentina,2022-12-09,quarter-finals,not applicable,T-48,Netherlands,NLD,1,0,P-10326,Berghuis,Steven,11,0
+381,PK-381,WC-2022,2022 FIFA Men's World Cup,M-2022-58,Netherlands vs Argentina,2022-12-09,quarter-finals,not applicable,T-48,Netherlands,NLD,1,0,P-35705,Koopmeiners,Teun,20,1
+382,PK-382,WC-2022,2022 FIFA Men's World Cup,M-2022-58,Netherlands vs Argentina,2022-12-09,quarter-finals,not applicable,T-48,Netherlands,NLD,1,0,P-95036,Weghorst,Wout,19,1
+383,PK-383,WC-2022,2022 FIFA Men's World Cup,M-2022-58,Netherlands vs Argentina,2022-12-09,quarter-finals,not applicable,T-48,Netherlands,NLD,1,0,P-64551,de Jong,Luuk,9,1
+384,PK-384,WC-2022,2022 FIFA Men's World Cup,M-2022-58,Netherlands vs Argentina,2022-12-09,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-14758,Messi,Lionel,10,1
+385,PK-385,WC-2022,2022 FIFA Men's World Cup,M-2022-58,Netherlands vs Argentina,2022-12-09,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-27582,Paredes,Leandro,5,1
+386,PK-386,WC-2022,2022 FIFA Men's World Cup,M-2022-58,Netherlands vs Argentina,2022-12-09,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-91431,Montiel,Gonzalo,4,1
+387,PK-387,WC-2022,2022 FIFA Men's World Cup,M-2022-58,Netherlands vs Argentina,2022-12-09,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-10739,Fernández,Enzo,24,0
+388,PK-388,WC-2022,2022 FIFA Men's World Cup,M-2022-58,Netherlands vs Argentina,2022-12-09,quarter-finals,not applicable,T-03,Argentina,ARG,0,1,P-81505,Martínez,Lautaro,22,1
+389,PK-389,WC-2022,2022 FIFA Men's World Cup,M-2022-64,Argentina vs France,2022-12-18,final,not applicable,T-03,Argentina,ARG,1,0,P-14758,Messi,Lionel,10,1
+390,PK-390,WC-2022,2022 FIFA Men's World Cup,M-2022-64,Argentina vs France,2022-12-18,final,not applicable,T-03,Argentina,ARG,1,0,P-28151,Dybala,Paulo,21,1
+391,PK-391,WC-2022,2022 FIFA Men's World Cup,M-2022-64,Argentina vs France,2022-12-18,final,not applicable,T-03,Argentina,ARG,1,0,P-27582,Paredes,Leandro,5,1
+392,PK-392,WC-2022,2022 FIFA Men's World Cup,M-2022-64,Argentina vs France,2022-12-18,final,not applicable,T-03,Argentina,ARG,1,0,P-91431,Montiel,Gonzalo,4,1
+393,PK-393,WC-2022,2022 FIFA Men's World Cup,M-2022-64,Argentina vs France,2022-12-18,final,not applicable,T-30,France,FRA,0,1,P-64077,Mbappé,Kylian,10,1
+394,PK-394,WC-2022,2022 FIFA Men's World Cup,M-2022-64,Argentina vs France,2022-12-18,final,not applicable,T-30,France,FRA,0,1,P-06614,Coman,Kingsley,20,0
+395,PK-395,WC-2022,2022 FIFA Men's World Cup,M-2022-64,Argentina vs France,2022-12-18,final,not applicable,T-30,France,FRA,0,1,P-54517,Tchouaméni,Aurélien,8,0
+396,PK-396,WC-2022,2022 FIFA Men's World Cup,M-2022-64,Argentina vs France,2022-12-18,final,not applicable,T-30,France,FRA,0,1,P-92987,Kolo Muani,Randal,12,1

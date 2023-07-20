@@ -1,541 +1,669 @@
 key_id,tournament_id,tournament_name,referee_id,family_name,given_name,country_name,confederation_id,confederation_name,confederation_code
-1,WC-1930,1930 FIFA World Cup,R-032,Balvay,Thomas,France,CF-6,Union of European Football Associations,UEFA
-2,WC-1930,1930 FIFA World Cup,R-073,Christophe,Henri,Belgium,CF-6,Union of European Football Associations,UEFA
-3,WC-1930,1930 FIFA World Cup,R-096,de Almeida Rêgo,Gilberto,Brazil,CF-4,South American Football Confederation,CONMEBOL
-4,WC-1930,1930 FIFA World Cup,R-191,Langenus,John,Belgium,CF-6,Union of European Football Associations,UEFA
-5,WC-1930,1930 FIFA World Cup,R-204,Lombardi,Domingo,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-6,WC-1930,1930 FIFA World Cup,R-213,Macías,José,Argentina,CF-4,South American Football Confederation,CONMEBOL
-7,WC-1930,1930 FIFA World Cup,R-232,Mateucci,Francisco,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-8,WC-1930,1930 FIFA World Cup,R-318,Saucedo,Ulises,Bolivia,CF-4,South American Football Confederation,CONMEBOL
-9,WC-1930,1930 FIFA World Cup,R-350,Tejada,Aníbal,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-10,WC-1930,1930 FIFA World Cup,R-366,Vallarino,Ricardo,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-11,WC-1930,1930 FIFA World Cup,R-385,Warnken,Alberto,Chile,CF-4,South American Football Confederation,CONMEBOL
-12,WC-1934,1934 FIFA World Cup,R-027,Baert,Louis,Belgium,CF-6,Union of European Football Associations,UEFA
-13,WC-1934,1934 FIFA World Cup,R-034,Barlassina,Rinaldo,Italy,CF-6,Union of European Football Associations,UEFA
-14,WC-1934,1934 FIFA World Cup,R-044,Beranek,Alois,Austria,CF-6,Union of European Football Associations,UEFA
-15,WC-1934,1934 FIFA World Cup,R-046,Birlem,Alfred,Germany,CF-6,Union of European Football Associations,UEFA
-16,WC-1934,1934 FIFA World Cup,R-052,Braun,Eugen,Austria,CF-6,Union of European Football Associations,UEFA
-17,WC-1934,1934 FIFA World Cup,R-067,Carraro,Albino,Italy,CF-6,Union of European Football Associations,UEFA
-18,WC-1934,1934 FIFA World Cup,R-112,Eklind,Ivan,Sweden,CF-6,Union of European Football Associations,UEFA
-19,WC-1934,1934 FIFA World Cup,R-191,Langenus,John,Belgium,CF-6,Union of European Football Associations,UEFA
-20,WC-1934,1934 FIFA World Cup,R-235,Mattea,Francesco,Italy,CF-6,Union of European Football Associations,UEFA
-21,WC-1934,1934 FIFA World Cup,R-245,Mercet,René,Switzerland,CF-6,Union of European Football Associations,UEFA
-22,WC-1934,1934 FIFA World Cup,R-371,van Moorsel,Johannes,Netherlands,CF-6,Union of European Football Associations,UEFA
-23,WC-1938,1938 FIFA World Cup,R-027,Baert,Louis,Belgium,CF-6,Union of European Football Associations,UEFA
-24,WC-1938,1938 FIFA World Cup,R-034,Barlassina,Rinaldo,Italy,CF-6,Union of European Football Associations,UEFA
-25,WC-1938,1938 FIFA World Cup,R-044,Beranek,Alois,Austria,CF-6,Union of European Football Associations,UEFA
-26,WC-1938,1938 FIFA World Cup,R-046,Birlem,Alfred,Germany,CF-6,Union of European Football Associations,UEFA
-27,WC-1938,1938 FIFA World Cup,R-065,Capdeville,Georges,France,CF-6,Union of European Football Associations,UEFA
-28,WC-1938,1938 FIFA World Cup,R-083,Conrié,Roger,France,CF-6,Union of European Football Associations,UEFA
-29,WC-1938,1938 FIFA World Cup,R-112,Eklind,Ivan,Sweden,CF-6,Union of European Football Associations,UEFA
-30,WC-1938,1938 FIFA World Cup,R-182,Krist,Augustin,Czechoslovakia,CF-6,Union of European Football Associations,UEFA
-31,WC-1938,1938 FIFA World Cup,R-191,Langenus,John,Belgium,CF-6,Union of European Football Associations,UEFA
-32,WC-1938,1938 FIFA World Cup,R-195,Leclerq,Lucien,France,CF-6,Union of European Football Associations,UEFA
-33,WC-1938,1938 FIFA World Cup,R-320,Scarpi,Giuseppe,Italy,CF-6,Union of European Football Associations,UEFA
-34,WC-1938,1938 FIFA World Cup,R-384,von Hertzka,Pál,Hungary,CF-6,Union of European Football Associations,UEFA
-35,WC-1938,1938 FIFA World Cup,R-396,Wüthrich,Hans,Switzerland,CF-6,Union of European Football Associations,UEFA
-36,WC-1950,1950 FIFA World Cup,R-024,Azón Romá,Ramón,Spain,CF-6,Union of European Football Associations,UEFA
-37,WC-1950,1950 FIFA World Cup,R-094,Dattilo,Generoso,Italy,CF-6,Union of European Football Associations,UEFA
-38,WC-1950,1950 FIFA World Cup,R-112,Eklind,Ivan,Sweden,CF-6,Union of European Football Associations,UEFA
-39,WC-1950,1950 FIFA World Cup,R-115,Ellis,Arthur Edward,England,CF-6,Union of European Football Associations,UEFA
-40,WC-1950,1950 FIFA World Cup,R-131,Galeati,Giovanni,Italy,CF-6,Union of European Football Associations,UEFA
-41,WC-1950,1950 FIFA World Cup,R-135,Gardelli,Mário,Brazil,CF-4,South American Football Confederation,CONMEBOL
-42,WC-1950,1950 FIFA World Cup,R-148,Griffiths,Sandy,Wales,CF-6,Union of European Football Associations,UEFA
-43,WC-1950,1950 FIFA World Cup,R-194,Leafe,Reginald,England,CF-6,Union of European Football Associations,UEFA
-44,WC-1950,1950 FIFA World Cup,R-211,Lutz,Jean,Switzerland,CF-6,Union of European Football Associations,UEFA
-45,WC-1950,1950 FIFA World Cup,R-220,Malcher,Alberto,Brazil,CF-4,South American Football Confederation,CONMEBOL
-46,WC-1950,1950 FIFA World Cup,R-249,Mitchell,George,Scotland,CF-6,Union of European Football Associations,UEFA
-47,WC-1950,1950 FIFA World Cup,R-297,Reader,George,England,CF-6,Union of European Football Associations,UEFA
-48,WC-1950,1950 FIFA World Cup,R-368,van der Meer,Karel,Netherlands,CF-6,Union of European Football Associations,UEFA
-49,WC-1950,1950 FIFA World Cup,R-380,Vianna,Mário,Brazil,CF-4,South American Football Confederation,CONMEBOL
-50,WC-1954,1954 FIFA World Cup,R-021,Asensi,Manuel,Spain,CF-6,Union of European Football Associations,UEFA
-51,WC-1954,1954 FIFA World Cup,R-088,da Costa Vieira,Jose,Portugal,CF-6,Union of European Football Associations,UEFA
-52,WC-1954,1954 FIFA World Cup,R-115,Ellis,Arthur Edward,England,CF-6,Union of European Football Associations,UEFA
-53,WC-1954,1954 FIFA World Cup,R-124,Faultless,Charlie,Scotland,CF-6,Union of European Football Associations,UEFA
-54,WC-1954,1954 FIFA World Cup,R-126,Franken,Laurent,Belgium,CF-6,Union of European Football Associations,UEFA
-55,WC-1954,1954 FIFA World Cup,R-148,Griffiths,Sandy,Wales,CF-6,Union of European Football Associations,UEFA
-56,WC-1954,1954 FIFA World Cup,R-201,Ling,William,England,CF-6,Union of European Football Associations,UEFA
-57,WC-1954,1954 FIFA World Cup,R-223,Marino,Esteban,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-58,WC-1954,1954 FIFA World Cup,R-264,Orlandini,Vincenzo,Italy,CF-6,Union of European Football Associations,UEFA
-59,WC-1954,1954 FIFA World Cup,R-322,Schmetzer,Emil,West Germany,CF-6,Union of European Football Associations,UEFA
-60,WC-1954,1954 FIFA World Cup,R-342,Stefanovic,Vasa,Yugoslavia,CF-6,Union of European Football Associations,UEFA
-61,WC-1954,1954 FIFA World Cup,R-343,Steiner,Carl Erich,Austria,CF-6,Union of European Football Associations,UEFA
-62,WC-1954,1954 FIFA World Cup,R-380,Vianna,Mário,Brazil,CF-4,South American Football Confederation,CONMEBOL
-63,WC-1954,1954 FIFA World Cup,R-382,Vincenti,Raymond,France,CF-6,Union of European Football Associations,UEFA
-64,WC-1954,1954 FIFA World Cup,R-397,Wyssling,Raymond,Switzerland,CF-6,Union of European Football Associations,UEFA
-65,WC-1954,1954 FIFA World Cup,R-400,Zsolt,István,Hungary,CF-6,Union of European Football Associations,UEFA
-66,WC-1958,1958 FIFA World Cup,R-006,Ahlner,Sten,Sweden,CF-6,Union of European Football Associations,UEFA
-67,WC-1958,1958 FIFA World Cup,R-054,Bronkhorst,Jan,Netherlands,CF-6,Union of European Football Associations,UEFA
-68,WC-1958,1958 FIFA World Cup,R-064,Campos,Joaquim,Portugal,CF-6,Union of European Football Associations,UEFA
-69,WC-1958,1958 FIFA World Cup,R-077,Codesal,José María,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-70,WC-1958,1958 FIFA World Cup,R-110,Dusch,Albert,West Germany,CF-6,Union of European Football Associations,UEFA
-71,WC-1958,1958 FIFA World Cup,R-115,Ellis,Arthur Edward,England,CF-6,Union of European Football Associations,UEFA
-72,WC-1958,1958 FIFA World Cup,R-116,Eriksson,Arne,Finland,CF-6,Union of European Football Associations,UEFA
-73,WC-1958,1958 FIFA World Cup,R-133,Garay Gardeazábal,Juan,Spain,CF-6,Union of European Football Associations,UEFA
-74,WC-1958,1958 FIFA World Cup,R-148,Griffiths,Sandy,Wales,CF-6,Union of European Football Associations,UEFA
-75,WC-1958,1958 FIFA World Cup,R-152,Guigue,Maurice,France,CF-6,Union of European Football Associations,UEFA
-76,WC-1958,1958 FIFA World Cup,R-168,Jørgensen,Carl,Denmark,CF-6,Union of European Football Associations,UEFA
-77,WC-1958,1958 FIFA World Cup,R-194,Leafe,Reginald,England,CF-6,Union of European Football Associations,UEFA
-78,WC-1958,1958 FIFA World Cup,R-196,Lemesic,Leo,Yugoslavia,CF-6,Union of European Football Associations,UEFA
-79,WC-1958,1958 FIFA World Cup,R-198,Levnikov,Nikolai,Soviet Union,CF-6,Union of European Football Associations,UEFA
-80,WC-1958,1958 FIFA World Cup,R-215,Macko,Martin,Czechoslovakia,CF-6,Union of European Football Associations,UEFA
-81,WC-1958,1958 FIFA World Cup,R-253,Mowat,Jack,Scotland,CF-6,Union of European Football Associations,UEFA
-82,WC-1958,1958 FIFA World Cup,R-264,Orlandini,Vincenzo,Italy,CF-6,Union of European Football Associations,UEFA
-83,WC-1958,1958 FIFA World Cup,R-298,Regis Brozzi,Juan,Argentina,CF-4,South American Football Confederation,CONMEBOL
-84,WC-1958,1958 FIFA World Cup,R-326,Seipelt,Fritz,Austria,CF-6,Union of European Football Associations,UEFA
-85,WC-1958,1958 FIFA World Cup,R-372,van Nuffel,Lucien,Belgium,CF-6,Union of European Football Associations,UEFA
-86,WC-1958,1958 FIFA World Cup,R-397,Wyssling,Raymond,Switzerland,CF-6,Union of European Football Associations,UEFA
-87,WC-1958,1958 FIFA World Cup,R-400,Zsolt,István,Hungary,CF-6,Union of European Football Associations,UEFA
-88,WC-1962,1962 FIFA World Cup,R-023,Aston,Kenneth,England,CF-6,Union of European Football Associations,UEFA
-89,WC-1962,1962 FIFA World Cup,R-048,Blavier,Antoine,Belgium,CF-6,Union of European Football Associations,UEFA
-90,WC-1962,1962 FIFA World Cup,R-059,Bustamante,Sergio,Chile,CF-4,South American Football Confederation,CONMEBOL
-91,WC-1962,1962 FIFA World Cup,R-095,Davidson,Bobby,Scotland,CF-6,Union of European Football Associations,UEFA
-92,WC-1962,1962 FIFA World Cup,R-103,Dienst,Gottfried,Switzerland,CF-6,Union of European Football Associations,UEFA
-93,WC-1962,1962 FIFA World Cup,R-105,Dorogi,Andor,Hungary,CF-6,Union of European Football Associations,UEFA
-94,WC-1962,1962 FIFA World Cup,R-110,Dusch,Albert,West Germany,CF-6,Union of European Football Associations,UEFA
-95,WC-1962,1962 FIFA World Cup,R-122,Etzel Filho,João,Brazil,CF-4,South American Football Confederation,CONMEBOL
-96,WC-1962,1962 FIFA World Cup,R-130,Galba,Karol,Czechoslovakia,CF-6,Union of European Football Associations,UEFA
-97,WC-1962,1962 FIFA World Cup,R-133,Garay Gardeazábal,Juan,Spain,CF-6,Union of European Football Associations,UEFA
-98,WC-1962,1962 FIFA World Cup,R-160,Horn,Leo,Netherlands,CF-6,Union of European Football Associations,UEFA
-99,WC-1962,1962 FIFA World Cup,R-167,Jonni,Cesare,Italy,CF-6,Union of European Football Associations,UEFA
-100,WC-1962,1962 FIFA World Cup,R-198,Levnikov,Nikolai,Soviet Union,CF-6,Union of European Football Associations,UEFA
-101,WC-1962,1962 FIFA World Cup,R-304,Robles,Carlos,Chile,CF-4,South American Football Confederation,CONMEBOL
-102,WC-1962,1962 FIFA World Cup,R-325,Schwinte,Pierre,France,CF-6,Union of European Football Associations,UEFA
-103,WC-1962,1962 FIFA World Cup,R-343,Steiner,Carl Erich,Austria,CF-6,Union of European Football Associations,UEFA
-104,WC-1962,1962 FIFA World Cup,R-353,Tesanić,Branko,Yugoslavia,CF-6,Union of European Football Associations,UEFA
-105,WC-1962,1962 FIFA World Cup,R-398,Yamasaki Maldonado,Arturo,Peru,CF-4,South American Football Confederation,CONMEBOL
-106,WC-1966,1966 FIFA World Cup,R-002,Adair,John,Northern Ireland,CF-6,Union of European Football Associations,UEFA
-107,WC-1966,1966 FIFA World Cup,R-022,Ashkenazi,Menachem,Israel,CF-6,Union of European Football Associations,UEFA
-108,WC-1966,1966 FIFA World Cup,R-029,Bahramov,Tofiq,Soviet Union,CF-6,Union of European Football Associations,UEFA
-109,WC-1966,1966 FIFA World Cup,R-063,Callaghan,Leo,Wales,CF-6,Union of European Football Associations,UEFA
-110,WC-1966,1966 FIFA World Cup,R-064,Campos,Joaquim,Portugal,CF-6,Union of European Football Associations,UEFA
-111,WC-1966,1966 FIFA World Cup,R-077,Codesal,José María,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-112,WC-1966,1966 FIFA World Cup,R-090,Dagnall,Ken,England,CF-6,Union of European Football Associations,UEFA
-113,WC-1966,1966 FIFA World Cup,R-103,Dienst,Gottfried,Switzerland,CF-6,Union of European Football Associations,UEFA
-114,WC-1966,1966 FIFA World Cup,R-125,Finney,Jim,England,CF-6,Union of European Football Associations,UEFA
-115,WC-1966,1966 FIFA World Cup,R-130,Galba,Karol,Czechoslovakia,CF-6,Union of European Football Associations,UEFA
-116,WC-1966,1966 FIFA World Cup,R-133,Garay Gardeazábal,Juan,Spain,CF-6,Union of European Football Associations,UEFA
-117,WC-1966,1966 FIFA World Cup,R-141,Goicoechea,Roberto,Argentina,CF-4,South American Football Confederation,CONMEBOL
-118,WC-1966,1966 FIFA World Cup,R-171,Kandil,Ali,United Arab Republic,CF-2,Confederation of African Football,CAF
-119,WC-1966,1966 FIFA World Cup,R-181,Kreitlein,Rudolf,West Germany,CF-6,Union of European Football Associations,UEFA
-120,WC-1966,1966 FIFA World Cup,R-203,Lo Bello,Concetto,Italy,CF-6,Union of European Football Associations,UEFA
-121,WC-1966,1966 FIFA World Cup,R-205,Lööw,Bertil,Sweden,CF-6,Union of European Football Associations,UEFA
-122,WC-1966,1966 FIFA World Cup,R-224,Marques,Armando,Brazil,CF-4,South American Football Confederation,CONMEBOL
-123,WC-1966,1966 FIFA World Cup,R-239,McCabe,George,England,CF-6,Union of European Football Associations,UEFA
-124,WC-1966,1966 FIFA World Cup,R-278,Phillips,Hugh,Scotland,CF-6,Union of European Football Associations,UEFA
-125,WC-1966,1966 FIFA World Cup,R-312,Rumenchev,Dimitar,Bulgaria,CF-6,Union of European Football Associations,UEFA
-126,WC-1966,1966 FIFA World Cup,R-325,Schwinte,Pierre,France,CF-6,Union of European Football Associations,UEFA
-127,WC-1966,1966 FIFA World Cup,R-358,Tschenscher,Kurt,West Germany,CF-6,Union of European Football Associations,UEFA
-128,WC-1966,1966 FIFA World Cup,R-398,Yamasaki Maldonado,Arturo,Peru,CF-4,South American Football Confederation,CONMEBOL
-129,WC-1966,1966 FIFA World Cup,R-399,Zečević,Konstantin,Yugoslavia,CF-6,Union of European Football Associations,UEFA
-130,WC-1966,1966 FIFA World Cup,R-400,Zsolt,István,Hungary,CF-6,Union of European Football Associations,UEFA
-131,WC-1970,1970 FIFA World Cup,R-005,Aguilar Elizalde,Abel,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-132,WC-1970,1970 FIFA World Cup,R-029,Bahramov,Tofiq,Soviet Union,CF-6,Union of European Football Associations,UEFA
-133,WC-1970,1970 FIFA World Cup,R-036,Barreto Ruíz,Ramón,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-134,WC-1970,1970 FIFA World Cup,R-080,Coerezza,Ángel Norberto,Argentina,CF-4,South American Football Confederation,CONMEBOL
-135,WC-1970,1970 FIFA World Cup,R-095,Davidson,Bobby,Scotland,CF-6,Union of European Football Associations,UEFA
-136,WC-1970,1970 FIFA World Cup,R-098,De Leo,Diego,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-137,WC-1970,1970 FIFA World Cup,R-140,Glöckner,Rudi,East Germany,CF-6,Union of European Football Associations,UEFA
-138,WC-1970,1970 FIFA World Cup,R-159,Hormazábal Díaz,Rafael,Chile,CF-4,South American Football Confederation,CONMEBOL
-139,WC-1970,1970 FIFA World Cup,R-171,Kandil,Ali,United Arab Republic,CF-2,Confederation of African Football,CAF
-140,WC-1970,1970 FIFA World Cup,R-179,Klein,Abraham,Israel,CF-6,Union of European Football Associations,UEFA
-141,WC-1970,1970 FIFA World Cup,R-189,Landauer,Henry,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-142,WC-1970,1970 FIFA World Cup,R-207,Loraux,Vital,Belgium,CF-6,Union of European Football Associations,UEFA
-143,WC-1970,1970 FIFA World Cup,R-212,Machin,Roger,France,CF-6,Union of European Football Associations,UEFA
-144,WC-1970,1970 FIFA World Cup,R-227,Marschall,Ferdinand,Austria,CF-6,Union of European Football Associations,UEFA
-145,WC-1970,1970 FIFA World Cup,R-267,Ortiz de Mendíbil,José María,Spain,CF-6,Union of European Football Associations,UEFA
-146,WC-1970,1970 FIFA World Cup,R-290,Rădulescu,Andrei,Romania,CF-6,Union of European Football Associations,UEFA
-147,WC-1970,1970 FIFA World Cup,R-300,Ribeiro Saldanha,Antonio,Portugal,CF-6,Union of European Football Associations,UEFA
-148,WC-1970,1970 FIFA World Cup,R-319,Sbardella,Antonio,Italy,CF-6,Union of European Football Associations,UEFA
-149,WC-1970,1970 FIFA World Cup,R-321,Scheurer,Rudolf,Switzerland,CF-6,Union of European Football Associations,UEFA
-150,WC-1970,1970 FIFA World Cup,R-347,Tarekegn,Seyoum,Ethiopia,CF-2,Confederation of African Football,CAF
-151,WC-1970,1970 FIFA World Cup,R-349,Taylor,Jack,England,CF-6,Union of European Football Associations,UEFA
-152,WC-1970,1970 FIFA World Cup,R-358,Tschenscher,Kurt,West Germany,CF-6,Union of European Football Associations,UEFA
-153,WC-1970,1970 FIFA World Cup,R-373,van Ravens,Laurens,Netherlands,CF-6,Union of European Football Associations,UEFA
-154,WC-1970,1970 FIFA World Cup,R-381,Vieira de Moraes,Ayrton,Brazil,CF-4,South American Football Confederation,CONMEBOL
-155,WC-1970,1970 FIFA World Cup,R-398,Yamasaki Maldonado,Arturo,Peru,CF-4,South American Football Confederation,CONMEBOL
-156,WC-1974,1974 FIFA World Cup,R-016,Angonese,Aurelio,Italy,CF-6,Union of European Football Associations,UEFA
-157,WC-1974,1974 FIFA World Cup,R-025,Babacan,Doğan,Turkey,CF-6,Union of European Football Associations,UEFA
-158,WC-1974,1974 FIFA World Cup,R-036,Barreto Ruíz,Ramón,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-159,WC-1974,1974 FIFA World Cup,R-049,Boskovic,Tony,Australia,CF-1,Asian Football Confederation,AFC
-160,WC-1974,1974 FIFA World Cup,R-095,Davidson,Bobby,Scotland,CF-6,Union of European Football Associations,UEFA
-161,WC-1974,1974 FIFA World Cup,R-099,Delgado Gómez,Omar,Colombia,CF-4,South American Football Confederation,CONMEBOL
-162,WC-1974,1974 FIFA World Cup,R-140,Glöckner,Rudi,East Germany,CF-6,Union of European Football Associations,UEFA
-163,WC-1974,1974 FIFA World Cup,R-146,González Archundía,Alfonso,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-164,WC-1974,1974 FIFA World Cup,R-175,Kazakov,Pavel,Soviet Union,CF-6,Union of European Football Associations,UEFA
-165,WC-1974,1974 FIFA World Cup,R-200,Linemayr,Erich,Austria,CF-6,Union of European Football Associations,UEFA
-166,WC-1974,1974 FIFA World Cup,R-202,Llobregat,Vicente,Venezuela,CF-4,South American Football Confederation,CONMEBOL
-167,WC-1974,1974 FIFA World Cup,R-207,Loraux,Vital,Belgium,CF-6,Union of European Football Associations,UEFA
-168,WC-1974,1974 FIFA World Cup,R-224,Marques,Armando,Brazil,CF-4,South American Football Confederation,CONMEBOL
-169,WC-1974,1974 FIFA World Cup,R-254,Mustafa Kamel,Mahmoud,Egypt,CF-2,Confederation of African Football,CAF
-170,WC-1974,1974 FIFA World Cup,R-255,N'Diaye,Youssou,Senegal,CF-2,Confederation of African Football,CAF
-171,WC-1974,1974 FIFA World Cup,R-257,Namdar,Jafar,Iran,CF-1,Asian Football Confederation,AFC
-172,WC-1974,1974 FIFA World Cup,R-271,Palotai,Károly,Hungary,CF-6,Union of European Football Associations,UEFA
-173,WC-1974,1974 FIFA World Cup,R-275,Peréz Núñez,Edison,Peru,CF-4,South American Football Confederation,CONMEBOL
-174,WC-1974,1974 FIFA World Cup,R-276,Pestarino,Luis,Argentina,CF-4,South American Football Confederation,CONMEBOL
-175,WC-1974,1974 FIFA World Cup,R-292,Rainea,Nicolae,Romania,CF-6,Union of European Football Associations,UEFA
-176,WC-1974,1974 FIFA World Cup,R-316,Sánchez Ibáñez,Pablo,Spain,CF-6,Union of European Football Associations,UEFA
-177,WC-1974,1974 FIFA World Cup,R-321,Scheurer,Rudolf,Switzerland,CF-6,Union of European Football Associations,UEFA
-178,WC-1974,1974 FIFA World Cup,R-324,Schulenburg,Gerhard,West Germany,CF-6,Union of European Football Associations,UEFA
-179,WC-1974,1974 FIFA World Cup,R-345,Suppiah,Govindasamy,Singapore,CF-1,Asian Football Confederation,AFC
-180,WC-1974,1974 FIFA World Cup,R-349,Taylor,Jack,England,CF-6,Union of European Football Associations,UEFA
-181,WC-1974,1974 FIFA World Cup,R-354,Thomas,Clive,Wales,CF-6,Union of European Football Associations,UEFA
-182,WC-1974,1974 FIFA World Cup,R-358,Tschenscher,Kurt,West Germany,CF-6,Union of European Football Associations,UEFA
-183,WC-1974,1974 FIFA World Cup,R-369,van Gemert,Arie,Netherlands,CF-6,Union of European Football Associations,UEFA
-184,WC-1974,1974 FIFA World Cup,R-388,Weyland,Hans-Joachim,West Germany,CF-6,Union of European Football Associations,UEFA
-185,WC-1974,1974 FIFA World Cup,R-391,Winsemann,Werner,Canada,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-186,WC-1978,1978 FIFA World Cup,R-036,Barreto Ruíz,Ramón,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-187,WC-1978,1978 FIFA World Cup,R-047,Biwersi,Ferdinand,West Germany,CF-6,Union of European Football Associations,UEFA
-188,WC-1978,1978 FIFA World Cup,R-051,Bouzo,Farouk,Syria,CF-1,Asian Football Confederation,AFC
-189,WC-1978,1978 FIFA World Cup,R-079,Coelho,Arnaldo Cézar,Brazil,CF-4,South American Football Confederation,CONMEBOL
-190,WC-1978,1978 FIFA World Cup,R-080,Coerezza,Ángel Norberto,Argentina,CF-4,South American Football Confederation,CONMEBOL
-191,WC-1978,1978 FIFA World Cup,R-084,Corver,Charles,Netherlands,CF-6,Union of European Football Associations,UEFA
-192,WC-1978,1978 FIFA World Cup,R-108,Dubach,Jean,Switzerland,CF-6,Union of European Football Associations,UEFA
-193,WC-1978,1978 FIFA World Cup,R-118,Eriksson,Ulf,Sweden,CF-6,Union of European Football Associations,UEFA
-194,WC-1978,1978 FIFA World Cup,R-136,Garrido,António,Portugal,CF-6,Union of European Football Associations,UEFA
-195,WC-1978,1978 FIFA World Cup,R-143,Gonella,Sergio,Italy,CF-6,Union of European Football Associations,UEFA
-196,WC-1978,1978 FIFA World Cup,R-146,González Archundía,Alfonso,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-197,WC-1978,1978 FIFA World Cup,R-147,Gordon,John,Scotland,CF-6,Union of European Football Associations,UEFA
-198,WC-1978,1978 FIFA World Cup,R-150,Guerrero Orosco,César,Peru,CF-4,South American Football Confederation,CONMEBOL
-199,WC-1978,1978 FIFA World Cup,R-166,Jarguz,Alojzy,Poland,CF-6,Union of European Football Associations,UEFA
-200,WC-1978,1978 FIFA World Cup,R-179,Klein,Abraham,Israel,CF-6,Union of European Football Associations,UEFA
-201,WC-1978,1978 FIFA World Cup,R-200,Linemayr,Erich,Austria,CF-6,Union of European Football Associations,UEFA
-202,WC-1978,1978 FIFA World Cup,R-219,Maksimović,Dušan,Yugoslavia,CF-6,Union of European Football Associations,UEFA
-203,WC-1978,1978 FIFA World Cup,R-229,Martínez,Ángel Franco,Spain,CF-6,Union of European Football Associations,UEFA
-204,WC-1978,1978 FIFA World Cup,R-255,N'Diaye,Youssou,Senegal,CF-2,Confederation of African Football,CAF
-205,WC-1978,1978 FIFA World Cup,R-257,Namdar,Jafar,Iran,CF-1,Asian Football Confederation,AFC
-206,WC-1978,1978 FIFA World Cup,R-271,Palotai,Károly,Hungary,CF-6,Union of European Football Associations,UEFA
-207,WC-1978,1978 FIFA World Cup,R-272,Partridge,Pat,England,CF-6,Union of European Football Associations,UEFA
-208,WC-1978,1978 FIFA World Cup,R-287,Prokop,Adolf,East Germany,CF-6,Union of European Football Associations,UEFA
-209,WC-1978,1978 FIFA World Cup,R-292,Rainea,Nicolae,Romania,CF-6,Union of European Football Associations,UEFA
-210,WC-1978,1978 FIFA World Cup,R-302,Rion,Francis,Belgium,CF-6,Union of European Football Associations,UEFA
-211,WC-1978,1978 FIFA World Cup,R-333,Silvagno Cavanna,Juan,Chile,CF-4,South American Football Confederation,CONMEBOL
-212,WC-1978,1978 FIFA World Cup,R-354,Thomas,Clive,Wales,CF-6,Union of European Football Associations,UEFA
-213,WC-1978,1978 FIFA World Cup,R-395,Wurtz,Robert,France,CF-6,Union of European Football Associations,UEFA
-214,WC-1982,1982 FIFA World Cup,R-007,Al-Doy,Ibrahim Youssef,Bahrain,CF-1,Asian Football Confederation,AFC
-215,WC-1982,1982 FIFA World Cup,R-013,Alghoul,Yousef,Libya,CF-2,Confederation of African Football,CAF
-216,WC-1982,1982 FIFA World Cup,R-019,Aristizábal,Gilberto,Colombia,CF-4,South American Football Confederation,CONMEBOL
-217,WC-1982,1982 FIFA World Cup,R-035,Barrancos,Luis,Bolivia,CF-4,South American Football Confederation,CONMEBOL
-218,WC-1982,1982 FIFA World Cup,R-049,Boskovic,Tony,Australia,CF-1,Asian Football Confederation,AFC
-219,WC-1982,1982 FIFA World Cup,R-066,Cardellino,Juan Daniel,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-220,WC-1982,1982 FIFA World Cup,R-068,Casarin,Paolo,Italy,CF-6,Union of European Football Associations,UEFA
-221,WC-1982,1982 FIFA World Cup,R-070,Castro,Gastón,Chile,CF-4,South American Football Confederation,CONMEBOL
-222,WC-1982,1982 FIFA World Cup,R-072,Chan,Tam Sun,Hong Kong,CF-1,Asian Football Confederation,AFC
-223,WC-1982,1982 FIFA World Cup,R-074,Christov,Vojtěch,Czechoslovakia,CF-6,Union of European Football Associations,UEFA
-224,WC-1982,1982 FIFA World Cup,R-079,Coelho,Arnaldo Cézar,Brazil,CF-4,South American Football Confederation,CONMEBOL
-225,WC-1982,1982 FIFA World Cup,R-084,Corver,Charles,Netherlands,CF-6,Union of European Football Associations,UEFA
-226,WC-1982,1982 FIFA World Cup,R-106,Dotchev,Bogdan,Bulgaria,CF-6,Union of European Football Associations,UEFA
-227,WC-1982,1982 FIFA World Cup,R-111,Dwomoh,Benjamin,Ghana,CF-2,Confederation of African Football,CAF
-228,WC-1982,1982 FIFA World Cup,R-119,Eschweiler,Walter,West Germany,CF-6,Union of European Football Associations,UEFA
-229,WC-1982,1982 FIFA World Cup,R-128,Fredriksson,Erik,Sweden,CF-6,Union of European Football Associations,UEFA
-230,WC-1982,1982 FIFA World Cup,R-132,Galler,Bruno,Switzerland,CF-6,Union of European Football Associations,UEFA
-231,WC-1982,1982 FIFA World Cup,R-136,Garrido,António,Portugal,CF-6,Union of European Football Associations,UEFA
-232,WC-1982,1982 FIFA World Cup,R-163,Ithurralde,Arturo,Argentina,CF-4,South American Football Confederation,CONMEBOL
-233,WC-1982,1982 FIFA World Cup,R-166,Jarguz,Alojzy,Poland,CF-6,Union of European Football Associations,UEFA
-234,WC-1982,1982 FIFA World Cup,R-179,Klein,Abraham,Israel,CF-6,Union of European Football Associations,UEFA
-235,WC-1982,1982 FIFA World Cup,R-185,Labo Revoredo,Enrique,Peru,CF-4,South American Football Confederation,CONMEBOL
-236,WC-1982,1982 FIFA World Cup,R-186,Lacarne,Belaïd,Algeria,CF-2,Confederation of African Football,CAF
-237,WC-1982,1982 FIFA World Cup,R-187,Lamo Castillo,Augusto,Spain,CF-6,Union of European Football Associations,UEFA
-238,WC-1982,1982 FIFA World Cup,R-210,Lund-Sørensen,Henning,Denmark,CF-6,Union of European Football Associations,UEFA
-239,WC-1982,1982 FIFA World Cup,R-234,Matovinović,Damir,Yugoslavia,CF-6,Union of European Football Associations,UEFA
-240,WC-1982,1982 FIFA World Cup,R-244,Méndez,Rómulo,Guatemala,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-241,WC-1982,1982 FIFA World Cup,R-250,Moffat,Malcolm,Northern Ireland,CF-6,Union of European Football Associations,UEFA
-242,WC-1982,1982 FIFA World Cup,R-266,Ortiz,Héctor,Paraguay,CF-4,South American Football Confederation,CONMEBOL
-243,WC-1982,1982 FIFA World Cup,R-271,Palotai,Károly,Hungary,CF-6,Union of European Football Associations,UEFA
-244,WC-1982,1982 FIFA World Cup,R-273,Paulino Siles,Luis,Costa Rica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-245,WC-1982,1982 FIFA World Cup,R-282,Ponnet,Alexis,Belgium,CF-6,Union of European Football Associations,UEFA
-246,WC-1982,1982 FIFA World Cup,R-287,Prokop,Adolf,East Germany,CF-6,Union of European Football Associations,UEFA
-247,WC-1982,1982 FIFA World Cup,R-292,Rainea,Nicolae,Romania,CF-6,Union of European Football Associations,UEFA
-248,WC-1982,1982 FIFA World Cup,R-338,Socha,David,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-249,WC-1982,1982 FIFA World Cup,R-344,Stupar,Myroslav,Soviet Union,CF-6,Union of European Football Associations,UEFA
-250,WC-1982,1982 FIFA World Cup,R-364,Valentine,Bob,Scotland,CF-6,Union of European Football Associations,UEFA
-251,WC-1982,1982 FIFA World Cup,R-375,Vautrot,Michel,France,CF-6,Union of European Football Associations,UEFA
-252,WC-1982,1982 FIFA World Cup,R-376,Vázquez,Mario Rubio,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-253,WC-1982,1982 FIFA World Cup,R-389,White,Clive,England,CF-6,Union of European Football Associations,UEFA
-254,WC-1982,1982 FIFA World Cup,R-392,Wöhrer,Franz,Austria,CF-6,Union of European Football Associations,UEFA
-255,WC-1986,1986 FIFA World Cup,R-003,Agnolin,Luigi,Italy,CF-6,Union of European Football Associations,UEFA
-256,WC-1986,1986 FIFA World Cup,R-011,Al-Shanar,Fallaj,Saudi Arabia,CF-1,Asian Football Confederation,AFC
-257,WC-1986,1986 FIFA World Cup,R-012,Al-Sharif,Jamal,Syria,CF-1,Asian Football Confederation,AFC
-258,WC-1986,1986 FIFA World Cup,R-020,Arppi Filho,Romualdo,Brazil,CF-4,South American Football Confederation,CONMEBOL
-259,WC-1986,1986 FIFA World Cup,R-033,Bambridge,Chris,Australia,CF-1,Asian Football Confederation,AFC
-260,WC-1986,1986 FIFA World Cup,R-045,Bin Nasser,Ali,Tunisia,CF-2,Confederation of African Football,CAF
-261,WC-1986,1986 FIFA World Cup,R-055,Brummeier,Horst,Austria,CF-6,Union of European Football Associations,UEFA
-262,WC-1986,1986 FIFA World Cup,R-060,Butenko,Valeri,Soviet Union,CF-6,Union of European Football Associations,UEFA
-263,WC-1986,1986 FIFA World Cup,R-074,Christov,Vojtěch,Czechoslovakia,CF-6,Union of European Football Associations,UEFA
-264,WC-1986,1986 FIFA World Cup,R-086,Courtney,George,England,CF-6,Union of European Football Associations,UEFA
-265,WC-1986,1986 FIFA World Cup,R-091,Daina,André,Switzerland,CF-6,Union of European Football Associations,UEFA
-266,WC-1986,1986 FIFA World Cup,R-100,Díaz,Jesús,Colombia,CF-4,South American Football Confederation,CONMEBOL
-267,WC-1986,1986 FIFA World Cup,R-106,Dotchev,Bogdan,Bulgaria,CF-6,Union of European Football Associations,UEFA
-268,WC-1986,1986 FIFA World Cup,R-121,Espósito,Carlos,Argentina,CF-4,South American Football Confederation,CONMEBOL
-269,WC-1986,1986 FIFA World Cup,R-128,Fredriksson,Erik,Sweden,CF-6,Union of European Football Associations,UEFA
-270,WC-1986,1986 FIFA World Cup,R-145,González,Gabriel,Paraguay,CF-4,South American Football Confederation,CONMEBOL
-271,WC-1986,1986 FIFA World Cup,R-161,Igna,Ioan,Romania,CF-6,Union of European Football Associations,UEFA
-272,WC-1986,1986 FIFA World Cup,R-176,Keizer,Jan,Netherlands,CF-6,Union of European Football Associations,UEFA
-273,WC-1986,1986 FIFA World Cup,R-178,Kirschen,Siegfried,East Germany,CF-6,Union of European Football Associations,UEFA
-274,WC-1986,1986 FIFA World Cup,R-225,Márquez Ramírez,Antonio,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-275,WC-1986,1986 FIFA World Cup,R-230,Martínez Bazán,José Luis,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-276,WC-1986,1986 FIFA World Cup,R-244,Méndez,Rómulo,Guatemala,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-277,WC-1986,1986 FIFA World Cup,R-258,Németh,Lajos,Hungary,CF-6,Union of European Football Associations,UEFA
-278,WC-1986,1986 FIFA World Cup,R-277,Petrović,Zoran,Yugoslavia,CF-6,Union of European Football Associations,UEFA
-279,WC-1986,1986 FIFA World Cup,R-279,Picon-Ackong,Edwin,Mauritius,CF-2,Confederation of African Football,CAF
-280,WC-1986,1986 FIFA World Cup,R-282,Ponnet,Alexis,Belgium,CF-6,Union of European Football Associations,UEFA
-281,WC-1986,1986 FIFA World Cup,R-289,Quiniou,Joël,France,CF-6,Union of European Football Associations,UEFA
-282,WC-1986,1986 FIFA World Cup,R-309,Roth,Volker,West Germany,CF-6,Union of European Football Associations,UEFA
-283,WC-1986,1986 FIFA World Cup,R-315,Sánchez Arminio,Victoriano,Spain,CF-6,Union of European Football Associations,UEFA
-284,WC-1986,1986 FIFA World Cup,R-331,Silva,Hernán,Chile,CF-4,South American Football Confederation,CONMEBOL
-285,WC-1986,1986 FIFA World Cup,R-332,Silva Valente,Carlos,Portugal,CF-6,Union of European Football Associations,UEFA
-286,WC-1986,1986 FIFA World Cup,R-337,Snoddy,Alan,Northern Ireland,CF-6,Union of European Football Associations,UEFA
-287,WC-1986,1986 FIFA World Cup,R-338,Socha,David,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-288,WC-1986,1986 FIFA World Cup,R-346,Takada,Shizuo,Japan,CF-1,Asian Football Confederation,AFC
-289,WC-1986,1986 FIFA World Cup,R-357,Traoré,Idrissa,Mali,CF-2,Confederation of African Football,CAF
-290,WC-1986,1986 FIFA World Cup,R-360,Ulloa Morera,Berny,Costa Rica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-291,WC-1990,1990 FIFA World Cup,R-003,Agnolin,Luigi,Italy,CF-6,Union of European Football Associations,UEFA
-292,WC-1990,1990 FIFA World Cup,R-012,Al-Sharif,Jamal,Syria,CF-1,Asian Football Confederation,AFC
-293,WC-1990,1990 FIFA World Cup,R-066,Cardellino,Juan Daniel,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-294,WC-1990,1990 FIFA World Cup,R-076,Codesal,Edgardo,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-295,WC-1990,1990 FIFA World Cup,R-086,Courtney,George,England,CF-6,Union of European Football Associations,UEFA
-296,WC-1990,1990 FIFA World Cup,R-128,Fredriksson,Erik,Sweden,CF-6,Union of European Football Associations,UEFA
-297,WC-1990,1990 FIFA World Cup,R-165,Jácome,Elías,Ecuador,CF-4,South American Football Confederation,CONMEBOL
-298,WC-1990,1990 FIFA World Cup,R-169,Jouini,Neji,Tunisia,CF-2,Confederation of African Football,CAF
-299,WC-1990,1990 FIFA World Cup,R-178,Kirschen,Siegfried,East Germany,CF-6,Union of European Football Associations,UEFA
-300,WC-1990,1990 FIFA World Cup,R-180,Kohl,Helmut,Austria,CF-6,Union of European Football Associations,UEFA
-301,WC-1990,1990 FIFA World Cup,R-190,Lanese,Tullio,Italy,CF-6,Union of European Football Associations,UEFA
-302,WC-1990,1990 FIFA World Cup,R-208,Loustau,Juan Carlos,Argentina,CF-4,South American Football Confederation,CONMEBOL
-303,WC-1990,1990 FIFA World Cup,R-214,Maciel,Carlos,Paraguay,CF-4,South American Football Confederation,CONMEBOL
-304,WC-1990,1990 FIFA World Cup,R-237,Mauro,Vincent,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-305,WC-1990,1990 FIFA World Cup,R-248,Mikkelsen,Peter,Denmark,CF-6,Union of European Football Associations,UEFA
-306,WC-1990,1990 FIFA World Cup,R-277,Petrović,Zoran,Yugoslavia,CF-6,Union of European Football Associations,UEFA
-307,WC-1990,1990 FIFA World Cup,R-289,Quiniou,Joël,France,CF-6,Union of European Football Associations,UEFA
-308,WC-1990,1990 FIFA World Cup,R-310,Röthlisberger,Kurt,Switzerland,CF-6,Union of European Football Associations,UEFA
-309,WC-1990,1990 FIFA World Cup,R-323,Schmidhuber,Aron,West Germany,CF-6,Union of European Football Associations,UEFA
-310,WC-1990,1990 FIFA World Cup,R-331,Silva,Hernán,Chile,CF-4,South American Football Confederation,CONMEBOL
-311,WC-1990,1990 FIFA World Cup,R-332,Silva Valente,Carlos,Portugal,CF-6,Union of European Football Associations,UEFA
-312,WC-1990,1990 FIFA World Cup,R-336,Smith,George,Scotland,CF-6,Union of European Football Associations,UEFA
-313,WC-1990,1990 FIFA World Cup,R-337,Snoddy,Alan,Northern Ireland,CF-6,Union of European Football Associations,UEFA
-314,WC-1990,1990 FIFA World Cup,R-339,Soriano Aladrén,Emilio,Spain,CF-6,Union of European Football Associations,UEFA
-315,WC-1990,1990 FIFA World Cup,R-340,Spirin,Alexey,Soviet Union,CF-6,Union of European Football Associations,UEFA
-316,WC-1990,1990 FIFA World Cup,R-346,Takada,Shizuo,Japan,CF-1,Asian Football Confederation,AFC
-317,WC-1990,1990 FIFA World Cup,R-370,van Langenhove,Marcel,Belgium,CF-6,Union of European Football Associations,UEFA
-318,WC-1990,1990 FIFA World Cup,R-375,Vautrot,Michel,France,CF-6,Union of European Football Associations,UEFA
-319,WC-1990,1990 FIFA World Cup,R-394,Wright,José Roberto,Brazil,CF-4,South American Football Confederation,CONMEBOL
-320,WC-1994,1994 FIFA World Cup,R-012,Al-Sharif,Jamal,Syria,CF-1,Asian Football Confederation,AFC
-321,WC-1994,1994 FIFA World Cup,R-015,Angeles,Arturo,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-322,WC-1994,1994 FIFA World Cup,R-026,Badilla,Rodrigo,Costa Rica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-323,WC-1994,1994 FIFA World Cup,R-030,Baldas,Fabio,Italy,CF-6,Union of European Football Associations,UEFA
-324,WC-1994,1994 FIFA World Cup,R-053,Brizio Carter,Arturo,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-325,WC-1994,1994 FIFA World Cup,R-057,Bujsaim,Ali,United Arab Emirates,CF-1,Asian Football Confederation,AFC
-326,WC-1994,1994 FIFA World Cup,R-071,Cavani,Filippi,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-327,WC-1994,1994 FIFA World Cup,R-101,Díaz Vega,Manuel,Spain,CF-6,Union of European Football Associations,UEFA
-328,WC-1994,1994 FIFA World Cup,R-104,Don,Philip,England,CF-6,Union of European Football Associations,UEFA
-329,WC-1994,1994 FIFA World Cup,R-169,Jouini,Neji,Tunisia,CF-2,Confederation of African Football,CAF
-330,WC-1994,1994 FIFA World Cup,R-173,Karlsson,Bo,Sweden,CF-6,Union of European Football Associations,UEFA
-331,WC-1994,1994 FIFA World Cup,R-183,Krug,Hellmut,Germany,CF-6,Union of European Football Associations,UEFA
-332,WC-1994,1994 FIFA World Cup,R-188,Lamolina,Francisco Oscar,Argentina,CF-4,South American Football Confederation,CONMEBOL
-333,WC-1994,1994 FIFA World Cup,R-199,Lim,Kee Chong,Mauritius,CF-2,Confederation of African Football,CAF
-334,WC-1994,1994 FIFA World Cup,R-228,Marsiglia,Renato,Brazil,CF-4,South American Football Confederation,CONMEBOL
-335,WC-1994,1994 FIFA World Cup,R-248,Mikkelsen,Peter,Denmark,CF-6,Union of European Football Associations,UEFA
-336,WC-1994,1994 FIFA World Cup,R-252,Mottram,Leslie,Scotland,CF-6,Union of European Football Associations,UEFA
-337,WC-1994,1994 FIFA World Cup,R-270,Pairetto,Pierluigi,Italy,CF-6,Union of European Football Associations,UEFA
-338,WC-1994,1994 FIFA World Cup,R-288,Puhl,Sándor,Hungary,CF-6,Union of European Football Associations,UEFA
-339,WC-1994,1994 FIFA World Cup,R-289,Quiniou,Joël,France,CF-6,Union of European Football Associations,UEFA
-340,WC-1994,1994 FIFA World Cup,R-310,Röthlisberger,Kurt,Switzerland,CF-6,Union of European Football Associations,UEFA
-341,WC-1994,1994 FIFA World Cup,R-351,Tejada Noriega,Alberto,Peru,CF-4,South American Football Confederation,CONMEBOL
-342,WC-1994,1994 FIFA World Cup,R-356,Torres Cadena,José,Colombia,CF-4,South American Football Confederation,CONMEBOL
-343,WC-1994,1994 FIFA World Cup,R-367,van der Ende,Mario,Netherlands,CF-6,Union of European Football Associations,UEFA
-344,WC-1998,1998 FIFA World Cup,R-009,Al-Ghandour,Gamal,Egypt,CF-2,Confederation of African Football,CAF
-345,WC-1998,1998 FIFA World Cup,R-028,Baharmast,Esfandiar,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-346,WC-1998,1998 FIFA World Cup,R-039,Batta,Marc,France,CF-6,Union of European Football Associations,UEFA
-347,WC-1998,1998 FIFA World Cup,R-041,Belqola,Said,Morocco,CF-2,Confederation of African Football,CAF
-348,WC-1998,1998 FIFA World Cup,R-042,Benkö,Günter,Austria,CF-6,Union of European Football Associations,UEFA
-349,WC-1998,1998 FIFA World Cup,R-050,Bouchardeau,Lucien,Niger,CF-2,Confederation of African Football,CAF
-350,WC-1998,1998 FIFA World Cup,R-053,Brizio Carter,Arturo,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-351,WC-1998,1998 FIFA World Cup,R-057,Bujsaim,Ali,United Arab Emirates,CF-1,Asian Football Confederation,AFC
-352,WC-1998,1998 FIFA World Cup,R-069,Castrilli,Javier,Argentina,CF-4,South American Football Confederation,CONMEBOL
-353,WC-1998,1998 FIFA World Cup,R-081,Collina,Pierluigi,Italy,CF-6,Union of European Football Associations,UEFA
-354,WC-1998,1998 FIFA World Cup,R-092,Dallas,Hugh,Scotland,CF-6,Union of European Football Associations,UEFA
-355,WC-1998,1998 FIFA World Cup,R-109,Durkin,Paul,England,CF-6,Union of European Football Associations,UEFA
-356,WC-1998,1998 FIFA World Cup,R-134,García-Aranda,José María,Spain,CF-6,Union of European Football Associations,UEFA
-357,WC-1998,1998 FIFA World Cup,R-144,González,Epifanio,Paraguay,CF-4,South American Football Confederation,CONMEBOL
-358,WC-1998,1998 FIFA World Cup,R-158,Heynemann,Bernd,Germany,CF-6,Union of European Football Associations,UEFA
-359,WC-1998,1998 FIFA World Cup,R-197,Lennie,Eddie,Australia,CF-1,Asian Football Confederation,AFC
-360,WC-1998,1998 FIFA World Cup,R-198,Levnikov,Nikolai,Soviet Union,CF-6,Union of European Football Associations,UEFA
-361,WC-1998,1998 FIFA World Cup,R-199,Lim,Kee Chong,Mauritius,CF-2,Confederation of African Football,CAF
-362,WC-1998,1998 FIFA World Cup,R-240,McLeod,Ian,South Africa,CF-2,Confederation of African Football,CAF
-363,WC-1998,1998 FIFA World Cup,R-242,Meier,Urs,Switzerland,CF-6,Union of European Football Associations,UEFA
-364,WC-1998,1998 FIFA World Cup,R-243,Melo Pereira,Vítor,Portugal,CF-6,Union of European Football Associations,UEFA
-365,WC-1998,1998 FIFA World Cup,R-259,Nielsen,Kim Milton,Denmark,CF-6,Union of European Football Associations,UEFA
-366,WC-1998,1998 FIFA World Cup,R-262,Okada,Masayoshi,Japan,CF-1,Asian Football Confederation,AFC
-367,WC-1998,1998 FIFA World Cup,R-274,Pedersen,Rune,Norway,CF-6,Union of European Football Associations,UEFA
-368,WC-1998,1998 FIFA World Cup,R-291,Rahman Al-Zeid,Abdul,Saudi Arabia,CF-1,Asian Football Confederation,AFC
-369,WC-1998,1998 FIFA World Cup,R-293,Ramdhan,Ramesh,Trinidad and Tobago,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-370,WC-1998,1998 FIFA World Cup,R-299,Rezende de Freitas,Márcio,Brazil,CF-4,South American Football Confederation,CONMEBOL
-371,WC-1998,1998 FIFA World Cup,R-317,Sánchez Yantén,Mario,Chile,CF-4,South American Football Confederation,CONMEBOL
-372,WC-1998,1998 FIFA World Cup,R-351,Tejada Noriega,Alberto,Peru,CF-4,South American Football Confederation,CONMEBOL
-373,WC-1998,1998 FIFA World Cup,R-355,Toro Rendón,John,Colombia,CF-4,South American Football Confederation,CONMEBOL
-374,WC-1998,1998 FIFA World Cup,R-361,Un-prasert,Pirom,Thailand,CF-1,Asian Football Confederation,AFC
-375,WC-1998,1998 FIFA World Cup,R-363,Vágner,László,Hungary,CF-6,Union of European Football Associations,UEFA
-376,WC-1998,1998 FIFA World Cup,R-367,van der Ende,Mario,Netherlands,CF-6,Union of European Football Associations,UEFA
-377,WC-1998,1998 FIFA World Cup,R-393,Wójcik,Ryszard,Poland,CF-6,Union of European Football Associations,UEFA
-378,WC-2002,2002 FIFA World Cup,R-009,Al-Ghandour,Gamal,Egypt,CF-2,Confederation of African Football,CAF
-379,WC-2002,2002 FIFA World Cup,R-017,Aquino,Ubaldo,Paraguay,CF-4,South American Football Confederation,CONMEBOL
-380,WC-2002,2002 FIFA World Cup,R-038,Batres,Carlos Alberto,Guatemala,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-381,WC-2002,2002 FIFA World Cup,R-057,Bujsaim,Ali,United Arab Emirates,CF-1,Asian Football Confederation,AFC
-382,WC-2002,2002 FIFA World Cup,R-078,Codjia,Coffi,Benin,CF-1,Asian Football Confederation,AFC
-383,WC-2002,2002 FIFA World Cup,R-081,Collina,Pierluigi,Italy,CF-6,Union of European Football Associations,UEFA
-384,WC-2002,2002 FIFA World Cup,R-089,Daami,Mourad,Tunisia,CF-2,Confederation of African Football,CAF
-385,WC-2002,2002 FIFA World Cup,R-092,Dallas,Hugh,Scotland,CF-6,Union of European Football Associations,UEFA
-386,WC-2002,2002 FIFA World Cup,R-129,Frisk,Anders,Sweden,CF-6,Union of European Football Associations,UEFA
-387,WC-2002,2002 FIFA World Cup,R-151,Guezzaz,Mohamed,Morocco,CF-2,Confederation of African Football,CAF
-388,WC-2002,2002 FIFA World Cup,R-154,Hall,Brian,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-389,WC-2002,2002 FIFA World Cup,R-156,Hauge,Terje,Norway,CF-6,Union of European Football Associations,UEFA
-390,WC-2002,2002 FIFA World Cup,R-170,Kamikawa,Toru,Japan,CF-1,Asian Football Confederation,AFC
-391,WC-2002,2002 FIFA World Cup,R-177,Kim,Young-joo,South Korea,CF-1,Asian Football Confederation,AFC
-392,WC-2002,2002 FIFA World Cup,R-206,López Nieto,Antonio,Spain,CF-6,Union of European Football Associations,UEFA
-393,WC-2002,2002 FIFA World Cup,R-209,Lu,Jun,China,CF-1,Asian Football Confederation,AFC
-394,WC-2002,2002 FIFA World Cup,R-221,Mane,Saad,Kuwait,CF-1,Asian Football Confederation,AFC
-395,WC-2002,2002 FIFA World Cup,R-236,Mattus,William,Costa Rica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-396,WC-2002,2002 FIFA World Cup,R-242,Meier,Urs,Switzerland,CF-6,Union of European Football Associations,UEFA
-397,WC-2002,2002 FIFA World Cup,R-243,Melo Pereira,Vítor,Portugal,CF-6,Union of European Football Associations,UEFA
-398,WC-2002,2002 FIFA World Cup,R-246,Merk,Markus,Germany,CF-6,Union of European Football Associations,UEFA
-399,WC-2002,2002 FIFA World Cup,R-247,Micheľ,Ľuboš,Slovakia,CF-6,Union of European Football Associations,UEFA
-400,WC-2002,2002 FIFA World Cup,R-251,Moreno,Byron,Ecuador,CF-4,South American Football Confederation,CONMEBOL
-401,WC-2002,2002 FIFA World Cup,R-256,N'Doye,Falla,Senegal,CF-2,Confederation of African Football,CAF
-402,WC-2002,2002 FIFA World Cup,R-259,Nielsen,Kim Milton,Denmark,CF-6,Union of European Football Associations,UEFA
-403,WC-2002,2002 FIFA World Cup,R-268,Ortubé,René,Bolivia,CF-4,South American Football Confederation,CONMEBOL
-404,WC-2002,2002 FIFA World Cup,R-281,Poll,Graham,England,CF-6,Union of European Football Associations,UEFA
-405,WC-2002,2002 FIFA World Cup,R-285,Prendergast,Peter,Jamaica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-406,WC-2002,2002 FIFA World Cup,R-295,Ramos,Felipe,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-407,WC-2002,2002 FIFA World Cup,R-311,Ruiz,Óscar,Colombia,CF-4,South American Football Confederation,CONMEBOL
-408,WC-2002,2002 FIFA World Cup,R-314,Sánchez,Ángel,Argentina,CF-4,South American Football Confederation,CONMEBOL
-409,WC-2002,2002 FIFA World Cup,R-327,Shield,Mark,Australia,CF-1,Asian Football Confederation,AFC
-410,WC-2002,2002 FIFA World Cup,R-334,Simon,Carlos Eugênio,Brazil,CF-4,South American Football Confederation,CONMEBOL
-411,WC-2002,2002 FIFA World Cup,R-374,Vassaras,Kyros,Greece,CF-6,Union of European Football Associations,UEFA
-412,WC-2002,2002 FIFA World Cup,R-377,Veissière,Gilles,France,CF-6,Union of European Football Associations,UEFA
-413,WC-2002,2002 FIFA World Cup,R-387,Wegereef,Jan,Netherlands,CF-6,Union of European Football Associations,UEFA
-414,WC-2006,2006 FIFA World Cup,R-001,Abdel-Fatah,Essam,Egypt,CF-2,Confederation of African Football,CAF
-415,WC-2006,2006 FIFA World Cup,R-014,Amarilla,Carlos,Paraguay,CF-4,South American Football Confederation,CONMEBOL
-416,WC-2006,2006 FIFA World Cup,R-018,Archundia,Benito,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-417,WC-2006,2006 FIFA World Cup,R-058,Busacca,Massimo,Switzerland,CF-6,Union of European Football Associations,UEFA
-418,WC-2006,2006 FIFA World Cup,R-078,Codjia,Coffi,Benin,CF-1,Asian Football Confederation,AFC
-419,WC-2006,2006 FIFA World Cup,R-097,De Bleeckere,Frank,Belgium,CF-6,Union of European Football Associations,UEFA
-420,WC-2006,2006 FIFA World Cup,R-114,Elizondo,Horacio,Argentina,CF-4,South American Football Confederation,CONMEBOL
-421,WC-2006,2006 FIFA World Cup,R-164,Ivanov,Valentin,Russia,CF-6,Union of European Football Associations,UEFA
-422,WC-2006,2006 FIFA World Cup,R-170,Kamikawa,Toru,Japan,CF-1,Asian Football Confederation,AFC
-423,WC-2006,2006 FIFA World Cup,R-193,Larrionda,Jorge,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-424,WC-2006,2006 FIFA World Cup,R-216,Maidin,Shamsul,Singapore,CF-1,Asian Football Confederation,AFC
-425,WC-2006,2006 FIFA World Cup,R-241,Medina Cantalejo,Luis,Spain,CF-6,Union of European Football Associations,UEFA
-426,WC-2006,2006 FIFA World Cup,R-246,Merk,Markus,Germany,CF-6,Union of European Football Associations,UEFA
-427,WC-2006,2006 FIFA World Cup,R-247,Micheľ,Ľuboš,Slovakia,CF-6,Union of European Football Associations,UEFA
-428,WC-2006,2006 FIFA World Cup,R-281,Poll,Graham,England,CF-6,Union of European Football Associations,UEFA
-429,WC-2006,2006 FIFA World Cup,R-283,Poulat,Éric,France,CF-6,Union of European Football Associations,UEFA
-430,WC-2006,2006 FIFA World Cup,R-306,Rodríguez,Marco Antonio,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-431,WC-2006,2006 FIFA World Cup,R-308,Rosetti,Roberto,Italy,CF-6,Union of European Football Associations,UEFA
-432,WC-2006,2006 FIFA World Cup,R-311,Ruiz,Óscar,Colombia,CF-4,South American Football Confederation,CONMEBOL
-433,WC-2006,2006 FIFA World Cup,R-327,Shield,Mark,Australia,CF-1,Asian Football Confederation,AFC
-434,WC-2006,2006 FIFA World Cup,R-334,Simon,Carlos Eugênio,Brazil,CF-4,South American Football Confederation,CONMEBOL
-435,WC-2010,2010 FIFA World Cup,R-008,Al-Ghamdi,Khalil,Saudi Arabia,CF-1,Asian Football Confederation,AFC
-436,WC-2010,2010 FIFA World Cup,R-018,Archundia,Benito,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-437,WC-2010,2010 FIFA World Cup,R-031,Baldassi,Héctor,Argentina,CF-4,South American Football Confederation,CONMEBOL
-438,WC-2010,2010 FIFA World Cup,R-038,Batres,Carlos Alberto,Guatemala,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-439,WC-2010,2010 FIFA World Cup,R-043,Benquerença,Olegário,Portugal,CF-6,Union of European Football Associations,UEFA
-440,WC-2010,2010 FIFA World Cup,R-058,Busacca,Massimo,Switzerland,CF-6,Union of European Football Associations,UEFA
-441,WC-2010,2010 FIFA World Cup,R-085,Coulibaly,Koman,Mali,CF-2,Confederation of African Football,CAF
-442,WC-2010,2010 FIFA World Cup,R-093,Damon,Jerome,South Africa,CF-2,Confederation of African Football,CAF
-443,WC-2010,2010 FIFA World Cup,R-097,De Bleeckere,Frank,Belgium,CF-6,Union of European Football Associations,UEFA
-444,WC-2010,2010 FIFA World Cup,R-157,Hester,Michael,New Zealand,CF-5,Oceania Football Confederation,OFC
-445,WC-2010,2010 FIFA World Cup,R-162,Irmatov,Ravshan,Uzbekistan,CF-1,Asian Football Confederation,AFC
-446,WC-2010,2010 FIFA World Cup,R-174,Kassai,Viktor,Hungary,CF-6,Union of European Football Associations,UEFA
-447,WC-2010,2010 FIFA World Cup,R-192,Lannoy,Stéphane,France,CF-6,Union of European Football Associations,UEFA
-448,WC-2010,2010 FIFA World Cup,R-193,Larrionda,Jorge,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-449,WC-2010,2010 FIFA World Cup,R-217,Maillet,Eddy,Seychelles,CF-2,Confederation of African Football,CAF
-450,WC-2010,2010 FIFA World Cup,R-260,Nishimura,Yuichi,Japan,CF-1,Asian Football Confederation,AFC
-451,WC-2010,2010 FIFA World Cup,R-284,Pozo,Pablo,Chile,CF-4,South American Football Confederation,CONMEBOL
-452,WC-2010,2010 FIFA World Cup,R-306,Rodríguez,Marco Antonio,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-453,WC-2010,2010 FIFA World Cup,R-308,Rosetti,Roberto,Italy,CF-6,Union of European Football Associations,UEFA
-454,WC-2010,2010 FIFA World Cup,R-311,Ruiz,Óscar,Colombia,CF-4,South American Football Confederation,CONMEBOL
-455,WC-2010,2010 FIFA World Cup,R-334,Simon,Carlos Eugênio,Brazil,CF-4,South American Football Confederation,CONMEBOL
-456,WC-2010,2010 FIFA World Cup,R-341,Stark,Wolfgang,Germany,CF-6,Union of European Football Associations,UEFA
-457,WC-2010,2010 FIFA World Cup,R-362,Undiano Mallenco,Alberto,Spain,CF-6,Union of European Football Associations,UEFA
-458,WC-2010,2010 FIFA World Cup,R-386,Webb,Howard,England,CF-6,Union of European Football Associations,UEFA
-459,WC-2014,2014 FIFA World Cup,R-004,Aguilar,Joel,El Salvador,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-460,WC-2014,2014 FIFA World Cup,R-056,Brych,Felix,Germany,CF-6,Union of European Football Associations,UEFA
-461,WC-2014,2014 FIFA World Cup,R-062,Çakır,Cüneyt,Turkey,CF-6,Union of European Football Associations,UEFA
-462,WC-2014,2014 FIFA World Cup,R-107,Doué,Noumandiez,Ivory Coast,CF-2,Confederation of African Football,CAF
-463,WC-2014,2014 FIFA World Cup,R-117,Eriksson,Jonas,Sweden,CF-6,Union of European Football Associations,UEFA
-464,WC-2014,2014 FIFA World Cup,R-137,Gassama,Bakary,Gambia,CF-2,Confederation of African Football,CAF
-465,WC-2014,2014 FIFA World Cup,R-138,Geiger,Mark,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-466,WC-2014,2014 FIFA World Cup,R-153,Haimoudi,Djamel,Algeria,CF-2,Confederation of African Football,CAF
-467,WC-2014,2014 FIFA World Cup,R-162,Irmatov,Ravshan,Uzbekistan,CF-1,Asian Football Confederation,AFC
-468,WC-2014,2014 FIFA World Cup,R-184,Kuipers,Björn,Netherlands,CF-6,Union of European Football Associations,UEFA
-469,WC-2014,2014 FIFA World Cup,R-238,Mažić,Milorad,Serbia,CF-6,Union of European Football Associations,UEFA
-470,WC-2014,2014 FIFA World Cup,R-260,Nishimura,Yuichi,Japan,CF-1,Asian Football Confederation,AFC
-471,WC-2014,2014 FIFA World Cup,R-261,O'Leary,Peter,New Zealand,CF-5,Oceania Football Confederation,OFC
-472,WC-2014,2014 FIFA World Cup,R-269,Osses,Enrique,Chile,CF-4,South American Football Confederation,CONMEBOL
-473,WC-2014,2014 FIFA World Cup,R-280,Pitana,Néstor,Argentina,CF-4,South American Football Confederation,CONMEBOL
-474,WC-2014,2014 FIFA World Cup,R-286,Proença,Pedro,Portugal,CF-6,Union of European Football Associations,UEFA
-475,WC-2014,2014 FIFA World Cup,R-301,Ricci,Sandro,Brazil,CF-4,South American Football Confederation,CONMEBOL
-476,WC-2014,2014 FIFA World Cup,R-303,Rizzoli,Nicola,Italy,CF-6,Union of European Football Associations,UEFA
-477,WC-2014,2014 FIFA World Cup,R-306,Rodríguez,Marco Antonio,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-478,WC-2014,2014 FIFA World Cup,R-307,Roldán,Wilmar,Colombia,CF-4,South American Football Confederation,CONMEBOL
-479,WC-2014,2014 FIFA World Cup,R-328,Shukralla,Nawaf,Bahrain,CF-1,Asian Football Confederation,AFC
-480,WC-2014,2014 FIFA World Cup,R-378,Velasco Carballo,Carlos,Spain,CF-6,Union of European Football Associations,UEFA
-481,WC-2014,2014 FIFA World Cup,R-379,Vera,Carlos,Ecuador,CF-4,South American Football Confederation,CONMEBOL
-482,WC-2014,2014 FIFA World Cup,R-386,Webb,Howard,England,CF-6,Union of European Football Associations,UEFA
-483,WC-2014,2014 FIFA World Cup,R-390,Williams,Ben,Australia,CF-1,Asian Football Confederation,AFC
-484,WC-2018,2018 FIFA World Cup,R-004,Aguilar,Joel,El Salvador,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-485,WC-2018,2018 FIFA World Cup,R-056,Brych,Felix,Germany,CF-6,Union of European Football Associations,UEFA
-486,WC-2018,2018 FIFA World Cup,R-061,Cáceres,Enrique,Paraguay,CF-4,South American Football Confederation,CONMEBOL
-487,WC-2018,2018 FIFA World Cup,R-062,Çakır,Cüneyt,Turkey,CF-6,Union of European Football Associations,UEFA
-488,WC-2018,2018 FIFA World Cup,R-082,Conger,Matthew,New Zealand,CF-5,Oceania Football Confederation,OFC
-489,WC-2018,2018 FIFA World Cup,R-087,Cunha,Andrés,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-490,WC-2018,2018 FIFA World Cup,R-102,Diedhiou,Malang,Senegal,CF-2,Confederation of African Football,CAF
-491,WC-2018,2018 FIFA World Cup,R-123,Faghani,Alireza,Iran,CF-1,Asian Football Confederation,AFC
-492,WC-2018,2018 FIFA World Cup,R-137,Gassama,Bakary,Gambia,CF-2,Confederation of African Football,CAF
-493,WC-2018,2018 FIFA World Cup,R-138,Geiger,Mark,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-494,WC-2018,2018 FIFA World Cup,R-149,Grisha,Gehad,Egypt,CF-2,Confederation of African Football,CAF
-495,WC-2018,2018 FIFA World Cup,R-155,Hassan Mohamed,Mohammed Abdulla,United Arab Emirates,CF-1,Asian Football Confederation,AFC
-496,WC-2018,2018 FIFA World Cup,R-162,Irmatov,Ravshan,Uzbekistan,CF-1,Asian Football Confederation,AFC
-497,WC-2018,2018 FIFA World Cup,R-172,Karasev,Sergei,Russia,CF-6,Union of European Football Associations,UEFA
-498,WC-2018,2018 FIFA World Cup,R-184,Kuipers,Björn,Netherlands,CF-6,Union of European Football Associations,UEFA
-499,WC-2018,2018 FIFA World Cup,R-222,Marciniak,Szymon,Poland,CF-6,Union of European Football Associations,UEFA
-500,WC-2018,2018 FIFA World Cup,R-226,Marrufo,Jair,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-501,WC-2018,2018 FIFA World Cup,R-231,Mateu Lahoz,Antonio,Spain,CF-6,Union of European Football Associations,UEFA
-502,WC-2018,2018 FIFA World Cup,R-238,Mažić,Milorad,Serbia,CF-6,Union of European Football Associations,UEFA
-503,WC-2018,2018 FIFA World Cup,R-280,Pitana,Néstor,Argentina,CF-4,South American Football Confederation,CONMEBOL
-504,WC-2018,2018 FIFA World Cup,R-294,Ramos,César Arturo,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-505,WC-2018,2018 FIFA World Cup,R-301,Ricci,Sandro,Brazil,CF-4,South American Football Confederation,CONMEBOL
-506,WC-2018,2018 FIFA World Cup,R-305,Rocchi,Gianluca,Italy,CF-6,Union of European Football Associations,UEFA
-507,WC-2018,2018 FIFA World Cup,R-307,Roldán,Wilmar,Colombia,CF-4,South American Football Confederation,CONMEBOL
-508,WC-2018,2018 FIFA World Cup,R-328,Shukralla,Nawaf,Bahrain,CF-1,Asian Football Confederation,AFC
-509,WC-2018,2018 FIFA World Cup,R-330,Sikazwe,Janny,Zambia,CF-2,Confederation of African Football,CAF
-510,WC-2018,2018 FIFA World Cup,R-335,Skomina,Damir,Slovenia,CF-6,Union of European Football Associations,UEFA
-511,WC-2018,2018 FIFA World Cup,R-359,Turpin,Clément,France,CF-6,Union of European Football Associations,UEFA
-512,WC-2022,2022 FIFA World Cup,R-010,Al-Jassim,Abdulrahman,Qatar,CF-1,Asian Football Confederation,AFC
-513,WC-2022,2022 FIFA World Cup,R-037,Barton,Iván,El Salvador,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-514,WC-2022,2022 FIFA World Cup,R-040,Beath,Chris,Australia,CF-1,Asian Football Confederation,AFC
-515,WC-2022,2022 FIFA World Cup,R-075,Claus,Raphael,Brazil,CF-4,South American Football Confederation,CONMEBOL
-516,WC-2022,2022 FIFA World Cup,R-082,Conger,Matthew,New Zealand,CF-5,Oceania Football Confederation,OFC
-517,WC-2022,2022 FIFA World Cup,R-113,Elfath,Ismail,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-518,WC-2022,2022 FIFA World Cup,R-120,Escobar,Mario,Guatemala,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-519,WC-2022,2022 FIFA World Cup,R-123,Faghani,Alireza,Iran,CF-1,Asian Football Confederation,AFC
-520,WC-2022,2022 FIFA World Cup,R-127,Frappart,Stéphanie,France,CF-6,Union of European Football Associations,UEFA
-521,WC-2022,2022 FIFA World Cup,R-137,Gassama,Bakary,Gambia,CF-2,Confederation of African Football,CAF
-522,WC-2022,2022 FIFA World Cup,R-139,Ghorbal,Mustapha,Algeria,CF-2,Confederation of African Football,CAF
-523,WC-2022,2022 FIFA World Cup,R-142,Gomes,Victor,South Africa,CF-2,Confederation of African Football,CAF
-524,WC-2022,2022 FIFA World Cup,R-155,Hassan Mohamed,Mohammed Abdulla,United Arab Emirates,CF-1,Asian Football Confederation,AFC
-525,WC-2022,2022 FIFA World Cup,R-218,Makkelie,Danny,Netherlands,CF-6,Union of European Football Associations,UEFA
-526,WC-2022,2022 FIFA World Cup,R-222,Marciniak,Szymon,Poland,CF-6,Union of European Football Associations,UEFA
-527,WC-2022,2022 FIFA World Cup,R-231,Mateu Lahoz,Antonio,Spain,CF-6,Union of European Football Associations,UEFA
-528,WC-2022,2022 FIFA World Cup,R-233,Matonte,Andrés,Uruguay,CF-4,South American Football Confederation,CONMEBOL
-529,WC-2022,2022 FIFA World Cup,R-263,Oliver,Michael,England,CF-6,Union of European Football Associations,UEFA
-530,WC-2022,2022 FIFA World Cup,R-265,Orsato,Daniele,Italy,CF-6,Union of European Football Associations,UEFA
-531,WC-2022,2022 FIFA World Cup,R-294,Ramos,César Arturo,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
-532,WC-2022,2022 FIFA World Cup,R-296,Rapallini,Fernando,Argentina,CF-4,South American Football Confederation,CONMEBOL
-533,WC-2022,2022 FIFA World Cup,R-313,Sampaio,Wilton,Brazil,CF-4,South American Football Confederation,CONMEBOL
-534,WC-2022,2022 FIFA World Cup,R-329,Siebert,Daniel,Germany,CF-6,Union of European Football Associations,UEFA
-535,WC-2022,2022 FIFA World Cup,R-330,Sikazwe,Janny,Zambia,CF-2,Confederation of African Football,CAF
-536,WC-2022,2022 FIFA World Cup,R-348,Taylor,Anthony,England,CF-6,Union of European Football Associations,UEFA
-537,WC-2022,2022 FIFA World Cup,R-352,Tello,Facundo,Argentina,CF-4,South American Football Confederation,CONMEBOL
-538,WC-2022,2022 FIFA World Cup,R-359,Turpin,Clément,France,CF-6,Union of European Football Associations,UEFA
-539,WC-2022,2022 FIFA World Cup,R-365,Valenzuela,Jesús,Venezuela,CF-4,South American Football Confederation,CONMEBOL
-540,WC-2022,2022 FIFA World Cup,R-383,Vinčić,Slavko,Slovenia,CF-6,Union of European Football Associations,UEFA
+1,WC-1930,1930 FIFA Men's World Cup,R-039,Balvay,Thomas,France,CF-6,Union of European Football Associations,UEFA
+2,WC-1930,1930 FIFA Men's World Cup,R-091,Christophe,Henri,Belgium,CF-6,Union of European Football Associations,UEFA
+3,WC-1930,1930 FIFA Men's World Cup,R-116,de Almeida Rêgo,Gilberto,Brazil,CF-4,South American Football Confederation,CONMEBOL
+4,WC-1930,1930 FIFA Men's World Cup,R-236,Langenus,John,Belgium,CF-6,Union of European Football Associations,UEFA
+5,WC-1930,1930 FIFA Men's World Cup,R-251,Lombardi,Domingo,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+6,WC-1930,1930 FIFA Men's World Cup,R-260,Macías,José,Argentina,CF-4,South American Football Confederation,CONMEBOL
+7,WC-1930,1930 FIFA Men's World Cup,R-280,Mateucci,Francisco,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+8,WC-1930,1930 FIFA Men's World Cup,R-391,Saucedo,Ulises,Bolivia,CF-4,South American Football Confederation,CONMEBOL
+9,WC-1930,1930 FIFA Men's World Cup,R-430,Tejada,Aníbal,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+10,WC-1930,1930 FIFA Men's World Cup,R-449,Vallarino,Ricardo,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+11,WC-1930,1930 FIFA Men's World Cup,R-472,Warnken,Alberto,Chile,CF-4,South American Football Confederation,CONMEBOL
+12,WC-1934,1934 FIFA Men's World Cup,R-034,Baert,Louis,Belgium,CF-6,Union of European Football Associations,UEFA
+13,WC-1934,1934 FIFA Men's World Cup,R-041,Barlassina,Rinaldo,Italy,CF-6,Union of European Football Associations,UEFA
+14,WC-1934,1934 FIFA Men's World Cup,R-054,Beranek,Alois,Austria,CF-6,Union of European Football Associations,UEFA
+15,WC-1934,1934 FIFA Men's World Cup,R-056,Birlem,Alfred,Germany,CF-6,Union of European Football Associations,UEFA
+16,WC-1934,1934 FIFA Men's World Cup,R-065,Braun,Eugen,Austria,CF-6,Union of European Football Associations,UEFA
+17,WC-1934,1934 FIFA Men's World Cup,R-082,Carraro,Albino,Italy,CF-6,Union of European Football Associations,UEFA
+18,WC-1934,1934 FIFA Men's World Cup,R-135,Eklind,Ivan,Sweden,CF-6,Union of European Football Associations,UEFA
+19,WC-1934,1934 FIFA Men's World Cup,R-236,Langenus,John,Belgium,CF-6,Union of European Football Associations,UEFA
+20,WC-1934,1934 FIFA Men's World Cup,R-284,Mattea,Francesco,Italy,CF-6,Union of European Football Associations,UEFA
+21,WC-1934,1934 FIFA Men's World Cup,R-296,Mercet,René,Switzerland,CF-6,Union of European Football Associations,UEFA
+22,WC-1934,1934 FIFA Men's World Cup,R-454,van Moorsel,Johannes,Netherlands,CF-6,Union of European Football Associations,UEFA
+23,WC-1938,1938 FIFA Men's World Cup,R-034,Baert,Louis,Belgium,CF-6,Union of European Football Associations,UEFA
+24,WC-1938,1938 FIFA Men's World Cup,R-041,Barlassina,Rinaldo,Italy,CF-6,Union of European Football Associations,UEFA
+25,WC-1938,1938 FIFA Men's World Cup,R-054,Beranek,Alois,Austria,CF-6,Union of European Football Associations,UEFA
+26,WC-1938,1938 FIFA Men's World Cup,R-056,Birlem,Alfred,Germany,CF-6,Union of European Football Associations,UEFA
+27,WC-1938,1938 FIFA Men's World Cup,R-080,Capdeville,Georges,France,CF-6,Union of European Football Associations,UEFA
+28,WC-1938,1938 FIFA Men's World Cup,R-100,Conrié,Roger,France,CF-6,Union of European Football Associations,UEFA
+29,WC-1938,1938 FIFA Men's World Cup,R-135,Eklind,Ivan,Sweden,CF-6,Union of European Football Associations,UEFA
+30,WC-1938,1938 FIFA Men's World Cup,R-226,Krist,Augustin,Czechoslovakia,CF-6,Union of European Football Associations,UEFA
+31,WC-1938,1938 FIFA Men's World Cup,R-236,Langenus,John,Belgium,CF-6,Union of European Football Associations,UEFA
+32,WC-1938,1938 FIFA Men's World Cup,R-241,Leclerq,Lucien,France,CF-6,Union of European Football Associations,UEFA
+33,WC-1938,1938 FIFA Men's World Cup,R-393,Scarpi,Giuseppe,Italy,CF-6,Union of European Football Associations,UEFA
+34,WC-1938,1938 FIFA Men's World Cup,R-470,von Hertzka,Pál,Hungary,CF-6,Union of European Football Associations,UEFA
+35,WC-1938,1938 FIFA Men's World Cup,R-483,Wüthrich,Hans,Switzerland,CF-6,Union of European Football Associations,UEFA
+36,WC-1950,1950 FIFA Men's World Cup,R-031,Azón Romá,Ramón,Spain,CF-6,Union of European Football Associations,UEFA
+37,WC-1950,1950 FIFA Men's World Cup,R-114,Dattilo,Generoso,Italy,CF-6,Union of European Football Associations,UEFA
+38,WC-1950,1950 FIFA Men's World Cup,R-135,Eklind,Ivan,Sweden,CF-6,Union of European Football Associations,UEFA
+39,WC-1950,1950 FIFA Men's World Cup,R-138,Ellis,Arthur Edward,England,CF-6,Union of European Football Associations,UEFA
+40,WC-1950,1950 FIFA Men's World Cup,R-159,Galeati,Giovanni,Italy,CF-6,Union of European Football Associations,UEFA
+41,WC-1950,1950 FIFA Men's World Cup,R-165,Gardelli,Mário,Brazil,CF-4,South American Football Confederation,CONMEBOL
+42,WC-1950,1950 FIFA Men's World Cup,R-179,Griffiths,Sandy,Wales,CF-6,Union of European Football Associations,UEFA
+43,WC-1950,1950 FIFA Men's World Cup,R-240,Leafe,Reginald,England,CF-6,Union of European Football Associations,UEFA
+44,WC-1950,1950 FIFA Men's World Cup,R-258,Lutz,Jean,Switzerland,CF-6,Union of European Football Associations,UEFA
+45,WC-1950,1950 FIFA Men's World Cup,R-267,Malcher,Alberto,Brazil,CF-4,South American Football Confederation,CONMEBOL
+46,WC-1950,1950 FIFA Men's World Cup,R-300,Mitchell,George,Scotland,CF-6,Union of European Football Associations,UEFA
+47,WC-1950,1950 FIFA Men's World Cup,R-365,Reader,George,England,CF-6,Union of European Football Associations,UEFA
+48,WC-1950,1950 FIFA Men's World Cup,R-451,van der Meer,Karel,Netherlands,CF-6,Union of European Football Associations,UEFA
+49,WC-1950,1950 FIFA Men's World Cup,R-465,Vianna,Mário,Brazil,CF-4,South American Football Confederation,CONMEBOL
+50,WC-1954,1954 FIFA Men's World Cup,R-028,Asensi,Manuel,Spain,CF-6,Union of European Football Associations,UEFA
+51,WC-1954,1954 FIFA Men's World Cup,R-107,da Costa Vieira,Jose,Portugal,CF-6,Union of European Football Associations,UEFA
+52,WC-1954,1954 FIFA Men's World Cup,R-138,Ellis,Arthur Edward,England,CF-6,Union of European Football Associations,UEFA
+53,WC-1954,1954 FIFA Men's World Cup,R-148,Faultless,Charlie,Scotland,CF-6,Union of European Football Associations,UEFA
+54,WC-1954,1954 FIFA Men's World Cup,R-152,Franken,Laurent,Belgium,CF-6,Union of European Football Associations,UEFA
+55,WC-1954,1954 FIFA Men's World Cup,R-179,Griffiths,Sandy,Wales,CF-6,Union of European Football Associations,UEFA
+56,WC-1954,1954 FIFA Men's World Cup,R-248,Ling,William,England,CF-6,Union of European Football Associations,UEFA
+57,WC-1954,1954 FIFA Men's World Cup,R-270,Marino,Esteban,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+58,WC-1954,1954 FIFA Men's World Cup,R-326,Orlandini,Vincenzo,Italy,CF-6,Union of European Football Associations,UEFA
+59,WC-1954,1954 FIFA Men's World Cup,R-395,Schmetzer,Emil,West Germany,CF-6,Union of European Football Associations,UEFA
+60,WC-1954,1954 FIFA Men's World Cup,R-420,Stefanovic,Vasa,Yugoslavia,CF-6,Union of European Football Associations,UEFA
+61,WC-1954,1954 FIFA Men's World Cup,R-421,Steiner,Carl Erich,Austria,CF-6,Union of European Football Associations,UEFA
+62,WC-1954,1954 FIFA Men's World Cup,R-465,Vianna,Mário,Brazil,CF-4,South American Football Confederation,CONMEBOL
+63,WC-1954,1954 FIFA Men's World Cup,R-467,Vincenti,Raymond,France,CF-6,Union of European Football Associations,UEFA
+64,WC-1954,1954 FIFA Men's World Cup,R-484,Wyssling,Raymond,Switzerland,CF-6,Union of European Football Associations,UEFA
+65,WC-1954,1954 FIFA Men's World Cup,R-492,Zsolt,István,Hungary,CF-6,Union of European Football Associations,UEFA
+66,WC-1958,1958 FIFA Men's World Cup,R-009,Ahlner,Sten,Sweden,CF-6,Union of European Football Associations,UEFA
+67,WC-1958,1958 FIFA Men's World Cup,R-068,Bronkhorst,Jan,Netherlands,CF-6,Union of European Football Associations,UEFA
+68,WC-1958,1958 FIFA Men's World Cup,R-079,Campos,Joaquim,Portugal,CF-6,Union of European Football Associations,UEFA
+69,WC-1958,1958 FIFA Men's World Cup,R-095,Codesal,José María,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+70,WC-1958,1958 FIFA Men's World Cup,R-133,Dusch,Albert,West Germany,CF-6,Union of European Football Associations,UEFA
+71,WC-1958,1958 FIFA Men's World Cup,R-138,Ellis,Arthur Edward,England,CF-6,Union of European Football Associations,UEFA
+72,WC-1958,1958 FIFA Men's World Cup,R-140,Eriksson,Arne,Finland,CF-6,Union of European Football Associations,UEFA
+73,WC-1958,1958 FIFA Men's World Cup,R-163,Garay Gardeazábal,Juan,Spain,CF-6,Union of European Football Associations,UEFA
+74,WC-1958,1958 FIFA Men's World Cup,R-179,Griffiths,Sandy,Wales,CF-6,Union of European Football Associations,UEFA
+75,WC-1958,1958 FIFA Men's World Cup,R-183,Guigue,Maurice,France,CF-6,Union of European Football Associations,UEFA
+76,WC-1958,1958 FIFA Men's World Cup,R-210,Jørgensen,Carl,Denmark,CF-6,Union of European Football Associations,UEFA
+77,WC-1958,1958 FIFA Men's World Cup,R-240,Leafe,Reginald,England,CF-6,Union of European Football Associations,UEFA
+78,WC-1958,1958 FIFA Men's World Cup,R-242,Lemesic,Leo,Yugoslavia,CF-6,Union of European Football Associations,UEFA
+79,WC-1958,1958 FIFA Men's World Cup,R-245,Levnikov,Nikolai,Soviet Union,CF-6,Union of European Football Associations,UEFA
+80,WC-1958,1958 FIFA Men's World Cup,R-262,Macko,Martin,Czechoslovakia,CF-6,Union of European Football Associations,UEFA
+81,WC-1958,1958 FIFA Men's World Cup,R-306,Mowat,Jack,Scotland,CF-6,Union of European Football Associations,UEFA
+82,WC-1958,1958 FIFA Men's World Cup,R-326,Orlandini,Vincenzo,Italy,CF-6,Union of European Football Associations,UEFA
+83,WC-1958,1958 FIFA Men's World Cup,R-366,Regis Brozzi,Juan,Argentina,CF-4,South American Football Confederation,CONMEBOL
+84,WC-1958,1958 FIFA Men's World Cup,R-399,Seipelt,Fritz,Austria,CF-6,Union of European Football Associations,UEFA
+85,WC-1958,1958 FIFA Men's World Cup,R-455,van Nuffel,Lucien,Belgium,CF-6,Union of European Football Associations,UEFA
+86,WC-1958,1958 FIFA Men's World Cup,R-484,Wyssling,Raymond,Switzerland,CF-6,Union of European Football Associations,UEFA
+87,WC-1958,1958 FIFA Men's World Cup,R-492,Zsolt,István,Hungary,CF-6,Union of European Football Associations,UEFA
+88,WC-1962,1962 FIFA Men's World Cup,R-030,Aston,Kenneth,England,CF-6,Union of European Football Associations,UEFA
+89,WC-1962,1962 FIFA Men's World Cup,R-059,Blavier,Antoine,Belgium,CF-6,Union of European Football Associations,UEFA
+90,WC-1962,1962 FIFA Men's World Cup,R-073,Bustamante,Sergio,Chile,CF-4,South American Football Confederation,CONMEBOL
+91,WC-1962,1962 FIFA Men's World Cup,R-115,Davidson,Bobby,Scotland,CF-6,Union of European Football Associations,UEFA
+92,WC-1962,1962 FIFA Men's World Cup,R-125,Dienst,Gottfried,Switzerland,CF-6,Union of European Football Associations,UEFA
+93,WC-1962,1962 FIFA Men's World Cup,R-128,Dorogi,Andor,Hungary,CF-6,Union of European Football Associations,UEFA
+94,WC-1962,1962 FIFA Men's World Cup,R-133,Dusch,Albert,West Germany,CF-6,Union of European Football Associations,UEFA
+95,WC-1962,1962 FIFA Men's World Cup,R-146,Etzel Filho,João,Brazil,CF-4,South American Football Confederation,CONMEBOL
+96,WC-1962,1962 FIFA Men's World Cup,R-158,Galba,Karol,Czechoslovakia,CF-6,Union of European Football Associations,UEFA
+97,WC-1962,1962 FIFA Men's World Cup,R-163,Garay Gardeazábal,Juan,Spain,CF-6,Union of European Football Associations,UEFA
+98,WC-1962,1962 FIFA Men's World Cup,R-195,Horn,Leo,Netherlands,CF-6,Union of European Football Associations,UEFA
+99,WC-1962,1962 FIFA Men's World Cup,R-208,Jonni,Cesare,Italy,CF-6,Union of European Football Associations,UEFA
+100,WC-1962,1962 FIFA Men's World Cup,R-245,Levnikov,Nikolai,Soviet Union,CF-6,Union of European Football Associations,UEFA
+101,WC-1962,1962 FIFA Men's World Cup,R-375,Robles,Carlos,Chile,CF-4,South American Football Confederation,CONMEBOL
+102,WC-1962,1962 FIFA Men's World Cup,R-398,Schwinte,Pierre,France,CF-6,Union of European Football Associations,UEFA
+103,WC-1962,1962 FIFA Men's World Cup,R-421,Steiner,Carl Erich,Austria,CF-6,Union of European Football Associations,UEFA
+104,WC-1962,1962 FIFA Men's World Cup,R-433,Tesanić,Branko,Yugoslavia,CF-6,Union of European Football Associations,UEFA
+105,WC-1962,1962 FIFA Men's World Cup,R-486,Yamasaki Maldonado,Arturo,Peru,CF-4,South American Football Confederation,CONMEBOL
+106,WC-1966,1966 FIFA Men's World Cup,R-003,Adair,John,Northern Ireland,CF-6,Union of European Football Associations,UEFA
+107,WC-1966,1966 FIFA Men's World Cup,R-029,Ashkenazi,Menachem,Israel,CF-6,Union of European Football Associations,UEFA
+108,WC-1966,1966 FIFA Men's World Cup,R-036,Bahramov,Tofiq,Soviet Union,CF-6,Union of European Football Associations,UEFA
+109,WC-1966,1966 FIFA Men's World Cup,R-077,Callaghan,Leo,Wales,CF-6,Union of European Football Associations,UEFA
+110,WC-1966,1966 FIFA Men's World Cup,R-079,Campos,Joaquim,Portugal,CF-6,Union of European Football Associations,UEFA
+111,WC-1966,1966 FIFA Men's World Cup,R-095,Codesal,José María,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+112,WC-1966,1966 FIFA Men's World Cup,R-109,Dagnall,Ken,England,CF-6,Union of European Football Associations,UEFA
+113,WC-1966,1966 FIFA Men's World Cup,R-125,Dienst,Gottfried,Switzerland,CF-6,Union of European Football Associations,UEFA
+114,WC-1966,1966 FIFA Men's World Cup,R-150,Finney,Jim,England,CF-6,Union of European Football Associations,UEFA
+115,WC-1966,1966 FIFA Men's World Cup,R-158,Galba,Karol,Czechoslovakia,CF-6,Union of European Football Associations,UEFA
+116,WC-1966,1966 FIFA Men's World Cup,R-163,Garay Gardeazábal,Juan,Spain,CF-6,Union of European Football Associations,UEFA
+117,WC-1966,1966 FIFA Men's World Cup,R-172,Goicoechea,Roberto,Argentina,CF-4,South American Football Confederation,CONMEBOL
+118,WC-1966,1966 FIFA Men's World Cup,R-214,Kandil,Ali,United Arab Republic,CF-2,Confederation of African Football,CAF
+119,WC-1966,1966 FIFA Men's World Cup,R-225,Kreitlein,Rudolf,West Germany,CF-6,Union of European Football Associations,UEFA
+120,WC-1966,1966 FIFA Men's World Cup,R-250,Lo Bello,Concetto,Italy,CF-6,Union of European Football Associations,UEFA
+121,WC-1966,1966 FIFA Men's World Cup,R-252,Lööw,Bertil,Sweden,CF-6,Union of European Football Associations,UEFA
+122,WC-1966,1966 FIFA Men's World Cup,R-271,Marques,Armando,Brazil,CF-4,South American Football Confederation,CONMEBOL
+123,WC-1966,1966 FIFA Men's World Cup,R-288,McCabe,George,England,CF-6,Union of European Football Associations,UEFA
+124,WC-1966,1966 FIFA Men's World Cup,R-344,Phillips,Hugh,Scotland,CF-6,Union of European Football Associations,UEFA
+125,WC-1966,1966 FIFA Men's World Cup,R-385,Rumenchev,Dimitar,Bulgaria,CF-6,Union of European Football Associations,UEFA
+126,WC-1966,1966 FIFA Men's World Cup,R-398,Schwinte,Pierre,France,CF-6,Union of European Football Associations,UEFA
+127,WC-1966,1966 FIFA Men's World Cup,R-440,Tschenscher,Kurt,West Germany,CF-6,Union of European Football Associations,UEFA
+128,WC-1966,1966 FIFA Men's World Cup,R-486,Yamasaki Maldonado,Arturo,Peru,CF-4,South American Football Confederation,CONMEBOL
+129,WC-1966,1966 FIFA Men's World Cup,R-489,Zečević,Konstantin,Yugoslavia,CF-6,Union of European Football Associations,UEFA
+130,WC-1966,1966 FIFA Men's World Cup,R-492,Zsolt,István,Hungary,CF-6,Union of European Football Associations,UEFA
+131,WC-1970,1970 FIFA Men's World Cup,R-008,Aguilar Elizalde,Abel,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+132,WC-1970,1970 FIFA Men's World Cup,R-036,Bahramov,Tofiq,Soviet Union,CF-6,Union of European Football Associations,UEFA
+133,WC-1970,1970 FIFA Men's World Cup,R-043,Barreto Ruíz,Ramón,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+134,WC-1970,1970 FIFA Men's World Cup,R-115,Davidson,Bobby,Scotland,CF-6,Union of European Football Associations,UEFA
+135,WC-1970,1970 FIFA Men's World Cup,R-118,De Leo,Diego,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+136,WC-1970,1970 FIFA Men's World Cup,R-171,Glöckner,Rudi,East Germany,CF-6,Union of European Football Associations,UEFA
+137,WC-1970,1970 FIFA Men's World Cup,R-194,Hormazábal Díaz,Rafael,Chile,CF-4,South American Football Confederation,CONMEBOL
+138,WC-1970,1970 FIFA Men's World Cup,R-214,Kandil,Ali,United Arab Republic,CF-2,Confederation of African Football,CAF
+139,WC-1970,1970 FIFA Men's World Cup,R-223,Klein,Abraham,Israel,CF-6,Union of European Football Associations,UEFA
+140,WC-1970,1970 FIFA Men's World Cup,R-234,Landauer,Henry,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+141,WC-1970,1970 FIFA Men's World Cup,R-254,Loraux,Vital,Belgium,CF-6,Union of European Football Associations,UEFA
+142,WC-1970,1970 FIFA Men's World Cup,R-259,Machin,Roger,France,CF-6,Union of European Football Associations,UEFA
+143,WC-1970,1970 FIFA Men's World Cup,R-274,Marschall,Ferdinand,Austria,CF-6,Union of European Football Associations,UEFA
+144,WC-1970,1970 FIFA Men's World Cup,R-319,Norberto Coerezza,Ángel,Argentina,CF-4,South American Football Confederation,CONMEBOL
+145,WC-1970,1970 FIFA Men's World Cup,R-329,Ortiz de Mendíbil,José María,Spain,CF-6,Union of European Football Associations,UEFA
+146,WC-1970,1970 FIFA Men's World Cup,R-358,Rădulescu,Andrei,Romania,CF-6,Union of European Football Associations,UEFA
+147,WC-1970,1970 FIFA Men's World Cup,R-371,Ribeiro Saldanha,Antonio,Portugal,CF-6,Union of European Football Associations,UEFA
+148,WC-1970,1970 FIFA Men's World Cup,R-392,Sbardella,Antonio,Italy,CF-6,Union of European Football Associations,UEFA
+149,WC-1970,1970 FIFA Men's World Cup,R-394,Scheurer,Rudolf,Switzerland,CF-6,Union of European Football Associations,UEFA
+150,WC-1970,1970 FIFA Men's World Cup,R-427,Tarekegn,Seyoum,Ethiopia,CF-2,Confederation of African Football,CAF
+151,WC-1970,1970 FIFA Men's World Cup,R-429,Taylor,Jack,England,CF-6,Union of European Football Associations,UEFA
+152,WC-1970,1970 FIFA Men's World Cup,R-440,Tschenscher,Kurt,West Germany,CF-6,Union of European Football Associations,UEFA
+153,WC-1970,1970 FIFA Men's World Cup,R-456,van Ravens,Laurens,Netherlands,CF-6,Union of European Football Associations,UEFA
+154,WC-1970,1970 FIFA Men's World Cup,R-466,Vieira de Moraes,Ayrton,Brazil,CF-4,South American Football Confederation,CONMEBOL
+155,WC-1970,1970 FIFA Men's World Cup,R-486,Yamasaki Maldonado,Arturo,Peru,CF-4,South American Football Confederation,CONMEBOL
+156,WC-1974,1974 FIFA Men's World Cup,R-023,Angonese,Aurelio,Italy,CF-6,Union of European Football Associations,UEFA
+157,WC-1974,1974 FIFA Men's World Cup,R-032,Babacan,Doğan,Turkey,CF-6,Union of European Football Associations,UEFA
+158,WC-1974,1974 FIFA Men's World Cup,R-043,Barreto Ruíz,Ramón,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+159,WC-1974,1974 FIFA Men's World Cup,R-061,Boskovic,Tony,Australia,CF-1,Asian Football Confederation,AFC
+160,WC-1974,1974 FIFA Men's World Cup,R-115,Davidson,Bobby,Scotland,CF-6,Union of European Football Associations,UEFA
+161,WC-1974,1974 FIFA Men's World Cup,R-119,Delgado Gómez,Omar,Colombia,CF-4,South American Football Confederation,CONMEBOL
+162,WC-1974,1974 FIFA Men's World Cup,R-171,Glöckner,Rudi,East Germany,CF-6,Union of European Football Associations,UEFA
+163,WC-1974,1974 FIFA Men's World Cup,R-177,González Archundía,Alfonso,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+164,WC-1974,1974 FIFA Men's World Cup,R-218,Kazakov,Pavel,Soviet Union,CF-6,Union of European Football Associations,UEFA
+165,WC-1974,1974 FIFA Men's World Cup,R-247,Linemayr,Erich,Austria,CF-6,Union of European Football Associations,UEFA
+166,WC-1974,1974 FIFA Men's World Cup,R-249,Llobregat,Vicente,Venezuela,CF-4,South American Football Confederation,CONMEBOL
+167,WC-1974,1974 FIFA Men's World Cup,R-254,Loraux,Vital,Belgium,CF-6,Union of European Football Associations,UEFA
+168,WC-1974,1974 FIFA Men's World Cup,R-271,Marques,Armando,Brazil,CF-4,South American Football Confederation,CONMEBOL
+169,WC-1974,1974 FIFA Men's World Cup,R-308,Mustafa Kamel,Mahmoud,Egypt,CF-2,Confederation of African Football,CAF
+170,WC-1974,1974 FIFA Men's World Cup,R-309,N'Diaye,Youssou,Senegal,CF-2,Confederation of African Football,CAF
+171,WC-1974,1974 FIFA Men's World Cup,R-311,Namdar,Jafar,Iran,CF-1,Asian Football Confederation,AFC
+172,WC-1974,1974 FIFA Men's World Cup,R-334,Palotai,Károly,Hungary,CF-6,Union of European Football Associations,UEFA
+173,WC-1974,1974 FIFA Men's World Cup,R-340,Peréz Núñez,Edison,Peru,CF-4,South American Football Confederation,CONMEBOL
+174,WC-1974,1974 FIFA Men's World Cup,R-341,Pestarino,Luis,Argentina,CF-4,South American Football Confederation,CONMEBOL
+175,WC-1974,1974 FIFA Men's World Cup,R-360,Rainea,Nicolae,Romania,CF-6,Union of European Football Associations,UEFA
+176,WC-1974,1974 FIFA Men's World Cup,R-389,Sánchez Ibáñez,Pablo,Spain,CF-6,Union of European Football Associations,UEFA
+177,WC-1974,1974 FIFA Men's World Cup,R-394,Scheurer,Rudolf,Switzerland,CF-6,Union of European Football Associations,UEFA
+178,WC-1974,1974 FIFA Men's World Cup,R-397,Schulenburg,Gerhard,West Germany,CF-6,Union of European Football Associations,UEFA
+179,WC-1974,1974 FIFA Men's World Cup,R-424,Suppiah,Govindasamy,Singapore,CF-1,Asian Football Confederation,AFC
+180,WC-1974,1974 FIFA Men's World Cup,R-429,Taylor,Jack,England,CF-6,Union of European Football Associations,UEFA
+181,WC-1974,1974 FIFA Men's World Cup,R-434,Thomas,Clive,Wales,CF-6,Union of European Football Associations,UEFA
+182,WC-1974,1974 FIFA Men's World Cup,R-440,Tschenscher,Kurt,West Germany,CF-6,Union of European Football Associations,UEFA
+183,WC-1974,1974 FIFA Men's World Cup,R-452,van Gemert,Arie,Netherlands,CF-6,Union of European Football Associations,UEFA
+184,WC-1974,1974 FIFA Men's World Cup,R-475,Weyland,Hans-Joachim,West Germany,CF-6,Union of European Football Associations,UEFA
+185,WC-1974,1974 FIFA Men's World Cup,R-478,Winsemann,Werner,Canada,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+186,WC-1978,1978 FIFA Men's World Cup,R-043,Barreto Ruíz,Ramón,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+187,WC-1978,1978 FIFA Men's World Cup,R-057,Biwersi,Ferdinand,West Germany,CF-6,Union of European Football Associations,UEFA
+188,WC-1978,1978 FIFA Men's World Cup,R-064,Bouzo,Farouk,Syria,CF-1,Asian Football Confederation,AFC
+189,WC-1978,1978 FIFA Men's World Cup,R-097,Coelho,Arnaldo Cézar,Brazil,CF-4,South American Football Confederation,CONMEBOL
+190,WC-1978,1978 FIFA Men's World Cup,R-103,Corver,Charles,Netherlands,CF-6,Union of European Football Associations,UEFA
+191,WC-1978,1978 FIFA Men's World Cup,R-131,Dubach,Jean,Switzerland,CF-6,Union of European Football Associations,UEFA
+192,WC-1978,1978 FIFA Men's World Cup,R-142,Eriksson,Ulf,Sweden,CF-6,Union of European Football Associations,UEFA
+193,WC-1978,1978 FIFA Men's World Cup,R-166,Garrido,António,Portugal,CF-6,Union of European Football Associations,UEFA
+194,WC-1978,1978 FIFA Men's World Cup,R-174,Gonella,Sergio,Italy,CF-6,Union of European Football Associations,UEFA
+195,WC-1978,1978 FIFA Men's World Cup,R-177,González Archundía,Alfonso,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+196,WC-1978,1978 FIFA Men's World Cup,R-178,Gordon,John,Scotland,CF-6,Union of European Football Associations,UEFA
+197,WC-1978,1978 FIFA Men's World Cup,R-181,Guerrero Orosco,César,Peru,CF-4,South American Football Confederation,CONMEBOL
+198,WC-1978,1978 FIFA Men's World Cup,R-207,Jarguz,Alojzy,Poland,CF-6,Union of European Football Associations,UEFA
+199,WC-1978,1978 FIFA Men's World Cup,R-223,Klein,Abraham,Israel,CF-6,Union of European Football Associations,UEFA
+200,WC-1978,1978 FIFA Men's World Cup,R-247,Linemayr,Erich,Austria,CF-6,Union of European Football Associations,UEFA
+201,WC-1978,1978 FIFA Men's World Cup,R-266,Maksimović,Dušan,Yugoslavia,CF-6,Union of European Football Associations,UEFA
+202,WC-1978,1978 FIFA Men's World Cup,R-276,Martínez,Ángel Franco,Spain,CF-6,Union of European Football Associations,UEFA
+203,WC-1978,1978 FIFA Men's World Cup,R-309,N'Diaye,Youssou,Senegal,CF-2,Confederation of African Football,CAF
+204,WC-1978,1978 FIFA Men's World Cup,R-311,Namdar,Jafar,Iran,CF-1,Asian Football Confederation,AFC
+205,WC-1978,1978 FIFA Men's World Cup,R-319,Norberto Coerezza,Ángel,Argentina,CF-4,South American Football Confederation,CONMEBOL
+206,WC-1978,1978 FIFA Men's World Cup,R-334,Palotai,Károly,Hungary,CF-6,Union of European Football Associations,UEFA
+207,WC-1978,1978 FIFA Men's World Cup,R-336,Partridge,Pat,England,CF-6,Union of European Football Associations,UEFA
+208,WC-1978,1978 FIFA Men's World Cup,R-353,Prokop,Adolf,East Germany,CF-6,Union of European Football Associations,UEFA
+209,WC-1978,1978 FIFA Men's World Cup,R-360,Rainea,Nicolae,Romania,CF-6,Union of European Football Associations,UEFA
+210,WC-1978,1978 FIFA Men's World Cup,R-373,Rion,Francis,Belgium,CF-6,Union of European Football Associations,UEFA
+211,WC-1978,1978 FIFA Men's World Cup,R-408,Silvagno Cavanna,Juan,Chile,CF-4,South American Football Confederation,CONMEBOL
+212,WC-1978,1978 FIFA Men's World Cup,R-434,Thomas,Clive,Wales,CF-6,Union of European Football Associations,UEFA
+213,WC-1978,1978 FIFA Men's World Cup,R-482,Wurtz,Robert,France,CF-6,Union of European Football Associations,UEFA
+214,WC-1982,1982 FIFA Men's World Cup,R-010,Al-Doy,Ibrahim Youssef,Bahrain,CF-1,Asian Football Confederation,AFC
+215,WC-1982,1982 FIFA Men's World Cup,R-017,Alghoul,Yousef,Libya,CF-2,Confederation of African Football,CAF
+216,WC-1982,1982 FIFA Men's World Cup,R-026,Aristizábal,Gilberto,Colombia,CF-4,South American Football Confederation,CONMEBOL
+217,WC-1982,1982 FIFA Men's World Cup,R-042,Barrancos,Luis,Bolivia,CF-4,South American Football Confederation,CONMEBOL
+218,WC-1982,1982 FIFA Men's World Cup,R-061,Boskovic,Tony,Australia,CF-1,Asian Football Confederation,AFC
+219,WC-1982,1982 FIFA Men's World Cup,R-081,Cardellino,Juan Daniel,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+220,WC-1982,1982 FIFA Men's World Cup,R-084,Casarin,Paolo,Italy,CF-6,Union of European Football Associations,UEFA
+221,WC-1982,1982 FIFA Men's World Cup,R-086,Castro,Gastón,Chile,CF-4,South American Football Confederation,CONMEBOL
+222,WC-1982,1982 FIFA Men's World Cup,R-089,Chan,Tam Sun,Hong Kong,CF-1,Asian Football Confederation,AFC
+223,WC-1982,1982 FIFA Men's World Cup,R-092,Christov,Vojtěch,Czechoslovakia,CF-6,Union of European Football Associations,UEFA
+224,WC-1982,1982 FIFA Men's World Cup,R-097,Coelho,Arnaldo Cézar,Brazil,CF-4,South American Football Confederation,CONMEBOL
+225,WC-1982,1982 FIFA Men's World Cup,R-103,Corver,Charles,Netherlands,CF-6,Union of European Football Associations,UEFA
+226,WC-1982,1982 FIFA Men's World Cup,R-129,Dotchev,Bogdan,Bulgaria,CF-6,Union of European Football Associations,UEFA
+227,WC-1982,1982 FIFA Men's World Cup,R-134,Dwomoh,Benjamin,Ghana,CF-2,Confederation of African Football,CAF
+228,WC-1982,1982 FIFA Men's World Cup,R-143,Eschweiler,Walter,West Germany,CF-6,Union of European Football Associations,UEFA
+229,WC-1982,1982 FIFA Men's World Cup,R-154,Fredriksson,Erik,Sweden,CF-6,Union of European Football Associations,UEFA
+230,WC-1982,1982 FIFA Men's World Cup,R-160,Galler,Bruno,Switzerland,CF-6,Union of European Football Associations,UEFA
+231,WC-1982,1982 FIFA Men's World Cup,R-166,Garrido,António,Portugal,CF-6,Union of European Football Associations,UEFA
+232,WC-1982,1982 FIFA Men's World Cup,R-203,Ithurralde,Arturo,Argentina,CF-4,South American Football Confederation,CONMEBOL
+233,WC-1982,1982 FIFA Men's World Cup,R-207,Jarguz,Alojzy,Poland,CF-6,Union of European Football Associations,UEFA
+234,WC-1982,1982 FIFA Men's World Cup,R-223,Klein,Abraham,Israel,CF-6,Union of European Football Associations,UEFA
+235,WC-1982,1982 FIFA Men's World Cup,R-230,Labo Revoredo,Enrique,Peru,CF-4,South American Football Confederation,CONMEBOL
+236,WC-1982,1982 FIFA Men's World Cup,R-231,Lacarne,Belaïd,Algeria,CF-2,Confederation of African Football,CAF
+237,WC-1982,1982 FIFA Men's World Cup,R-232,Lamo Castillo,Augusto,Spain,CF-6,Union of European Football Associations,UEFA
+238,WC-1982,1982 FIFA Men's World Cup,R-257,Lund-Sørensen,Henning,Denmark,CF-6,Union of European Football Associations,UEFA
+239,WC-1982,1982 FIFA Men's World Cup,R-283,Matovinović,Damir,Yugoslavia,CF-6,Union of European Football Associations,UEFA
+240,WC-1982,1982 FIFA Men's World Cup,R-295,Méndez,Rómulo,Guatemala,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+241,WC-1982,1982 FIFA Men's World Cup,R-302,Moffat,Malcolm,Northern Ireland,CF-6,Union of European Football Associations,UEFA
+242,WC-1982,1982 FIFA Men's World Cup,R-328,Ortiz,Héctor,Paraguay,CF-4,South American Football Confederation,CONMEBOL
+243,WC-1982,1982 FIFA Men's World Cup,R-334,Palotai,Károly,Hungary,CF-6,Union of European Football Associations,UEFA
+244,WC-1982,1982 FIFA Men's World Cup,R-337,Paulino Siles,Luis,Costa Rica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+245,WC-1982,1982 FIFA Men's World Cup,R-348,Ponnet,Alexis,Belgium,CF-6,Union of European Football Associations,UEFA
+246,WC-1982,1982 FIFA Men's World Cup,R-353,Prokop,Adolf,East Germany,CF-6,Union of European Football Associations,UEFA
+247,WC-1982,1982 FIFA Men's World Cup,R-360,Rainea,Nicolae,Romania,CF-6,Union of European Football Associations,UEFA
+248,WC-1982,1982 FIFA Men's World Cup,R-415,Socha,David,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+249,WC-1982,1982 FIFA Men's World Cup,R-423,Stupar,Myroslav,Soviet Union,CF-6,Union of European Football Associations,UEFA
+250,WC-1982,1982 FIFA Men's World Cup,R-447,Valentine,Bob,Scotland,CF-6,Union of European Football Associations,UEFA
+251,WC-1982,1982 FIFA Men's World Cup,R-459,Vautrot,Michel,France,CF-6,Union of European Football Associations,UEFA
+252,WC-1982,1982 FIFA Men's World Cup,R-460,Vázquez,Mario Rubio,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+253,WC-1982,1982 FIFA Men's World Cup,R-476,White,Clive,England,CF-6,Union of European Football Associations,UEFA
+254,WC-1982,1982 FIFA Men's World Cup,R-479,Wöhrer,Franz,Austria,CF-6,Union of European Football Associations,UEFA
+255,WC-1986,1986 FIFA Men's World Cup,R-006,Agnolin,Luigi,Italy,CF-6,Union of European Football Associations,UEFA
+256,WC-1986,1986 FIFA Men's World Cup,R-014,Al-Shanar,Fallaj,Saudi Arabia,CF-1,Asian Football Confederation,AFC
+257,WC-1986,1986 FIFA Men's World Cup,R-015,Al-Sharif,Jamal,Syria,CF-1,Asian Football Confederation,AFC
+258,WC-1986,1986 FIFA Men's World Cup,R-027,Arppi Filho,Romualdo,Brazil,CF-4,South American Football Confederation,CONMEBOL
+259,WC-1986,1986 FIFA Men's World Cup,R-040,Bambridge,Chris,Australia,CF-1,Asian Football Confederation,AFC
+260,WC-1986,1986 FIFA Men's World Cup,R-055,Bin Nasser,Ali,Tunisia,CF-2,Confederation of African Football,CAF
+261,WC-1986,1986 FIFA Men's World Cup,R-069,Brummeier,Horst,Austria,CF-6,Union of European Football Associations,UEFA
+262,WC-1986,1986 FIFA Men's World Cup,R-074,Butenko,Valeri,Soviet Union,CF-6,Union of European Football Associations,UEFA
+263,WC-1986,1986 FIFA Men's World Cup,R-092,Christov,Vojtěch,Czechoslovakia,CF-6,Union of European Football Associations,UEFA
+264,WC-1986,1986 FIFA Men's World Cup,R-105,Courtney,George,England,CF-6,Union of European Football Associations,UEFA
+265,WC-1986,1986 FIFA Men's World Cup,R-110,Daina,André,Switzerland,CF-6,Union of European Football Associations,UEFA
+266,WC-1986,1986 FIFA Men's World Cup,R-122,Díaz,Jesús,Colombia,CF-4,South American Football Confederation,CONMEBOL
+267,WC-1986,1986 FIFA Men's World Cup,R-129,Dotchev,Bogdan,Bulgaria,CF-6,Union of European Football Associations,UEFA
+268,WC-1986,1986 FIFA Men's World Cup,R-145,Espósito,Carlos,Argentina,CF-4,South American Football Confederation,CONMEBOL
+269,WC-1986,1986 FIFA Men's World Cup,R-154,Fredriksson,Erik,Sweden,CF-6,Union of European Football Associations,UEFA
+270,WC-1986,1986 FIFA Men's World Cup,R-176,González,Gabriel,Paraguay,CF-4,South American Football Confederation,CONMEBOL
+271,WC-1986,1986 FIFA Men's World Cup,R-198,Igna,Ioan,Romania,CF-6,Union of European Football Associations,UEFA
+272,WC-1986,1986 FIFA Men's World Cup,R-220,Keizer,Jan,Netherlands,CF-6,Union of European Football Associations,UEFA
+273,WC-1986,1986 FIFA Men's World Cup,R-222,Kirschen,Siegfried,East Germany,CF-6,Union of European Football Associations,UEFA
+274,WC-1986,1986 FIFA Men's World Cup,R-272,Márquez Ramírez,Antonio,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+275,WC-1986,1986 FIFA Men's World Cup,R-278,Martínez Bazán,José Luis,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+276,WC-1986,1986 FIFA Men's World Cup,R-295,Méndez,Rómulo,Guatemala,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+277,WC-1986,1986 FIFA Men's World Cup,R-313,Németh,Lajos,Hungary,CF-6,Union of European Football Associations,UEFA
+278,WC-1986,1986 FIFA Men's World Cup,R-343,Petrović,Zoran,Yugoslavia,CF-6,Union of European Football Associations,UEFA
+279,WC-1986,1986 FIFA Men's World Cup,R-345,Picon-Ackong,Edwin,Mauritius,CF-2,Confederation of African Football,CAF
+280,WC-1986,1986 FIFA Men's World Cup,R-348,Ponnet,Alexis,Belgium,CF-6,Union of European Football Associations,UEFA
+281,WC-1986,1986 FIFA Men's World Cup,R-357,Quiniou,Joël,France,CF-6,Union of European Football Associations,UEFA
+282,WC-1986,1986 FIFA Men's World Cup,R-382,Roth,Volker,West Germany,CF-6,Union of European Football Associations,UEFA
+283,WC-1986,1986 FIFA Men's World Cup,R-388,Sánchez Arminio,Victoriano,Spain,CF-6,Union of European Football Associations,UEFA
+284,WC-1986,1986 FIFA Men's World Cup,R-406,Silva,Hernán,Chile,CF-4,South American Football Confederation,CONMEBOL
+285,WC-1986,1986 FIFA Men's World Cup,R-407,Silva Valente,Carlos,Portugal,CF-6,Union of European Football Associations,UEFA
+286,WC-1986,1986 FIFA Men's World Cup,R-414,Snoddy,Alan,Northern Ireland,CF-6,Union of European Football Associations,UEFA
+287,WC-1986,1986 FIFA Men's World Cup,R-415,Socha,David,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+288,WC-1986,1986 FIFA Men's World Cup,R-426,Takada,Shizuo,Japan,CF-1,Asian Football Confederation,AFC
+289,WC-1986,1986 FIFA Men's World Cup,R-439,Traoré,Idrissa,Mali,CF-2,Confederation of African Football,CAF
+290,WC-1986,1986 FIFA Men's World Cup,R-442,Ulloa Morera,Berny,Costa Rica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+291,WC-1990,1990 FIFA Men's World Cup,R-006,Agnolin,Luigi,Italy,CF-6,Union of European Football Associations,UEFA
+292,WC-1990,1990 FIFA Men's World Cup,R-015,Al-Sharif,Jamal,Syria,CF-1,Asian Football Confederation,AFC
+293,WC-1990,1990 FIFA Men's World Cup,R-081,Cardellino,Juan Daniel,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+294,WC-1990,1990 FIFA Men's World Cup,R-094,Codesal,Edgardo,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+295,WC-1990,1990 FIFA Men's World Cup,R-105,Courtney,George,England,CF-6,Union of European Football Associations,UEFA
+296,WC-1990,1990 FIFA Men's World Cup,R-154,Fredriksson,Erik,Sweden,CF-6,Union of European Football Associations,UEFA
+297,WC-1990,1990 FIFA Men's World Cup,R-206,Jácome,Elías,Ecuador,CF-4,South American Football Confederation,CONMEBOL
+298,WC-1990,1990 FIFA Men's World Cup,R-211,Jouini,Neji,Tunisia,CF-2,Confederation of African Football,CAF
+299,WC-1990,1990 FIFA Men's World Cup,R-222,Kirschen,Siegfried,East Germany,CF-6,Union of European Football Associations,UEFA
+300,WC-1990,1990 FIFA Men's World Cup,R-224,Kohl,Helmut,Austria,CF-6,Union of European Football Associations,UEFA
+301,WC-1990,1990 FIFA Men's World Cup,R-235,Lanese,Tullio,Italy,CF-6,Union of European Football Associations,UEFA
+302,WC-1990,1990 FIFA Men's World Cup,R-255,Loustau,Juan Carlos,Argentina,CF-4,South American Football Confederation,CONMEBOL
+303,WC-1990,1990 FIFA Men's World Cup,R-261,Maciel,Carlos,Paraguay,CF-4,South American Football Confederation,CONMEBOL
+304,WC-1990,1990 FIFA Men's World Cup,R-286,Mauro,Vincent,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+305,WC-1990,1990 FIFA Men's World Cup,R-299,Mikkelsen,Peter,Denmark,CF-6,Union of European Football Associations,UEFA
+306,WC-1990,1990 FIFA Men's World Cup,R-343,Petrović,Zoran,Yugoslavia,CF-6,Union of European Football Associations,UEFA
+307,WC-1990,1990 FIFA Men's World Cup,R-357,Quiniou,Joël,France,CF-6,Union of European Football Associations,UEFA
+308,WC-1990,1990 FIFA Men's World Cup,R-383,Röthlisberger,Kurt,Switzerland,CF-6,Union of European Football Associations,UEFA
+309,WC-1990,1990 FIFA Men's World Cup,R-396,Schmidhuber,Aron,West Germany,CF-6,Union of European Football Associations,UEFA
+310,WC-1990,1990 FIFA Men's World Cup,R-406,Silva,Hernán,Chile,CF-4,South American Football Confederation,CONMEBOL
+311,WC-1990,1990 FIFA Men's World Cup,R-407,Silva Valente,Carlos,Portugal,CF-6,Union of European Football Associations,UEFA
+312,WC-1990,1990 FIFA Men's World Cup,R-413,Smith,George,Scotland,CF-6,Union of European Football Associations,UEFA
+313,WC-1990,1990 FIFA Men's World Cup,R-414,Snoddy,Alan,Northern Ireland,CF-6,Union of European Football Associations,UEFA
+314,WC-1990,1990 FIFA Men's World Cup,R-416,Soriano Aladrén,Emilio,Spain,CF-6,Union of European Football Associations,UEFA
+315,WC-1990,1990 FIFA Men's World Cup,R-417,Spirin,Alexey,Soviet Union,CF-6,Union of European Football Associations,UEFA
+316,WC-1990,1990 FIFA Men's World Cup,R-426,Takada,Shizuo,Japan,CF-1,Asian Football Confederation,AFC
+317,WC-1990,1990 FIFA Men's World Cup,R-453,van Langenhove,Marcel,Belgium,CF-6,Union of European Football Associations,UEFA
+318,WC-1990,1990 FIFA Men's World Cup,R-459,Vautrot,Michel,France,CF-6,Union of European Football Associations,UEFA
+319,WC-1990,1990 FIFA Men's World Cup,R-481,Wright,José Roberto,Brazil,CF-4,South American Football Confederation,CONMEBOL
+320,WC-1991,1991 FIFA Women's World Cup,R-062,Boucetta,Fethi,Tunisia,CF-2,Confederation of African Football,CAF
+321,WC-1991,1991 FIFA Women's World Cup,R-200,Imperatore,Salvador,Chile,CF-4,South American Football Confederation,CONMEBOL
+322,WC-1991,1991 FIFA Women's World Cup,R-256,Lu,Jun,China,CF-1,Asian Football Confederation,AFC
+323,WC-1991,1991 FIFA Women's World Cup,R-289,McCluskey,Jim,Scotland,CF-6,Union of European Football Associations,UEFA
+324,WC-1991,1991 FIFA Women's World Cup,R-316,Nikakis,Vassilios,Greece,CF-6,Union of European Football Associations,UEFA
+325,WC-1991,1991 FIFA Women's World Cup,R-378,Rodríguez Medina,Rafael,El Salvador,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+326,WC-1991,1991 FIFA Women's World Cup,R-402,Shrestha,Gyanu Raja,Nepal,CF-1,Asian Football Confederation,AFC
+327,WC-1991,1991 FIFA Women's World Cup,R-435,Toro Rendón,John,Colombia,CF-4,South American Football Confederation,CONMEBOL
+328,WC-1991,1991 FIFA Women's World Cup,R-457,Vasconcelos,Cláudia,Brazil,CF-4,South American Football Confederation,CONMEBOL
+329,WC-1991,1991 FIFA Women's World Cup,R-488,Yengo,Omer,Congo,CF-2,Confederation of African Football,CAF
+330,WC-1991,1991 FIFA Women's World Cup,R-491,Zhuk,Vadim,Soviet Union,CF-6,Union of European Football Associations,UEFA
+331,WC-1994,1994 FIFA Men's World Cup,R-015,Al-Sharif,Jamal,Syria,CF-1,Asian Football Confederation,AFC
+332,WC-1994,1994 FIFA Men's World Cup,R-022,Angeles,Arturo,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+333,WC-1994,1994 FIFA Men's World Cup,R-033,Badilla,Rodrigo,Costa Rica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+334,WC-1994,1994 FIFA Men's World Cup,R-037,Baldas,Fabio,Italy,CF-6,Union of European Football Associations,UEFA
+335,WC-1994,1994 FIFA Men's World Cup,R-067,Brizio Carter,Arturo,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+336,WC-1994,1994 FIFA Men's World Cup,R-071,Bujsaim,Ali,United Arab Emirates,CF-1,Asian Football Confederation,AFC
+337,WC-1994,1994 FIFA Men's World Cup,R-087,Cavani,Filippi,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+338,WC-1994,1994 FIFA Men's World Cup,R-123,Díaz Vega,Manuel,Spain,CF-6,Union of European Football Associations,UEFA
+339,WC-1994,1994 FIFA Men's World Cup,R-127,Don,Philip,England,CF-6,Union of European Football Associations,UEFA
+340,WC-1994,1994 FIFA Men's World Cup,R-211,Jouini,Neji,Tunisia,CF-2,Confederation of African Football,CAF
+341,WC-1994,1994 FIFA Men's World Cup,R-216,Karlsson,Bo,Sweden,CF-6,Union of European Football Associations,UEFA
+342,WC-1994,1994 FIFA Men's World Cup,R-227,Krug,Hellmut,Germany,CF-6,Union of European Football Associations,UEFA
+343,WC-1994,1994 FIFA Men's World Cup,R-233,Lamolina,Francisco Oscar,Argentina,CF-4,South American Football Confederation,CONMEBOL
+344,WC-1994,1994 FIFA Men's World Cup,R-246,Lim,Kee Chong,Mauritius,CF-2,Confederation of African Football,CAF
+345,WC-1994,1994 FIFA Men's World Cup,R-275,Marsiglia,Renato,Brazil,CF-4,South American Football Confederation,CONMEBOL
+346,WC-1994,1994 FIFA Men's World Cup,R-299,Mikkelsen,Peter,Denmark,CF-6,Union of European Football Associations,UEFA
+347,WC-1994,1994 FIFA Men's World Cup,R-305,Mottram,Leslie,Scotland,CF-6,Union of European Football Associations,UEFA
+348,WC-1994,1994 FIFA Men's World Cup,R-332,Pairetto,Pierluigi,Italy,CF-6,Union of European Football Associations,UEFA
+349,WC-1994,1994 FIFA Men's World Cup,R-354,Puhl,Sándor,Hungary,CF-6,Union of European Football Associations,UEFA
+350,WC-1994,1994 FIFA Men's World Cup,R-357,Quiniou,Joël,France,CF-6,Union of European Football Associations,UEFA
+351,WC-1994,1994 FIFA Men's World Cup,R-383,Röthlisberger,Kurt,Switzerland,CF-6,Union of European Football Associations,UEFA
+352,WC-1994,1994 FIFA Men's World Cup,R-431,Tejada Noriega,Alberto,Peru,CF-4,South American Football Confederation,CONMEBOL
+353,WC-1994,1994 FIFA Men's World Cup,R-436,Torres Cadena,José,Colombia,CF-4,South American Football Confederation,CONMEBOL
+354,WC-1994,1994 FIFA Men's World Cup,R-450,van der Ende,Mario,Netherlands,CF-6,Union of European Football Associations,UEFA
+355,WC-1995,1995 FIFA Women's World Cup,R-058,Black,Linda May,New Zealand,CF-5,Oceania Football Confederation,OFC
+356,WC-1995,1995 FIFA Women's World Cup,R-078,Camara,Engage,Guinea,CF-2,Confederation of African Football,CAF
+357,WC-1995,1995 FIFA Women's World Cup,R-120,Denoncourt,Sonia,Canada,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+358,WC-1995,1995 FIFA Women's World Cup,R-161,Gamboa,Eduardo,Chile,CF-4,South American Football Confederation,CONMEBOL
+359,WC-1995,1995 FIFA Women's World Cup,R-187,Hamer,Alain,Luxembourg,CF-6,Union of European Football Associations,UEFA
+360,WC-1995,1995 FIFA Women's World Cup,R-191,Hepburn,Catherine Leann,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+361,WC-1995,1995 FIFA Women's World Cup,R-209,Jonsson,Ingrid,Sweden,CF-6,Union of European Football Associations,UEFA
+362,WC-1995,1995 FIFA Women's World Cup,R-281,Mathabela,Petros,South Africa,CF-2,Confederation of African Football,CAF
+363,WC-1995,1995 FIFA Women's World Cup,R-321,Ödlund,Eva,Sweden,CF-6,Union of European Football Associations,UEFA
+364,WC-1995,1995 FIFA Women's World Cup,R-410,Siqueira,Maria Edilene,Brazil,CF-4,South American Football Confederation,CONMEBOL
+365,WC-1995,1995 FIFA Women's World Cup,R-411,Skogvang,Bente,Norway,CF-6,Union of European Football Associations,UEFA
+366,WC-1995,1995 FIFA Women's World Cup,R-444,Un-prasert,Pirom,Thailand,CF-1,Asian Football Confederation,AFC
+367,WC-1998,1998 FIFA Men's World Cup,R-012,Al-Ghandour,Gamal,Egypt,CF-2,Confederation of African Football,CAF
+368,WC-1998,1998 FIFA Men's World Cup,R-035,Baharmast,Esfandiar,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+369,WC-1998,1998 FIFA Men's World Cup,R-046,Batta,Marc,France,CF-6,Union of European Football Associations,UEFA
+370,WC-1998,1998 FIFA Men's World Cup,R-050,Belqola,Said,Morocco,CF-2,Confederation of African Football,CAF
+371,WC-1998,1998 FIFA Men's World Cup,R-051,Benkö,Günter,Austria,CF-6,Union of European Football Associations,UEFA
+372,WC-1998,1998 FIFA Men's World Cup,R-063,Bouchardeau,Lucien,Niger,CF-2,Confederation of African Football,CAF
+373,WC-1998,1998 FIFA Men's World Cup,R-067,Brizio Carter,Arturo,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+374,WC-1998,1998 FIFA Men's World Cup,R-071,Bujsaim,Ali,United Arab Emirates,CF-1,Asian Football Confederation,AFC
+375,WC-1998,1998 FIFA Men's World Cup,R-085,Castrilli,Javier,Argentina,CF-4,South American Football Confederation,CONMEBOL
+376,WC-1998,1998 FIFA Men's World Cup,R-098,Collina,Pierluigi,Italy,CF-6,Union of European Football Associations,UEFA
+377,WC-1998,1998 FIFA Men's World Cup,R-111,Dallas,Hugh,Scotland,CF-6,Union of European Football Associations,UEFA
+378,WC-1998,1998 FIFA Men's World Cup,R-132,Durkin,Paul,England,CF-6,Union of European Football Associations,UEFA
+379,WC-1998,1998 FIFA Men's World Cup,R-164,García-Aranda,José María,Spain,CF-6,Union of European Football Associations,UEFA
+380,WC-1998,1998 FIFA Men's World Cup,R-175,González,Epifanio,Paraguay,CF-4,South American Football Confederation,CONMEBOL
+381,WC-1998,1998 FIFA Men's World Cup,R-193,Heynemann,Bernd,Germany,CF-6,Union of European Football Associations,UEFA
+382,WC-1998,1998 FIFA Men's World Cup,R-244,Lennie,Eddie,Australia,CF-1,Asian Football Confederation,AFC
+383,WC-1998,1998 FIFA Men's World Cup,R-245,Levnikov,Nikolai,Soviet Union,CF-6,Union of European Football Associations,UEFA
+384,WC-1998,1998 FIFA Men's World Cup,R-246,Lim,Kee Chong,Mauritius,CF-2,Confederation of African Football,CAF
+385,WC-1998,1998 FIFA Men's World Cup,R-290,McLeod,Ian,South Africa,CF-2,Confederation of African Football,CAF
+386,WC-1998,1998 FIFA Men's World Cup,R-292,Meier,Urs,Switzerland,CF-6,Union of European Football Associations,UEFA
+387,WC-1998,1998 FIFA Men's World Cup,R-294,Melo Pereira,Vítor,Portugal,CF-6,Union of European Football Associations,UEFA
+388,WC-1998,1998 FIFA Men's World Cup,R-315,Nielsen,Kim Milton,Denmark,CF-6,Union of European Football Associations,UEFA
+389,WC-1998,1998 FIFA Men's World Cup,R-324,Okada,Masayoshi,Japan,CF-1,Asian Football Confederation,AFC
+390,WC-1998,1998 FIFA Men's World Cup,R-339,Pedersen,Rune,Norway,CF-6,Union of European Football Associations,UEFA
+391,WC-1998,1998 FIFA Men's World Cup,R-359,Rahman Al-Zeid,Abdul,Saudi Arabia,CF-1,Asian Football Confederation,AFC
+392,WC-1998,1998 FIFA Men's World Cup,R-361,Ramdhan,Ramesh,Trinidad and Tobago,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+393,WC-1998,1998 FIFA Men's World Cup,R-369,Rezende de Freitas,Márcio,Brazil,CF-4,South American Football Confederation,CONMEBOL
+394,WC-1998,1998 FIFA Men's World Cup,R-390,Sánchez Yantén,Mario,Chile,CF-4,South American Football Confederation,CONMEBOL
+395,WC-1998,1998 FIFA Men's World Cup,R-431,Tejada Noriega,Alberto,Peru,CF-4,South American Football Confederation,CONMEBOL
+396,WC-1998,1998 FIFA Men's World Cup,R-435,Toro Rendón,John,Colombia,CF-4,South American Football Confederation,CONMEBOL
+397,WC-1998,1998 FIFA Men's World Cup,R-444,Un-prasert,Pirom,Thailand,CF-1,Asian Football Confederation,AFC
+398,WC-1998,1998 FIFA Men's World Cup,R-446,Vágner,László,Hungary,CF-6,Union of European Football Associations,UEFA
+399,WC-1998,1998 FIFA Men's World Cup,R-450,van der Ende,Mario,Netherlands,CF-6,Union of European Football Associations,UEFA
+400,WC-1998,1998 FIFA Men's World Cup,R-480,Wójcik,Ryszard,Poland,CF-6,Union of European Football Associations,UEFA
+401,WC-1999,1999 FIFA Women's World Cup,R-002,Abidoye,Bola Elizabeth,Nigeria,CF-2,Confederation of African Football,CAF
+402,WC-1999,1999 FIFA Women's World Cup,R-101,Contreras,Marisela,Venezuela,CF-4,South American Football Confederation,CONMEBOL
+403,WC-1999,1999 FIFA Women's World Cup,R-120,Denoncourt,Sonia,Canada,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+404,WC-1999,1999 FIFA Women's World Cup,R-139,Elovirta,Katriina,Finland,CF-6,Union of European Football Associations,UEFA
+405,WC-1999,1999 FIFA Women's World Cup,R-168,Gaye,Fatou,Senegal,CF-2,Confederation of African Football,CAF
+406,WC-1999,1999 FIFA Women's World Cup,R-184,Günthner,Elke,Germany,CF-6,Union of European Football Associations,UEFA
+407,WC-1999,1999 FIFA Women's World Cup,R-196,Hunt,Sandra,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+408,WC-1999,1999 FIFA Women's World Cup,R-199,Im,Eun-ju,South Korea,CF-1,Asian Football Confederation,AFC
+409,WC-1999,1999 FIFA Women's World Cup,R-314,Nielsen,Gitte,Denmark,CF-6,Union of European Football Associations,UEFA
+410,WC-1999,1999 FIFA Women's World Cup,R-322,Ogston,Tammy,Australia,CF-1,Asian Football Confederation,AFC
+411,WC-1999,1999 FIFA Women's World Cup,R-335,Pardo,Martha Liliana,Colombia,CF-4,South American Football Confederation,CONMEBOL
+412,WC-1999,1999 FIFA Women's World Cup,R-342,Petignat,Nicole,Switzerland,CF-6,Union of European Football Associations,UEFA
+413,WC-1999,1999 FIFA Women's World Cup,R-400,Seitz,Kari,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+414,WC-1999,1999 FIFA Women's World Cup,R-410,Siqueira,Maria Edilene,Brazil,CF-4,South American Football Confederation,CONMEBOL
+415,WC-1999,1999 FIFA Women's World Cup,R-438,Tovar,Virginia,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+416,WC-1999,1999 FIFA Women's World Cup,R-493,Zuo,Xiudi,China,CF-1,Asian Football Confederation,AFC
+417,WC-2002,2002 FIFA Men's World Cup,R-012,Al-Ghandour,Gamal,Egypt,CF-2,Confederation of African Football,CAF
+418,WC-2002,2002 FIFA Men's World Cup,R-024,Aquino,Ubaldo,Paraguay,CF-4,South American Football Confederation,CONMEBOL
+419,WC-2002,2002 FIFA Men's World Cup,R-045,Batres,Carlos Alberto,Guatemala,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+420,WC-2002,2002 FIFA Men's World Cup,R-071,Bujsaim,Ali,United Arab Emirates,CF-1,Asian Football Confederation,AFC
+421,WC-2002,2002 FIFA Men's World Cup,R-096,Codjia,Coffi,Benin,CF-1,Asian Football Confederation,AFC
+422,WC-2002,2002 FIFA Men's World Cup,R-098,Collina,Pierluigi,Italy,CF-6,Union of European Football Associations,UEFA
+423,WC-2002,2002 FIFA Men's World Cup,R-108,Daami,Mourad,Tunisia,CF-2,Confederation of African Football,CAF
+424,WC-2002,2002 FIFA Men's World Cup,R-111,Dallas,Hugh,Scotland,CF-6,Union of European Football Associations,UEFA
+425,WC-2002,2002 FIFA Men's World Cup,R-155,Frisk,Anders,Sweden,CF-6,Union of European Football Associations,UEFA
+426,WC-2002,2002 FIFA Men's World Cup,R-182,Guezzaz,Mohamed,Morocco,CF-2,Confederation of African Football,CAF
+427,WC-2002,2002 FIFA Men's World Cup,R-186,Hall,Brian,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+428,WC-2002,2002 FIFA Men's World Cup,R-189,Hauge,Terje,Norway,CF-6,Union of European Football Associations,UEFA
+429,WC-2002,2002 FIFA Men's World Cup,R-212,Kamikawa,Toru,Japan,CF-1,Asian Football Confederation,AFC
+430,WC-2002,2002 FIFA Men's World Cup,R-221,Kim,Young-joo,South Korea,CF-1,Asian Football Confederation,AFC
+431,WC-2002,2002 FIFA Men's World Cup,R-253,López Nieto,Antonio,Spain,CF-6,Union of European Football Associations,UEFA
+432,WC-2002,2002 FIFA Men's World Cup,R-256,Lu,Jun,China,CF-1,Asian Football Confederation,AFC
+433,WC-2002,2002 FIFA Men's World Cup,R-268,Mane,Saad,Kuwait,CF-1,Asian Football Confederation,AFC
+434,WC-2002,2002 FIFA Men's World Cup,R-285,Mattus,William,Costa Rica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+435,WC-2002,2002 FIFA Men's World Cup,R-292,Meier,Urs,Switzerland,CF-6,Union of European Football Associations,UEFA
+436,WC-2002,2002 FIFA Men's World Cup,R-294,Melo Pereira,Vítor,Portugal,CF-6,Union of European Football Associations,UEFA
+437,WC-2002,2002 FIFA Men's World Cup,R-297,Merk,Markus,Germany,CF-6,Union of European Football Associations,UEFA
+438,WC-2002,2002 FIFA Men's World Cup,R-298,Micheľ,Ľuboš,Slovakia,CF-6,Union of European Football Associations,UEFA
+439,WC-2002,2002 FIFA Men's World Cup,R-304,Moreno,Byron,Ecuador,CF-4,South American Football Confederation,CONMEBOL
+440,WC-2002,2002 FIFA Men's World Cup,R-310,N'Doye,Falla,Senegal,CF-2,Confederation of African Football,CAF
+441,WC-2002,2002 FIFA Men's World Cup,R-315,Nielsen,Kim Milton,Denmark,CF-6,Union of European Football Associations,UEFA
+442,WC-2002,2002 FIFA Men's World Cup,R-330,Ortubé,René,Bolivia,CF-4,South American Football Confederation,CONMEBOL
+443,WC-2002,2002 FIFA Men's World Cup,R-347,Poll,Graham,England,CF-6,Union of European Football Associations,UEFA
+444,WC-2002,2002 FIFA Men's World Cup,R-351,Prendergast,Peter,Jamaica,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+445,WC-2002,2002 FIFA Men's World Cup,R-363,Ramos,Felipe,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+446,WC-2002,2002 FIFA Men's World Cup,R-384,Ruiz,Óscar,Colombia,CF-4,South American Football Confederation,CONMEBOL
+447,WC-2002,2002 FIFA Men's World Cup,R-387,Sánchez,Ángel,Argentina,CF-4,South American Football Confederation,CONMEBOL
+448,WC-2002,2002 FIFA Men's World Cup,R-401,Shield,Mark,Australia,CF-1,Asian Football Confederation,AFC
+449,WC-2002,2002 FIFA Men's World Cup,R-409,Simon,Carlos Eugênio,Brazil,CF-4,South American Football Confederation,CONMEBOL
+450,WC-2002,2002 FIFA Men's World Cup,R-458,Vassaras,Kyros,Greece,CF-6,Union of European Football Associations,UEFA
+451,WC-2002,2002 FIFA Men's World Cup,R-461,Veissière,Gilles,France,CF-6,Union of European Football Associations,UEFA
+452,WC-2002,2002 FIFA Men's World Cup,R-474,Wegereef,Jan,Netherlands,CF-6,Union of European Football Associations,UEFA
+453,WC-2003,2003 FIFA Women's World Cup,R-002,Abidoye,Bola Elizabeth,Nigeria,CF-2,Confederation of African Football,CAF
+454,WC-2003,2003 FIFA Women's World Cup,R-005,Agboyi,Xonam,Togo,CF-2,Confederation of African Football,CAF
+455,WC-2003,2003 FIFA Women's World Cup,R-120,Denoncourt,Sonia,Canada,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+456,WC-2003,2003 FIFA Women's World Cup,R-139,Elovirta,Katriina,Finland,CF-6,Union of European Football Associations,UEFA
+457,WC-2003,2003 FIFA Women's World Cup,R-199,Im,Eun-ju,South Korea,CF-1,Asian Football Confederation,AFC
+458,WC-2003,2003 FIFA Women's World Cup,R-201,Ionescu,Cristina,Romania,CF-6,Union of European Football Associations,UEFA
+459,WC-2003,2003 FIFA Women's World Cup,R-322,Ogston,Tammy,Australia,CF-1,Asian Football Confederation,AFC
+460,WC-2003,2003 FIFA Women's World Cup,R-342,Petignat,Nicole,Switzerland,CF-6,Union of European Football Associations,UEFA
+461,WC-2003,2003 FIFA Women's World Cup,R-380,Romano,Florencia,Argentina,CF-4,South American Football Confederation,CONMEBOL
+462,WC-2003,2003 FIFA Women's World Cup,R-400,Seitz,Kari,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+463,WC-2003,2003 FIFA Women's World Cup,R-437,Tortura,Sueli,Brazil,CF-4,South American Football Confederation,CONMEBOL
+464,WC-2003,2003 FIFA Women's World Cup,R-490,Zhang,Dongqing,China,CF-1,Asian Football Confederation,AFC
+465,WC-2006,2006 FIFA Men's World Cup,R-001,Abdel-Fatah,Essam,Egypt,CF-2,Confederation of African Football,CAF
+466,WC-2006,2006 FIFA Men's World Cup,R-021,Amarilla,Carlos,Paraguay,CF-4,South American Football Confederation,CONMEBOL
+467,WC-2006,2006 FIFA Men's World Cup,R-025,Archundia,Benito,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+468,WC-2006,2006 FIFA Men's World Cup,R-072,Busacca,Massimo,Switzerland,CF-6,Union of European Football Associations,UEFA
+469,WC-2006,2006 FIFA Men's World Cup,R-096,Codjia,Coffi,Benin,CF-1,Asian Football Confederation,AFC
+470,WC-2006,2006 FIFA Men's World Cup,R-117,De Bleeckere,Frank,Belgium,CF-6,Union of European Football Associations,UEFA
+471,WC-2006,2006 FIFA Men's World Cup,R-137,Elizondo,Horacio,Argentina,CF-4,South American Football Confederation,CONMEBOL
+472,WC-2006,2006 FIFA Men's World Cup,R-204,Ivanov,Valentin,Russia,CF-6,Union of European Football Associations,UEFA
+473,WC-2006,2006 FIFA Men's World Cup,R-212,Kamikawa,Toru,Japan,CF-1,Asian Football Confederation,AFC
+474,WC-2006,2006 FIFA Men's World Cup,R-238,Larrionda,Jorge,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+475,WC-2006,2006 FIFA Men's World Cup,R-263,Maidin,Shamsul,Singapore,CF-1,Asian Football Confederation,AFC
+476,WC-2006,2006 FIFA Men's World Cup,R-291,Medina Cantalejo,Luis,Spain,CF-6,Union of European Football Associations,UEFA
+477,WC-2006,2006 FIFA Men's World Cup,R-297,Merk,Markus,Germany,CF-6,Union of European Football Associations,UEFA
+478,WC-2006,2006 FIFA Men's World Cup,R-298,Micheľ,Ľuboš,Slovakia,CF-6,Union of European Football Associations,UEFA
+479,WC-2006,2006 FIFA Men's World Cup,R-347,Poll,Graham,England,CF-6,Union of European Football Associations,UEFA
+480,WC-2006,2006 FIFA Men's World Cup,R-349,Poulat,Éric,France,CF-6,Union of European Football Associations,UEFA
+481,WC-2006,2006 FIFA Men's World Cup,R-377,Rodríguez,Marco Antonio,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+482,WC-2006,2006 FIFA Men's World Cup,R-381,Rosetti,Roberto,Italy,CF-6,Union of European Football Associations,UEFA
+483,WC-2006,2006 FIFA Men's World Cup,R-384,Ruiz,Óscar,Colombia,CF-4,South American Football Confederation,CONMEBOL
+484,WC-2006,2006 FIFA Men's World Cup,R-401,Shield,Mark,Australia,CF-1,Asian Football Confederation,AFC
+485,WC-2006,2006 FIFA Men's World Cup,R-409,Simon,Carlos Eugênio,Brazil,CF-4,South American Football Confederation,CONMEBOL
+486,WC-2007,2007 FIFA Women's World Cup,R-049,Beck,Christine,Germany,CF-6,Union of European Football Associations,UEFA
+487,WC-2007,2007 FIFA Women's World Cup,R-052,Bennett,Jennifer,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+488,WC-2007,2007 FIFA Women's World Cup,R-102,Correa,Adriana,Colombia,CF-4,South American Football Confederation,CONMEBOL
+489,WC-2007,2007 FIFA Women's World Cup,R-112,Damková,Dagmar,Czech Republic,CF-6,Union of European Football Associations,UEFA
+490,WC-2007,2007 FIFA Women's World Cup,R-149,Ferreira-James,Dianne,Guyana,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+491,WC-2007,2007 FIFA Women's World Cup,R-157,Gaál,Gyöngyi,Hungary,CF-6,Union of European Football Associations,UEFA
+492,WC-2007,2007 FIFA Women's World Cup,R-213,Kamnueng,Pannipar,Thailand,CF-1,Asian Football Confederation,AFC
+493,WC-2007,2007 FIFA Women's World Cup,R-318,Niu,Huijun,China,CF-1,Asian Football Confederation,AFC
+494,WC-2007,2007 FIFA Women's World Cup,R-322,Ogston,Tammy,Australia,CF-1,Asian Football Confederation,AFC
+495,WC-2007,2007 FIFA Women's World Cup,R-323,Oiwa,Mayumi,Japan,CF-1,Asian Football Confederation,AFC
+496,WC-2007,2007 FIFA Women's World Cup,R-333,Palmqvist,Jenny,Sweden,CF-6,Union of European Football Associations,UEFA
+497,WC-2007,2007 FIFA Women's World Cup,R-342,Petignat,Nicole,Switzerland,CF-6,Union of European Football Associations,UEFA
+498,WC-2007,2007 FIFA Women's World Cup,R-400,Seitz,Kari,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+499,WC-2010,2010 FIFA Men's World Cup,R-011,Al-Ghamdi,Khalil,Saudi Arabia,CF-1,Asian Football Confederation,AFC
+500,WC-2010,2010 FIFA Men's World Cup,R-025,Archundia,Benito,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+501,WC-2010,2010 FIFA Men's World Cup,R-038,Baldassi,Héctor,Argentina,CF-4,South American Football Confederation,CONMEBOL
+502,WC-2010,2010 FIFA Men's World Cup,R-045,Batres,Carlos Alberto,Guatemala,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+503,WC-2010,2010 FIFA Men's World Cup,R-053,Benquerença,Olegário,Portugal,CF-6,Union of European Football Associations,UEFA
+504,WC-2010,2010 FIFA Men's World Cup,R-072,Busacca,Massimo,Switzerland,CF-6,Union of European Football Associations,UEFA
+505,WC-2010,2010 FIFA Men's World Cup,R-104,Coulibaly,Koman,Mali,CF-2,Confederation of African Football,CAF
+506,WC-2010,2010 FIFA Men's World Cup,R-113,Damon,Jerome,South Africa,CF-2,Confederation of African Football,CAF
+507,WC-2010,2010 FIFA Men's World Cup,R-117,De Bleeckere,Frank,Belgium,CF-6,Union of European Football Associations,UEFA
+508,WC-2010,2010 FIFA Men's World Cup,R-192,Hester,Michael,New Zealand,CF-5,Oceania Football Confederation,OFC
+509,WC-2010,2010 FIFA Men's World Cup,R-202,Irmatov,Ravshan,Uzbekistan,CF-1,Asian Football Confederation,AFC
+510,WC-2010,2010 FIFA Men's World Cup,R-217,Kassai,Viktor,Hungary,CF-6,Union of European Football Associations,UEFA
+511,WC-2010,2010 FIFA Men's World Cup,R-237,Lannoy,Stéphane,France,CF-6,Union of European Football Associations,UEFA
+512,WC-2010,2010 FIFA Men's World Cup,R-238,Larrionda,Jorge,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+513,WC-2010,2010 FIFA Men's World Cup,R-264,Maillet,Eddy,Seychelles,CF-2,Confederation of African Football,CAF
+514,WC-2010,2010 FIFA Men's World Cup,R-317,Nishimura,Yuichi,Japan,CF-1,Asian Football Confederation,AFC
+515,WC-2010,2010 FIFA Men's World Cup,R-350,Pozo,Pablo,Chile,CF-4,South American Football Confederation,CONMEBOL
+516,WC-2010,2010 FIFA Men's World Cup,R-377,Rodríguez,Marco Antonio,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+517,WC-2010,2010 FIFA Men's World Cup,R-381,Rosetti,Roberto,Italy,CF-6,Union of European Football Associations,UEFA
+518,WC-2010,2010 FIFA Men's World Cup,R-384,Ruiz,Óscar,Colombia,CF-4,South American Football Confederation,CONMEBOL
+519,WC-2010,2010 FIFA Men's World Cup,R-409,Simon,Carlos Eugênio,Brazil,CF-4,South American Football Confederation,CONMEBOL
+520,WC-2010,2010 FIFA Men's World Cup,R-418,Stark,Wolfgang,Germany,CF-6,Union of European Football Associations,UEFA
+521,WC-2010,2010 FIFA Men's World Cup,R-445,Undiano Mallenco,Alberto,Spain,CF-6,Union of European Football Associations,UEFA
+522,WC-2010,2010 FIFA Men's World Cup,R-473,Webb,Howard,England,CF-6,Union of European Football Associations,UEFA
+523,WC-2011,2011 FIFA Women's World Cup,R-018,Alvarado,Quetzalli,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+524,WC-2011,2011 FIFA Women's World Cup,R-019,Álvarez,Estela,Argentina,CF-4,South American Football Confederation,CONMEBOL
+525,WC-2011,2011 FIFA Women's World Cup,R-088,Cha,Sung-mi,South Korea,CF-1,Asian Football Confederation,AFC
+526,WC-2011,2011 FIFA Women's World Cup,R-090,Chenard,Carol Anne,Canada,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+527,WC-2011,2011 FIFA Women's World Cup,R-112,Damková,Dagmar,Czech Republic,CF-6,Union of European Football Associations,UEFA
+528,WC-2011,2011 FIFA Women's World Cup,R-156,Fukano,Etsuko,Japan,CF-1,Asian Football Confederation,AFC
+529,WC-2011,2011 FIFA Women's World Cup,R-157,Gaál,Gyöngyi,Hungary,CF-6,Union of European Football Associations,UEFA
+530,WC-2011,2011 FIFA Women's World Cup,R-190,Heikkinen,Kirsi,Finland,CF-6,Union of European Football Associations,UEFA
+531,WC-2011,2011 FIFA Women's World Cup,R-293,Melksham,Jacqui,Australia,CF-1,Asian Football Confederation,AFC
+532,WC-2011,2011 FIFA Women's World Cup,R-312,Neguel,Thérèse,Cameroon,CF-2,Confederation of African Football,CAF
+533,WC-2011,2011 FIFA Women's World Cup,R-333,Palmqvist,Jenny,Sweden,CF-6,Union of European Football Associations,UEFA
+534,WC-2011,2011 FIFA Women's World Cup,R-338,Pedersen,Christina,Norway,CF-6,Union of European Football Associations,UEFA
+535,WC-2011,2011 FIFA Women's World Cup,R-368,Reyes,Silvia,Peru,CF-4,South American Football Confederation,CONMEBOL
+536,WC-2011,2011 FIFA Women's World Cup,R-400,Seitz,Kari,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+537,WC-2011,2011 FIFA Women's World Cup,R-422,Steinhaus,Bibiana,Germany,CF-6,Union of European Football Associations,UEFA
+538,WC-2011,2011 FIFA Women's World Cup,R-471,Vulivuli,Finau,Fiji,CF-5,Oceania Football Confederation,OFC
+539,WC-2014,2014 FIFA Men's World Cup,R-007,Aguilar,Joel,El Salvador,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+540,WC-2014,2014 FIFA Men's World Cup,R-070,Brych,Felix,Germany,CF-6,Union of European Football Associations,UEFA
+541,WC-2014,2014 FIFA Men's World Cup,R-076,Çakır,Cüneyt,Turkey,CF-6,Union of European Football Associations,UEFA
+542,WC-2014,2014 FIFA Men's World Cup,R-130,Doué,Noumandiez,Ivory Coast,CF-2,Confederation of African Football,CAF
+543,WC-2014,2014 FIFA Men's World Cup,R-141,Eriksson,Jonas,Sweden,CF-6,Union of European Football Associations,UEFA
+544,WC-2014,2014 FIFA Men's World Cup,R-167,Gassama,Bakary,Gambia,CF-2,Confederation of African Football,CAF
+545,WC-2014,2014 FIFA Men's World Cup,R-169,Geiger,Mark,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+546,WC-2014,2014 FIFA Men's World Cup,R-185,Haimoudi,Djamel,Algeria,CF-2,Confederation of African Football,CAF
+547,WC-2014,2014 FIFA Men's World Cup,R-202,Irmatov,Ravshan,Uzbekistan,CF-1,Asian Football Confederation,AFC
+548,WC-2014,2014 FIFA Men's World Cup,R-228,Kuipers,Björn,Netherlands,CF-6,Union of European Football Associations,UEFA
+549,WC-2014,2014 FIFA Men's World Cup,R-287,Mažić,Milorad,Serbia,CF-6,Union of European Football Associations,UEFA
+550,WC-2014,2014 FIFA Men's World Cup,R-317,Nishimura,Yuichi,Japan,CF-1,Asian Football Confederation,AFC
+551,WC-2014,2014 FIFA Men's World Cup,R-320,O'Leary,Peter,New Zealand,CF-5,Oceania Football Confederation,OFC
+552,WC-2014,2014 FIFA Men's World Cup,R-331,Osses,Enrique,Chile,CF-4,South American Football Confederation,CONMEBOL
+553,WC-2014,2014 FIFA Men's World Cup,R-346,Pitana,Néstor,Argentina,CF-4,South American Football Confederation,CONMEBOL
+554,WC-2014,2014 FIFA Men's World Cup,R-352,Proença,Pedro,Portugal,CF-6,Union of European Football Associations,UEFA
+555,WC-2014,2014 FIFA Men's World Cup,R-372,Ricci,Sandro,Brazil,CF-4,South American Football Confederation,CONMEBOL
+556,WC-2014,2014 FIFA Men's World Cup,R-374,Rizzoli,Nicola,Italy,CF-6,Union of European Football Associations,UEFA
+557,WC-2014,2014 FIFA Men's World Cup,R-377,Rodríguez,Marco Antonio,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+558,WC-2014,2014 FIFA Men's World Cup,R-379,Roldán,Wilmar,Colombia,CF-4,South American Football Confederation,CONMEBOL
+559,WC-2014,2014 FIFA Men's World Cup,R-403,Shukralla,Nawaf,Bahrain,CF-1,Asian Football Confederation,AFC
+560,WC-2014,2014 FIFA Men's World Cup,R-462,Velasco Carballo,Carlos,Spain,CF-6,Union of European Football Associations,UEFA
+561,WC-2014,2014 FIFA Men's World Cup,R-464,Vera,Carlos,Ecuador,CF-4,South American Football Confederation,CONMEBOL
+562,WC-2014,2014 FIFA Men's World Cup,R-473,Webb,Howard,England,CF-6,Union of European Football Associations,UEFA
+563,WC-2014,2014 FIFA Men's World Cup,R-477,Williams,Ben,Australia,CF-1,Asian Football Confederation,AFC
+564,WC-2015,2015 FIFA Women's World Cup,R-016,Albon,Teodora,Romania,CF-6,Union of European Football Associations,UEFA
+565,WC-2015,2015 FIFA Women's World Cup,R-018,Alvarado,Quetzalli,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+566,WC-2015,2015 FIFA Women's World Cup,R-060,Borjas,Melissa,Honduras,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+567,WC-2015,2015 FIFA Women's World Cup,R-090,Chenard,Carol Anne,Canada,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+568,WC-2015,2015 FIFA Women's World Cup,R-121,di Iorio,Salomé,Argentina,CF-4,South American Football Confederation,CONMEBOL
+569,WC-2015,2015 FIFA Women's World Cup,R-126,Domka,Margaret,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+570,WC-2015,2015 FIFA Women's World Cup,R-153,Frappart,Stéphanie,France,CF-6,Union of European Football Associations,UEFA
+571,WC-2015,2015 FIFA Women's World Cup,R-162,Gani,Rita,Malaysia,CF-1,Asian Football Confederation,AFC
+572,WC-2015,2015 FIFA Women's World Cup,R-219,Keighley,Anna-Marie,New Zealand,CF-5,Oceania Football Confederation,OFC
+573,WC-2015,2015 FIFA Women's World Cup,R-229,Kulcsár,Katalin,Hungary,CF-6,Union of European Football Associations,UEFA
+574,WC-2015,2015 FIFA Women's World Cup,R-239,Larsson,Pernilla,Sweden,CF-6,Union of European Football Associations,UEFA
+575,WC-2015,2015 FIFA Women's World Cup,R-243,Lengwe,Gladys,Zambia,CF-2,Confederation of African Football,CAF
+576,WC-2015,2015 FIFA Women's World Cup,R-277,Martínez,Yeimy,Colombia,CF-4,South American Football Confederation,CONMEBOL
+577,WC-2015,2015 FIFA Women's World Cup,R-301,Mitsi,Efthalia,Greece,CF-6,Union of European Football Associations,UEFA
+578,WC-2015,2015 FIFA Women's World Cup,R-303,Monzul,Kateryna,Ukraine,CF-6,Union of European Football Associations,UEFA
+579,WC-2015,2015 FIFA Women's World Cup,R-312,Neguel,Thérèse,Cameroon,CF-2,Confederation of African Football,CAF
+580,WC-2015,2015 FIFA Women's World Cup,R-356,Qin,Liang,China,CF-1,Asian Football Confederation,AFC
+581,WC-2015,2015 FIFA Women's World Cup,R-370,Ri,Hyang-ok,North Korea,CF-1,Asian Football Confederation,AFC
+582,WC-2015,2015 FIFA Women's World Cup,R-419,Staubli,Esther,Switzerland,CF-6,Union of European Football Associations,UEFA
+583,WC-2015,2015 FIFA Women's World Cup,R-422,Steinhaus,Bibiana,Germany,CF-6,Union of European Football Associations,UEFA
+584,WC-2015,2015 FIFA Women's World Cup,R-443,Umpiérrez,Claudia,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+585,WC-2015,2015 FIFA Women's World Cup,R-463,Venegas,Lucila,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+586,WC-2015,2015 FIFA Women's World Cup,R-469,Vitulano,Carina,Italy,CF-6,Union of European Football Associations,UEFA
+587,WC-2015,2015 FIFA Women's World Cup,R-485,Yamagishi,Sachiko,Japan,CF-1,Asian Football Confederation,AFC
+588,WC-2018,2018 FIFA Men's World Cup,R-007,Aguilar,Joel,El Salvador,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+589,WC-2018,2018 FIFA Men's World Cup,R-070,Brych,Felix,Germany,CF-6,Union of European Football Associations,UEFA
+590,WC-2018,2018 FIFA Men's World Cup,R-075,Cáceres,Enrique,Paraguay,CF-4,South American Football Confederation,CONMEBOL
+591,WC-2018,2018 FIFA Men's World Cup,R-076,Çakır,Cüneyt,Turkey,CF-6,Union of European Football Associations,UEFA
+592,WC-2018,2018 FIFA Men's World Cup,R-099,Conger,Matthew,New Zealand,CF-5,Oceania Football Confederation,OFC
+593,WC-2018,2018 FIFA Men's World Cup,R-106,Cunha,Andrés,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+594,WC-2018,2018 FIFA Men's World Cup,R-124,Diedhiou,Malang,Senegal,CF-2,Confederation of African Football,CAF
+595,WC-2018,2018 FIFA Men's World Cup,R-147,Faghani,Alireza,Iran,CF-1,Asian Football Confederation,AFC
+596,WC-2018,2018 FIFA Men's World Cup,R-167,Gassama,Bakary,Gambia,CF-2,Confederation of African Football,CAF
+597,WC-2018,2018 FIFA Men's World Cup,R-169,Geiger,Mark,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+598,WC-2018,2018 FIFA Men's World Cup,R-180,Grisha,Gehad,Egypt,CF-2,Confederation of African Football,CAF
+599,WC-2018,2018 FIFA Men's World Cup,R-188,Hassan Mohamed,Mohammed Abdulla,United Arab Emirates,CF-1,Asian Football Confederation,AFC
+600,WC-2018,2018 FIFA Men's World Cup,R-202,Irmatov,Ravshan,Uzbekistan,CF-1,Asian Football Confederation,AFC
+601,WC-2018,2018 FIFA Men's World Cup,R-215,Karasev,Sergei,Russia,CF-6,Union of European Football Associations,UEFA
+602,WC-2018,2018 FIFA Men's World Cup,R-228,Kuipers,Björn,Netherlands,CF-6,Union of European Football Associations,UEFA
+603,WC-2018,2018 FIFA Men's World Cup,R-269,Marciniak,Szymon,Poland,CF-6,Union of European Football Associations,UEFA
+604,WC-2018,2018 FIFA Men's World Cup,R-273,Marrufo,Jair,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+605,WC-2018,2018 FIFA Men's World Cup,R-279,Mateu Lahoz,Antonio,Spain,CF-6,Union of European Football Associations,UEFA
+606,WC-2018,2018 FIFA Men's World Cup,R-287,Mažić,Milorad,Serbia,CF-6,Union of European Football Associations,UEFA
+607,WC-2018,2018 FIFA Men's World Cup,R-346,Pitana,Néstor,Argentina,CF-4,South American Football Confederation,CONMEBOL
+608,WC-2018,2018 FIFA Men's World Cup,R-362,Ramos,César Arturo,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+609,WC-2018,2018 FIFA Men's World Cup,R-372,Ricci,Sandro,Brazil,CF-4,South American Football Confederation,CONMEBOL
+610,WC-2018,2018 FIFA Men's World Cup,R-376,Rocchi,Gianluca,Italy,CF-6,Union of European Football Associations,UEFA
+611,WC-2018,2018 FIFA Men's World Cup,R-379,Roldán,Wilmar,Colombia,CF-4,South American Football Confederation,CONMEBOL
+612,WC-2018,2018 FIFA Men's World Cup,R-403,Shukralla,Nawaf,Bahrain,CF-1,Asian Football Confederation,AFC
+613,WC-2018,2018 FIFA Men's World Cup,R-405,Sikazwe,Janny,Zambia,CF-2,Confederation of African Football,CAF
+614,WC-2018,2018 FIFA Men's World Cup,R-412,Skomina,Damir,Slovenia,CF-6,Union of European Football Associations,UEFA
+615,WC-2018,2018 FIFA Men's World Cup,R-441,Turpin,Clément,France,CF-6,Union of European Football Associations,UEFA
+616,WC-2019,2019 FIFA Women's World Cup,R-004,Adámková,Jana,Czech Republic,CF-6,Union of European Football Associations,UEFA
+617,WC-2019,2019 FIFA Women's World Cup,R-020,Alves Batista,Edina,Brazil,CF-4,South American Football Confederation,CONMEBOL
+618,WC-2019,2019 FIFA Women's World Cup,R-048,Beaudoin,Marie-Soleil,Canada,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+619,WC-2019,2019 FIFA Women's World Cup,R-060,Borjas,Melissa,Honduras,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+620,WC-2019,2019 FIFA Women's World Cup,R-066,Braz,Sandra,Portugal,CF-6,Union of European Football Associations,UEFA
+621,WC-2019,2019 FIFA Women's World Cup,R-083,Carvajal,María,Chile,CF-4,South American Football Confederation,CONMEBOL
+622,WC-2019,2019 FIFA Women's World Cup,R-151,Fortunato,Laura,Argentina,CF-4,South American Football Confederation,CONMEBOL
+623,WC-2019,2019 FIFA Women's World Cup,R-153,Frappart,Stéphanie,France,CF-6,Union of European Football Associations,UEFA
+624,WC-2019,2019 FIFA Women's World Cup,R-197,Hussein,Riem,Germany,CF-6,Union of European Football Associations,UEFA
+625,WC-2019,2019 FIFA Women's World Cup,R-205,Jacewicz,Kate,Australia,CF-1,Asian Football Confederation,AFC
+626,WC-2019,2019 FIFA Women's World Cup,R-219,Keighley,Anna-Marie,New Zealand,CF-5,Oceania Football Confederation,OFC
+627,WC-2019,2019 FIFA Women's World Cup,R-229,Kulcsár,Katalin,Hungary,CF-6,Union of European Football Associations,UEFA
+628,WC-2019,2019 FIFA Women's World Cup,R-303,Monzul,Kateryna,Ukraine,CF-6,Union of European Football Associations,UEFA
+629,WC-2019,2019 FIFA Women's World Cup,R-307,Mukansanga,Salima,Rwanda,CF-2,Confederation of African Football,CAF
+630,WC-2019,2019 FIFA Women's World Cup,R-355,Pustovoitova,Anastasia,Russia,CF-6,Union of European Football Associations,UEFA
+631,WC-2019,2019 FIFA Women's World Cup,R-356,Qin,Liang,China,CF-1,Asian Football Confederation,AFC
+632,WC-2019,2019 FIFA Women's World Cup,R-367,Reibelt,Casey,Australia,CF-1,Asian Football Confederation,AFC
+633,WC-2019,2019 FIFA Women's World Cup,R-370,Ri,Hyang-ok,North Korea,CF-1,Asian Football Confederation,AFC
+634,WC-2019,2019 FIFA Women's World Cup,R-419,Staubli,Esther,Switzerland,CF-6,Union of European Football Associations,UEFA
+635,WC-2019,2019 FIFA Women's World Cup,R-422,Steinhaus,Bibiana,Germany,CF-6,Union of European Football Associations,UEFA
+636,WC-2019,2019 FIFA Women's World Cup,R-425,Tafesse,Lidya,Ethiopia,CF-2,Confederation of African Football,CAF
+637,WC-2019,2019 FIFA Women's World Cup,R-443,Umpiérrez,Claudia,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+638,WC-2019,2019 FIFA Women's World Cup,R-463,Venegas,Lucila,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+639,WC-2019,2019 FIFA Women's World Cup,R-487,Yamashita,Yoshimi,Japan,CF-1,Asian Football Confederation,AFC
+640,WC-2022,2022 FIFA Men's World Cup,R-013,Al-Jassim,Abdulrahman,Qatar,CF-1,Asian Football Confederation,AFC
+641,WC-2022,2022 FIFA Men's World Cup,R-044,Barton,Iván,El Salvador,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+642,WC-2022,2022 FIFA Men's World Cup,R-047,Beath,Chris,Australia,CF-1,Asian Football Confederation,AFC
+643,WC-2022,2022 FIFA Men's World Cup,R-093,Claus,Raphael,Brazil,CF-4,South American Football Confederation,CONMEBOL
+644,WC-2022,2022 FIFA Men's World Cup,R-099,Conger,Matthew,New Zealand,CF-5,Oceania Football Confederation,OFC
+645,WC-2022,2022 FIFA Men's World Cup,R-136,Elfath,Ismail,United States,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+646,WC-2022,2022 FIFA Men's World Cup,R-144,Escobar,Mario,Guatemala,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+647,WC-2022,2022 FIFA Men's World Cup,R-147,Faghani,Alireza,Iran,CF-1,Asian Football Confederation,AFC
+648,WC-2022,2022 FIFA Men's World Cup,R-153,Frappart,Stéphanie,France,CF-6,Union of European Football Associations,UEFA
+649,WC-2022,2022 FIFA Men's World Cup,R-167,Gassama,Bakary,Gambia,CF-2,Confederation of African Football,CAF
+650,WC-2022,2022 FIFA Men's World Cup,R-170,Ghorbal,Mustapha,Algeria,CF-2,Confederation of African Football,CAF
+651,WC-2022,2022 FIFA Men's World Cup,R-173,Gomes,Victor,South Africa,CF-2,Confederation of African Football,CAF
+652,WC-2022,2022 FIFA Men's World Cup,R-188,Hassan Mohamed,Mohammed Abdulla,United Arab Emirates,CF-1,Asian Football Confederation,AFC
+653,WC-2022,2022 FIFA Men's World Cup,R-265,Makkelie,Danny,Netherlands,CF-6,Union of European Football Associations,UEFA
+654,WC-2022,2022 FIFA Men's World Cup,R-269,Marciniak,Szymon,Poland,CF-6,Union of European Football Associations,UEFA
+655,WC-2022,2022 FIFA Men's World Cup,R-279,Mateu Lahoz,Antonio,Spain,CF-6,Union of European Football Associations,UEFA
+656,WC-2022,2022 FIFA Men's World Cup,R-282,Matonte,Andrés,Uruguay,CF-4,South American Football Confederation,CONMEBOL
+657,WC-2022,2022 FIFA Men's World Cup,R-325,Oliver,Michael,England,CF-6,Union of European Football Associations,UEFA
+658,WC-2022,2022 FIFA Men's World Cup,R-327,Orsato,Daniele,Italy,CF-6,Union of European Football Associations,UEFA
+659,WC-2022,2022 FIFA Men's World Cup,R-362,Ramos,César Arturo,Mexico,CF-3,"Confederation of North, Central American and Caribbean Association Football",CONCACAF
+660,WC-2022,2022 FIFA Men's World Cup,R-364,Rapallini,Fernando,Argentina,CF-4,South American Football Confederation,CONMEBOL
+661,WC-2022,2022 FIFA Men's World Cup,R-386,Sampaio,Wilton,Brazil,CF-4,South American Football Confederation,CONMEBOL
+662,WC-2022,2022 FIFA Men's World Cup,R-404,Siebert,Daniel,Germany,CF-6,Union of European Football Associations,UEFA
+663,WC-2022,2022 FIFA Men's World Cup,R-405,Sikazwe,Janny,Zambia,CF-2,Confederation of African Football,CAF
+664,WC-2022,2022 FIFA Men's World Cup,R-428,Taylor,Anthony,England,CF-6,Union of European Football Associations,UEFA
+665,WC-2022,2022 FIFA Men's World Cup,R-432,Tello,Facundo,Argentina,CF-4,South American Football Confederation,CONMEBOL
+666,WC-2022,2022 FIFA Men's World Cup,R-441,Turpin,Clément,France,CF-6,Union of European Football Associations,UEFA
+667,WC-2022,2022 FIFA Men's World Cup,R-448,Valenzuela,Jesús,Venezuela,CF-4,South American Football Confederation,CONMEBOL
+668,WC-2022,2022 FIFA Men's World Cup,R-468,Vinčić,Slavko,Slovenia,CF-6,Union of European Football Associations,UEFA

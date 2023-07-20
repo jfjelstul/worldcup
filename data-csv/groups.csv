@@ -1,126 +1,160 @@
 key_id,tournament_id,tournament_name,stage_number,stage_name,group_name,count_teams
-1,WC-1930,1930 FIFA World Cup,1,group stage,Group 1,4
-2,WC-1930,1930 FIFA World Cup,1,group stage,Group 2,3
-3,WC-1930,1930 FIFA World Cup,1,group stage,Group 3,3
-4,WC-1930,1930 FIFA World Cup,1,group stage,Group 4,3
-5,WC-1950,1950 FIFA World Cup,1,first round,Group 1,4
-6,WC-1950,1950 FIFA World Cup,1,first round,Group 2,4
-7,WC-1950,1950 FIFA World Cup,1,first round,Group 3,3
-8,WC-1950,1950 FIFA World Cup,1,first round,Group 4,2
-9,WC-1950,1950 FIFA World Cup,2,final round,Group 1,4
-10,WC-1954,1954 FIFA World Cup,1,group stage,Group 1,4
-11,WC-1954,1954 FIFA World Cup,1,group stage,Group 2,4
-12,WC-1954,1954 FIFA World Cup,1,group stage,Group 3,4
-13,WC-1954,1954 FIFA World Cup,1,group stage,Group 4,4
-14,WC-1958,1958 FIFA World Cup,1,group stage,Group 1,4
-15,WC-1958,1958 FIFA World Cup,1,group stage,Group 2,4
-16,WC-1958,1958 FIFA World Cup,1,group stage,Group 3,4
-17,WC-1958,1958 FIFA World Cup,1,group stage,Group 4,4
-18,WC-1962,1962 FIFA World Cup,1,group stage,Group 1,4
-19,WC-1962,1962 FIFA World Cup,1,group stage,Group 2,4
-20,WC-1962,1962 FIFA World Cup,1,group stage,Group 3,4
-21,WC-1962,1962 FIFA World Cup,1,group stage,Group 4,4
-22,WC-1966,1966 FIFA World Cup,1,group stage,Group 1,4
-23,WC-1966,1966 FIFA World Cup,1,group stage,Group 2,4
-24,WC-1966,1966 FIFA World Cup,1,group stage,Group 3,4
-25,WC-1966,1966 FIFA World Cup,1,group stage,Group 4,4
-26,WC-1970,1970 FIFA World Cup,1,group stage,Group 1,4
-27,WC-1970,1970 FIFA World Cup,1,group stage,Group 2,4
-28,WC-1970,1970 FIFA World Cup,1,group stage,Group 3,4
-29,WC-1970,1970 FIFA World Cup,1,group stage,Group 4,4
-30,WC-1974,1974 FIFA World Cup,1,first group stage,Group 1,4
-31,WC-1974,1974 FIFA World Cup,1,first group stage,Group 2,4
-32,WC-1974,1974 FIFA World Cup,1,first group stage,Group 3,4
-33,WC-1974,1974 FIFA World Cup,1,first group stage,Group 4,4
-34,WC-1974,1974 FIFA World Cup,2,second group stage,Group A,4
-35,WC-1974,1974 FIFA World Cup,2,second group stage,Group B,4
-36,WC-1978,1978 FIFA World Cup,1,first group stage,Group 1,4
-37,WC-1978,1978 FIFA World Cup,1,first group stage,Group 2,4
-38,WC-1978,1978 FIFA World Cup,1,first group stage,Group 3,4
-39,WC-1978,1978 FIFA World Cup,1,first group stage,Group 4,4
-40,WC-1978,1978 FIFA World Cup,2,second group stage,Group A,4
-41,WC-1978,1978 FIFA World Cup,2,second group stage,Group B,4
-42,WC-1982,1982 FIFA World Cup,1,first group stage,Group 1,4
-43,WC-1982,1982 FIFA World Cup,1,first group stage,Group 2,4
-44,WC-1982,1982 FIFA World Cup,1,first group stage,Group 3,4
-45,WC-1982,1982 FIFA World Cup,1,first group stage,Group 4,4
-46,WC-1982,1982 FIFA World Cup,1,first group stage,Group 5,4
-47,WC-1982,1982 FIFA World Cup,1,first group stage,Group 6,4
-48,WC-1982,1982 FIFA World Cup,2,second group stage,Group A,3
-49,WC-1982,1982 FIFA World Cup,2,second group stage,Group B,3
-50,WC-1982,1982 FIFA World Cup,2,second group stage,Group C,3
-51,WC-1982,1982 FIFA World Cup,2,second group stage,Group D,3
-52,WC-1986,1986 FIFA World Cup,1,group stage,Group A,4
-53,WC-1986,1986 FIFA World Cup,1,group stage,Group B,4
-54,WC-1986,1986 FIFA World Cup,1,group stage,Group C,4
-55,WC-1986,1986 FIFA World Cup,1,group stage,Group D,4
-56,WC-1986,1986 FIFA World Cup,1,group stage,Group E,4
-57,WC-1986,1986 FIFA World Cup,1,group stage,Group F,4
-58,WC-1990,1990 FIFA World Cup,1,group stage,Group A,4
-59,WC-1990,1990 FIFA World Cup,1,group stage,Group B,4
-60,WC-1990,1990 FIFA World Cup,1,group stage,Group C,4
-61,WC-1990,1990 FIFA World Cup,1,group stage,Group D,4
-62,WC-1990,1990 FIFA World Cup,1,group stage,Group E,4
-63,WC-1990,1990 FIFA World Cup,1,group stage,Group F,4
-64,WC-1994,1994 FIFA World Cup,1,group stage,Group A,4
-65,WC-1994,1994 FIFA World Cup,1,group stage,Group B,4
-66,WC-1994,1994 FIFA World Cup,1,group stage,Group C,4
-67,WC-1994,1994 FIFA World Cup,1,group stage,Group D,4
-68,WC-1994,1994 FIFA World Cup,1,group stage,Group E,4
-69,WC-1994,1994 FIFA World Cup,1,group stage,Group F,4
-70,WC-1998,1998 FIFA World Cup,1,group stage,Group A,4
-71,WC-1998,1998 FIFA World Cup,1,group stage,Group B,4
-72,WC-1998,1998 FIFA World Cup,1,group stage,Group C,4
-73,WC-1998,1998 FIFA World Cup,1,group stage,Group D,4
-74,WC-1998,1998 FIFA World Cup,1,group stage,Group E,4
-75,WC-1998,1998 FIFA World Cup,1,group stage,Group F,4
-76,WC-1998,1998 FIFA World Cup,1,group stage,Group G,4
-77,WC-1998,1998 FIFA World Cup,1,group stage,Group H,4
-78,WC-2002,2002 FIFA World Cup,1,group stage,Group A,4
-79,WC-2002,2002 FIFA World Cup,1,group stage,Group B,4
-80,WC-2002,2002 FIFA World Cup,1,group stage,Group C,4
-81,WC-2002,2002 FIFA World Cup,1,group stage,Group D,4
-82,WC-2002,2002 FIFA World Cup,1,group stage,Group E,4
-83,WC-2002,2002 FIFA World Cup,1,group stage,Group F,4
-84,WC-2002,2002 FIFA World Cup,1,group stage,Group G,4
-85,WC-2002,2002 FIFA World Cup,1,group stage,Group H,4
-86,WC-2006,2006 FIFA World Cup,1,group stage,Group A,4
-87,WC-2006,2006 FIFA World Cup,1,group stage,Group B,4
-88,WC-2006,2006 FIFA World Cup,1,group stage,Group C,4
-89,WC-2006,2006 FIFA World Cup,1,group stage,Group D,4
-90,WC-2006,2006 FIFA World Cup,1,group stage,Group E,4
-91,WC-2006,2006 FIFA World Cup,1,group stage,Group F,4
-92,WC-2006,2006 FIFA World Cup,1,group stage,Group G,4
-93,WC-2006,2006 FIFA World Cup,1,group stage,Group H,4
-94,WC-2010,2010 FIFA World Cup,1,group stage,Group A,4
-95,WC-2010,2010 FIFA World Cup,1,group stage,Group B,4
-96,WC-2010,2010 FIFA World Cup,1,group stage,Group C,4
-97,WC-2010,2010 FIFA World Cup,1,group stage,Group D,4
-98,WC-2010,2010 FIFA World Cup,1,group stage,Group E,4
-99,WC-2010,2010 FIFA World Cup,1,group stage,Group F,4
-100,WC-2010,2010 FIFA World Cup,1,group stage,Group G,4
-101,WC-2010,2010 FIFA World Cup,1,group stage,Group H,4
-102,WC-2014,2014 FIFA World Cup,1,group stage,Group A,4
-103,WC-2014,2014 FIFA World Cup,1,group stage,Group B,4
-104,WC-2014,2014 FIFA World Cup,1,group stage,Group C,4
-105,WC-2014,2014 FIFA World Cup,1,group stage,Group D,4
-106,WC-2014,2014 FIFA World Cup,1,group stage,Group E,4
-107,WC-2014,2014 FIFA World Cup,1,group stage,Group F,4
-108,WC-2014,2014 FIFA World Cup,1,group stage,Group G,4
-109,WC-2014,2014 FIFA World Cup,1,group stage,Group H,4
-110,WC-2018,2018 FIFA World Cup,1,group stage,Group A,4
-111,WC-2018,2018 FIFA World Cup,1,group stage,Group B,4
-112,WC-2018,2018 FIFA World Cup,1,group stage,Group C,4
-113,WC-2018,2018 FIFA World Cup,1,group stage,Group D,4
-114,WC-2018,2018 FIFA World Cup,1,group stage,Group E,4
-115,WC-2018,2018 FIFA World Cup,1,group stage,Group F,4
-116,WC-2018,2018 FIFA World Cup,1,group stage,Group G,4
-117,WC-2018,2018 FIFA World Cup,1,group stage,Group H,4
-118,WC-2022,2022 FIFA World Cup,1,group stage,Group A,4
-119,WC-2022,2022 FIFA World Cup,1,group stage,Group B,4
-120,WC-2022,2022 FIFA World Cup,1,group stage,Group C,4
-121,WC-2022,2022 FIFA World Cup,1,group stage,Group D,4
-122,WC-2022,2022 FIFA World Cup,1,group stage,Group E,4
-123,WC-2022,2022 FIFA World Cup,1,group stage,Group F,4
-124,WC-2022,2022 FIFA World Cup,1,group stage,Group G,4
-125,WC-2022,2022 FIFA World Cup,1,group stage,Group H,4
+1,WC-1930,1930 FIFA Men's World Cup,1,group stage,Group 1,4
+2,WC-1930,1930 FIFA Men's World Cup,1,group stage,Group 2,3
+3,WC-1930,1930 FIFA Men's World Cup,1,group stage,Group 3,3
+4,WC-1930,1930 FIFA Men's World Cup,1,group stage,Group 4,3
+5,WC-1950,1950 FIFA Men's World Cup,1,first round,Group 1,4
+6,WC-1950,1950 FIFA Men's World Cup,1,first round,Group 2,4
+7,WC-1950,1950 FIFA Men's World Cup,1,first round,Group 3,3
+8,WC-1950,1950 FIFA Men's World Cup,1,first round,Group 4,2
+9,WC-1950,1950 FIFA Men's World Cup,2,final round,Group 1,4
+10,WC-1954,1954 FIFA Men's World Cup,1,group stage,Group 1,4
+11,WC-1954,1954 FIFA Men's World Cup,1,group stage,Group 2,4
+12,WC-1954,1954 FIFA Men's World Cup,1,group stage,Group 3,4
+13,WC-1954,1954 FIFA Men's World Cup,1,group stage,Group 4,4
+14,WC-1958,1958 FIFA Men's World Cup,1,group stage,Group 1,4
+15,WC-1958,1958 FIFA Men's World Cup,1,group stage,Group 2,4
+16,WC-1958,1958 FIFA Men's World Cup,1,group stage,Group 3,4
+17,WC-1958,1958 FIFA Men's World Cup,1,group stage,Group 4,4
+18,WC-1962,1962 FIFA Men's World Cup,1,group stage,Group 1,4
+19,WC-1962,1962 FIFA Men's World Cup,1,group stage,Group 2,4
+20,WC-1962,1962 FIFA Men's World Cup,1,group stage,Group 3,4
+21,WC-1962,1962 FIFA Men's World Cup,1,group stage,Group 4,4
+22,WC-1966,1966 FIFA Men's World Cup,1,group stage,Group 1,4
+23,WC-1966,1966 FIFA Men's World Cup,1,group stage,Group 2,4
+24,WC-1966,1966 FIFA Men's World Cup,1,group stage,Group 3,4
+25,WC-1966,1966 FIFA Men's World Cup,1,group stage,Group 4,4
+26,WC-1970,1970 FIFA Men's World Cup,1,group stage,Group 1,4
+27,WC-1970,1970 FIFA Men's World Cup,1,group stage,Group 2,4
+28,WC-1970,1970 FIFA Men's World Cup,1,group stage,Group 3,4
+29,WC-1970,1970 FIFA Men's World Cup,1,group stage,Group 4,4
+30,WC-1974,1974 FIFA Men's World Cup,1,first group stage,Group 1,4
+31,WC-1974,1974 FIFA Men's World Cup,1,first group stage,Group 2,4
+32,WC-1974,1974 FIFA Men's World Cup,1,first group stage,Group 3,4
+33,WC-1974,1974 FIFA Men's World Cup,1,first group stage,Group 4,4
+34,WC-1974,1974 FIFA Men's World Cup,2,second group stage,Group A,4
+35,WC-1974,1974 FIFA Men's World Cup,2,second group stage,Group B,4
+36,WC-1978,1978 FIFA Men's World Cup,1,first group stage,Group 1,4
+37,WC-1978,1978 FIFA Men's World Cup,1,first group stage,Group 2,4
+38,WC-1978,1978 FIFA Men's World Cup,1,first group stage,Group 3,4
+39,WC-1978,1978 FIFA Men's World Cup,1,first group stage,Group 4,4
+40,WC-1978,1978 FIFA Men's World Cup,2,second group stage,Group A,4
+41,WC-1978,1978 FIFA Men's World Cup,2,second group stage,Group B,4
+42,WC-1982,1982 FIFA Men's World Cup,1,first group stage,Group 1,4
+43,WC-1982,1982 FIFA Men's World Cup,1,first group stage,Group 2,4
+44,WC-1982,1982 FIFA Men's World Cup,1,first group stage,Group 3,4
+45,WC-1982,1982 FIFA Men's World Cup,1,first group stage,Group 4,4
+46,WC-1982,1982 FIFA Men's World Cup,1,first group stage,Group 5,4
+47,WC-1982,1982 FIFA Men's World Cup,1,first group stage,Group 6,4
+48,WC-1982,1982 FIFA Men's World Cup,2,second group stage,Group A,3
+49,WC-1982,1982 FIFA Men's World Cup,2,second group stage,Group B,3
+50,WC-1982,1982 FIFA Men's World Cup,2,second group stage,Group C,3
+51,WC-1982,1982 FIFA Men's World Cup,2,second group stage,Group D,3
+52,WC-1986,1986 FIFA Men's World Cup,1,group stage,Group A,4
+53,WC-1986,1986 FIFA Men's World Cup,1,group stage,Group B,4
+54,WC-1986,1986 FIFA Men's World Cup,1,group stage,Group C,4
+55,WC-1986,1986 FIFA Men's World Cup,1,group stage,Group D,4
+56,WC-1986,1986 FIFA Men's World Cup,1,group stage,Group E,4
+57,WC-1986,1986 FIFA Men's World Cup,1,group stage,Group F,4
+58,WC-1990,1990 FIFA Men's World Cup,1,group stage,Group A,4
+59,WC-1990,1990 FIFA Men's World Cup,1,group stage,Group B,4
+60,WC-1990,1990 FIFA Men's World Cup,1,group stage,Group C,4
+61,WC-1990,1990 FIFA Men's World Cup,1,group stage,Group D,4
+62,WC-1990,1990 FIFA Men's World Cup,1,group stage,Group E,4
+63,WC-1990,1990 FIFA Men's World Cup,1,group stage,Group F,4
+64,WC-1991,1991 FIFA Women's World Cup,1,group stage,Group A,4
+65,WC-1991,1991 FIFA Women's World Cup,1,group stage,Group B,4
+66,WC-1991,1991 FIFA Women's World Cup,1,group stage,Group C,4
+67,WC-1994,1994 FIFA Men's World Cup,1,group stage,Group A,4
+68,WC-1994,1994 FIFA Men's World Cup,1,group stage,Group B,4
+69,WC-1994,1994 FIFA Men's World Cup,1,group stage,Group C,4
+70,WC-1994,1994 FIFA Men's World Cup,1,group stage,Group D,4
+71,WC-1994,1994 FIFA Men's World Cup,1,group stage,Group E,4
+72,WC-1994,1994 FIFA Men's World Cup,1,group stage,Group F,4
+73,WC-1995,1995 FIFA Women's World Cup,1,group stage,Group A,4
+74,WC-1995,1995 FIFA Women's World Cup,1,group stage,Group B,4
+75,WC-1995,1995 FIFA Women's World Cup,1,group stage,Group C,4
+76,WC-1998,1998 FIFA Men's World Cup,1,group stage,Group A,4
+77,WC-1998,1998 FIFA Men's World Cup,1,group stage,Group B,4
+78,WC-1998,1998 FIFA Men's World Cup,1,group stage,Group C,4
+79,WC-1998,1998 FIFA Men's World Cup,1,group stage,Group D,4
+80,WC-1998,1998 FIFA Men's World Cup,1,group stage,Group E,4
+81,WC-1998,1998 FIFA Men's World Cup,1,group stage,Group F,4
+82,WC-1998,1998 FIFA Men's World Cup,1,group stage,Group G,4
+83,WC-1998,1998 FIFA Men's World Cup,1,group stage,Group H,4
+84,WC-1999,1999 FIFA Women's World Cup,1,group stage,Group A,4
+85,WC-1999,1999 FIFA Women's World Cup,1,group stage,Group B,4
+86,WC-1999,1999 FIFA Women's World Cup,1,group stage,Group C,4
+87,WC-1999,1999 FIFA Women's World Cup,1,group stage,Group D,4
+88,WC-2002,2002 FIFA Men's World Cup,1,group stage,Group A,4
+89,WC-2002,2002 FIFA Men's World Cup,1,group stage,Group B,4
+90,WC-2002,2002 FIFA Men's World Cup,1,group stage,Group C,4
+91,WC-2002,2002 FIFA Men's World Cup,1,group stage,Group D,4
+92,WC-2002,2002 FIFA Men's World Cup,1,group stage,Group E,4
+93,WC-2002,2002 FIFA Men's World Cup,1,group stage,Group F,4
+94,WC-2002,2002 FIFA Men's World Cup,1,group stage,Group G,4
+95,WC-2002,2002 FIFA Men's World Cup,1,group stage,Group H,4
+96,WC-2003,2003 FIFA Women's World Cup,1,group stage,Group A,4
+97,WC-2003,2003 FIFA Women's World Cup,1,group stage,Group B,4
+98,WC-2003,2003 FIFA Women's World Cup,1,group stage,Group C,4
+99,WC-2003,2003 FIFA Women's World Cup,1,group stage,Group D,4
+100,WC-2006,2006 FIFA Men's World Cup,1,group stage,Group A,4
+101,WC-2006,2006 FIFA Men's World Cup,1,group stage,Group B,4
+102,WC-2006,2006 FIFA Men's World Cup,1,group stage,Group C,4
+103,WC-2006,2006 FIFA Men's World Cup,1,group stage,Group D,4
+104,WC-2006,2006 FIFA Men's World Cup,1,group stage,Group E,4
+105,WC-2006,2006 FIFA Men's World Cup,1,group stage,Group F,4
+106,WC-2006,2006 FIFA Men's World Cup,1,group stage,Group G,4
+107,WC-2006,2006 FIFA Men's World Cup,1,group stage,Group H,4
+108,WC-2007,2007 FIFA Women's World Cup,1,group stage,Group A,4
+109,WC-2007,2007 FIFA Women's World Cup,1,group stage,Group B,4
+110,WC-2007,2007 FIFA Women's World Cup,1,group stage,Group C,4
+111,WC-2007,2007 FIFA Women's World Cup,1,group stage,Group D,4
+112,WC-2010,2010 FIFA Men's World Cup,1,group stage,Group A,4
+113,WC-2010,2010 FIFA Men's World Cup,1,group stage,Group B,4
+114,WC-2010,2010 FIFA Men's World Cup,1,group stage,Group C,4
+115,WC-2010,2010 FIFA Men's World Cup,1,group stage,Group D,4
+116,WC-2010,2010 FIFA Men's World Cup,1,group stage,Group E,4
+117,WC-2010,2010 FIFA Men's World Cup,1,group stage,Group F,4
+118,WC-2010,2010 FIFA Men's World Cup,1,group stage,Group G,4
+119,WC-2010,2010 FIFA Men's World Cup,1,group stage,Group H,4
+120,WC-2011,2011 FIFA Women's World Cup,1,group stage,Group A,4
+121,WC-2011,2011 FIFA Women's World Cup,1,group stage,Group B,4
+122,WC-2011,2011 FIFA Women's World Cup,1,group stage,Group C,4
+123,WC-2011,2011 FIFA Women's World Cup,1,group stage,Group D,4
+124,WC-2014,2014 FIFA Men's World Cup,1,group stage,Group A,4
+125,WC-2014,2014 FIFA Men's World Cup,1,group stage,Group B,4
+126,WC-2014,2014 FIFA Men's World Cup,1,group stage,Group C,4
+127,WC-2014,2014 FIFA Men's World Cup,1,group stage,Group D,4
+128,WC-2014,2014 FIFA Men's World Cup,1,group stage,Group E,4
+129,WC-2014,2014 FIFA Men's World Cup,1,group stage,Group F,4
+130,WC-2014,2014 FIFA Men's World Cup,1,group stage,Group G,4
+131,WC-2014,2014 FIFA Men's World Cup,1,group stage,Group H,4
+132,WC-2015,2015 FIFA Women's World Cup,1,group stage,Group A,4
+133,WC-2015,2015 FIFA Women's World Cup,1,group stage,Group B,4
+134,WC-2015,2015 FIFA Women's World Cup,1,group stage,Group C,4
+135,WC-2015,2015 FIFA Women's World Cup,1,group stage,Group D,4
+136,WC-2015,2015 FIFA Women's World Cup,1,group stage,Group E,4
+137,WC-2015,2015 FIFA Women's World Cup,1,group stage,Group F,4
+138,WC-2018,2018 FIFA Men's World Cup,1,group stage,Group A,4
+139,WC-2018,2018 FIFA Men's World Cup,1,group stage,Group B,4
+140,WC-2018,2018 FIFA Men's World Cup,1,group stage,Group C,4
+141,WC-2018,2018 FIFA Men's World Cup,1,group stage,Group D,4
+142,WC-2018,2018 FIFA Men's World Cup,1,group stage,Group E,4
+143,WC-2018,2018 FIFA Men's World Cup,1,group stage,Group F,4
+144,WC-2018,2018 FIFA Men's World Cup,1,group stage,Group G,4
+145,WC-2018,2018 FIFA Men's World Cup,1,group stage,Group H,4
+146,WC-2019,2019 FIFA Women's World Cup,1,group stage,Group A,4
+147,WC-2019,2019 FIFA Women's World Cup,1,group stage,Group B,4
+148,WC-2019,2019 FIFA Women's World Cup,1,group stage,Group C,4
+149,WC-2019,2019 FIFA Women's World Cup,1,group stage,Group D,4
+150,WC-2019,2019 FIFA Women's World Cup,1,group stage,Group E,4
+151,WC-2019,2019 FIFA Women's World Cup,1,group stage,Group F,4
+152,WC-2022,2022 FIFA Men's World Cup,1,group stage,Group A,4
+153,WC-2022,2022 FIFA Men's World Cup,1,group stage,Group B,4
+154,WC-2022,2022 FIFA Men's World Cup,1,group stage,Group C,4
+155,WC-2022,2022 FIFA Men's World Cup,1,group stage,Group D,4
+156,WC-2022,2022 FIFA Men's World Cup,1,group stage,Group E,4
+157,WC-2022,2022 FIFA Men's World Cup,1,group stage,Group F,4
+158,WC-2022,2022 FIFA Men's World Cup,1,group stage,Group G,4
+159,WC-2022,2022 FIFA Men's World Cup,1,group stage,Group H,4

@@ -22,173 +22,220 @@ key_id,stadium_id,stadium_name,city_name,country_name,stadium_capacity,stadium_w
 21,S-021,Arena Fonte Nova,Salvador,Brazil,52000,https://en.wikipedia.org/wiki/Arena_Fonte_Nova,"https://en.wikipedia.org/wiki/Salvador,_Bahia"
 22,S-022,Arena Corinthians,São Paulo,Brazil,63000,https://en.wikipedia.org/wiki/Arena_Corinthians,https://en.wikipedia.org/wiki/São_Paulo
 23,S-023,Estádio do Pacaembu,São Paulo,Brazil,60000,https://en.wikipedia.org/wiki/Pacaembu_Stadium,https://en.wikipedia.org/wiki/São_Paulo
-24,S-024,Estadio Carlos Dittborn,Arica,Chile,18000,https://en.wikipedia.org/wiki/Estadio_Carlos_Dittborn,https://en.wikipedia.org/wiki/Arica
-25,S-025,Estadio El Teniente,Rancagua,Chile,18000,https://en.wikipedia.org/wiki/Estadio_El_Teniente,https://en.wikipedia.org/wiki/Rancagua
-26,S-026,Estadio Nacional,Santiago,Chile,67000,https://en.wikipedia.org/wiki/Estadio_Nacional_Julio_Mart%C3%ADnez_Prádanos,https://en.wikipedia.org/wiki/Santiago
-27,S-027,Estadio Sausalito,Viña del Mar,Chile,18000,https://en.wikipedia.org/wiki/Estadio_Sausalito,https://en.wikipedia.org/wiki/Viña_del_Mar
-28,S-028,Villa Park,Birmingham,England,52000,https://en.wikipedia.org/wiki/Villa_Park,https://en.wikipedia.org/wiki/Birmingham
-29,S-029,Goodison Park,Liverpool,England,50000,https://en.wikipedia.org/wiki/Goodison_Park,https://en.wikipedia.org/wiki/Liverpool
-30,S-030,Wembley Stadium,London,England,99000,https://en.wikipedia.org/wiki/Wembley_Stadium_(1923),https://en.wikipedia.org/wiki/London
-31,S-031,White City Stadium,London,England,77000,https://en.wikipedia.org/wiki/White_City_Stadium,https://en.wikipedia.org/wiki/London
-32,S-032,Old Trafford,Manchester,England,58000,https://en.wikipedia.org/wiki/Old_Trafford,https://en.wikipedia.org/wiki/Manchester
-33,S-033,Ayresome Park,Middlesbrough,England,40000,https://en.wikipedia.org/wiki/Ayresome_Park,https://en.wikipedia.org/wiki/Middlesbrough
-34,S-034,Hillsborough Stadium,Sheffield,England,43000,https://en.wikipedia.org/wiki/Hillsborough_Stadium,https://en.wikipedia.org/wiki/Sheffield
-35,S-035,Roker Park,Sunderland,England,40000,https://en.wikipedia.org/wiki/Roker_Park,https://en.wikipedia.org/wiki/Sunderland
-36,S-036,Stade du Fort Carré,Antibes,France,7000,https://en.wikipedia.org/wiki/Stade_du_Fort_Carré,https://en.wikipedia.org/wiki/Antibes
-37,S-037,Stade du Parc Lescure,Bordeaux,France,35000,https://en.wikipedia.org/wiki/Stade_Chaban-Delmas,https://en.wikipedia.org/wiki/Bordeaux
-38,S-038,Stade Jules Deschaseaux,Le Havre,France,22000,https://en.wikipedia.org/wiki/Stade_Jules_Deschaseaux,https://en.wikipedia.org/wiki/Le_Havre
-39,S-039,Stade Félix-Bollaert,Lens,France,41000,https://en.wikipedia.org/wiki/Stade_Bollaert-Delelis,"https://en.wikipedia.org/wiki/Lens,_Pas-de-Calais"
-40,S-040,Stade Victor Boucquey,Lille,France,15000,https://en.wikipedia.org/wiki/Stade_Henri-Jooris,https://en.wikipedia.org/wiki/Lille
-41,S-041,Stade de Gerland,Lyon,France,44000,https://en.wikipedia.org/wiki/Stade_de_Gerland,https://en.wikipedia.org/wiki/Lyon
-42,S-042,Stade Vélodrome,Marseille,France,60000,https://en.wikipedia.org/wiki/Stade_Vélodrome,https://en.wikipedia.org/wiki/Marseille
-43,S-043,Stade de la Mosson,Montpellier,France,34000,https://en.wikipedia.org/wiki/Stade_de_la_Mosson,https://en.wikipedia.org/wiki/Montpellier
-44,S-044,Stade de la Beaujoire,Nantes,France,40000,https://en.wikipedia.org/wiki/Stade_de_la_Beaujoire,https://en.wikipedia.org/wiki/Nantes
-45,S-045,Parc des Princes,Paris,France,49000,https://en.wikipedia.org/wiki/Parc_des_Princes,https://en.wikipedia.org/wiki/Paris
-46,S-046,Stade Olympique de Colombes,Paris,France,60000,https://en.wikipedia.org/wiki/Stade_Olympique_Yves-du-Manoir,https://en.wikipedia.org/wiki/Paris
-47,S-047,Vélodrome Municipal,Reims,France,22000,https://en.wikipedia.org/wiki/Stade_Auguste_Delaune,https://en.wikipedia.org/wiki/Reims
-48,S-048,Stade de France,Saint-Denis,France,80000,https://en.wikipedia.org/wiki/Stade_de_France,"https://en.wikipedia.org/wiki/Saint-Denis,_Seine-Saint-Denis"
-49,S-049,Stade Geoffroy-Guichard,Saint-Étienne,France,36000,https://en.wikipedia.org/wiki/Stade_Geoffroy-Guichard,https://en.wikipedia.org/wiki/Saint-Étienne
-50,S-050,Stade de la Meinau,Strasbourg,France,30000,https://en.wikipedia.org/wiki/Stade_de_la_Meinau,https://en.wikipedia.org/wiki/Strasbourg
-51,S-051,Stade de Toulouse,Toulouse,France,37000,https://en.wikipedia.org/wiki/Stadium_Municipal,https://en.wikipedia.org/wiki/Toulouse
-52,S-052,Stade du T.O.E.C.,Toulouse,France,15000,https://en.wikipedia.org/wiki/Stade_Chapou,https://en.wikipedia.org/wiki/Toulouse
-53,S-053,Olympiastadion,Berlin,Germany,86000,https://en.wikipedia.org/wiki/Olympiastadion_(Berlin),https://en.wikipedia.org/wiki/Berlin
-54,S-054,RheinEnergieStadion,Cologne,Germany,45000,https://en.wikipedia.org/wiki/RheinEnergieStadion,https://en.wikipedia.org/wiki/Cologne
-55,S-055,Westfalenstadion,Dortmund,Germany,65000,https://en.wikipedia.org/wiki/Westfalenstadion,https://en.wikipedia.org/wiki/Dortmund
-56,S-056,Rheinstadion,Düsseldorf,Germany,70000,https://en.wikipedia.org/wiki/Rheinstadion,https://en.wikipedia.org/wiki/Düsseldorf
-57,S-057,Waldstadion,Frankfurt,Germany,62000,https://en.wikipedia.org/wiki/Waldstadion_(Frankfurt),https://en.wikipedia.org/wiki/Frankfurt
-58,S-058,Arena AufShalke,Gelsenkirchen,Germany,52000,https://en.wikipedia.org/wiki/Arena_AufSchalke,https://en.wikipedia.org/wiki/Gelsenkirchen
-59,S-059,Parkstadion,Gelsenkirchen,Germany,72000,https://en.wikipedia.org/wiki/Parkstadion,https://en.wikipedia.org/wiki/Gelsenkirchen
-60,S-060,Volksparkstadion,Hamburg,Germany,61000,https://en.wikipedia.org/wiki/Volksparkstadion,https://en.wikipedia.org/wiki/Hamburg
-61,S-061,Niedersachsenstadion,Hanover,Germany,60000,https://en.wikipedia.org/wiki/Niedersachsenstadion,https://en.wikipedia.org/wiki/Hanover
-62,S-062,Fritz-Walter-Stadion,Kaiserslautern,Germany,46000,https://en.wikipedia.org/wiki/Fritz-Walter-Stadion,https://en.wikipedia.org/wiki/Kaiserslautern
-63,S-063,Zentralstadion,Leipzig,Germany,43000,https://en.wikipedia.org/wiki/Red_Bull_Arena_(Leipzig),https://en.wikipedia.org/wiki/Leipzig
-64,S-064,Allianz Arena,Munich,Germany,66000,https://en.wikipedia.org/wiki/Allianz_Arena,https://en.wikipedia.org/wiki/Munich
-65,S-065,Olympiastadion,Munich,Germany,78000,https://en.wikipedia.org/wiki/Olympiastadion_(Munich),https://en.wikipedia.org/wiki/Munich
-66,S-066,Frankenstadion,Nuremberg,Germany,41000,https://en.wikipedia.org/wiki/Nuremberg,https://en.wikipedia.org/wiki/Nuremberg
-67,S-067,Neckarstadion,Stuttgart,Germany,72000,https://en.wikipedia.org/wiki/Mercedes-Benz_Arena_(Stuttgart),https://en.wikipedia.org/wiki/Stuttgart
-68,S-068,Stadio San Nicola,Bari,Italy,51000,https://en.wikipedia.org/wiki/Stadio_San_Nicola,https://en.wikipedia.org/wiki/Bari
-69,S-069,Stadio Renato Dall'Ara,Bologna,Italy,50000,https://en.wikipedia.org/wiki/Stadio_Renato_Dall%27Ara,https://en.wikipedia.org/wiki/Bologna
-70,S-070,Stadio Sant'Elia,Cagliari,Italy,35000,https://en.wikipedia.org/wiki/Stadio_Sant%27Elia,https://en.wikipedia.org/wiki/Cagliari
-71,S-071,Stadio Comunale,Florence,Italy,39000,https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi,https://en.wikipedia.org/wiki/Florence
-72,S-072,Stadio Giovanni Berta,Florence,Italy,47000,https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi_(Florence),https://en.wikipedia.org/wiki/Florence
-73,S-073,Stadio Luigi Ferraris,Genoa,Italy,37000,https://en.wikipedia.org/wiki/Stadio_Luigi_Ferraris,https://en.wikipedia.org/wiki/Genoa
-74,S-074,San Siro,Milan,Italy,75000,https://en.wikipedia.org/wiki/San_Siro,https://en.wikipedia.org/wiki/Milan
-75,S-075,Stadio Giorgio Ascarelli,Naples,Italy,40000,https://en.wikipedia.org/wiki/Stadio_Giorgio_Ascarelli,https://en.wikipedia.org/wiki/Naples
-76,S-076,Stadio San Paolo,Naples,Italy,60000,https://en.wikipedia.org/wiki/Stadio_San_Paolo,https://en.wikipedia.org/wiki/Naples
-77,S-077,Stadio La Favorita,Palermo,Italy,33000,https://en.wikipedia.org/wiki/Stadio_Renzo_Barbera,https://en.wikipedia.org/wiki/Palermo
-78,S-078,Stadio Nazionale PNF,Rome,Italy,47000,https://en.wikipedia.org/wiki/Stadio_Nazionale_PNF,https://en.wikipedia.org/wiki/Rome
-79,S-079,Stadio Olimpico,Rome,Italy,74000,https://en.wikipedia.org/wiki/Stadio_Olimpico,https://en.wikipedia.org/wiki/Rome
-80,S-080,Stadio Littorio,Trieste,Italy,8000,https://en.wikipedia.org/wiki/Stadio_Giuseppe_Grezar,https://en.wikipedia.org/wiki/Trieste
-81,S-081,Stadio Benito Mussolini,Turin,Italy,28000,https://en.wikipedia.org/wiki/Stadio_Olimpico_Grande_Torino,https://en.wikipedia.org/wiki/Turin
-82,S-082,Stadio delle Alpi,Turin,Italy,63000,https://en.wikipedia.org/wiki/Stadio_delle_Alpi,https://en.wikipedia.org/wiki/Turin
-83,S-083,Stadio Friuli,Udine,Italy,36000,https://en.wikipedia.org/wiki/Stadio_Friuli,https://en.wikipedia.org/wiki/Udine
-84,S-084,Stadio Marc'Antonio Bentegodi,Verona,Italy,36000,https://en.wikipedia.org/wiki/Stadio_Marc%27Antonio_Bentegodi,https://en.wikipedia.org/wiki/Verona
-85,S-085,Kashima Stadium,Ibaraki,Japan,42000,https://en.wikipedia.org/wiki/Kashima_Soccer_Stadium,"https://en.wikipedia.org/wiki/Kashima,_Ibaraki"
-86,S-086,Kobe Wing Stadium,Kobe,Japan,42000,https://en.wikipedia.org/wiki/Kobe_Wing_Stadium,https://en.wikipedia.org/wiki/Kobe
-87,S-087,Miyagi Stadium,Miyagi,Japan,49000,https://en.wikipedia.org/wiki/Miyagi_Stadium,https://en.wikipedia.org/wiki/Miyagi_Prefecture
-88,S-088,Niigata Stadium,Niigata,Japan,42000,https://en.wikipedia.org/wiki/Denka_Big_Swan_Stadium,"https://en.wikipedia.org/wiki/Niigata,_Niigata"
-89,S-089,Ōita Stadium,Ōita,Japan,43000,https://en.wikipedia.org/wiki/Showa_Denko_Dome_Oita,"https://en.wikipedia.org/wiki/Ōita,_Ōita"
-90,S-090,Nagai Stadium,Osaka,Japan,50000,https://en.wikipedia.org/wiki/Nagai_Stadium,https://en.wikipedia.org/wiki/Osaka
-91,S-091,Saitama Stadium,Saitama,Japan,63000,https://en.wikipedia.org/wiki/Saitama_Stadium_2002,"https://en.wikipedia.org/wiki/Saitama,_Saitama"
-92,S-092,Sapporo Dome,Sapporo,Japan,42000,https://en.wikipedia.org/wiki/Sapporo_Dome,https://en.wikipedia.org/wiki/Sapporo
-93,S-093,Shizuoka Stadium ECOPA,Shizuoka,Japan,51000,https://en.wikipedia.org/wiki/Shizuoka_Stadium,"https://en.wikipedia.org/wiki/Fukuroi,_Shizuoka"
-94,S-094,International Stadium Yokohama,Yokohama,Japan,72000,https://en.wikipedia.org/wiki/International_Stadium_Yokohama,https://en.wikipedia.org/wiki/Yokohama
-95,S-095,Estadio Jalisco,Guadalajara,Mexico,71000,https://en.wikipedia.org/wiki/Estadio_Jalisco,https://en.wikipedia.org/wiki/Guadalajara
-96,S-096,Estadio Tres de Marzo,Guadalajara,Mexico,30000,https://en.wikipedia.org/wiki/Estadio_Tres_de_Marzo,https://en.wikipedia.org/wiki/Guadalajara
-97,S-097,Estadio Sergio León Chavez,Irapuato,Mexico,31000,https://en.wikipedia.org/wiki/Estadio_Sergio_León_Chávez,https://en.wikipedia.org/wiki/Irapuato
-98,S-098,Estadio Nou Camp,León,Mexico,31000,https://en.wikipedia.org/wiki/Estadio_Nou_Camp,"https://en.wikipedia.org/wiki/León,_Guanajuato"
-99,S-099,Estadio Azteca,Mexico City,Mexico,115000,https://en.wikipedia.org/wiki/Estadio_Azteca,https://en.wikipedia.org/wiki/Mexico_City
-100,S-100,Estadio Olímpico Universitario,Mexico City,Mexico,72000,https://en.wikipedia.org/wiki/Estadio_Ol%C3%ADmpico_Universitario,https://en.wikipedia.org/wiki/Mexico_City
-101,S-101,Estadio Tecnológico,Monterrey,Mexico,34000,https://en.wikipedia.org/wiki/Estadio_Tecnológico,https://en.wikipedia.org/wiki/Monterrey
-102,S-102,Estadio Universitario,Monterrey,Mexico,44000,https://en.wikipedia.org/wiki/Estadio_Universitario_(UANL),https://en.wikipedia.org/wiki/Monterrey
-103,S-103,Estadio Neza 86,Nezahualcóyotl,Mexico,35000,https://en.wikipedia.org/wiki/Estadio_Neza_86,https://en.wikipedia.org/wiki/Ciudad_Nezahualcóyotl
-104,S-104,Estadio Cuauhtémoc,Puebla,Mexico,46000,https://en.wikipedia.org/wiki/Estadio_Cuauhtémoc,https://en.wikipedia.org/wiki/Puebla_City
-105,S-105,Estadio La Corregidora,Querétaro,Mexico,39000,https://en.wikipedia.org/wiki/Estadio_La_Corregidora,https://en.wikipedia.org/wiki/Santiago_de_Querétaro
-106,S-106,La Bombonera,Toluca,Mexico,33000,https://en.wikipedia.org/wiki/Estadio_Nemesio_D%C3%ADez,https://en.wikipedia.org/wiki/Toluca
-107,S-107,Al Bayt Stadium,Al Khor,Qatar,69000,https://en.wikipedia.org/wiki/Al_Bayt_Stadium,https://en.wikipedia.org/wiki/Al_Khor_(city)
-108,S-108,Ahmad bin Ali Stadium,Al Rayyan,Qatar,45000,https://en.wikipedia.org/wiki/Ahmad_bin_Ali_Stadium,https://en.wikipedia.org/wiki/Al_Rayyan_(city)
-109,S-109,Education City Stadium,Al Rayyan,Qatar,45000,https://en.wikipedia.org/wiki/Education_City_Stadium,https://en.wikipedia.org/wiki/Al_Rayyan_(city)
-110,S-110,Khalifa International Stadium,Al Rayyan,Qatar,46000,https://en.wikipedia.org/wiki/Khalifa_International_Stadium,https://en.wikipedia.org/wiki/Al_Rayyan_(city)
-111,S-111,Al Janoub Stadium,Al Wakrah,Qatar,44000,https://en.wikipedia.org/wiki/Al_Janoub_Stadium,https://en.wikipedia.org/wiki/Al_Wakrah
-112,S-112,Al Thumama Stadium,Doha,Qatar,44000,https://en.wikipedia.org/wiki/Al_Thumama_Stadium,https://en.wikipedia.org/wiki/Doha
-113,S-113,Stadium 974,Doha,Qatar,44000,https://en.wikipedia.org/wiki/Stadium_974,https://en.wikipedia.org/wiki/Doha
-114,S-114,Lusail Stadium,Lusail,Qatar,89000,https://en.wikipedia.org/wiki/Lusail_Stadium,https://en.wikipedia.org/wiki/Lusail
-115,S-115,Kaliningrad Stadium,Kaliningrad,Russia,34000,https://en.wikipedia.org/wiki/Kaliningrad_Stadium,https://en.wikipedia.org/wiki/Kaliningrad
-116,S-116,Kazan Arena,Kazan,Russia,43000,https://en.wikipedia.org/wiki/Kazan_Arena,https://en.wikipedia.org/wiki/Kazan_Arena
-117,S-117,Luzhniki Stadium,Moscow,Russia,78000,https://en.wikipedia.org/wiki/Luzhniki_Stadium,https://en.wikipedia.org/wiki/Moscow
-118,S-118,Otkritie Arena,Moscow,Russia,44000,https://en.wikipedia.org/wiki/Otkritie_Arena,https://en.wikipedia.org/wiki/Moscow
-119,S-119,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,43000,https://en.wikipedia.org/wiki/Nizhny_Novgorod_Stadium,https://en.wikipedia.org/wiki/Nizhny_Novgorod
-120,S-120,Rostov Arena,Rostov-on-Don,Russia,43000,https://en.wikipedia.org/wiki/Rostov_Arena,https://en.wikipedia.org/wiki/Rostov-on-Don
-121,S-121,Krestovsky Stadium,Saint Petersburg,Russia,64000,https://en.wikipedia.org/wiki/Krestovsky_Stadium,https://en.wikipedia.org/wiki/Saint_Petersburg
-122,S-122,Samara Arena,Samara,Russia,42000,https://en.wikipedia.org/wiki/Samara_Arena,https://en.wikipedia.org/wiki/Samara
-123,S-123,Mordovia Arena,Saransk,Russia,42000,https://en.wikipedia.org/wiki/Mordovia_Arena,https://en.wikipedia.org/wiki/Saransk
-124,S-124,Fisht Olympic Stadium,Sochi,Russia,44000,https://en.wikipedia.org/wiki/Fisht_Olympic_Stadium,https://en.wikipedia.org/wiki/Sochi
-125,S-125,Volgograd Arena,Volgograd,Russia,44000,https://en.wikipedia.org/wiki/Volgograd_Arena,https://en.wikipedia.org/wiki/Volgograd
-126,S-126,Central Stadium,Yekaterinburg,Russia,33000,https://en.wikipedia.org/wiki/Central_Stadium_(Yekaterinburg),https://en.wikipedia.org/wiki/Yekaterinburg
-127,S-127,Free State Stadium,Bloemfontein,South Africa,41000,https://en.wikipedia.org/wiki/Free_State_Stadium,https://en.wikipedia.org/wiki/Bloemfontein
-128,S-128,Cape Town Stadium,Cape Town,South Africa,64000,https://en.wikipedia.org/wiki/Cape_Town_Stadium,https://en.wikipedia.org/wiki/Cape_Town
-129,S-129,Moses Mabhida Stadium,Durban,South Africa,63000,https://en.wikipedia.org/wiki/Moses_Mabhida_Stadium,https://en.wikipedia.org/wiki/Durban
-130,S-130,Ellis Park Stadium,Johannesburg,South Africa,56000,https://en.wikipedia.org/wiki/Ellis_Park_Stadium,https://en.wikipedia.org/wiki/Johannesburg
-131,S-131,Soccer City,Johannesburg,South Africa,84000,https://en.wikipedia.org/wiki/FNB_Stadium,https://en.wikipedia.org/wiki/Johannesburg
-132,S-132,Mbombela Stadium,Nelspruit,South Africa,41000,https://en.wikipedia.org/wiki/Mbombela_Stadium,https://en.wikipedia.org/wiki/Nelspruit
-133,S-133,Peter Mokaba Stadium,Polokwane,South Africa,42000,https://en.wikipedia.org/wiki/Peter_Mokaba_Stadium,https://en.wikipedia.org/wiki/Polokwane
-134,S-134,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,42000,https://en.wikipedia.org/wiki/Nelson_Mandela_Bay_Stadium,https://en.wikipedia.org/wiki/Port_Elizabeth
-135,S-135,Loftus Versfeld Stadium,Pretoria,South Africa,43000,https://en.wikipedia.org/wiki/Loftus_Versfeld_Stadium,https://en.wikipedia.org/wiki/Pretoria
-136,S-136,Royal Bafokeng Stadium,Rustenburg,South Africa,42000,https://en.wikipedia.org/wiki/Royal_Bafokeng_Stadium,https://en.wikipedia.org/wiki/Rustenburg
-137,S-137,Busan Asiad Stadium,Busan,South Korea,56000,https://en.wikipedia.org/wiki/Busan_Asiad_Stadium,https://en.wikipedia.org/wiki/Busan
-138,S-138,Daegu World Cup Stadium,Daegu,South Korea,68000,https://en.wikipedia.org/wiki/Daegu_Stadium,https://en.wikipedia.org/wiki/Daegu
-139,S-139,Daejeon World Cup Stadium,Daejeon,South Korea,40000,https://en.wikipedia.org/wiki/Daejeon_World_Cup_Stadium,https://en.wikipedia.org/wiki/Daejeon
-140,S-140,Gwangju World Cup Stadium,Gwangju,South Korea,43000,https://en.wikipedia.org/wiki/Gwangju_World_Cup_Stadium,https://en.wikipedia.org/wiki/Gwangju
-141,S-141,Incheon Munhak Stadium,Incheon,South Korea,52000,https://en.wikipedia.org/wiki/Incheon_Munhak_Stadium,https://en.wikipedia.org/wiki/Incheon
-142,S-142,Jeonju World Cup Stadium,Jeonju,South Korea,42000,https://en.wikipedia.org/wiki/Jeonju_World_Cup_Stadium,https://en.wikipedia.org/wiki/Jeonju
-143,S-143,Jeju World Cup Stadium,Seogwipo,South Korea,42000,https://en.wikipedia.org/wiki/Jeju_World_Cup_Stadium,https://en.wikipedia.org/wiki/Seogwipo
-144,S-144,Seoul World Cup Stadium,Seoul,South Korea,64000,https://en.wikipedia.org/wiki/Seoul_World_Cup_Stadium,https://en.wikipedia.org/wiki/Seoul
-145,S-145,Suwon World Cup Stadium,Suwon,South Korea,43000,https://en.wikipedia.org/wiki/Suwon_World_Cup_Stadium,https://en.wikipedia.org/wiki/Suwon
-146,S-146,Ulsan Munsu Football Stadium,Ulsan,South Korea,44000,https://en.wikipedia.org/wiki/Ulsan_Munsu_Football_Stadium,https://en.wikipedia.org/wiki/Ulsan
-147,S-147,Estadio Riazor,A Coruña,Spain,34000,https://en.wikipedia.org/wiki/Estadio_Riazor,https://en.wikipedia.org/wiki/A_Coruña
-148,S-148,Estadio José Rico Pérez,Alicante,Spain,33000,https://en.wikipedia.org/wiki/Estadio_José_Rico_Pérez,https://en.wikipedia.org/wiki/Alicante
-149,S-149,Camp Nou,Barcelona,Spain,121000,https://en.wikipedia.org/wiki/Camp_Nou,https://en.wikipedia.org/wiki/Barcelona
-150,S-150,Estadi de Sarrià,Barcelona,Spain,40000,https://en.wikipedia.org/wiki/Sarrià_Stadium,https://en.wikipedia.org/wiki/Barcelona
-151,S-151,Estadio San Mamés,Bilbao,Spain,46000,https://en.wikipedia.org/wiki/San_Mamés_Stadium_(1913),https://en.wikipedia.org/wiki/Bilbao
-152,S-152,Nuevo Estadio,Elche,Spain,53000,https://en.wikipedia.org/wiki/Estadio_Manuel_Mart%C3%ADnez_Valero,https://en.wikipedia.org/wiki/Elche
-153,S-153,Estadio El Molinón,Gijón,Spain,45000,https://en.wikipedia.org/wiki/El_Molinón,https://en.wikipedia.org/wiki/Gijón
-154,S-154,Estadio Santiago Bernabéu,Madrid,Spain,90000,https://en.wikipedia.org/wiki/Santiago_Bernabéu_Stadium,https://en.wikipedia.org/wiki/Madrid
-155,S-155,Vicente Calderón,Madrid,Spain,66000,https://en.wikipedia.org/wiki/Vicente_Calderón_Stadium,https://en.wikipedia.org/wiki/Madrid
-156,S-156,Estadio La Rosaleda,Málaga,Spain,45000,https://en.wikipedia.org/wiki/Estadio_La_Rosaleda,https://en.wikipedia.org/wiki/Málaga
-157,S-157,Estadio Carlos Tartiere,Oviedo,Spain,24000,https://en.wikipedia.org/wiki/Estadio_Carlos_Tartiere_(1932),https://en.wikipedia.org/wiki/Oviedo
-158,S-158,Estadio Benito Villamarín,Seville,Spain,50000,https://en.wikipedia.org/wiki/Estadio_Benito_Villamar%C3%ADn,https://en.wikipedia.org/wiki/Seville
-159,S-159,Estadio Ramón Sánchez Pizjuán,Seville,Spain,68000,https://en.wikipedia.org/wiki/Ramón_Sánchez_Pizjuán_Stadium,https://en.wikipedia.org/wiki/Seville
-160,S-160,Estadio Luis Casanova,Valencia,Spain,50000,https://en.wikipedia.org/wiki/Mestalla_Stadium,https://en.wikipedia.org/wiki/Valencia
-161,S-161,Estadio José Zorrilla,Valladolid,Spain,30000,https://en.wikipedia.org/wiki/Estadio_José_Zorrilla,https://en.wikipedia.org/wiki/Valladolid
-162,S-162,Balaídos,Vigo,Spain,33000,https://en.wikipedia.org/wiki/Bala%C3%ADdos,https://en.wikipedia.org/wiki/Vigo
-163,S-163,Estadio La Romareda,Zaragoza,Spain,42000,https://en.wikipedia.org/wiki/La_Romareda,https://en.wikipedia.org/wiki/Zaragoza
-164,S-164,Ryavallen,Borås,Sweden,15000,https://en.wikipedia.org/wiki/Ryavallen,https://en.wikipedia.org/wiki/Borås
-165,S-165,Tunavallen,Eskilstuna,Sweden,22000,https://en.wikipedia.org/wiki/Tunavallen,https://en.wikipedia.org/wiki/Eskilstuna
-166,S-166,Ullevi,Gothenburg,Sweden,54000,https://en.wikipedia.org/wiki/Ullevi,https://en.wikipedia.org/wiki/Gothenburg
-167,S-167,Örjans Vall,Halmstad,Sweden,15000,https://en.wikipedia.org/wiki/Örjans_Vall,https://en.wikipedia.org/wiki/Halmstad
-168,S-168,Olympia,Helsingborg,Sweden,27000,https://en.wikipedia.org/wiki/Olympia_(Helsingborg),https://en.wikipedia.org/wiki/Helsingborg
-169,S-169,Malmö Stadion,Malmö,Sweden,30000,https://en.wikipedia.org/wiki/Malmö_Stadion,https://en.wikipedia.org/wiki/Malmö
-170,S-170,Idrottsparken,Norrköping,Sweden,20000,https://en.wikipedia.org/wiki/Nya_Parken,https://en.wikipedia.org/wiki/Norrköping
-171,S-171,Eyravallen,Örebro,Sweden,13000,https://en.wikipedia.org/wiki/Behrn_Arena,https://en.wikipedia.org/wiki/Örebro
-172,S-172,Jernvallen,Sandviken,Sweden,20000,https://en.wikipedia.org/wiki/Jernvallen,https://en.wikipedia.org/wiki/Sandviken
-173,S-173,Råsunda Stadium,Solna,Sweden,52000,https://en.wikipedia.org/wiki/Råsunda_Stadium,https://en.wikipedia.org/wiki/Solna_Municipality
-174,S-174,Rimnersvallen,Uddevalla,Sweden,18000,https://en.wikipedia.org/wiki/Rimnersvallen,https://en.wikipedia.org/wiki/Uddevalla
-175,S-175,Arosvallen,Västerås,Sweden,10000,https://en.wikipedia.org/wiki/Arosvallen,https://en.wikipedia.org/wiki/Västerås
-176,S-176,St. Jakob Stadium,Basel,Switzerland,55000,https://en.wikipedia.org/wiki/St._Jakob_Stadium,https://en.wikipedia.org/wiki/Basel
-177,S-177,Wankdorf Stadium,Bern,Switzerland,65000,https://en.wikipedia.org/wiki/Wankdorf_Stadium,https://en.wikipedia.org/wiki/Bern
-178,S-178,Charmilles Stadium,Geneva,Switzerland,36000,https://en.wikipedia.org/wiki/Charmilles_Stadium,https://en.wikipedia.org/wiki/Geneva
-179,S-179,Stade Olympique de la Pontaise,Lausanne,Switzerland,50000,https://en.wikipedia.org/wiki/Stade_Olympique_de_la_Pontaise,https://en.wikipedia.org/wiki/Lausanne
-180,S-180,Cornaredo Stadium,Lugano,Switzerland,36000,https://en.wikipedia.org/wiki/Cornaredo_Stadium,https://en.wikipedia.org/wiki/Lugano
-181,S-181,Hardturm Stadium,Zürich,Switzerland,35000,https://en.wikipedia.org/wiki/Hardturm,https://en.wikipedia.org/wiki/Zürich
-182,S-182,Soldier Field,Chicago,United States,63000,https://en.wikipedia.org/wiki/Soldier_Field,https://en.wikipedia.org/wiki/Chicago
-183,S-183,Cotton Bowl,Dallas,United States,64000,https://en.wikipedia.org/wiki/Cotton_Bowl_(stadium),https://en.wikipedia.org/wiki/Dallas
-184,S-184,Giants Stadium,East Rutherford,United States,76000,https://en.wikipedia.org/wiki/Giants_Stadium,"https://en.wikipedia.org/wiki/East_Rutherford,_New_Jersey"
-185,S-185,Foxboro Stadium,Foxborough,United States,54000,https://en.wikipedia.org/wiki/Foxboro_Stadium,https://en.wikipedia.org/wiki/Foxboro_Stadium
-186,S-186,Citrus Bowl,Orlando,United States,62000,https://en.wikipedia.org/wiki/Citrus_Bowl_(stadium),"https://en.wikipedia.org/wiki/Orlando,_Florida"
-187,S-187,Rose Bowl,Pasadena,United States,94000,https://en.wikipedia.org/wiki/Rose_Bowl_(stadium),"https://en.wikipedia.org/wiki/Pasadena,_California"
-188,S-188,Pontiac Silverdome,Pontiac,United States,78000,https://en.wikipedia.org/wiki/Pontiac_Silverdome,"https://en.wikipedia.org/wiki/Pontiac,_Michigan"
-189,S-189,Stanford Stadium,Stanford,United States,84000,https://en.wikipedia.org/wiki/Stanford_Stadium,"https://en.wikipedia.org/wiki/Stanford,_California"
-190,S-190,RFK Stadium,"Washington, D.C.",United States,53000,https://en.wikipedia.org/wiki/Robert_F._Kennedy_Memorial_Stadium,"https://en.wikipedia.org/wiki/Washington,_D.C."
-191,S-191,Estadio Centenario,Montevideo,Uruguay,90000,https://en.wikipedia.org/wiki/Estadio_Centenario,https://en.wikipedia.org/wiki/Montevideo
-192,S-192,Estadio Gran Parque Central,Montevideo,Uruguay,20000,https://en.wikipedia.org/wiki/Estadio_Gran_Parque_Central,https://en.wikipedia.org/wiki/Montevideo
-193,S-193,Estadio Pocitos,Montevideo,Uruguay,10000,https://en.wikipedia.org/wiki/Estadio_Pocitos,https://en.wikipedia.org/wiki/Montevideo
+24,S-024,Commonwealth Stadium,Edmonton,Canada,56000,https://en.wikipedia.org/wiki/Commonwealth_Stadium_(Edmonton),https://en.wikipedia.org/wiki/Edmonton
+25,S-025,Moncton Stadium,Moncton,Canada,13000,https://en.wikipedia.org/wiki/Moncton_Stadium,https://en.wikipedia.org/wiki/Moncton
+26,S-026,Olympic Stadium,Montreal,Canada,56000,https://en.wikipedia.org/wiki/Olympic_Stadium_(Montreal),https://en.wikipedia.org/wiki/Montreal
+27,S-027,TD Place Stadium,Ottawa,Canada,24000,https://en.wikipedia.org/wiki/TD_Place_Stadium,https://en.wikipedia.org/wiki/Ottawa
+28,S-028,BC Place,Vancouver,Canada,54000,https://en.wikipedia.org/wiki/BC_Place,https://en.wikipedia.org/wiki/Vancouver
+29,S-029,Investors Group Field,Winnipeg,Canada,33000,https://en.wikipedia.org/wiki/Investors_Group_Field,https://en.wikipedia.org/wiki/Winnipeg
+30,S-030,Estadio Carlos Dittborn,Arica,Chile,18000,https://en.wikipedia.org/wiki/Estadio_Carlos_Dittborn,https://en.wikipedia.org/wiki/Arica
+31,S-031,Estadio El Teniente,Rancagua,Chile,18000,https://en.wikipedia.org/wiki/Estadio_El_Teniente,https://en.wikipedia.org/wiki/Rancagua
+32,S-032,Estadio Nacional,Santiago,Chile,67000,https://en.wikipedia.org/wiki/Estadio_Nacional_Julio_Mart%C3%ADnez_Prádanos,https://en.wikipedia.org/wiki/Santiago
+33,S-033,Estadio Sausalito,Viña del Mar,Chile,18000,https://en.wikipedia.org/wiki/Estadio_Sausalito,https://en.wikipedia.org/wiki/Viña_del_Mar
+34,S-034,Chengdu Sports Center,Chengdu,China,40000,https://en.wikipedia.org/wiki/Chengdu_Sports_Centre,https://en.wikipedia.org/wiki/Chengdu
+35,S-035,New Plaza Stadium,Foshan,China,14000,https://en.wikipedia.org/wiki/New_Plaza_Stadium,https://en.wikipedia.org/wiki/Foshan
+36,S-036,Gaungdong Provincial Stadium,Guangzhou,China,25000,https://en.wikipedia.org/wiki/Guangdong_Provincial_People's_Stadium,https://en.wikipedia.org/wiki/Guangzhou
+37,S-037,Guangdong Provincial Stadium,Guangzhou,China,25000,https://en.wikipedia.org/wiki/Guangdong_Provincial_People's_Stadium,https://en.wikipedia.org/wiki/Guangzhou
+38,S-038,Tainhe Stadium,Guangzhou,China,60000,https://en.wikipedia.org/wiki/Tianhe_Stadium,https://en.wikipedia.org/wiki/Guangzhou
+39,S-039,Tianhe Stadium,Guangzhou,China,60000,https://en.wikipedia.org/wiki/Tianhe_Stadium,https://en.wikipedia.org/wiki/Guangzhou
+40,S-040,Ying Tung Stadium,Guangzhou,China,15000,https://en.wikipedia.org/wiki/Henry_Fok_Stadium,https://en.wikipedia.org/wiki/Guangzhou
+41,S-041,Yellow Dragon Sports Center,Hangzhou,China,51000,https://en.wikipedia.org/wiki/Yellow_Dragon_Sports_Center,https://en.wikipedia.org/wiki/Hangzhou
+42,S-042,Jiangmen Stadium,Jiangmen,China,13000,https://en.wikipedia.org/wiki/Jiangmen_Stadium,https://en.wikipedia.org/wiki/Jiangmen
+43,S-043,Hongkou Football Stadium,Shanghai,China,33000,https://en.wikipedia.org/wiki/Hongkou_Football_Stadium,https://en.wikipedia.org/wiki/Shanghai
+44,S-044,Tianjin Olympic Center,Tianjin,China,60000,https://en.wikipedia.org/wiki/Tianjin_Olympic_Center,https://en.wikipedia.org/wiki/Tianjin
+45,S-045,Wuhan Sports Center,Wuhan,China,60000,https://en.wikipedia.org/wiki/Wuhan_Sports_Center,https://en.wikipedia.org/wiki/Wuhan
+46,S-046,Zhongshan Stadium,Zhongshan,China,12000,https://en.wikipedia.org/wiki/Zhongshan_Sports_Center_Stadium,https://en.wikipedia.org/wiki/Zhongshan
+47,S-047,Villa Park,Birmingham,England,52000,https://en.wikipedia.org/wiki/Villa_Park,https://en.wikipedia.org/wiki/Birmingham
+48,S-048,Goodison Park,Liverpool,England,50000,https://en.wikipedia.org/wiki/Goodison_Park,https://en.wikipedia.org/wiki/Liverpool
+49,S-049,Wembley Stadium,London,England,99000,https://en.wikipedia.org/wiki/Wembley_Stadium_(1923),https://en.wikipedia.org/wiki/London
+50,S-050,White City Stadium,London,England,77000,https://en.wikipedia.org/wiki/White_City_Stadium,https://en.wikipedia.org/wiki/London
+51,S-051,Old Trafford,Manchester,England,58000,https://en.wikipedia.org/wiki/Old_Trafford,https://en.wikipedia.org/wiki/Manchester
+52,S-052,Ayresome Park,Middlesbrough,England,40000,https://en.wikipedia.org/wiki/Ayresome_Park,https://en.wikipedia.org/wiki/Middlesbrough
+53,S-053,Hillsborough Stadium,Sheffield,England,43000,https://en.wikipedia.org/wiki/Hillsborough_Stadium,https://en.wikipedia.org/wiki/Sheffield
+54,S-054,Roker Park,Sunderland,England,40000,https://en.wikipedia.org/wiki/Roker_Park,https://en.wikipedia.org/wiki/Sunderland
+55,S-055,Stade du Fort Carré,Antibes,France,7000,https://en.wikipedia.org/wiki/Stade_du_Fort_Carré,https://en.wikipedia.org/wiki/Antibes
+56,S-056,Stade du Parc Lescure,Bordeaux,France,35000,https://en.wikipedia.org/wiki/Stade_Chaban-Delmas,https://en.wikipedia.org/wiki/Bordeaux
+57,S-057,Stade des Alpes,Grenoble,France,18000,https://en.wikipedia.org/wiki/Stade_des_Alpes,https://en.wikipedia.org/wiki/Grenoble
+58,S-058,Stade Jules Deschaseaux,Le Havre,France,22000,https://en.wikipedia.org/wiki/Stade_Jules_Deschaseaux,https://en.wikipedia.org/wiki/Le_Havre
+59,S-059,Stade Océane,Le Havre,France,24000,https://en.wikipedia.org/wiki/Stade_Océane,https://en.wikipedia.org/wiki/Le_Havre
+60,S-060,Stade Félix-Bollaert,Lens,France,41000,https://en.wikipedia.org/wiki/Stade_Bollaert-Delelis,"https://en.wikipedia.org/wiki/Lens,_Pas-de-Calais"
+61,S-061,Stade Victor Boucquey,Lille,France,15000,https://en.wikipedia.org/wiki/Stade_Henri-Jooris,https://en.wikipedia.org/wiki/Lille
+62,S-062,Parc Olympique Lyonnais,Lyon,France,58000,https://en.wikipedia.org/wiki/Parc_Olympique_Lyonnais,https://en.wikipedia.org/wiki/Lyon
+63,S-063,Stade de Gerland,Lyon,France,44000,https://en.wikipedia.org/wiki/Stade_de_Gerland,https://en.wikipedia.org/wiki/Lyon
+64,S-064,Stade Vélodrome,Marseille,France,60000,https://en.wikipedia.org/wiki/Stade_Vélodrome,https://en.wikipedia.org/wiki/Marseille
+65,S-065,Stade de la Mosson,Montpellier,France,34000,https://en.wikipedia.org/wiki/Stade_de_la_Mosson,https://en.wikipedia.org/wiki/Montpellier
+66,S-066,Stade de la Beaujoire,Nantes,France,40000,https://en.wikipedia.org/wiki/Stade_de_la_Beaujoire,https://en.wikipedia.org/wiki/Nantes
+67,S-067,Allianz Riviera,Nice,France,35000,https://en.wikipedia.org/wiki/Allianz_Riviera,https://en.wikipedia.org/wiki/Nice
+68,S-068,Parc des Princes,Paris,France,49000,https://en.wikipedia.org/wiki/Parc_des_Princes,https://en.wikipedia.org/wiki/Paris
+69,S-069,Stade Olympique de Colombes,Paris,France,60000,https://en.wikipedia.org/wiki/Stade_Olympique_Yves-du-Manoir,https://en.wikipedia.org/wiki/Paris
+70,S-070,Stade Auguste-Delaune,Reims,France,21000,https://en.wikipedia.org/wiki/Stade_Auguste-Delaune,https://en.wikipedia.org/wiki/Reims
+71,S-071,Vélodrome Municipal,Reims,France,22000,https://en.wikipedia.org/wiki/Stade_Auguste_Delaune,https://en.wikipedia.org/wiki/Reims
+72,S-072,Roazhon Park,Rennes,France,29000,https://en.wikipedia.org/wiki/Roazhon_Park,https://en.wikipedia.org/wiki/Rennes
+73,S-073,Stade de France,Saint-Denis,France,80000,https://en.wikipedia.org/wiki/Stade_de_France,"https://en.wikipedia.org/wiki/Saint-Denis,_Seine-Saint-Denis"
+74,S-074,Stade Geoffroy-Guichard,Saint-Étienne,France,36000,https://en.wikipedia.org/wiki/Stade_Geoffroy-Guichard,https://en.wikipedia.org/wiki/Saint-Étienne
+75,S-075,Stade de la Meinau,Strasbourg,France,30000,https://en.wikipedia.org/wiki/Stade_de_la_Meinau,https://en.wikipedia.org/wiki/Strasbourg
+76,S-076,Stade de Toulouse,Toulouse,France,37000,https://en.wikipedia.org/wiki/Stadium_Municipal,https://en.wikipedia.org/wiki/Toulouse
+77,S-077,Stade du T.O.E.C.,Toulouse,France,15000,https://en.wikipedia.org/wiki/Stade_Chapou,https://en.wikipedia.org/wiki/Toulouse
+78,S-078,Stade du Hainaut,Valenciennes,France,23000,https://en.wikipedia.org/wiki/Stade_du_Hainaut,https://en.wikipedia.org/wiki/Valenciennes
+79,S-079,Impuls Arena,Augsburg,Germany,25000,https://en.wikipedia.org/wiki/Impuls_Arena,https://en.wikipedia.org/wiki/Augsburg
+80,S-080,Olympiastadion,Berlin,Germany,86000,https://en.wikipedia.org/wiki/Olympiastadion_(Berlin),https://en.wikipedia.org/wiki/Berlin
+81,S-081,Ruhrstadion,Bochum,Germany,21000,https://en.wikipedia.org/wiki/Ruhrstadion,https://en.wikipedia.org/wiki/Bochum
+82,S-082,RheinEnergieStadion,Cologne,Germany,45000,https://en.wikipedia.org/wiki/RheinEnergieStadion,https://en.wikipedia.org/wiki/Cologne
+83,S-083,Westfalenstadion,Dortmund,Germany,65000,https://en.wikipedia.org/wiki/Westfalenstadion,https://en.wikipedia.org/wiki/Dortmund
+84,S-084,Rudolf-Harbig-Stadion,Dresden,Germany,26000,https://en.wikipedia.org/wiki/Rudolf-Harbig-Stadion,https://en.wikipedia.org/wiki/Dresden
+85,S-085,Rheinstadion,Düsseldorf,Germany,70000,https://en.wikipedia.org/wiki/Rheinstadion,https://en.wikipedia.org/wiki/Düsseldorf
+86,S-086,Waldstadion,Frankfurt,Germany,62000,https://en.wikipedia.org/wiki/Waldstadion_(Frankfurt),https://en.wikipedia.org/wiki/Frankfurt
+87,S-087,Arena AufShalke,Gelsenkirchen,Germany,52000,https://en.wikipedia.org/wiki/Arena_AufSchalke,https://en.wikipedia.org/wiki/Gelsenkirchen
+88,S-088,Parkstadion,Gelsenkirchen,Germany,72000,https://en.wikipedia.org/wiki/Parkstadion,https://en.wikipedia.org/wiki/Gelsenkirchen
+89,S-089,Volksparkstadion,Hamburg,Germany,61000,https://en.wikipedia.org/wiki/Volksparkstadion,https://en.wikipedia.org/wiki/Hamburg
+90,S-090,Niedersachsenstadion,Hanover,Germany,60000,https://en.wikipedia.org/wiki/Niedersachsenstadion,https://en.wikipedia.org/wiki/Hanover
+91,S-091,Fritz-Walter-Stadion,Kaiserslautern,Germany,46000,https://en.wikipedia.org/wiki/Fritz-Walter-Stadion,https://en.wikipedia.org/wiki/Kaiserslautern
+92,S-092,Zentralstadion,Leipzig,Germany,43000,https://en.wikipedia.org/wiki/Red_Bull_Arena_(Leipzig),https://en.wikipedia.org/wiki/Leipzig
+93,S-093,BayArena,Leverkusen,Germany,30000,https://en.wikipedia.org/wiki/BayArena,https://en.wikipedia.org/wiki/Leverkusen
+94,S-094,Borussia-Park,Mönchengladbach,Germany,46000,https://en.wikipedia.org/wiki/Borussia-Park,https://en.wikipedia.org/wiki/Mönchengladbach
+95,S-095,Allianz Arena,Munich,Germany,66000,https://en.wikipedia.org/wiki/Allianz_Arena,https://en.wikipedia.org/wiki/Munich
+96,S-096,Olympiastadion,Munich,Germany,78000,https://en.wikipedia.org/wiki/Olympiastadion_(Munich),https://en.wikipedia.org/wiki/Munich
+97,S-097,Frankenstadion,Nuremberg,Germany,41000,https://en.wikipedia.org/wiki/Nuremberg,https://en.wikipedia.org/wiki/Nuremberg
+98,S-098,Rhein-Neckar-Arena,Sinsheim,Germany,30000,https://en.wikipedia.org/wiki/Rhein-Neckar-Arena,https://en.wikipedia.org/wiki/Sinsheim
+99,S-099,Neckarstadion,Stuttgart,Germany,72000,https://en.wikipedia.org/wiki/Mercedes-Benz_Arena_(Stuttgart),https://en.wikipedia.org/wiki/Stuttgart
+100,S-100,Volkswagen Arena,Wolfsburg,Germany,26000,https://en.wikipedia.org/wiki/Volkswagen_Arena,https://en.wikipedia.org/wiki/Wolfsburg
+101,S-101,Stadio San Nicola,Bari,Italy,51000,https://en.wikipedia.org/wiki/Stadio_San_Nicola,https://en.wikipedia.org/wiki/Bari
+102,S-102,Stadio Renato Dall'Ara,Bologna,Italy,50000,https://en.wikipedia.org/wiki/Stadio_Renato_Dall%27Ara,https://en.wikipedia.org/wiki/Bologna
+103,S-103,Stadio Sant'Elia,Cagliari,Italy,35000,https://en.wikipedia.org/wiki/Stadio_Sant%27Elia,https://en.wikipedia.org/wiki/Cagliari
+104,S-104,Stadio Comunale,Florence,Italy,39000,https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi,https://en.wikipedia.org/wiki/Florence
+105,S-105,Stadio Giovanni Berta,Florence,Italy,47000,https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi_(Florence),https://en.wikipedia.org/wiki/Florence
+106,S-106,Stadio Luigi Ferraris,Genoa,Italy,37000,https://en.wikipedia.org/wiki/Stadio_Luigi_Ferraris,https://en.wikipedia.org/wiki/Genoa
+107,S-107,San Siro,Milan,Italy,75000,https://en.wikipedia.org/wiki/San_Siro,https://en.wikipedia.org/wiki/Milan
+108,S-108,Stadio Giorgio Ascarelli,Naples,Italy,40000,https://en.wikipedia.org/wiki/Stadio_Giorgio_Ascarelli,https://en.wikipedia.org/wiki/Naples
+109,S-109,Stadio San Paolo,Naples,Italy,60000,https://en.wikipedia.org/wiki/Stadio_San_Paolo,https://en.wikipedia.org/wiki/Naples
+110,S-110,Stadio La Favorita,Palermo,Italy,33000,https://en.wikipedia.org/wiki/Stadio_Renzo_Barbera,https://en.wikipedia.org/wiki/Palermo
+111,S-111,Stadio Nazionale PNF,Rome,Italy,47000,https://en.wikipedia.org/wiki/Stadio_Nazionale_PNF,https://en.wikipedia.org/wiki/Rome
+112,S-112,Stadio Olimpico,Rome,Italy,74000,https://en.wikipedia.org/wiki/Stadio_Olimpico,https://en.wikipedia.org/wiki/Rome
+113,S-113,Stadio Littorio,Trieste,Italy,8000,https://en.wikipedia.org/wiki/Stadio_Giuseppe_Grezar,https://en.wikipedia.org/wiki/Trieste
+114,S-114,Stadio Benito Mussolini,Turin,Italy,28000,https://en.wikipedia.org/wiki/Stadio_Olimpico_Grande_Torino,https://en.wikipedia.org/wiki/Turin
+115,S-115,Stadio delle Alpi,Turin,Italy,63000,https://en.wikipedia.org/wiki/Stadio_delle_Alpi,https://en.wikipedia.org/wiki/Turin
+116,S-116,Stadio Friuli,Udine,Italy,36000,https://en.wikipedia.org/wiki/Stadio_Friuli,https://en.wikipedia.org/wiki/Udine
+117,S-117,Stadio Marc'Antonio Bentegodi,Verona,Italy,36000,https://en.wikipedia.org/wiki/Stadio_Marc%27Antonio_Bentegodi,https://en.wikipedia.org/wiki/Verona
+118,S-118,Kashima Stadium,Ibaraki,Japan,42000,https://en.wikipedia.org/wiki/Kashima_Soccer_Stadium,"https://en.wikipedia.org/wiki/Kashima,_Ibaraki"
+119,S-119,Kobe Wing Stadium,Kobe,Japan,42000,https://en.wikipedia.org/wiki/Kobe_Wing_Stadium,https://en.wikipedia.org/wiki/Kobe
+120,S-120,Miyagi Stadium,Miyagi,Japan,49000,https://en.wikipedia.org/wiki/Miyagi_Stadium,https://en.wikipedia.org/wiki/Miyagi_Prefecture
+121,S-121,Niigata Stadium,Niigata,Japan,42000,https://en.wikipedia.org/wiki/Denka_Big_Swan_Stadium,"https://en.wikipedia.org/wiki/Niigata,_Niigata"
+122,S-122,Ōita Stadium,Ōita,Japan,43000,https://en.wikipedia.org/wiki/Showa_Denko_Dome_Oita,"https://en.wikipedia.org/wiki/Ōita,_Ōita"
+123,S-123,Nagai Stadium,Osaka,Japan,50000,https://en.wikipedia.org/wiki/Nagai_Stadium,https://en.wikipedia.org/wiki/Osaka
+124,S-124,Saitama Stadium,Saitama,Japan,63000,https://en.wikipedia.org/wiki/Saitama_Stadium_2002,"https://en.wikipedia.org/wiki/Saitama,_Saitama"
+125,S-125,Sapporo Dome,Sapporo,Japan,42000,https://en.wikipedia.org/wiki/Sapporo_Dome,https://en.wikipedia.org/wiki/Sapporo
+126,S-126,Shizuoka Stadium ECOPA,Shizuoka,Japan,51000,https://en.wikipedia.org/wiki/Shizuoka_Stadium,"https://en.wikipedia.org/wiki/Fukuroi,_Shizuoka"
+127,S-127,International Stadium Yokohama,Yokohama,Japan,72000,https://en.wikipedia.org/wiki/International_Stadium_Yokohama,https://en.wikipedia.org/wiki/Yokohama
+128,S-128,Estadio Jalisco,Guadalajara,Mexico,71000,https://en.wikipedia.org/wiki/Estadio_Jalisco,https://en.wikipedia.org/wiki/Guadalajara
+129,S-129,Estadio Tres de Marzo,Guadalajara,Mexico,30000,https://en.wikipedia.org/wiki/Estadio_Tres_de_Marzo,https://en.wikipedia.org/wiki/Guadalajara
+130,S-130,Estadio Sergio León Chavez,Irapuato,Mexico,31000,https://en.wikipedia.org/wiki/Estadio_Sergio_León_Chávez,https://en.wikipedia.org/wiki/Irapuato
+131,S-131,Estadio Nou Camp,León,Mexico,31000,https://en.wikipedia.org/wiki/Estadio_Nou_Camp,"https://en.wikipedia.org/wiki/León,_Guanajuato"
+132,S-132,Estadio Azteca,Mexico City,Mexico,115000,https://en.wikipedia.org/wiki/Estadio_Azteca,https://en.wikipedia.org/wiki/Mexico_City
+133,S-133,Estadio Olímpico Universitario,Mexico City,Mexico,72000,https://en.wikipedia.org/wiki/Estadio_Ol%C3%ADmpico_Universitario,https://en.wikipedia.org/wiki/Mexico_City
+134,S-134,Estadio Tecnológico,Monterrey,Mexico,34000,https://en.wikipedia.org/wiki/Estadio_Tecnológico,https://en.wikipedia.org/wiki/Monterrey
+135,S-135,Estadio Universitario,Monterrey,Mexico,44000,https://en.wikipedia.org/wiki/Estadio_Universitario_(UANL),https://en.wikipedia.org/wiki/Monterrey
+136,S-136,Estadio Neza 86,Nezahualcóyotl,Mexico,35000,https://en.wikipedia.org/wiki/Estadio_Neza_86,https://en.wikipedia.org/wiki/Ciudad_Nezahualcóyotl
+137,S-137,Estadio Cuauhtémoc,Puebla,Mexico,46000,https://en.wikipedia.org/wiki/Estadio_Cuauhtémoc,https://en.wikipedia.org/wiki/Puebla_City
+138,S-138,Estadio La Corregidora,Querétaro,Mexico,39000,https://en.wikipedia.org/wiki/Estadio_La_Corregidora,https://en.wikipedia.org/wiki/Santiago_de_Querétaro
+139,S-139,La Bombonera,Toluca,Mexico,33000,https://en.wikipedia.org/wiki/Estadio_Nemesio_D%C3%ADez,https://en.wikipedia.org/wiki/Toluca
+140,S-140,Al Bayt Stadium,Al Khor,Qatar,69000,https://en.wikipedia.org/wiki/Al_Bayt_Stadium,https://en.wikipedia.org/wiki/Al_Khor_(city)
+141,S-141,Ahmad bin Ali Stadium,Al Rayyan,Qatar,45000,https://en.wikipedia.org/wiki/Ahmad_bin_Ali_Stadium,https://en.wikipedia.org/wiki/Al_Rayyan_(city)
+142,S-142,Education City Stadium,Al Rayyan,Qatar,45000,https://en.wikipedia.org/wiki/Education_City_Stadium,https://en.wikipedia.org/wiki/Al_Rayyan_(city)
+143,S-143,Khalifa International Stadium,Al Rayyan,Qatar,46000,https://en.wikipedia.org/wiki/Khalifa_International_Stadium,https://en.wikipedia.org/wiki/Al_Rayyan_(city)
+144,S-144,Al Janoub Stadium,Al Wakrah,Qatar,44000,https://en.wikipedia.org/wiki/Al_Janoub_Stadium,https://en.wikipedia.org/wiki/Al_Wakrah
+145,S-145,Al Thumama Stadium,Doha,Qatar,44000,https://en.wikipedia.org/wiki/Al_Thumama_Stadium,https://en.wikipedia.org/wiki/Doha
+146,S-146,Stadium 974,Doha,Qatar,44000,https://en.wikipedia.org/wiki/Stadium_974,https://en.wikipedia.org/wiki/Doha
+147,S-147,Lusail Stadium,Lusail,Qatar,89000,https://en.wikipedia.org/wiki/Lusail_Stadium,https://en.wikipedia.org/wiki/Lusail
+148,S-148,Kaliningrad Stadium,Kaliningrad,Russia,34000,https://en.wikipedia.org/wiki/Kaliningrad_Stadium,https://en.wikipedia.org/wiki/Kaliningrad
+149,S-149,Kazan Arena,Kazan,Russia,43000,https://en.wikipedia.org/wiki/Kazan_Arena,https://en.wikipedia.org/wiki/Kazan_Arena
+150,S-150,Luzhniki Stadium,Moscow,Russia,78000,https://en.wikipedia.org/wiki/Luzhniki_Stadium,https://en.wikipedia.org/wiki/Moscow
+151,S-151,Otkritie Arena,Moscow,Russia,44000,https://en.wikipedia.org/wiki/Otkritie_Arena,https://en.wikipedia.org/wiki/Moscow
+152,S-152,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,43000,https://en.wikipedia.org/wiki/Nizhny_Novgorod_Stadium,https://en.wikipedia.org/wiki/Nizhny_Novgorod
+153,S-153,Rostov Arena,Rostov-on-Don,Russia,43000,https://en.wikipedia.org/wiki/Rostov_Arena,https://en.wikipedia.org/wiki/Rostov-on-Don
+154,S-154,Krestovsky Stadium,Saint Petersburg,Russia,64000,https://en.wikipedia.org/wiki/Krestovsky_Stadium,https://en.wikipedia.org/wiki/Saint_Petersburg
+155,S-155,Samara Arena,Samara,Russia,42000,https://en.wikipedia.org/wiki/Samara_Arena,https://en.wikipedia.org/wiki/Samara
+156,S-156,Mordovia Arena,Saransk,Russia,42000,https://en.wikipedia.org/wiki/Mordovia_Arena,https://en.wikipedia.org/wiki/Saransk
+157,S-157,Fisht Olympic Stadium,Sochi,Russia,44000,https://en.wikipedia.org/wiki/Fisht_Olympic_Stadium,https://en.wikipedia.org/wiki/Sochi
+158,S-158,Volgograd Arena,Volgograd,Russia,44000,https://en.wikipedia.org/wiki/Volgograd_Arena,https://en.wikipedia.org/wiki/Volgograd
+159,S-159,Central Stadium,Yekaterinburg,Russia,33000,https://en.wikipedia.org/wiki/Central_Stadium_(Yekaterinburg),https://en.wikipedia.org/wiki/Yekaterinburg
+160,S-160,Free State Stadium,Bloemfontein,South Africa,41000,https://en.wikipedia.org/wiki/Free_State_Stadium,https://en.wikipedia.org/wiki/Bloemfontein
+161,S-161,Cape Town Stadium,Cape Town,South Africa,64000,https://en.wikipedia.org/wiki/Cape_Town_Stadium,https://en.wikipedia.org/wiki/Cape_Town
+162,S-162,Moses Mabhida Stadium,Durban,South Africa,63000,https://en.wikipedia.org/wiki/Moses_Mabhida_Stadium,https://en.wikipedia.org/wiki/Durban
+163,S-163,Ellis Park Stadium,Johannesburg,South Africa,56000,https://en.wikipedia.org/wiki/Ellis_Park_Stadium,https://en.wikipedia.org/wiki/Johannesburg
+164,S-164,Soccer City,Johannesburg,South Africa,84000,https://en.wikipedia.org/wiki/FNB_Stadium,https://en.wikipedia.org/wiki/Johannesburg
+165,S-165,Mbombela Stadium,Nelspruit,South Africa,41000,https://en.wikipedia.org/wiki/Mbombela_Stadium,https://en.wikipedia.org/wiki/Nelspruit
+166,S-166,Peter Mokaba Stadium,Polokwane,South Africa,42000,https://en.wikipedia.org/wiki/Peter_Mokaba_Stadium,https://en.wikipedia.org/wiki/Polokwane
+167,S-167,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,42000,https://en.wikipedia.org/wiki/Nelson_Mandela_Bay_Stadium,https://en.wikipedia.org/wiki/Port_Elizabeth
+168,S-168,Loftus Versfeld Stadium,Pretoria,South Africa,43000,https://en.wikipedia.org/wiki/Loftus_Versfeld_Stadium,https://en.wikipedia.org/wiki/Pretoria
+169,S-169,Royal Bafokeng Stadium,Rustenburg,South Africa,42000,https://en.wikipedia.org/wiki/Royal_Bafokeng_Stadium,https://en.wikipedia.org/wiki/Rustenburg
+170,S-170,Busan Asiad Stadium,Busan,South Korea,56000,https://en.wikipedia.org/wiki/Busan_Asiad_Stadium,https://en.wikipedia.org/wiki/Busan
+171,S-171,Daegu World Cup Stadium,Daegu,South Korea,68000,https://en.wikipedia.org/wiki/Daegu_Stadium,https://en.wikipedia.org/wiki/Daegu
+172,S-172,Daejeon World Cup Stadium,Daejeon,South Korea,40000,https://en.wikipedia.org/wiki/Daejeon_World_Cup_Stadium,https://en.wikipedia.org/wiki/Daejeon
+173,S-173,Gwangju World Cup Stadium,Gwangju,South Korea,43000,https://en.wikipedia.org/wiki/Gwangju_World_Cup_Stadium,https://en.wikipedia.org/wiki/Gwangju
+174,S-174,Incheon Munhak Stadium,Incheon,South Korea,52000,https://en.wikipedia.org/wiki/Incheon_Munhak_Stadium,https://en.wikipedia.org/wiki/Incheon
+175,S-175,Jeonju World Cup Stadium,Jeonju,South Korea,42000,https://en.wikipedia.org/wiki/Jeonju_World_Cup_Stadium,https://en.wikipedia.org/wiki/Jeonju
+176,S-176,Jeju World Cup Stadium,Seogwipo,South Korea,42000,https://en.wikipedia.org/wiki/Jeju_World_Cup_Stadium,https://en.wikipedia.org/wiki/Seogwipo
+177,S-177,Seoul World Cup Stadium,Seoul,South Korea,64000,https://en.wikipedia.org/wiki/Seoul_World_Cup_Stadium,https://en.wikipedia.org/wiki/Seoul
+178,S-178,Suwon World Cup Stadium,Suwon,South Korea,43000,https://en.wikipedia.org/wiki/Suwon_World_Cup_Stadium,https://en.wikipedia.org/wiki/Suwon
+179,S-179,Ulsan Munsu Football Stadium,Ulsan,South Korea,44000,https://en.wikipedia.org/wiki/Ulsan_Munsu_Football_Stadium,https://en.wikipedia.org/wiki/Ulsan
+180,S-180,Estadio Riazor,A Coruña,Spain,34000,https://en.wikipedia.org/wiki/Estadio_Riazor,https://en.wikipedia.org/wiki/A_Coruña
+181,S-181,Estadio José Rico Pérez,Alicante,Spain,33000,https://en.wikipedia.org/wiki/Estadio_José_Rico_Pérez,https://en.wikipedia.org/wiki/Alicante
+182,S-182,Camp Nou,Barcelona,Spain,121000,https://en.wikipedia.org/wiki/Camp_Nou,https://en.wikipedia.org/wiki/Barcelona
+183,S-183,Estadi de Sarrià,Barcelona,Spain,40000,https://en.wikipedia.org/wiki/Sarrià_Stadium,https://en.wikipedia.org/wiki/Barcelona
+184,S-184,Estadio San Mamés,Bilbao,Spain,46000,https://en.wikipedia.org/wiki/San_Mamés_Stadium_(1913),https://en.wikipedia.org/wiki/Bilbao
+185,S-185,Nuevo Estadio,Elche,Spain,53000,https://en.wikipedia.org/wiki/Estadio_Manuel_Mart%C3%ADnez_Valero,https://en.wikipedia.org/wiki/Elche
+186,S-186,Estadio El Molinón,Gijón,Spain,45000,https://en.wikipedia.org/wiki/El_Molinón,https://en.wikipedia.org/wiki/Gijón
+187,S-187,Estadio Santiago Bernabéu,Madrid,Spain,90000,https://en.wikipedia.org/wiki/Santiago_Bernabéu_Stadium,https://en.wikipedia.org/wiki/Madrid
+188,S-188,Vicente Calderón,Madrid,Spain,66000,https://en.wikipedia.org/wiki/Vicente_Calderón_Stadium,https://en.wikipedia.org/wiki/Madrid
+189,S-189,Estadio La Rosaleda,Málaga,Spain,45000,https://en.wikipedia.org/wiki/Estadio_La_Rosaleda,https://en.wikipedia.org/wiki/Málaga
+190,S-190,Estadio Carlos Tartiere,Oviedo,Spain,24000,https://en.wikipedia.org/wiki/Estadio_Carlos_Tartiere_(1932),https://en.wikipedia.org/wiki/Oviedo
+191,S-191,Estadio Benito Villamarín,Seville,Spain,50000,https://en.wikipedia.org/wiki/Estadio_Benito_Villamar%C3%ADn,https://en.wikipedia.org/wiki/Seville
+192,S-192,Estadio Ramón Sánchez Pizjuán,Seville,Spain,68000,https://en.wikipedia.org/wiki/Ramón_Sánchez_Pizjuán_Stadium,https://en.wikipedia.org/wiki/Seville
+193,S-193,Estadio Luis Casanova,Valencia,Spain,50000,https://en.wikipedia.org/wiki/Mestalla_Stadium,https://en.wikipedia.org/wiki/Valencia
+194,S-194,Estadio José Zorrilla,Valladolid,Spain,30000,https://en.wikipedia.org/wiki/Estadio_José_Zorrilla,https://en.wikipedia.org/wiki/Valladolid
+195,S-195,Balaídos,Vigo,Spain,33000,https://en.wikipedia.org/wiki/Bala%C3%ADdos,https://en.wikipedia.org/wiki/Vigo
+196,S-196,Estadio La Romareda,Zaragoza,Spain,42000,https://en.wikipedia.org/wiki/La_Romareda,https://en.wikipedia.org/wiki/Zaragoza
+197,S-197,Ryavallen,Borås,Sweden,15000,https://en.wikipedia.org/wiki/Ryavallen,https://en.wikipedia.org/wiki/Borås
+198,S-198,Tunavallen,Eskilstuna,Sweden,22000,https://en.wikipedia.org/wiki/Tunavallen,https://en.wikipedia.org/wiki/Eskilstuna
+199,S-199,Strömvallen,Gävle,Sweden,7000,https://en.wikipedia.org/wiki/Strömvallen,https://en.wikipedia.org/wiki/Gävle
+200,S-200,Ullevi,Gothenburg,Sweden,54000,https://en.wikipedia.org/wiki/Ullevi,https://en.wikipedia.org/wiki/Gothenburg
+201,S-201,Örjans Vall,Halmstad,Sweden,15000,https://en.wikipedia.org/wiki/Örjans_Vall,https://en.wikipedia.org/wiki/Halmstad
+202,S-202,Olympia,Helsingborg,Sweden,27000,https://en.wikipedia.org/wiki/Olympia_(Helsingborg),https://en.wikipedia.org/wiki/Helsingborg
+203,S-203,Tingvalla IP,Karlstad,Sweden,5000,https://en.wikipedia.org/wiki/Tingvalla_IP,https://en.wikipedia.org/wiki/Karlstad
+204,S-204,Malmö Stadion,Malmö,Sweden,30000,https://en.wikipedia.org/wiki/Malmö_Stadion,https://en.wikipedia.org/wiki/Malmö
+205,S-205,Idrottsparken,Norrköping,Sweden,20000,https://en.wikipedia.org/wiki/Nya_Parken,https://en.wikipedia.org/wiki/Norrköping
+206,S-206,Eyravallen,Örebro,Sweden,13000,https://en.wikipedia.org/wiki/Behrn_Arena,https://en.wikipedia.org/wiki/Örebro
+207,S-207,Jernvallen,Sandviken,Sweden,20000,https://en.wikipedia.org/wiki/Jernvallen,https://en.wikipedia.org/wiki/Sandviken
+208,S-208,Råsunda Stadium,Solna,Sweden,52000,https://en.wikipedia.org/wiki/Råsunda_Stadium,https://en.wikipedia.org/wiki/Solna_Municipality
+209,S-209,Rimnersvallen,Uddevalla,Sweden,18000,https://en.wikipedia.org/wiki/Rimnersvallen,https://en.wikipedia.org/wiki/Uddevalla
+210,S-210,Arosvallen,Västerås,Sweden,10000,https://en.wikipedia.org/wiki/Arosvallen,https://en.wikipedia.org/wiki/Västerås
+211,S-211,St. Jakob Stadium,Basel,Switzerland,55000,https://en.wikipedia.org/wiki/St._Jakob_Stadium,https://en.wikipedia.org/wiki/Basel
+212,S-212,Wankdorf Stadium,Bern,Switzerland,65000,https://en.wikipedia.org/wiki/Wankdorf_Stadium,https://en.wikipedia.org/wiki/Bern
+213,S-213,Charmilles Stadium,Geneva,Switzerland,36000,https://en.wikipedia.org/wiki/Charmilles_Stadium,https://en.wikipedia.org/wiki/Geneva
+214,S-214,Stade Olympique de la Pontaise,Lausanne,Switzerland,50000,https://en.wikipedia.org/wiki/Stade_Olympique_de_la_Pontaise,https://en.wikipedia.org/wiki/Lausanne
+215,S-215,Cornaredo Stadium,Lugano,Switzerland,36000,https://en.wikipedia.org/wiki/Cornaredo_Stadium,https://en.wikipedia.org/wiki/Lugano
+216,S-216,Hardturm Stadium,Zürich,Switzerland,35000,https://en.wikipedia.org/wiki/Hardturm,https://en.wikipedia.org/wiki/Zürich
+217,S-217,Foxboro Stadium,Boston,United States,59000,https://en.wikipedia.org/wiki/Foxboro_Stadium,https://en.wikipedia.org/wiki/Boston
+218,S-218,Home Depot Center,Carson,United States,28000,https://en.wikipedia.org/wiki/Dignity_Health_Sports_Park,"https://en.wikipedia.org/wiki/Carson,_California"
+219,S-219,Soldier Field,Chicago,United States,65000,https://en.wikipedia.org/wiki/Soldier_Field,https://en.wikipedia.org/wiki/Chicago
+220,S-220,Columbus Crew Stadium,Columbus,United States,23000,https://en.wikipedia.org/wiki/Mapfre_Stadium,"https://en.wikipedia.org/wiki/Columbus,_Ohio"
+221,S-221,Cotton Bowl,Dallas,United States,64000,https://en.wikipedia.org/wiki/Cotton_Bowl_(stadium),https://en.wikipedia.org/wiki/Dallas
+222,S-222,Giants Stadium,East Rutherford,United States,76000,https://en.wikipedia.org/wiki/Giants_Stadium,"https://en.wikipedia.org/wiki/East_Rutherford,_New_Jersey"
+223,S-223,Foxboro Stadium,Foxborough,United States,54000,https://en.wikipedia.org/wiki/Foxboro_Stadium,https://en.wikipedia.org/wiki/Foxboro_Stadium
+224,S-224,Gillette Stadium,Foxborough,United States,68000,https://en.wikipedia.org/wiki/Gillette_Stadium,"https://en.wikipedia.org/wiki/Foxborough,_Massachusetts"
+225,S-225,Rose Bowl,Los Angeles,United States,96000,https://en.wikipedia.org/wiki/Rose_Bowl_(stadium),https://en.wikipedia.org/wiki/Los_Angeles
+226,S-226,Giants Stadium,New York City,United States,78000,https://en.wikipedia.org/wiki/Giants_Stadium,https://en.wikipedia.org/wiki/New_York_City
+227,S-227,Citrus Bowl,Orlando,United States,62000,https://en.wikipedia.org/wiki/Citrus_Bowl_(stadium),"https://en.wikipedia.org/wiki/Orlando,_Florida"
+228,S-228,Rose Bowl,Pasadena,United States,94000,https://en.wikipedia.org/wiki/Rose_Bowl_(stadium),"https://en.wikipedia.org/wiki/Pasadena,_California"
+229,S-229,Lincoln Financial Field,Philadelphia,United States,70000,https://en.wikipedia.org/wiki/Lincoln_Financial_Field,https://en.wikipedia.org/wiki/Philadelphia
+230,S-230,Pontiac Silverdome,Pontiac,United States,78000,https://en.wikipedia.org/wiki/Pontiac_Silverdome,"https://en.wikipedia.org/wiki/Pontiac,_Michigan"
+231,S-231,Civic Stadium,Portland,United States,27000,"https://en.wikipedia.org/wiki/Civic_Stadium_(Portland,_Oregon)","https://en.wikipedia.org/wiki/Portland,_Oregon"
+232,S-232,PGE Park,Portland,United States,28000,https://en.wikipedia.org/wiki/Providence_Park,"https://en.wikipedia.org/wiki/Portland,_Oregon"
+233,S-233,Stanford Stadium,San Fransisco,United States,85000,https://en.wikipedia.org/wiki/Stanford_Stadium,https://en.wikipedia.org/wiki/San_Francisco
+234,S-234,Spartan Stadium,San Jose,United States,26000,https://en.wikipedia.org/wiki/Spartan_Stadium_(San_Jose),"https://en.wikipedia.org/wiki/San_Jose,_California"
+235,S-235,Stanford Stadium,Stanford,United States,84000,https://en.wikipedia.org/wiki/Stanford_Stadium,"https://en.wikipedia.org/wiki/Stanford,_California"
+236,S-236,Jack Kent Cooke Stadium,"Washington, D.C.",United States,80000,https://en.wikipedia.org/wiki/Jack_Kent_Cooke_Stadium,"https://en.wikipedia.org/wiki/Washington,_D.C."
+237,S-237,RFK Stadium,"Washington, D.C.",United States,53000,https://en.wikipedia.org/wiki/Robert_F._Kennedy_Memorial_Stadium,"https://en.wikipedia.org/wiki/Washington,_D.C."
+238,S-238,Estadio Centenario,Montevideo,Uruguay,90000,https://en.wikipedia.org/wiki/Estadio_Centenario,https://en.wikipedia.org/wiki/Montevideo
+239,S-239,Estadio Gran Parque Central,Montevideo,Uruguay,20000,https://en.wikipedia.org/wiki/Estadio_Gran_Parque_Central,https://en.wikipedia.org/wiki/Montevideo
+240,S-240,Estadio Pocitos,Montevideo,Uruguay,10000,https://en.wikipedia.org/wiki/Estadio_Pocitos,https://en.wikipedia.org/wiki/Montevideo

@@ -1,142 +1,201 @@
 key_id,tournament_id,tournament_name,award_id,award_name,shared,player_id,family_name,given_name,team_id,team_name,team_code
-1,WC-1930,1930 FIFA World Cup,A-4,Golden Boot,0,P-01708,Stábile,Guillermo,T-03,Argentina,ARG
-2,WC-1930,1930 FIFA World Cup,A-5,Silver Boot,0,P-06624,Cea,Pedro,T-81,Uruguay,URY
-3,WC-1930,1930 FIFA World Cup,A-6,Bronze Boot,0,P-08936,Patenaude,Bert,T-80,United States,USA
-4,WC-1934,1934 FIFA World Cup,A-4,Golden Boot,0,P-03976,Nejedlý,Oldřich,T-20,Czechoslovakia,CSK
-5,WC-1934,1934 FIFA World Cup,A-5,Silver Boot,1,P-08398,Conen,Edmund,T-29,Germany,DEU
-6,WC-1934,1934 FIFA World Cup,A-5,Silver Boot,1,P-07470,Schiavio,Angelo,T-39,Italy,ITA
-7,WC-1938,1938 FIFA World Cup,A-4,Golden Boot,0,P-02781,Leônidas,not applicable,T-09,Brazil,BRA
-8,WC-1938,1938 FIFA World Cup,A-5,Silver Boot,1,P-01559,Piola,Silvio,T-39,Italy,ITA
-9,WC-1938,1938 FIFA World Cup,A-5,Silver Boot,1,P-06711,Sárosi,György,T-34,Hungary,HUN
-10,WC-1938,1938 FIFA World Cup,A-5,Silver Boot,1,P-01735,Zsengellér,Gyula,T-34,Hungary,HUN
-11,WC-1950,1950 FIFA World Cup,A-4,Golden Boot,0,P-03149,Ademir,not applicable,T-09,Brazil,BRA
-12,WC-1950,1950 FIFA World Cup,A-5,Silver Boot,0,P-01364,Míguez,Oscar,T-81,Uruguay,URY
-13,WC-1950,1950 FIFA World Cup,A-6,Bronze Boot,1,P-05910,Basora,Estanislau,T-71,Spain,ESP
-14,WC-1950,1950 FIFA World Cup,A-6,Bronze Boot,1,P-03960,Chico,not applicable,T-09,Brazil,BRA
-15,WC-1950,1950 FIFA World Cup,A-6,Bronze Boot,1,P-09441,Ghiggia,Alcides,T-81,Uruguay,URY
-16,WC-1950,1950 FIFA World Cup,A-6,Bronze Boot,1,P-02813,Zarra,Telmo,T-71,Spain,ESP
-17,WC-1954,1954 FIFA World Cup,A-4,Golden Boot,0,P-06982,Kocsis,Sándor,T-34,Hungary,HUN
-18,WC-1954,1954 FIFA World Cup,A-5,Silver Boot,1,P-04731,Hügi,Josef,T-73,Switzerland,CHE
-19,WC-1954,1954 FIFA World Cup,A-5,Silver Boot,1,P-08055,Morlock,Max,T-83,West Germany,DEU
-20,WC-1954,1954 FIFA World Cup,A-5,Silver Boot,1,P-09592,Probst,Erich,T-05,Austria,AUT
-21,WC-1958,1958 FIFA World Cup,A-4,Golden Boot,0,P-02537,Fontaine,Just,T-28,France,FRA
-22,WC-1958,1958 FIFA World Cup,A-5,Silver Boot,1,P-09516,Pelé,not applicable,T-09,Brazil,BRA
-23,WC-1958,1958 FIFA World Cup,A-5,Silver Boot,1,P-00174,Rahn,Helmut,T-83,West Germany,DEU
-24,WC-1958,1958 FIFA World Cup,A-8,Best Young Player,0,P-09516,Pelé,not applicable,T-09,Brazil,BRA
-25,WC-1962,1962 FIFA World Cup,A-4,Golden Boot,1,P-09166,Albert,Flórián,T-34,Hungary,HUN
-26,WC-1962,1962 FIFA World Cup,A-4,Golden Boot,1,P-07818,Garrincha,not applicable,T-09,Brazil,BRA
-27,WC-1962,1962 FIFA World Cup,A-4,Golden Boot,1,P-06322,Ivanov,Valentin,T-70,Soviet Union,SUN
-28,WC-1962,1962 FIFA World Cup,A-4,Golden Boot,1,P-09123,Jerković,Dražan,T-84,Yugoslavia,YUG
-29,WC-1962,1962 FIFA World Cup,A-4,Golden Boot,1,P-03057,Sánchez,Leonel,T-13,Chile,CHL
-30,WC-1962,1962 FIFA World Cup,A-4,Golden Boot,1,P-01848,Vavá,not applicable,T-09,Brazil,BRA
-31,WC-1962,1962 FIFA World Cup,A-8,Best Young Player,0,P-09166,Albert,Flórián,T-34,Hungary,HUN
-32,WC-1966,1966 FIFA World Cup,A-4,Golden Boot,0,P-04623,Eusébio,not applicable,T-56,Portugal,PRT
-33,WC-1966,1966 FIFA World Cup,A-5,Silver Boot,0,P-08217,Haller,Helmut,T-83,West Germany,DEU
-34,WC-1966,1966 FIFA World Cup,A-6,Bronze Boot,1,P-08834,Beckenbauer,Franz,T-83,West Germany,DEU
-35,WC-1966,1966 FIFA World Cup,A-6,Bronze Boot,1,P-00384,Bene,Ferenc,T-34,Hungary,HUN
-36,WC-1966,1966 FIFA World Cup,A-6,Bronze Boot,1,P-04680,Hurst,Geoff,T-27,England,ENG
-37,WC-1966,1966 FIFA World Cup,A-6,Bronze Boot,1,P-03318,Porkujan,Valeriy,T-70,Soviet Union,SUN
-38,WC-1966,1966 FIFA World Cup,A-8,Best Young Player,0,P-08834,Beckenbauer,Franz,T-83,West Germany,DEU
-39,WC-1970,1970 FIFA World Cup,A-4,Golden Boot,0,P-02173,Müller,Gerd,T-83,West Germany,DEU
-40,WC-1970,1970 FIFA World Cup,A-5,Silver Boot,0,P-02071,Jairzinho,not applicable,T-09,Brazil,BRA
-41,WC-1970,1970 FIFA World Cup,A-6,Bronze Boot,0,P-01728,Cubillas,Teófilo,T-54,Peru,PER
-42,WC-1970,1970 FIFA World Cup,A-8,Best Young Player,0,P-01728,Cubillas,Teófilo,T-54,Peru,PER
-43,WC-1974,1974 FIFA World Cup,A-4,Golden Boot,0,P-02554,Lato,Grzegorz,T-55,Poland,POL
-44,WC-1974,1974 FIFA World Cup,A-5,Silver Boot,1,P-01377,Neeskens,Johan,T-46,Netherlands,NLD
-45,WC-1974,1974 FIFA World Cup,A-5,Silver Boot,1,P-02870,Szarmach,Andrzej,T-55,Poland,POL
-46,WC-1974,1974 FIFA World Cup,A-8,Best Young Player,0,P-09931,Żmuda,Władysław,T-55,Poland,POL
-47,WC-1978,1978 FIFA World Cup,A-1,Golden Ball,0,P-01718,Kempes,Mario,T-03,Argentina,ARG
-48,WC-1978,1978 FIFA World Cup,A-2,Silver Ball,0,P-00907,Rossi,Paolo,T-39,Italy,ITA
-49,WC-1978,1978 FIFA World Cup,A-3,Bronze Ball,0,P-01410,Dirceu,not applicable,T-09,Brazil,BRA
-50,WC-1978,1978 FIFA World Cup,A-4,Golden Boot,0,P-01718,Kempes,Mario,T-03,Argentina,ARG
-51,WC-1978,1978 FIFA World Cup,A-5,Silver Boot,0,P-01728,Cubillas,Teófilo,T-54,Peru,PER
-52,WC-1978,1978 FIFA World Cup,A-6,Bronze Boot,0,P-00704,Rensenbrink,Rob,T-46,Netherlands,NLD
-53,WC-1978,1978 FIFA World Cup,A-8,Best Young Player,0,P-06485,Cabrini,Antonio,T-39,Italy,ITA
-54,WC-1982,1982 FIFA World Cup,A-1,Golden Ball,0,P-00907,Rossi,Paolo,T-39,Italy,ITA
-55,WC-1982,1982 FIFA World Cup,A-2,Silver Ball,0,P-07110,Falcão,not applicable,T-09,Brazil,BRA
-56,WC-1982,1982 FIFA World Cup,A-3,Bronze Ball,0,P-05861,Rummenigge,Karl-Heinz,T-83,West Germany,DEU
-57,WC-1982,1982 FIFA World Cup,A-4,Golden Boot,0,P-00907,Rossi,Paolo,T-39,Italy,ITA
-58,WC-1982,1982 FIFA World Cup,A-5,Silver Boot,0,P-05861,Rummenigge,Karl-Heinz,T-83,West Germany,DEU
-59,WC-1982,1982 FIFA World Cup,A-6,Bronze Boot,0,P-06918,Zico,not applicable,T-09,Brazil,BRA
-60,WC-1982,1982 FIFA World Cup,A-8,Best Young Player,0,P-06010,Amoros,Manuel,T-28,France,FRA
-61,WC-1986,1986 FIFA World Cup,A-1,Golden Ball,0,P-05008,Maradona,Diego,T-03,Argentina,ARG
-62,WC-1986,1986 FIFA World Cup,A-2,Silver Ball,0,P-00001,Schumacher,Harald,T-83,West Germany,DEU
-63,WC-1986,1986 FIFA World Cup,A-3,Bronze Ball,0,P-07875,Elkjær,Preben,T-21,Denmark,DNK
-64,WC-1986,1986 FIFA World Cup,A-4,Golden Boot,0,P-00324,Lineker,Gary,T-27,England,ENG
-65,WC-1986,1986 FIFA World Cup,A-5,Silver Boot,1,P-03484,Butragueño,Emilio,T-71,Spain,ESP
-66,WC-1986,1986 FIFA World Cup,A-5,Silver Boot,1,P-01894,Careca,not applicable,T-09,Brazil,BRA
-67,WC-1986,1986 FIFA World Cup,A-5,Silver Boot,1,P-05008,Maradona,Diego,T-03,Argentina,ARG
-68,WC-1986,1986 FIFA World Cup,A-8,Best Young Player,0,P-04956,Scifo,Enzo,T-06,Belgium,BEL
-69,WC-1990,1990 FIFA World Cup,A-1,Golden Ball,0,P-08408,Schillaci,Salvatore,T-39,Italy,ITA
-70,WC-1990,1990 FIFA World Cup,A-2,Silver Ball,0,P-09502,Matthäus,Lothar,T-83,West Germany,DEU
-71,WC-1990,1990 FIFA World Cup,A-3,Bronze Ball,0,P-05008,Maradona,Diego,T-03,Argentina,ARG
-72,WC-1990,1990 FIFA World Cup,A-4,Golden Boot,0,P-08408,Schillaci,Salvatore,T-39,Italy,ITA
-73,WC-1990,1990 FIFA World Cup,A-5,Silver Boot,0,P-08304,Skuhravý,Tomáš,T-20,Czechoslovakia,CSK
-74,WC-1990,1990 FIFA World Cup,A-6,Bronze Boot,1,P-00324,Lineker,Gary,T-27,England,ENG
-75,WC-1990,1990 FIFA World Cup,A-6,Bronze Boot,1,P-09582,Milla,Roger,T-11,Cameroon,CMR
-76,WC-1990,1990 FIFA World Cup,A-8,Best Young Player,0,P-02576,Prosinečki,Robert,T-84,Yugoslavia,YUG
-77,WC-1994,1994 FIFA World Cup,A-1,Golden Ball,0,P-02205,Romário,not applicable,T-09,Brazil,BRA
-78,WC-1994,1994 FIFA World Cup,A-2,Silver Ball,0,P-09710,Baggio,Roberto,T-39,Italy,ITA
-79,WC-1994,1994 FIFA World Cup,A-3,Bronze Ball,0,P-08714,Stoichkov,Hristo,T-10,Bulgaria,BGR
-80,WC-1994,1994 FIFA World Cup,A-4,Golden Boot,1,P-04183,Salenko,Oleg,T-60,Russia,RUS
-81,WC-1994,1994 FIFA World Cup,A-4,Golden Boot,1,P-08714,Stoichkov,Hristo,T-10,Bulgaria,BGR
-82,WC-1994,1994 FIFA World Cup,A-6,Bronze Boot,1,P-08185,Andersson,Kennet,T-72,Sweden,SWE
-83,WC-1994,1994 FIFA World Cup,A-6,Bronze Boot,1,P-02205,Romário,not applicable,T-09,Brazil,BRA
-84,WC-1994,1994 FIFA World Cup,A-7,Golden Glove,0,P-09720,Preud'homme,Michel,T-06,Belgium,BEL
-85,WC-1994,1994 FIFA World Cup,A-8,Best Young Player,0,P-03900,Overmars,Marc,T-46,Netherlands,NLD
-86,WC-1998,1998 FIFA World Cup,A-1,Golden Ball,0,P-08490,Ronaldo,not applicable,T-09,Brazil,BRA
-87,WC-1998,1998 FIFA World Cup,A-2,Silver Ball,0,P-01739,Šuker,Davor,T-17,Croatia,HRV
-88,WC-1998,1998 FIFA World Cup,A-3,Bronze Ball,0,P-08762,Thuram,Lilian,T-28,France,FRA
-89,WC-1998,1998 FIFA World Cup,A-4,Golden Boot,0,P-01739,Šuker,Davor,T-17,Croatia,HRV
-90,WC-1998,1998 FIFA World Cup,A-5,Silver Boot,1,P-05966,Batistuta,Gabriel,T-03,Argentina,ARG
-91,WC-1998,1998 FIFA World Cup,A-5,Silver Boot,1,P-07756,Vieri,Christian,T-39,Italy,ITA
-92,WC-1998,1998 FIFA World Cup,A-7,Golden Glove,0,P-09885,Barthez,Fabien,T-28,France,FRA
-93,WC-1998,1998 FIFA World Cup,A-8,Best Young Player,0,P-09801,Owen,Michael,T-27,England,ENG
-94,WC-2002,2002 FIFA World Cup,A-1,Golden Ball,0,P-06964,Kahn,Oliver,T-29,Germany,DEU
-95,WC-2002,2002 FIFA World Cup,A-2,Silver Ball,0,P-08490,Ronaldo,not applicable,T-09,Brazil,BRA
-96,WC-2002,2002 FIFA World Cup,A-3,Bronze Ball,0,P-04888,Hong,Myung-bo,T-69,South Korea,KOR
-97,WC-2002,2002 FIFA World Cup,A-4,Golden Boot,0,P-08490,Ronaldo,not applicable,T-09,Brazil,BRA
-98,WC-2002,2002 FIFA World Cup,A-5,Silver Boot,1,P-05224,Klose,Miroslav,T-29,Germany,DEU
-99,WC-2002,2002 FIFA World Cup,A-5,Silver Boot,1,P-09998,Rivaldo,not applicable,T-09,Brazil,BRA
-100,WC-2002,2002 FIFA World Cup,A-7,Golden Glove,0,P-06964,Kahn,Oliver,T-29,Germany,DEU
-101,WC-2002,2002 FIFA World Cup,A-8,Best Young Player,0,P-03827,Donovan,Landon,T-80,United States,USA
-102,WC-2006,2006 FIFA World Cup,A-1,Golden Ball,0,P-03294,Zidane,Zinedine,T-28,France,FRA
-103,WC-2006,2006 FIFA World Cup,A-2,Silver Ball,0,P-08335,Cannavaro,Fabio,T-39,Italy,ITA
-104,WC-2006,2006 FIFA World Cup,A-3,Bronze Ball,0,P-07810,Pirlo,Andrea,T-39,Italy,ITA
-105,WC-2006,2006 FIFA World Cup,A-4,Golden Boot,0,P-05224,Klose,Miroslav,T-29,Germany,DEU
-106,WC-2006,2006 FIFA World Cup,A-5,Silver Boot,0,P-04864,Crespo,Hernán,T-03,Argentina,ARG
-107,WC-2006,2006 FIFA World Cup,A-6,Bronze Boot,0,P-08490,Ronaldo,not applicable,T-09,Brazil,BRA
-108,WC-2006,2006 FIFA World Cup,A-7,Golden Glove,0,P-00677,Buffon,Gianluigi,T-39,Italy,ITA
-109,WC-2006,2006 FIFA World Cup,A-8,Best Young Player,0,P-01888,Podolski,Lukas,T-29,Germany,DEU
-110,WC-2010,2010 FIFA World Cup,A-1,Golden Ball,0,P-09223,Forlán,Diego,T-81,Uruguay,URY
-111,WC-2010,2010 FIFA World Cup,A-2,Silver Ball,0,P-00240,Sneijder,Wesley,T-46,Netherlands,NLD
-112,WC-2010,2010 FIFA World Cup,A-3,Bronze Ball,0,P-03504,Villa,David,T-71,Spain,ESP
-113,WC-2010,2010 FIFA World Cup,A-4,Golden Boot,0,P-05090,Müller,Thomas,T-29,Germany,DEU
-114,WC-2010,2010 FIFA World Cup,A-5,Silver Boot,0,P-03504,Villa,David,T-71,Spain,ESP
-115,WC-2010,2010 FIFA World Cup,A-6,Bronze Boot,0,P-00240,Sneijder,Wesley,T-46,Netherlands,NLD
-116,WC-2010,2010 FIFA World Cup,A-7,Golden Glove,0,P-08599,Casillas,Iker,T-71,Spain,ESP
-117,WC-2010,2010 FIFA World Cup,A-8,Best Young Player,0,P-05090,Müller,Thomas,T-29,Germany,DEU
-118,WC-2014,2014 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
-119,WC-2014,2014 FIFA World Cup,A-2,Silver Ball,0,P-05090,Müller,Thomas,T-29,Germany,DEU
-120,WC-2014,2014 FIFA World Cup,A-3,Bronze Ball,0,P-04780,Robben,Arjen,T-46,Netherlands,NLD
-121,WC-2014,2014 FIFA World Cup,A-4,Golden Boot,0,P-03168,Rodríguez,James,T-15,Colombia,COL
-122,WC-2014,2014 FIFA World Cup,A-5,Silver Boot,0,P-05090,Müller,Thomas,T-29,Germany,DEU
-123,WC-2014,2014 FIFA World Cup,A-6,Bronze Boot,0,P-04984,Neymar,not applicable,T-09,Brazil,BRA
-124,WC-2014,2014 FIFA World Cup,A-7,Golden Glove,0,P-09934,Neuer,Manuel,T-29,Germany,DEU
-125,WC-2014,2014 FIFA World Cup,A-8,Best Young Player,0,P-06623,Pogba,Paul,T-28,France,FRA
-126,WC-2018,2018 FIFA World Cup,A-1,Golden Ball,0,P-02212,Modrić,Luka,T-17,Croatia,HRV
-127,WC-2018,2018 FIFA World Cup,A-2,Silver Ball,0,P-03308,Hazard,Eden,T-06,Belgium,BEL
-128,WC-2018,2018 FIFA World Cup,A-3,Bronze Ball,0,P-07450,Griezmann,Antoine,T-28,France,FRA
-129,WC-2018,2018 FIFA World Cup,A-4,Golden Boot,0,P-00376,Kane,Harry,T-27,England,ENG
-130,WC-2018,2018 FIFA World Cup,A-5,Silver Boot,0,P-07450,Griezmann,Antoine,T-28,France,FRA
-131,WC-2018,2018 FIFA World Cup,A-6,Bronze Boot,0,P-04538,Lukaku,Romelu,T-06,Belgium,BEL
-132,WC-2018,2018 FIFA World Cup,A-7,Golden Glove,0,P-08801,Courtois,Thibaut,T-06,Belgium,BEL
-133,WC-2018,2018 FIFA World Cup,A-8,Best Young Player,0,P-06978,Mbappé,Kylian,T-28,France,FRA
-134,WC-2022,2022 FIFA World Cup,A-1,Golden Ball,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
-135,WC-2022,2022 FIFA World Cup,A-2,Silver Ball,0,P-06978,Mbappé,Kylian,T-28,France,FRA
-136,WC-2022,2022 FIFA World Cup,A-3,Bronze Ball,0,P-02212,Modrić,Luka,T-17,Croatia,HRV
-137,WC-2022,2022 FIFA World Cup,A-4,Golden Boot,0,P-06978,Mbappé,Kylian,T-28,France,FRA
-138,WC-2022,2022 FIFA World Cup,A-5,Silver Boot,0,P-03429,Messi,Lionel,T-03,Argentina,ARG
-139,WC-2022,2022 FIFA World Cup,A-6,Bronze Boot,0,P-07287,Giroud,Olivier,T-28,France,FRA
-140,WC-2022,2022 FIFA World Cup,A-7,Golden Glove,0,P-09487,Martínez,Emiliano,T-03,Argentina,ARG
-141,WC-2022,2022 FIFA World Cup,A-8,Best Young Player,0,P-07584,Fernández,Enzo,T-03,Argentina,ARG
+1,WC-1930,1930 FIFA Men's World Cup,A-4,Golden Boot,0,P-56486,Stábile,Guillermo,T-03,Argentina,ARG
+2,WC-1930,1930 FIFA Men's World Cup,A-5,Silver Boot,0,P-18628,Cea,Pedro,T-84,Uruguay,URY
+3,WC-1930,1930 FIFA Men's World Cup,A-6,Bronze Boot,0,P-71973,Patenaude,Bert,T-83,United States,USA
+4,WC-1934,1934 FIFA Men's World Cup,A-4,Golden Boot,0,P-60513,Nejedlý,Oldřich,T-21,Czechoslovakia,CSK
+5,WC-1934,1934 FIFA Men's World Cup,A-5,Silver Boot,1,P-77348,Conen,Edmund,T-31,Germany,DEU
+6,WC-1934,1934 FIFA Men's World Cup,A-5,Silver Boot,1,P-56703,Schiavio,Angelo,T-41,Italy,ITA
+7,WC-1938,1938 FIFA Men's World Cup,A-4,Golden Boot,0,P-09730,Leônidas,not applicable,T-09,Brazil,BRA
+8,WC-1938,1938 FIFA Men's World Cup,A-5,Silver Boot,1,P-65885,Piola,Silvio,T-41,Italy,ITA
+9,WC-1938,1938 FIFA Men's World Cup,A-5,Silver Boot,1,P-89034,Sárosi,György,T-36,Hungary,HUN
+10,WC-1938,1938 FIFA Men's World Cup,A-5,Silver Boot,1,P-67652,Zsengellér,Gyula,T-36,Hungary,HUN
+11,WC-1950,1950 FIFA Men's World Cup,A-4,Golden Boot,0,P-49381,Ademir,not applicable,T-09,Brazil,BRA
+12,WC-1950,1950 FIFA Men's World Cup,A-5,Silver Boot,0,P-18523,Míguez,Oscar,T-84,Uruguay,URY
+13,WC-1950,1950 FIFA Men's World Cup,A-6,Bronze Boot,1,P-26928,Basora,Estanislau,T-73,Spain,ESP
+14,WC-1950,1950 FIFA Men's World Cup,A-6,Bronze Boot,1,P-22428,Chico,not applicable,T-09,Brazil,BRA
+15,WC-1950,1950 FIFA Men's World Cup,A-6,Bronze Boot,1,P-16302,Ghiggia,Alcides,T-84,Uruguay,URY
+16,WC-1950,1950 FIFA Men's World Cup,A-6,Bronze Boot,1,P-65220,Zarra,Telmo,T-73,Spain,ESP
+17,WC-1954,1954 FIFA Men's World Cup,A-4,Golden Boot,0,P-07028,Kocsis,Sándor,T-36,Hungary,HUN
+18,WC-1954,1954 FIFA Men's World Cup,A-5,Silver Boot,1,P-14406,Hügi,Josef,T-75,Switzerland,CHE
+19,WC-1954,1954 FIFA Men's World Cup,A-5,Silver Boot,1,P-05766,Morlock,Max,T-86,West Germany,DEU
+20,WC-1954,1954 FIFA Men's World Cup,A-5,Silver Boot,1,P-85257,Probst,Erich,T-05,Austria,AUT
+21,WC-1958,1958 FIFA Men's World Cup,A-4,Golden Boot,0,P-77939,Fontaine,Just,T-30,France,FRA
+22,WC-1958,1958 FIFA Men's World Cup,A-5,Silver Boot,1,P-38906,Pelé,not applicable,T-09,Brazil,BRA
+23,WC-1958,1958 FIFA Men's World Cup,A-5,Silver Boot,1,P-08136,Rahn,Helmut,T-86,West Germany,DEU
+24,WC-1958,1958 FIFA Men's World Cup,A-8,Best Young Player,0,P-38906,Pelé,not applicable,T-09,Brazil,BRA
+25,WC-1962,1962 FIFA Men's World Cup,A-4,Golden Boot,1,P-21188,Albert,Flórián,T-36,Hungary,HUN
+26,WC-1962,1962 FIFA Men's World Cup,A-4,Golden Boot,1,P-46080,Garrincha,not applicable,T-09,Brazil,BRA
+27,WC-1962,1962 FIFA Men's World Cup,A-4,Golden Boot,1,P-11702,Ivanov,Valentin,T-72,Soviet Union,SUN
+28,WC-1962,1962 FIFA Men's World Cup,A-4,Golden Boot,1,P-55024,Jerković,Dražan,T-87,Yugoslavia,YUG
+29,WC-1962,1962 FIFA Men's World Cup,A-4,Golden Boot,1,P-22224,Sánchez,Leonel,T-13,Chile,CHL
+30,WC-1962,1962 FIFA Men's World Cup,A-4,Golden Boot,1,P-45310,Vavá,not applicable,T-09,Brazil,BRA
+31,WC-1962,1962 FIFA Men's World Cup,A-8,Best Young Player,0,P-21188,Albert,Flórián,T-36,Hungary,HUN
+32,WC-1966,1966 FIFA Men's World Cup,A-4,Golden Boot,0,P-74747,Eusébio,not applicable,T-58,Portugal,PRT
+33,WC-1966,1966 FIFA Men's World Cup,A-5,Silver Boot,0,P-12272,Haller,Helmut,T-86,West Germany,DEU
+34,WC-1966,1966 FIFA Men's World Cup,A-6,Bronze Boot,1,P-72864,Beckenbauer,Franz,T-86,West Germany,DEU
+35,WC-1966,1966 FIFA Men's World Cup,A-6,Bronze Boot,1,P-82516,Bene,Ferenc,T-36,Hungary,HUN
+36,WC-1966,1966 FIFA Men's World Cup,A-6,Bronze Boot,1,P-34802,Hurst,Geoff,T-28,England,ENG
+37,WC-1966,1966 FIFA Men's World Cup,A-6,Bronze Boot,1,P-53800,Porkujan,Valeriy,T-72,Soviet Union,SUN
+38,WC-1966,1966 FIFA Men's World Cup,A-8,Best Young Player,0,P-72864,Beckenbauer,Franz,T-86,West Germany,DEU
+39,WC-1970,1970 FIFA Men's World Cup,A-4,Golden Boot,0,P-72441,Müller,Gerd,T-86,West Germany,DEU
+40,WC-1970,1970 FIFA Men's World Cup,A-5,Silver Boot,0,P-77430,Jairzinho,not applicable,T-09,Brazil,BRA
+41,WC-1970,1970 FIFA Men's World Cup,A-6,Bronze Boot,0,P-96979,Cubillas,Teófilo,T-56,Peru,PER
+42,WC-1970,1970 FIFA Men's World Cup,A-8,Best Young Player,0,P-96979,Cubillas,Teófilo,T-56,Peru,PER
+43,WC-1974,1974 FIFA Men's World Cup,A-4,Golden Boot,0,P-21597,Lato,Grzegorz,T-57,Poland,POL
+44,WC-1974,1974 FIFA Men's World Cup,A-5,Silver Boot,1,P-16991,Neeskens,Johan,T-48,Netherlands,NLD
+45,WC-1974,1974 FIFA Men's World Cup,A-5,Silver Boot,1,P-92867,Szarmach,Andrzej,T-57,Poland,POL
+46,WC-1974,1974 FIFA Men's World Cup,A-8,Best Young Player,0,P-48883,Żmuda,Władysław,T-57,Poland,POL
+47,WC-1978,1978 FIFA Men's World Cup,A-1,Golden Ball,0,P-35082,Kempes,Mario,T-03,Argentina,ARG
+48,WC-1978,1978 FIFA Men's World Cup,A-2,Silver Ball,0,P-91717,Rossi,Paolo,T-41,Italy,ITA
+49,WC-1978,1978 FIFA Men's World Cup,A-3,Bronze Ball,0,P-89519,Dirceu,not applicable,T-09,Brazil,BRA
+50,WC-1978,1978 FIFA Men's World Cup,A-4,Golden Boot,0,P-35082,Kempes,Mario,T-03,Argentina,ARG
+51,WC-1978,1978 FIFA Men's World Cup,A-5,Silver Boot,0,P-96979,Cubillas,Teófilo,T-56,Peru,PER
+52,WC-1978,1978 FIFA Men's World Cup,A-6,Bronze Boot,0,P-63266,Rensenbrink,Rob,T-48,Netherlands,NLD
+53,WC-1978,1978 FIFA Men's World Cup,A-8,Best Young Player,0,P-03775,Cabrini,Antonio,T-41,Italy,ITA
+54,WC-1982,1982 FIFA Men's World Cup,A-1,Golden Ball,0,P-91717,Rossi,Paolo,T-41,Italy,ITA
+55,WC-1982,1982 FIFA Men's World Cup,A-2,Silver Ball,0,P-35736,Falcão,not applicable,T-09,Brazil,BRA
+56,WC-1982,1982 FIFA Men's World Cup,A-3,Bronze Ball,0,P-59574,Rummenigge,Karl-Heinz,T-86,West Germany,DEU
+57,WC-1982,1982 FIFA Men's World Cup,A-4,Golden Boot,0,P-91717,Rossi,Paolo,T-41,Italy,ITA
+58,WC-1982,1982 FIFA Men's World Cup,A-5,Silver Boot,0,P-59574,Rummenigge,Karl-Heinz,T-86,West Germany,DEU
+59,WC-1982,1982 FIFA Men's World Cup,A-6,Bronze Boot,0,P-37483,Zico,not applicable,T-09,Brazil,BRA
+60,WC-1982,1982 FIFA Men's World Cup,A-8,Best Young Player,0,P-69834,Amoros,Manuel,T-30,France,FRA
+61,WC-1986,1986 FIFA Men's World Cup,A-1,Golden Ball,0,P-80404,Maradona,Diego,T-03,Argentina,ARG
+62,WC-1986,1986 FIFA Men's World Cup,A-2,Silver Ball,0,P-07171,Schumacher,Harald,T-86,West Germany,DEU
+63,WC-1986,1986 FIFA Men's World Cup,A-3,Bronze Ball,0,P-36502,Elkjær,Preben,T-22,Denmark,DNK
+64,WC-1986,1986 FIFA Men's World Cup,A-4,Golden Boot,0,P-36651,Lineker,Gary,T-28,England,ENG
+65,WC-1986,1986 FIFA Men's World Cup,A-5,Silver Boot,1,P-12940,Butragueño,Emilio,T-73,Spain,ESP
+66,WC-1986,1986 FIFA Men's World Cup,A-5,Silver Boot,1,P-90635,Careca,not applicable,T-09,Brazil,BRA
+67,WC-1986,1986 FIFA Men's World Cup,A-5,Silver Boot,1,P-80404,Maradona,Diego,T-03,Argentina,ARG
+68,WC-1986,1986 FIFA Men's World Cup,A-8,Best Young Player,0,P-97414,Scifo,Enzo,T-06,Belgium,BEL
+69,WC-1990,1990 FIFA Men's World Cup,A-1,Golden Ball,0,P-76544,Schillaci,Salvatore,T-41,Italy,ITA
+70,WC-1990,1990 FIFA Men's World Cup,A-2,Silver Ball,0,P-49502,Matthäus,Lothar,T-86,West Germany,DEU
+71,WC-1990,1990 FIFA Men's World Cup,A-3,Bronze Ball,0,P-80404,Maradona,Diego,T-03,Argentina,ARG
+72,WC-1990,1990 FIFA Men's World Cup,A-4,Golden Boot,0,P-76544,Schillaci,Salvatore,T-41,Italy,ITA
+73,WC-1990,1990 FIFA Men's World Cup,A-5,Silver Boot,0,P-71260,Skuhravý,Tomáš,T-21,Czechoslovakia,CSK
+74,WC-1990,1990 FIFA Men's World Cup,A-6,Bronze Boot,1,P-36651,Lineker,Gary,T-28,England,ENG
+75,WC-1990,1990 FIFA Men's World Cup,A-6,Bronze Boot,1,P-58080,Milla,Roger,T-11,Cameroon,CMR
+76,WC-1990,1990 FIFA Men's World Cup,A-8,Best Young Player,0,P-62861,Prosinečki,Robert,T-87,Yugoslavia,YUG
+77,WC-1991,1991 FIFA Women's World Cup,A-1,Golden Ball,0,P-99328,Jennings-Gabarra,Carin,T-83,United States,USA
+78,WC-1991,1991 FIFA Women's World Cup,A-2,Silver Ball,0,P-54794,Akers,Michelle,T-83,United States,USA
+79,WC-1991,1991 FIFA Women's World Cup,A-3,Bronze Ball,0,P-58688,Medalen,Linda,T-53,Norway,NOR
+80,WC-1991,1991 FIFA Women's World Cup,A-4,Golden Boot,0,P-54794,Akers,Michelle,T-83,United States,USA
+81,WC-1991,1991 FIFA Women's World Cup,A-5,Silver Boot,0,P-30335,Mohr,Heidi,T-31,Germany,DEU
+82,WC-1991,1991 FIFA Women's World Cup,A-6,Bronze Boot,1,P-99328,Jennings-Gabarra,Carin,T-83,United States,USA
+83,WC-1991,1991 FIFA Women's World Cup,A-6,Bronze Boot,1,P-58688,Medalen,Linda,T-53,Norway,NOR
+84,WC-1994,1994 FIFA Men's World Cup,A-1,Golden Ball,0,P-61251,Romário,not applicable,T-09,Brazil,BRA
+85,WC-1994,1994 FIFA Men's World Cup,A-2,Silver Ball,0,P-78756,Baggio,Roberto,T-41,Italy,ITA
+86,WC-1994,1994 FIFA Men's World Cup,A-3,Bronze Ball,0,P-81648,Stoichkov,Hristo,T-10,Bulgaria,BGR
+87,WC-1994,1994 FIFA Men's World Cup,A-4,Golden Boot,1,P-73354,Salenko,Oleg,T-62,Russia,RUS
+88,WC-1994,1994 FIFA Men's World Cup,A-4,Golden Boot,1,P-81648,Stoichkov,Hristo,T-10,Bulgaria,BGR
+89,WC-1994,1994 FIFA Men's World Cup,A-6,Bronze Boot,1,P-60371,Andersson,Kennet,T-74,Sweden,SWE
+90,WC-1994,1994 FIFA Men's World Cup,A-6,Bronze Boot,1,P-61251,Romário,not applicable,T-09,Brazil,BRA
+91,WC-1994,1994 FIFA Men's World Cup,A-7,Golden Glove,0,P-00531,Preud'homme,Michel,T-06,Belgium,BEL
+92,WC-1994,1994 FIFA Men's World Cup,A-8,Best Young Player,0,P-33834,Overmars,Marc,T-48,Netherlands,NLD
+93,WC-1995,1995 FIFA Women's World Cup,A-1,Golden Ball,0,P-84389,Riise,Hege,T-53,Norway,NOR
+94,WC-1995,1995 FIFA Women's World Cup,A-2,Silver Ball,0,P-67204,Espeseth,Gro,T-53,Norway,NOR
+95,WC-1995,1995 FIFA Women's World Cup,A-3,Bronze Ball,0,P-29915,Aarønes,Ann Kristin,T-53,Norway,NOR
+96,WC-1995,1995 FIFA Women's World Cup,A-4,Golden Boot,0,P-29915,Aarønes,Ann Kristin,T-53,Norway,NOR
+97,WC-1995,1995 FIFA Women's World Cup,A-5,Silver Boot,0,P-84389,Riise,Hege,T-53,Norway,NOR
+98,WC-1995,1995 FIFA Women's World Cup,A-6,Bronze Boot,0,P-35093,Shi,Guihong,T-14,China,CHN
+99,WC-1998,1998 FIFA Men's World Cup,A-1,Golden Ball,0,P-62722,Ronaldo,not applicable,T-09,Brazil,BRA
+100,WC-1998,1998 FIFA Men's World Cup,A-2,Silver Ball,0,P-58374,Šuker,Davor,T-18,Croatia,HRV
+101,WC-1998,1998 FIFA Men's World Cup,A-3,Bronze Ball,0,P-56947,Thuram,Lilian,T-30,France,FRA
+102,WC-1998,1998 FIFA Men's World Cup,A-4,Golden Boot,0,P-58374,Šuker,Davor,T-18,Croatia,HRV
+103,WC-1998,1998 FIFA Men's World Cup,A-5,Silver Boot,1,P-84542,Batistuta,Gabriel,T-03,Argentina,ARG
+104,WC-1998,1998 FIFA Men's World Cup,A-5,Silver Boot,1,P-34670,Vieri,Christian,T-41,Italy,ITA
+105,WC-1998,1998 FIFA Men's World Cup,A-7,Golden Glove,0,P-55991,Barthez,Fabien,T-30,France,FRA
+106,WC-1998,1998 FIFA Men's World Cup,A-8,Best Young Player,0,P-51130,Owen,Michael,T-28,England,ENG
+107,WC-1999,1999 FIFA Women's World Cup,A-1,Golden Ball,0,P-14903,Sun,Wen,T-14,China,CHN
+108,WC-1999,1999 FIFA Women's World Cup,A-2,Silver Ball,0,P-57452,Sissi,not applicable,T-09,Brazil,BRA
+109,WC-1999,1999 FIFA Women's World Cup,A-3,Bronze Ball,0,P-54794,Akers,Michelle,T-83,United States,USA
+110,WC-1999,1999 FIFA Women's World Cup,A-4,Golden Boot,1,P-57452,Sissi,not applicable,T-09,Brazil,BRA
+111,WC-1999,1999 FIFA Women's World Cup,A-4,Golden Boot,1,P-14903,Sun,Wen,T-14,China,CHN
+112,WC-1999,1999 FIFA Women's World Cup,A-6,Bronze Boot,0,P-29915,Aarønes,Ann Kristin,T-53,Norway,NOR
+113,WC-1999,1999 FIFA Women's World Cup,A-7,Golden Glove,1,P-75180,Gao,Hong,T-14,China,CHN
+114,WC-1999,1999 FIFA Women's World Cup,A-7,Golden Glove,1,P-17759,Scurry,Briana,T-83,United States,USA
+115,WC-2002,2002 FIFA Men's World Cup,A-1,Golden Ball,0,P-33751,Kahn,Oliver,T-31,Germany,DEU
+116,WC-2002,2002 FIFA Men's World Cup,A-2,Silver Ball,0,P-62722,Ronaldo,not applicable,T-09,Brazil,BRA
+117,WC-2002,2002 FIFA Men's World Cup,A-3,Bronze Ball,0,P-55097,Hong,Myung-bo,T-71,South Korea,KOR
+118,WC-2002,2002 FIFA Men's World Cup,A-4,Golden Boot,0,P-62722,Ronaldo,not applicable,T-09,Brazil,BRA
+119,WC-2002,2002 FIFA Men's World Cup,A-5,Silver Boot,1,P-27787,Klose,Miroslav,T-31,Germany,DEU
+120,WC-2002,2002 FIFA Men's World Cup,A-5,Silver Boot,1,P-74261,Rivaldo,not applicable,T-09,Brazil,BRA
+121,WC-2002,2002 FIFA Men's World Cup,A-7,Golden Glove,0,P-33751,Kahn,Oliver,T-31,Germany,DEU
+122,WC-2002,2002 FIFA Men's World Cup,A-8,Best Young Player,0,P-05728,Donovan,Landon,T-83,United States,USA
+123,WC-2003,2003 FIFA Women's World Cup,A-1,Golden Ball,0,P-52478,Prinz,Birgit,T-31,Germany,DEU
+124,WC-2003,2003 FIFA Women's World Cup,A-2,Silver Ball,0,P-36470,Svensson,Victoria,T-74,Sweden,SWE
+125,WC-2003,2003 FIFA Women's World Cup,A-3,Bronze Ball,0,P-50598,Meinert,Maren,T-31,Germany,DEU
+126,WC-2003,2003 FIFA Women's World Cup,A-4,Golden Boot,0,P-52478,Prinz,Birgit,T-31,Germany,DEU
+127,WC-2003,2003 FIFA Women's World Cup,A-5,Silver Boot,0,P-50598,Meinert,Maren,T-31,Germany,DEU
+128,WC-2003,2003 FIFA Women's World Cup,A-6,Bronze Boot,0,P-90420,Kátia,not applicable,T-09,Brazil,BRA
+129,WC-2003,2003 FIFA Women's World Cup,A-7,Golden Glove,0,P-36668,Rottenberg,Silke,T-31,Germany,DEU
+130,WC-2006,2006 FIFA Men's World Cup,A-1,Golden Ball,0,P-56430,Zidane,Zinedine,T-30,France,FRA
+131,WC-2006,2006 FIFA Men's World Cup,A-2,Silver Ball,0,P-88863,Cannavaro,Fabio,T-41,Italy,ITA
+132,WC-2006,2006 FIFA Men's World Cup,A-3,Bronze Ball,0,P-99537,Pirlo,Andrea,T-41,Italy,ITA
+133,WC-2006,2006 FIFA Men's World Cup,A-4,Golden Boot,0,P-27787,Klose,Miroslav,T-31,Germany,DEU
+134,WC-2006,2006 FIFA Men's World Cup,A-5,Silver Boot,0,P-19888,Crespo,Hernán,T-03,Argentina,ARG
+135,WC-2006,2006 FIFA Men's World Cup,A-6,Bronze Boot,0,P-62722,Ronaldo,not applicable,T-09,Brazil,BRA
+136,WC-2006,2006 FIFA Men's World Cup,A-7,Golden Glove,0,P-11392,Buffon,Gianluigi,T-41,Italy,ITA
+137,WC-2006,2006 FIFA Men's World Cup,A-8,Best Young Player,0,P-36287,Podolski,Lukas,T-31,Germany,DEU
+138,WC-2007,2007 FIFA Women's World Cup,A-1,Golden Ball,0,P-07458,Marta,not applicable,T-09,Brazil,BRA
+139,WC-2007,2007 FIFA Women's World Cup,A-2,Silver Ball,0,P-52478,Prinz,Birgit,T-31,Germany,DEU
+140,WC-2007,2007 FIFA Women's World Cup,A-3,Bronze Ball,0,P-93057,Cristiane,not applicable,T-09,Brazil,BRA
+141,WC-2007,2007 FIFA Women's World Cup,A-4,Golden Boot,0,P-07458,Marta,not applicable,T-09,Brazil,BRA
+142,WC-2007,2007 FIFA Women's World Cup,A-5,Silver Boot,0,P-89236,Wambach,Abby,T-83,United States,USA
+143,WC-2007,2007 FIFA Women's World Cup,A-6,Bronze Boot,0,P-74483,Gulbrandsen,Ragnhild,T-53,Norway,NOR
+144,WC-2007,2007 FIFA Women's World Cup,A-7,Golden Glove,0,P-54576,Angerer,Nadine,T-31,Germany,DEU
+145,WC-2010,2010 FIFA Men's World Cup,A-1,Golden Ball,0,P-86087,Forlán,Diego,T-84,Uruguay,URY
+146,WC-2010,2010 FIFA Men's World Cup,A-2,Silver Ball,0,P-51336,Sneijder,Wesley,T-48,Netherlands,NLD
+147,WC-2010,2010 FIFA Men's World Cup,A-3,Bronze Ball,0,P-49097,Villa,David,T-73,Spain,ESP
+148,WC-2010,2010 FIFA Men's World Cup,A-4,Golden Boot,0,P-28154,Müller,Thomas,T-31,Germany,DEU
+149,WC-2010,2010 FIFA Men's World Cup,A-5,Silver Boot,0,P-49097,Villa,David,T-73,Spain,ESP
+150,WC-2010,2010 FIFA Men's World Cup,A-6,Bronze Boot,0,P-51336,Sneijder,Wesley,T-48,Netherlands,NLD
+151,WC-2010,2010 FIFA Men's World Cup,A-7,Golden Glove,0,P-61793,Casillas,Iker,T-73,Spain,ESP
+152,WC-2010,2010 FIFA Men's World Cup,A-8,Best Young Player,0,P-28154,Müller,Thomas,T-31,Germany,DEU
+153,WC-2011,2011 FIFA Women's World Cup,A-1,Golden Ball,0,P-72113,Sawa,Homare,T-44,Japan,JPN
+154,WC-2011,2011 FIFA Women's World Cup,A-2,Silver Ball,0,P-89236,Wambach,Abby,T-83,United States,USA
+155,WC-2011,2011 FIFA Women's World Cup,A-3,Bronze Ball,0,P-80833,Solo,Hope,T-83,United States,USA
+156,WC-2011,2011 FIFA Women's World Cup,A-4,Golden Boot,0,P-72113,Sawa,Homare,T-44,Japan,JPN
+157,WC-2011,2011 FIFA Women's World Cup,A-5,Silver Boot,0,P-07458,Marta,not applicable,T-09,Brazil,BRA
+158,WC-2011,2011 FIFA Women's World Cup,A-6,Bronze Boot,0,P-89236,Wambach,Abby,T-83,United States,USA
+159,WC-2011,2011 FIFA Women's World Cup,A-7,Golden Glove,0,P-80833,Solo,Hope,T-83,United States,USA
+160,WC-2011,2011 FIFA Women's World Cup,A-8,Best Young Player,0,P-87785,Foord,Caitlin,T-04,Australia,AUS
+161,WC-2014,2014 FIFA Men's World Cup,A-1,Golden Ball,0,P-14758,Messi,Lionel,T-03,Argentina,ARG
+162,WC-2014,2014 FIFA Men's World Cup,A-2,Silver Ball,0,P-28154,Müller,Thomas,T-31,Germany,DEU
+163,WC-2014,2014 FIFA Men's World Cup,A-3,Bronze Ball,0,P-23705,Robben,Arjen,T-48,Netherlands,NLD
+164,WC-2014,2014 FIFA Men's World Cup,A-4,Golden Boot,0,P-89392,Rodríguez,James,T-16,Colombia,COL
+165,WC-2014,2014 FIFA Men's World Cup,A-5,Silver Boot,0,P-28154,Müller,Thomas,T-31,Germany,DEU
+166,WC-2014,2014 FIFA Men's World Cup,A-6,Bronze Boot,0,P-87008,Neymar,not applicable,T-09,Brazil,BRA
+167,WC-2014,2014 FIFA Men's World Cup,A-7,Golden Glove,0,P-19408,Neuer,Manuel,T-31,Germany,DEU
+168,WC-2014,2014 FIFA Men's World Cup,A-8,Best Young Player,0,P-17509,Pogba,Paul,T-30,France,FRA
+169,WC-2015,2015 FIFA Women's World Cup,A-1,Golden Ball,0,P-62104,Lloyd,Carli,T-83,United States,USA
+170,WC-2015,2015 FIFA Women's World Cup,A-2,Silver Ball,0,P-64050,Henry,Amandine,T-30,France,FRA
+171,WC-2015,2015 FIFA Women's World Cup,A-3,Bronze Ball,0,P-04310,Miyama,Aya,T-44,Japan,JPN
+172,WC-2015,2015 FIFA Women's World Cup,A-4,Golden Boot,0,P-66612,Šašić,Célia,T-31,Germany,DEU
+173,WC-2015,2015 FIFA Women's World Cup,A-5,Silver Boot,0,P-62104,Lloyd,Carli,T-83,United States,USA
+174,WC-2015,2015 FIFA Women's World Cup,A-6,Bronze Boot,0,P-30564,Mittag,Anja,T-31,Germany,DEU
+175,WC-2015,2015 FIFA Women's World Cup,A-7,Golden Glove,0,P-80833,Solo,Hope,T-83,United States,USA
+176,WC-2015,2015 FIFA Women's World Cup,A-8,Best Young Player,0,P-60142,Buchanan,Kadeisha,T-12,Canada,CAN
+177,WC-2018,2018 FIFA Men's World Cup,A-1,Golden Ball,0,P-29491,Modrić,Luka,T-18,Croatia,HRV
+178,WC-2018,2018 FIFA Men's World Cup,A-2,Silver Ball,0,P-72011,Hazard,Eden,T-06,Belgium,BEL
+179,WC-2018,2018 FIFA Men's World Cup,A-3,Bronze Ball,0,P-90908,Griezmann,Antoine,T-30,France,FRA
+180,WC-2018,2018 FIFA Men's World Cup,A-4,Golden Boot,0,P-58924,Kane,Harry,T-28,England,ENG
+181,WC-2018,2018 FIFA Men's World Cup,A-5,Silver Boot,0,P-90908,Griezmann,Antoine,T-30,France,FRA
+182,WC-2018,2018 FIFA Men's World Cup,A-6,Bronze Boot,0,P-72637,Lukaku,Romelu,T-06,Belgium,BEL
+183,WC-2018,2018 FIFA Men's World Cup,A-7,Golden Glove,0,P-09658,Courtois,Thibaut,T-06,Belgium,BEL
+184,WC-2018,2018 FIFA Men's World Cup,A-8,Best Young Player,0,P-64077,Mbappé,Kylian,T-30,France,FRA
+185,WC-2019,2019 FIFA Women's World Cup,A-1,Golden Ball,0,P-09273,Rapinoe,Megan,T-83,United States,USA
+186,WC-2019,2019 FIFA Women's World Cup,A-2,Silver Ball,0,P-23779,Bronze,Lucy,T-28,England,ENG
+187,WC-2019,2019 FIFA Women's World Cup,A-3,Bronze Ball,0,P-65982,Lavelle,Rose,T-83,United States,USA
+188,WC-2019,2019 FIFA Women's World Cup,A-4,Golden Boot,0,P-09273,Rapinoe,Megan,T-83,United States,USA
+189,WC-2019,2019 FIFA Women's World Cup,A-5,Silver Boot,0,P-37034,Morgan,Alex,T-83,United States,USA
+190,WC-2019,2019 FIFA Women's World Cup,A-6,Bronze Boot,0,P-84864,White,Ellen,T-28,England,ENG
+191,WC-2019,2019 FIFA Women's World Cup,A-7,Golden Glove,0,P-47320,van Veenendaal,Sari,T-48,Netherlands,NLD
+192,WC-2019,2019 FIFA Women's World Cup,A-8,Best Young Player,0,P-91637,Gwinn,Giulia,T-31,Germany,DEU
+193,WC-2022,2022 FIFA Men's World Cup,A-1,Golden Ball,0,P-14758,Messi,Lionel,T-03,Argentina,ARG
+194,WC-2022,2022 FIFA Men's World Cup,A-2,Silver Ball,0,P-64077,Mbappé,Kylian,T-30,France,FRA
+195,WC-2022,2022 FIFA Men's World Cup,A-3,Bronze Ball,0,P-29491,Modrić,Luka,T-18,Croatia,HRV
+196,WC-2022,2022 FIFA Men's World Cup,A-4,Golden Boot,0,P-64077,Mbappé,Kylian,T-30,France,FRA
+197,WC-2022,2022 FIFA Men's World Cup,A-5,Silver Boot,0,P-14758,Messi,Lionel,T-03,Argentina,ARG
+198,WC-2022,2022 FIFA Men's World Cup,A-6,Bronze Boot,0,P-89750,Giroud,Olivier,T-30,France,FRA
+199,WC-2022,2022 FIFA Men's World Cup,A-7,Golden Glove,0,P-13162,Martínez,Emiliano,T-03,Argentina,ARG
+200,WC-2022,2022 FIFA Men's World Cup,A-8,Best Young Player,0,P-10739,Fernández,Enzo,T-03,Argentina,ARG
