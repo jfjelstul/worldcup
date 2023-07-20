@@ -37,7 +37,11 @@ code_match_period <- function(x) {
 ## Confederations --------------------------------------------------------------
 
 # Load data
-confederations <- read_csv("data-raw/hand-coded-tables/confederations.csv")
+confederations <- read_csv(
+  "data-raw/hand-coded-tables/confederations.csv",
+  show_col_types = FALSE,
+  progress = FALSE
+)
 
 # Organize variables
 confederations <- confederations |>
@@ -55,7 +59,11 @@ confederations <- confederations |>
 ## Teams -----------------------------------------------------------------------
 
 # Load data
-teams <- read_csv("data-raw/hand-coded-tables/teams.csv")
+teams <- read_csv(
+  "data-raw/hand-coded-tables/teams.csv",
+  show_col_types = FALSE,
+  progress = FALSE
+)
 
 # Team ID
 teams <- teams |>
@@ -84,21 +92,26 @@ teams <- teams |>
     key_id = 1:n()
   ) |>
   select(
-    key_id, team_id, team_name, team_code, federation_name, region_name,
+    key_id, team_id, team_name, team_code, mens_team, womens_team,
+    federation_name, region_name,
     confederation_id, confederation_name, confederation_code,
-    team_wikipedia_link, federation_wikipedia_link
+    mens_team_wikipedia_link, womens_team_wikipedia_link, federation_wikipedia_link
   )
 
 ## Tournaments -----------------------------------------------------------------
 
 # Load data
-tournaments <- read_csv("data-raw/hand-coded-tables/tournaments.csv")
+tournaments <- read_csv(
+  "data-raw/hand-coded-tables/tournaments.csv",
+  show_col_types = FALSE,
+  progress = FALSE
+)
 
 # Create variables
 tournaments <- tournaments |>
   mutate(
-    tournament_id = str_c("WC-", year),
-    tournament_name = str_c(year, " FIFA World Cup")
+    tournament_id = str_c("WC", year, sep = "-"),
+    tournament_name = str_c(year, tournament, sep = " ")
   )
 
 # Organize variables
@@ -121,7 +134,11 @@ tournaments <- tournaments |>
 ## Group standings -------------------------------------------------------------
 
 # Load data
-group_standings <- read_csv("data-raw/hand-coded-tables/group_standings.csv")
+group_standings <- read_csv(
+  "data-raw/hand-coded-tables/group_standings.csv",
+  show_col_types = FALSE,
+  progress = FALSE
+)
 
 # Code tournament ID
 group_standings <- group_standings |>
@@ -169,7 +186,8 @@ group_standings <- group_standings |>
 groups <- group_standings |>
   group_by(tournament_id, tournament_name, stage_number, stage_name, group_name) |>
   summarize(
-    count_teams = n()
+    count_teams = n(),
+    .groups = "drop"
   ) |>
   ungroup()
 
@@ -189,7 +207,11 @@ groups <- groups |>
 ## Tournament standings --------------------------------------------------------
 
 # Load data
-tournament_standings <- read_csv("data-raw/hand-coded-tables/tournament_standings.csv")
+tournament_standings <- read_csv(
+  "data-raw/hand-coded-tables/tournament_standings.csv",
+  show_col_types = FALSE,
+  progress = FALSE
+)
 
 # Code tournament ID
 tournament_standings <- tournament_standings |>
@@ -229,7 +251,11 @@ tournament_standings <- tournament_standings |>
 ## Host countries --------------------------------------------------------------
 
 # Load data
-host_countries <- read_csv("data-raw/hand-coded-tables/host_countries.csv")
+host_countries <- read_csv(
+  "data-raw/hand-coded-tables/host_countries.csv",
+  show_col_types = FALSE,
+  progress = FALSE
+)
 
 # Code tournament ID
 host_countries <- host_countries |>
@@ -270,7 +296,11 @@ host_countries <- host_countries |>
 ## Tournament stages -----------------------------------------------------------
 
 # Load data
-tournament_stages <- read_csv("data-raw/hand-coded-tables/tournament_stages.csv")
+tournament_stages <- read_csv(
+  "data-raw/hand-coded-tables/tournament_stages.csv",
+  show_col_types = FALSE,
+  progress = FALSE
+)
 
 # Code tournament ID
 tournament_stages <- tournament_stages |>
@@ -306,7 +336,11 @@ tournament_stages <- tournament_stages |>
 ## Stadiums --------------------------------------------------------------------
 
 # Load hand-coded match data
-stadiums_hand_coded <- read_csv("data-raw/hand-coded-tables/stadiums.csv")
+stadiums_hand_coded <- read_csv(
+  "data-raw/hand-coded-tables/stadiums.csv",
+  show_col_types = FALSE,
+  progress = FALSE
+)
 
 # Collapse by stadium
 stadiums <- stadiums_hand_coded |>
@@ -315,9 +349,9 @@ stadiums <- stadiums_hand_coded |>
     city_wikipedia_link, stadium_wikipedia_link
   ) |>
   summarize(
-    stadium_capacity = max(stadium_capacity)
-  ) |>
-  ungroup()
+    stadium_capacity = max(stadium_capacity),
+    .groups = "drop"
+  )
 
 # Check number of observations
 table(duplicated(select(stadiums, country_name, city_name, stadium_name))) == nrow(stadiums)
@@ -353,28 +387,50 @@ rm(stadiums_hand_coded)
 
 # Load hand-coded match data
 load("data-raw/Wikipedia-data/wikipedia_matches.RData")
-matches_hand_coded <- read_csv("data-raw/hand-coded-tables/matches.csv")
-stadiums_hand_coded <- read_csv("data-raw/hand-coded-tables/stadiums.csv")
+matches_hand_coded <- read_csv(
+  "data-raw/hand-coded-tables/matches.csv",
+  show_col_types = FALSE,
+  progress = FALSE
+)
+stadiums_hand_coded <- read_csv(
+  "data-raw/hand-coded-tables/stadiums.csv",
+  show_col_types = FALSE,
+  progress = FALSE
+)
 
 # Match name
-matches <- wikipedia_matches |>
+matches_hand_coded <- matches_hand_coded |>
   mutate(
-    match_name = str_c(
-      home_team_name,
-      " v ",
-      away_team_name
+    match_id = str_c(
+      match_name,
+      " (", match_date, ")"
     )
+  ) |>
+  select(
+    match_id, tournament, year, match_name, match_date,
+    stage_name, group_name, group_stage, knockout_stage,
+    replayed, replay
   )
+
+# Select Wikipedia matches
+wikipedia_matches <- wikipedia_matches |>
+  select(
+    match_id, match_time,
+    home_team_name, away_team_name,
+    extra_time, penalty_shootout,
+    score, home_team_score, away_team_score,
+    score_penalties, home_team_score_penalties, away_team_score_penalties
+  )
+
+# Check that match IDs match
+table(matches_hand_coded$match_id %in% wikipedia_matches$match_id)
+table(wikipedia_matches$match_id %in% matches_hand_coded$match_id)
 
 # Merge in hand-coded data
 matches <- left_join(
-  matches,
-  matches_hand_coded |>
-    select(
-      match_name, match_date, stage_name, knockout_stage, group_stage,
-      group_name, replayed, replay
-    ),
-  by = c("match_name", "match_date")
+  matches_hand_coded,
+  wikipedia_matches,
+  by = "match_id"
 )
 
 # Merge in stadium data
@@ -392,20 +448,6 @@ matches <- matches |>
   mutate(
     home_team_win = as.numeric(home_team_score > away_team_score | home_team_score_penalties > away_team_score_penalties),
     away_team_win = as.numeric(away_team_score > home_team_score | away_team_score_penalties > home_team_score_penalties),
-    replayed = case_when(
-      match_name == "Italy v Spain" & match_date == ymd("1934-05-31") ~ 1,
-      match_name == "Switzerland v Germany" & match_date == ymd("1938-06-04") ~ 1,
-      match_name == "Cuba v Romania" & match_date == ymd("1938-06-05") ~ 1,
-      match_name == "Brazil v Czechoslovakia" & match_date == ymd("1938-06-12") ~ 1,
-      TRUE ~ 0
-    ),
-    replay = case_when(
-      match_name == "Italy v Spain" & match_date == ymd("1934-06-01") ~ 1,
-      match_name == "Switzerland v Germany" & match_date == ymd("1938-06-09") ~ 1,
-      match_name == "Cuba v Romania" & match_date == ymd("1938-06-09") ~ 1,
-      match_name == "Brazil v Czechoslovakia" & match_date == ymd("1938-06-14") ~ 1,
-      TRUE ~ 0
-    ),
     draw = as.numeric((group_stage == 1 | replayed == 1) & home_team_score == away_team_score),
     result = case_when(
       draw == 1 ~ "draw",
@@ -662,7 +704,8 @@ qualified_teams <- team_appearances |>
   ) |>
   summarize(
     count_matches = n(),
-    performance = stage_name[n()]
+    performance = stage_name[n()],
+    .groups = "drop"
   ) |>
   ungroup()
 
@@ -684,6 +727,24 @@ qualified_teams <- qualified_teams |>
 
 # Load data
 load("data-raw/Wikipedia-data/wikipedia_squads.RData")
+
+# Correct error
+wikipedia_squads <- wikipedia_squads |>
+  filter(player_name != "Aleksandr Zavarov") |>
+  add_row(
+    tournament = "FIFA Men's World Cup",
+    year = 1986,
+    team_name = "Soviet Union",
+    shirt_number = 9,
+    position_name = "midfielder",
+    position_code = "MF",
+    player_id = wikipedia_squads$player_id[wikipedia_squads$player_name == "Oleksandr Zavarov"],
+    player_name = "Oleksandr Zavarov",
+    family_name = "Zavarov",
+    given_name = "Oleksandr",
+    birth_date = "1961-04-20",
+    player_wikipedia_link = "https://en.wikipedia.org/wiki/Oleksandr_Zavarov"
+  )
 
 # Create tournament ID
 squads <- wikipedia_squads |>
@@ -735,7 +796,9 @@ players <- squads |>
   summarize(
     position_name = str_c(unique(position_name), collapse = ", "),
     birth_date = str_c(unique(birth_date), collapse = ", "),
-    list_tournaments = str_c(year, collapse = ", ")
+    list_tournaments = str_c(year, collapse = ", "),
+    tournament_name = str_c(unique(tournament_name), collapse = ", "),
+    .groups = "drop"
   ) |>
   ungroup() |>
   mutate(
@@ -772,11 +835,12 @@ players <- players |>
     family_name, given_name, birth_date
   ) |>
   mutate(
-    key_id = 1:n()
+    key_id = 1:n(),
+    female = as.numeric(str_detect(tournament_name, "Women"))
   ) |>
   select(
     key_id, player_id,
-    family_name, given_name, birth_date,
+    family_name, given_name, birth_date, female,
     goal_keeper, defender, midfielder, forward,
     count_tournaments, list_tournaments,
     player_wikipedia_link
@@ -786,6 +850,23 @@ players <- players |>
 
 # Load data
 load("data-raw/Wikipedia-data/wikipedia_lineups.RData")
+
+# Remove duplicates
+wikipedia_lineups <- wikipedia_lineups |>
+  filter(
+    !(str_detect(match_id, "2010") & player_wikipedia_link == "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Weiss_(footballer,_born_1964)")
+  )
+
+# Correct shirt numbers
+wikipedia_lineups <- wikipedia_lineups |>
+  mutate(
+    shirt_number = case_when(
+      match_id == "England vs Argentina (2007-09-17)" & player_name == "Sue Smith" ~ 15,
+      match_id == "Sweden vs France (2011-07-16)" & player_name == "Caroline Pizzala" ~ 11,
+      match_id == "Sweden vs France (2011-07-16)" & player_name == "Élodie Thomis" ~ 12,
+      TRUE ~ shirt_number
+    )
+  )
 
 # Merge lineup data into match data
 player_appearances <- left_join(
@@ -799,7 +880,8 @@ player_appearances <- left_join(
       team_id, team_name, team_code,
       home_team, away_team
     ),
-  wikipedia_lineups,
+  wikipedia_lineups |>
+    distinct(),
   by = c("merge_match_id" = "match_id", "team_name")
 )
 
@@ -859,9 +941,6 @@ player_appearances <- player_appearances |>
 table(player_appearances$position_name)
 table(player_appearances$position_code)
 
-# Check total number of observations
-nrow(player_appearances) == 700 * 2 * 11 + 3223
-
 # Merge in player IDs
 player_appearances <- left_join(
   player_appearances,
@@ -887,8 +966,15 @@ player_appearances <- player_appearances |>
     team_id, team_name, team_code, home_team, away_team,
     player_id, family_name, given_name,
     shirt_number, position_name, position_code,
-    starter, substitute, captain
+    starter, substitute
   )
+
+# Check that values are unique
+check <- player_appearances |>
+  select(
+    tournament_id, match_id, team_id, player_id
+  ) |>
+  distinct()
 
 ## Goals -----------------------------------------------------------------------
 
@@ -912,124 +998,17 @@ goals <- left_join(
   by = c("merge_match_id", "team_name")
 )
 
-# Add URL stem
-goals <- goals |>
-  mutate(
-    player_wikipedia_link = str_c(
-      "https://en.wikipedia.org",
-      player_wikipedia_link
-    )
-  )
-
-# Goals before 1970
-goals_1930_1966 <- goals |>
-  filter(match_date < ymd("1970-01-01") & own_goal == 0)
-
-# Goals since 1970
-goals_1970_2018 <- goals |>
-  filter(match_date > ymd("1970-01-01") & own_goal == 0)
-
-# Own goals
-own_goals <- goals |>
-  filter(own_goal == 1)
-
-# Get links to standardize
-goals_1930_1966 |>
-  filter(!(player_wikipedia_link %in% squads$player_wikipedia_link)) |>
-  pull(player_wikipedia_link) |>
-  unique()
-
-# Standardize player Wikipedia links
-goals_1930_1966 <- goals_1930_1966 |>
-  mutate(
-    player_wikipedia_link = case_when(
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Luis_de_Souza_Ferreira" ~ "https://en.wikipedia.org/wiki/Luis_Souza_Ferreira",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Iuliu_Bar%C3%A1tky" ~ "https://en.wikipedia.org/wiki/Iuliu_Baratky",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Le%C3%B4nidas_da_Silva" ~ "https://en.wikipedia.org/wiki/Le%C3%B4nidas",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Friedrich_Scherfke" ~ "https://en.wikipedia.org/wiki/Fryderyk_Scherfke",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Roberto_Em%C3%ADlio_da_Cunha" ~ "https://en.wikipedia.org/wiki/Roberto_(footballer,_born_1912)",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Maneca" ~ "https://en.wikipedia.org/wiki/Manuel_Marinho_Alves",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Thomaz_Soares_da_Silva" ~ "https://en.wikipedia.org/wiki/Zizinho",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/%C3%93scar_M%C3%ADguez" ~ "https://en.wikipedia.org/wiki/Oscar_M%C3%ADguez",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Alfredo_dos_Santos" ~ "https://en.wikipedia.org/wiki/Alfredo_Ramos_dos_Santos",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Didi_(footballer,_born_1928)" ~ "https://en.wikipedia.org/wiki/Valdir_Pereira",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Jean_Vincent" ~ "https://en.wikipedia.org/wiki/Jean_Vincent_(footballer)",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Theodor_Wagner" ~ "https://en.wikipedia.org/wiki/Theodor_Wagner_(footballer)",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Aleksandr_Ivanov_(footballer_born_1928)" ~ "https://en.wikipedia.org/wiki/Aleksandr_Ivanov_(footballer,_born_1928)",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Leonel_Sanchez" ~ "https://en.wikipedia.org/wiki/Leonel_S%C3%A1nchez",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Alfredo_del_%C3%81guila" ~ "https://en.wikipedia.org/wiki/Alfredo_del_Aguila",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Fl%C3%B3ri%C3%A1n_Albert" ~ "https://en.wikipedia.org/wiki/Fl%C3%B3ri%C3%A1n_Albert,_Sr.",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Jos%C3%A9_Ely_de_Miranda" ~ "https://en.wikipedia.org/wiki/Zito_(footballer)",
-      TRUE ~ player_wikipedia_link
-    )
-  )
-
 # Merge in player variables
-goals_1930_1966 <- left_join(
-  goals_1930_1966,
+goals <- left_join(
+  goals,
   squads |>
     select(
-      tournament_id, team_id, team_name, team_code,
-      player_id, family_name, given_name, player_wikipedia_link
-    ) |>
-    rename(
-      player_team_id = team_id,
+      tournament_id, player_id, shirt_number,
       player_team_name = team_name,
+      player_team_id = team_id,
       player_team_code = team_code
     ),
-  by = c("tournament_id", "player_wikipedia_link")
-)
-
-# Merge in player variables
-goals_1970_2018 <- left_join(
-  goals_1970_2018,
-  squads |>
-    select(
-      tournament_id, team_id, team_name, team_code,
-      player_id, family_name, given_name, shirt_number
-    ) |>
-    rename(
-      player_team_id = team_id,
-      player_team_name = team_name,
-      player_team_code = team_code
-    ) |>
-    mutate(
-      team_name = player_team_name
-    ),
-  by = c("tournament_id", "team_name", "shirt_number")
-)
-
-# Standardize player Wikipedia links
-own_goals <- own_goals |>
-  mutate(
-    player_wikipedia_link = case_when(
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Cho_Kwang-Rae" ~ "https://en.wikipedia.org/wiki/Cho_Kwang-rae",
-      player_wikipedia_link == "https://en.wikipedia.org/wiki/Oghenekaro_Etebo" ~ "https://en.wikipedia.org/wiki/Peter_Etebo",
-      TRUE ~ player_wikipedia_link
-    )
-  )
-
-# Merge in player variables
-own_goals <- left_join(
-  own_goals,
-  squads |>
-    select(
-      tournament_id, team_id, team_name, team_code,
-      player_id, family_name, given_name, player_wikipedia_link
-    ) |>
-    rename(
-      player_team_id = team_id,
-      player_team_name = team_name,
-      player_team_code = team_code
-    ),
-  by = c("tournament_id", "player_wikipedia_link")
-)
-
-# Stack tibbles
-goals <- bind_rows(
-  goals_1930_1966,
-  goals_1970_2018,
-  own_goals
+  by = c("tournament_id", "player_id")
 )
 
 # Code match period
@@ -1048,13 +1027,6 @@ goals <- goals |>
     ),
     match_period = code_match_period(minute_label)
   )
-
-# Check player names
-check <- goals |>
-  select(
-    merge_match_id, player_name, family_name, own_goal
-  )
-rm(check)
 
 # Organize variables
 goals <- goals |>
@@ -1077,11 +1049,15 @@ goals <- goals |>
     own_goal, penalty
   )
 
+# Own goals
+own_goals <- goals |>
+  filter(own_goal == 1)
+
 # Check team names
 table(goals$own_goal, goals$team_name == goals$player_team_name)
 
 # Clean environment
-rm(goals_1930_1966, goals_1970_2018, own_goals)
+rm(own_goals)
 
 ## Penalty kicks ---------------------------------------------------------------
 
@@ -1108,10 +1084,9 @@ penalty_kicks <- left_join(
   penalty_kicks,
   squads |>
     select(
-      tournament_id, team_name, player_id,
-      family_name, given_name, shirt_number
+      tournament_id, player_id, shirt_number
     ),
-  by = c("tournament_id", "team_name", "shirt_number")
+  by = c("tournament_id", "player_id")
 )
 
 # Organize variables
@@ -1204,9 +1179,6 @@ table(bookings$second_yellow_card)
 table(bookings$red_card)
 table(bookings$sending_off)
 
-# Check number of sendings off by tournament
-173 - 23 - 2 == 59 + 89
-
 # Merge in match variables
 bookings <- left_join(
   bookings |>
@@ -1270,10 +1242,10 @@ wikipedia_lineups$events[indexes] <- str_replace(wikipedia_lineups$events[indexe
 wikipedia_lineups <- wikipedia_lineups |>
   mutate(
     events = case_when(
-     events == "yellow card 68', subbed on 56' subbed off 90+1'" ~ "yellow card 68', subbed on 56', subbed off 90+1'",
-     match_id == "Peru v Iran (1978-06-11)" & player_name == "Hassan Roshan" ~ "subbed off 66';",
-     match_id == "Peru v Iran (1978-06-11)" & player_name == "Hossein Faraki" ~ "subbed off 51'",
-     TRUE ~ events
+      events == "subbed on 68' subbed off 90+2'" ~ "subbed on 68', subbed off 90+2'",
+      match_id == "Peru vs Iran (1978-06-11)" & player_name == "Hassan Roshan" ~ "subbed off 66'",
+      match_id == "Peru vs Iran (1978-06-11)" & player_name == "Hossein Faraki" ~ "subbed off 51'",
+      TRUE ~ events
     )
   )
 
@@ -1313,7 +1285,8 @@ substitutions <- wikipedia_lineups |>
     match_id, team_name, player_name, shirt_number,
     minute_label, minute_regulation, minute_stoppage, match_period,
     going_off, coming_on
-  )
+  ) |>
+  distinct()
 
 # Merge in match variables
 substitutions <- left_join(
@@ -1381,16 +1354,20 @@ substitutions |>
 ## Referees --------------------------------------------------------------------
 
 # Load data
-referee_names_cleaned <- read_csv("data-raw/referee-names/referee_names_cleaned.csv")
+referee_names_cleaned <- read_csv(
+  "data-raw/referee-names/referee_names_cleaned.csv",
+  show_col_types = FALSE,
+  progress = FALSE
+)
 
 # Collapse by name
 referees <- referee_names_cleaned |>
-  group_by(
-    family_name, given_name, referee_wikipedia_link,
-    country_name, confederation_code
+  select(
+    family_name, given_name,
+    female, country_name, confederation_code,
+    referee_wikipedia_link
   ) |>
-  summarize() |>
-  ungroup()
+  distinct()
 
 # Check for duplicates
 table(duplicated(select(referees, family_name, given_name)))
@@ -1420,7 +1397,8 @@ referees <- referees |>
   select(
     key_id, referee_id,
     family_name, given_name,
-    country_name, confederation_id, confederation_name, confederation_code,
+    female, country_name,
+    confederation_id, confederation_name, confederation_code,
     referee_wikipedia_link
   )
 
@@ -1437,7 +1415,6 @@ rm(check)
 
 # Load data
 load("data-raw/Wikipedia-data/wikipedia_referees.RData")
-referee_names_cleaned <- read_csv("data-raw/referee-names/referee_names_cleaned.csv")
 
 # Referee appearances
 referee_appearances <- wikipedia_referees |>
@@ -1448,11 +1425,35 @@ referee_appearances <- wikipedia_referees |>
     referee_name = referee
   )
 
-# Organize variables
-referee_names_cleaned <- referee_names_cleaned |>
-  select(
-    referee_name, family_name, given_name,
-    country_name, confederation_code, referee_wikipedia_link
+# Clean names
+referee_appearances <- referee_appearances |>
+  mutate(
+    referee_name = case_when(
+      referee_name == "Alberto Tejada" ~ "Alberto Tejada Noriega",
+      referee_name == "Alfonso González Archundia" ~ "Alfonso González Archundía",
+      referee_name == "Almeida Rêgo" ~ "Gilberto de Almeida Rêgo",
+      referee_name == "Angel Franco Martínez" ~ "Ángel Franco Martínez",
+      referee_name == "Anibal Tejada" ~ "Aníbal Tejada",
+      referee_name == "Antonio Garrido" ~ "António Garrido",
+      referee_name == "Arthur Ellis" ~ "Arthur Edward Ellis",
+      referee_name == "Arturo Yamasaki" ~ "Arturo Yamasaki Maldonado",
+      referee_name == "Bob Davidson" ~ "Bobby Davidson",
+      referee_name == "Carlos Batres" ~ "Carlos Alberto Batres",
+      referee_name == "Carlos Simon" ~ "Carlos Eugênio Simon",
+      referee_name == "Istvan Zsolt" ~ "István Zsolt",
+      referee_name == "José María Codensal" ~ "José María Codesal",
+      referee_name == "José María Ortiz de Mendibil" ~ "José María Ortiz de Mendíbil",
+      referee_name == "Juan Gardeazábal Garay" ~ "Juan Garay Gardeazábal",
+      referee_name == "Marco Rodríguez" ~ "Marco Antonio Rodríguez",
+      referee_name == "Mario Sánchez" ~ "Mario Sánchez Yantén",
+      referee_name == "Mario Vianna" ~ "Mário Vianna",
+      referee_name == "Nikolay Latyshev" ~ "Nikolai Levnikov",
+      referee_name == "Ramón Barreto" ~ "Ramón Barreto Ruíz",
+      referee_name == "Raymon Wyssling" ~ "Raymond Wyssling",
+      referee_name == "Robert Holley Davidson" ~ "Bobby Davidson",
+      referee_name == "Vojtech Christov" ~ "Vojtěch Christov",
+      TRUE ~ referee_name
+    )
   )
 
 # Merge in cleaned names
@@ -1506,20 +1507,19 @@ referee_appearances <- referee_appearances |>
     country_name, confederation_id, confederation_name, confederation_code
   )
 
-# Check for missing values
-table(is.na(referee_appearances))
+# Check that all referee IDs are used
+table(referees$referee_id %in% referee_appearances$referee_id)
 
 ## Referee appointments --------------------------------------------------------
 
 # Collapse by tournament
 referee_appointments <- referee_appearances |>
-  group_by(
+  select(
     tournament_id, tournament_name,
     referee_id, family_name, given_name,
     country_name, confederation_id, confederation_name, confederation_code
   ) |>
-  summarize() |>
-  ungroup()
+  distinct()
 
 # Organize variables
 referee_appointments <- referee_appointments |>
@@ -1538,19 +1538,18 @@ referee_appointments <- referee_appointments |>
 ## Managers --------------------------------------------------------------------
 
 # Load data
-manager_names_cleaned <- read_csv("data-raw/manager-names/manager_names_cleaned.csv")
+manager_names_cleaned <- read_csv(
+  "data-raw/manager-names/manager_names_cleaned.csv",
+  show_col_types = FALSE,
+  progress = FALSE
+)
 
 # Collapse by name
 managers <- manager_names_cleaned |>
-  group_by(
-    family_name, given_name, manager_wikipedia_link,
-    country_name
+  select(
+    family_name, given_name, female, country_name, manager_wikipedia_link
   ) |>
-  summarize() |>
-  ungroup()
-
-# Check for duplicates
-table(duplicated(select(managers, family_name, given_name)))
+  distinct()
 
 # Organize variables
 managers <- managers |>
@@ -1566,7 +1565,7 @@ managers <- managers |>
   ) |>
   select(
     key_id, manager_id,
-    family_name, given_name,
+    family_name, given_name, female,
     country_name, manager_wikipedia_link
   )
 
@@ -1574,7 +1573,6 @@ managers <- managers |>
 
 # Load data
 load("data-raw/Wikipedia-data/wikipedia_managers.RData")
-manager_names_cleaned <- read_csv("data-raw/manager-names/manager_names_cleaned.csv")
 
 # Drop one observation
 wikipedia_managers <- wikipedia_managers |>
@@ -1585,25 +1583,36 @@ wikipedia_managers <- wikipedia_managers |>
   mutate(
     team_name = case_when(
       team_name == "China PR" ~ "China",
+      team_name == "Germany" & year > 1938 & year <= 1990 ~ "West Germany",
       TRUE ~ team_name
     )
   )
 
-# Merge in cleaned manager names
-manager_appointments <- left_join(
-  wikipedia_managers |>
-    select(year, team_name, manager_name),
-  manager_names_cleaned |>
-    select(manager_name, family_name, given_name, country_name),
-  by = "manager_name"
-)
+# Clean links
+wikipedia_managers <- wikipedia_managers |>
+  mutate(
+    manager_wikipedia_link = case_when(
+      manager_wikipedia_link == "https://en.wikipedia.org/wiki/Gavril_Kachalin" ~ "https://en.wikipedia.org/wiki/Gavriil_Kachalin",
+      manager_wikipedia_link == "https://en.wikipedia.org/wiki/Luis_Alamos" ~ "https://en.wikipedia.org/wiki/Luis_%C3%81lamos",
+      manager_wikipedia_link == "https://en.wikipedia.org/wiki/Jos%C3%A9_Pekerman" ~ "https://en.wikipedia.org/wiki/Jos%C3%A9_P%C3%A9kerman",
+      manager_wikipedia_link == "https://en.wikipedia.org/wiki/Fernando_Santos_(Portuguese_footballer)" ~ "https://en.wikipedia.org/wiki/Fernando_Santos_(footballer,_born_1954)",
+      TRUE ~ manager_wikipedia_link
+    )
+  )
 
 # Merge in manager ID
 manager_appointments <- left_join(
-  manager_appointments,
+  wikipedia_managers |>
+    select(
+      tournament, year, team_name,
+      manager_wikipedia_link
+    ),
   managers |>
-    select(manager_id, family_name, given_name, country_name),
-  by = c("family_name", "given_name", "country_name")
+    select(
+      manager_id, family_name, given_name,
+      country_name, manager_wikipedia_link
+    ),
+  by = c("manager_wikipedia_link")
 )
 
 # Merge in tournament variables
@@ -1672,13 +1681,14 @@ manager_appearances <- manager_appearances |>
     manager_id, family_name, given_name, country_name
   )
 
-# Check for missing values
-table(is.na(manager_appearances))
-
 ## Awards ----------------------------------------------------------------------
 
 # Load data
-awards <- read_csv("data-raw/hand-coded-tables/awards.csv")
+awards <- read_csv(
+  "data-raw/hand-coded-tables/awards.csv",
+  show_col_types = FALSE,
+  progress = FALSE
+)
 
 # Organize variables
 awards <- awards |>
@@ -1696,7 +1706,11 @@ awards <- awards |>
 ## Award winners ---------------------------------------------------------------
 
 # Load data
-award_winners <- read_csv("data-raw/hand-coded-tables/award_winners.csv")
+award_winners <- read_csv(
+  "data-raw/hand-coded-tables/award_winners.csv",
+  show_col_types = FALSE,
+  progress = FALSE
+)
 
 # Code tournament ID
 award_winners <- award_winners |>
@@ -1779,6 +1793,14 @@ table(is.na(award_winners))
 
 # Check the number of variables ------------------------------------------------
 
+# Drop variables
+matches <- matches |>
+  select(-merge_match_id)
+squads <- squads |>
+  select(-birth_date, -player_wikipedia_link)
+team_appearances <- team_appearances |>
+  select(-merge_match_id)
+
 names(tournaments)
 names(confederations)
 names(teams)
@@ -1810,14 +1832,6 @@ names(groups)
 names(group_standings)
 names(tournament_standings)
 names(award_winners)
-
-# Drop variables
-matches <- matches |>
-  select(-merge_match_id)
-squads <- squads |>
-  select(-birth_date, -player_wikipedia_link)
-team_appearances <- team_appearances |>
-  select(-merge_match_id)
 
 # Save data --------------------------------------------------------------------
 

@@ -12,95 +12,53 @@ extract_team_data <- function(html_table) {
   # Extract and clean HTML table -----------------------------------------------
 
   # Convert HTML table to tibble
-  table <- html_table |>
-    html_table(head = FALSE, trim = TRUE)
-
-  # Make sure the table has 6 columns
-  if(ncol(table) == 3) {
-    table$X4 <- NA
-    table$X5 <- NA
-    table$X6 <- NA
-  } else if(ncol(table) == 4) {
-    table$X5 <- NA
-    table$X6 <- NA
-  } else if(ncol(table) == 5) {
-    table$X6 <- NA
-  } else if (ncol(table) == 7) {
-    table$X7 <- NULL
+  tr <- html_table |>
+    html_elements("tr")
+  table <- list()
+  j <- 1
+  for (i in 1:length(tr)) {
+    td <- tr[i] |>
+      html_elements("td") |>
+      html_text() |>
+      str_squish()
+    td <- td[td != ""]
+    if (length(td) == 3) {
+      text <- ""
+    }
+    if (length(td) == 4) {
+      text <- td[4]
+      td <- td[-4]
+    }
+    if (length(td) == 5) {
+      text <- c(td[4], td[5])
+      td <- td[-c(4, 5)]
+    }
+    if (length(td) == 6) {
+      text <- c(td[4], td[5], td[6])
+      td <- td[-c(4, 5, 6)]
+    }
+    if (length(td) == 7) {
+      text <- c(td[4], td[5], td[6], td[7])
+      td <- td[-c(4, 5, 6, 7)]
+    }
+    if (length(td) >= 3) {
+      text <- text[text != ""]
+      td[4] <- str_c(text, collapse = ", ")
+      names(td) <- c("position_code", "shirt_number", "player_name", "events")
+      table[[j]] <- td
+      j <- j + 1
+    }
   }
+  table <- bind_rows(table)
 
-  # Extract links
-  href <- html_table |>
-    html_elements("a") |>
-    html_attr("href")
-  img <- html_table |>
-    html_elements("a") |>
-    as.character() |>
-    str_detect("img alt")
-  links <- href[href != "/wiki/Captain_(association_football)" & !img]
-  links <- links[!str_detect(links, "#cite_note")]
-
-  # Rename variables
-  table = table |>
-    rename(
-      position_code = X1,
-      shirt_number = X2,
-      name = X3,
-      text_1 = X4,
-      text_2 = X5,
-      text_3 = X6
-    )
-
-  # Clean table
-  table = table |>
-    mutate(
-      shirt_number = shirt_number |>
-        as.character(),
-      text_1 = text_1 |>
-        as.character() |>
-        str_squish(),
-      text_2 = text_2 |>
-        as.character() |>
-        str_squish(),
-      text_3 = text_3 |>
-        as.character() |>
-        str_squish(),
-      text_1 = case_when(
-        is.na(text_1) ~ "",
-        TRUE ~ text_1
-      ),
-      text_2 = case_when(
-        is.na(text_2) ~ "",
-        TRUE ~ text_2
-      ),
-      text_3 = case_when(
-        is.na(text_3) ~ "",
-        TRUE ~ text_3
-      ),
-      events = str_c(text_1, text_2, text_3, sep = " ") |>
-        str_squish(),
-      name = name |>
-        str_replace("([[:lower:]]{3,})([[:upper:]])", "\\1 & \\2")
-    ) |>
-    separate_rows(name, sep = "&") |>
-    filter(!is.na(name)) |>
-    filter(name != "") |>
-    filter(!str_detect(name, "[Ss]ubstitut")) |>
-    filter(!str_detect(name, "[Mm]anager")) |>
-    filter(!str_detect(name, "disciplinary actions")) |>
-    select(
-      position_code, shirt_number, name, events
-    )
-
-  # Code variables -------------------------------------------------------------
+  # Clean variables ------------------------------------------------------------
 
   table <- table |>
     mutate(
-      link = links,
-      captain = name |>
-        str_detect("\\([Cc]\\)") |>
-        as.numeric(),
-      name = name |>
+      id = 1:n(),
+      starting = as.numeric(id <= 11),
+      on_bench = as.numeric(id > 11),
+      player_name = player_name |>
         str_remove_all("\\[.*?\\]") |>
         str_remove("\\([Cc]\\)") |>
         str_squish(),
@@ -109,48 +67,48 @@ extract_team_data <- function(html_table) {
       shirt_number = shirt_number |>
         str_extract("^[0-9]+$") |>
         as.numeric(),
-      shirt_number = shirt_number |>
-        as.numeric(),
-      manager = as.numeric(is.na(shirt_number)),
       events = events |>
-        str_replace("' *second", "', second") |>
-        str_replace("' *red", "', red") |>
-        str_replace("' *subbed", "', subbed") |>
         str_remove_all("\\[.*?\\]") |>
         str_squish(),
       events = case_when(
         events == "" ~ "none",
-        manager == 1 ~ "none",
         TRUE ~ events
-      ),
-    ) |>
-    select(
-      manager, name, shirt_number, position_code, captain, events, link
+      )
     )
 
-  # Lineups --------------------------------------------------------------------
+  # Extract links --------------------------------------------------------------
 
-  lineups <- table |>
-    mutate(
-      id = 1:n(),
-      starting = as.numeric(id <= 11),
-      on_bench = as.numeric(id > 11)
+  # Make a table with links
+  links <- tibble(
+    player_wikipedia_link = html_table |>
+      html_elements("a") |>
+      html_attr("href"),
+    player_name = html_table |>
+      html_elements("a") |>
+      html_text()
+  )
+
+  # Merge links into table
+  table <- table |>
+    left_join(
+      links,
+      by = "player_name"
     ) |>
-    filter(id <= 11 | str_detect(events, "subbed")) |>
-    filter(manager == 0) |>
-    rename(
-      player_name = name,
-      player_wikipedia_link = link
+    mutate(
+      player_wikipedia_link = str_c("https://en.wikipedia.org", player_wikipedia_link),
+      player_wikipedia_link = case_when(
+        is.na(player_wikipedia_link) ~ "not available",
+        TRUE ~ player_wikipedia_link
+      )
     ) |>
     select(
       player_name, player_wikipedia_link,
       shirt_number, position_code,
-      starting, on_bench, captain, events
+      starting, on_bench,
+      events
     )
 
-  # Output ---------------------------------------------------------------------
-
-  return(lineups)
+  return(table)
 }
 
 # Function to make goal table
@@ -318,7 +276,8 @@ extract_event_data <- function(html_table) {
         str_remove("\\(o.g.\\)") |>
         str_remove("\\[[a-z]\\]") |>
         str_replace("([0-9])\\+", "\\1'+") |>
-        str_squish()
+        str_squish(),
+      player_wikipedia_link = str_c("https://en.wikipedia.org", player_wikipedia_link)
     ) |>
     select(
       team_name, player_name, player_wikipedia_link,
@@ -348,6 +307,10 @@ extract_event_data <- function(html_table) {
         html_attr("href") |>
         (\(x) x[!str_detect(x, "\\.svg")])()
     )
+    home_team_penalty_kicks <- home_team_penalty_kicks |>
+      mutate(
+        player_wikipedia_link = str_c("https://en.wikipedia.org", player_wikipedia_link)
+      )
   } else {
     home_team_penalty_kicks <- NULL
   }
@@ -373,6 +336,10 @@ extract_event_data <- function(html_table) {
         html_attr("href") |>
         (\(x) x[!str_detect(x, "\\.svg")])()
     )
+    away_team_penalty_kicks <- away_team_penalty_kicks |>
+      mutate(
+        player_wikipedia_link = str_c("https://en.wikipedia.org", player_wikipedia_link)
+      )
   } else {
     away_team_penalty_kicks <- NULL
   }
@@ -448,24 +415,22 @@ extract_match_data <- function(file) {
   # Extract event data
   event_data <- map(event_tables, extract_event_data)
 
-  extract_event_data(event_tables[[1]])
-
   # Home team
-  home_teams = event_data |>
+  home_teams <- event_data |>
     map("home_team_name") |>
     unlist() |>
     str_replace("China PR", "China") |>
     str_replace("FR Yugoslavia", "Yugoslavia")
 
   # Away team
-  away_teams = event_data |>
+  away_teams <- event_data |>
     map("away_team_name") |>
     unlist() |>
     str_replace("China PR", "China") |>
     str_replace("FR Yugoslavia", "Yugoslavia")
 
   # Extract date
-  dates = content |>
+  dates <- content |>
     html_elements(xpath = "//div[@class='fdate']") |>
     html_text() |>
     str_squish() |>
@@ -475,7 +440,7 @@ extract_match_data <- function(file) {
 
   # Match IDs
   match_ids <- str_c(
-    home_teams, " v ", away_teams,
+    home_teams, " vs ", away_teams,
     " (", dates, ")"
   )
 
@@ -484,43 +449,48 @@ extract_match_data <- function(file) {
 
   # Lineups --------------------------------------------------------------------
 
+  # Make lineup data
   if (year >= 1970) {
 
     # Extract team data
     team_data <- map(team_tables, extract_team_data)
 
-    # Extract lineup data
-    lineups = team_data |>
-      bind_rows(.id = "team_id") |>
-      mutate(
-        team_id = as.numeric(team_id)
+    if (length(team_data) > 0) {
+      # Extract lineup data
+      lineups <- team_data |>
+        bind_rows(.id = "team_id") |>
+        mutate(
+          team_id = as.numeric(team_id)
+        )
+
+      # match template
+      template <- tibble(
+        match_id = rep(match_ids, each = 2),
+        team_name = c(rbind(home_teams, away_teams))
+      )
+      template <- template |>
+        mutate(
+          team_id = 1:n()
+        )
+
+      # Merge into template
+      lineups <- left_join(
+        template,
+        lineups,
+        by = "team_id"
       )
 
-    # match template
-    template <- tibble(
-      match_id = rep(match_ids, each = 2),
-      team_name = c(rbind(home_teams, away_teams))
-    )
-    template <- template |>
-      mutate(
-        team_id = 1:n()
-      )
-
-    # Merge into template
-    lineups <- left_join(
-      template,
-      lineups,
-      by = "team_id"
-    )
-
-    # Organize variables
-    lineups <- lineups |>
-      select(
-        match_id, team_name,
-        player_name, player_wikipedia_link,
-        shirt_number, position_code,
-        starting, on_bench, captain, events
-      )
+      # Organize variables
+      lineups <- lineups |>
+        select(
+          match_id, team_name,
+          player_name, player_wikipedia_link,
+          shirt_number, position_code,
+          starting, on_bench, events
+        )
+    } else {
+      lineups <- NULL
+    }
   } else {
     lineups <- NULL
   }
@@ -528,11 +498,11 @@ extract_match_data <- function(file) {
   # Goals ----------------------------------------------------------------------
 
   # Extract goals
-  goals = event_data |>
+  goals <- event_data |>
     map("goals") |>
     bind_rows(.id = "match_id")
 
-  if (year >= 1970) {
+  if (year >= 1970 & !is.null(lineups)) {
 
     # Add shirt numbers
     goals <- left_join(
@@ -560,7 +530,7 @@ extract_match_data <- function(file) {
   goals <- goals |>
     select(
       match_id, team_name,
-      player_name, player_wikipedia_link, shirt_number,
+      player_name, player_wikipedia_link,
       minute_label, penalty, own_goal
     )
 
@@ -569,12 +539,12 @@ extract_match_data <- function(file) {
   if (year >= 1970) {
 
     # Extract penalty kicks
-    penalty_kicks = event_data |>
+    penalty_kicks <- event_data |>
       map("penalty_kicks") |>
       bind_rows(.id = "match_id")
 
     # Add shirt numbers to penalty kick data
-    if (nrow(penalty_kicks) > 0) {
+    if (nrow(penalty_kicks) > 0 & !is.null(lineups)) {
       penalty_kicks <- left_join(
         penalty_kicks,
         lineups |>
@@ -589,7 +559,7 @@ extract_match_data <- function(file) {
       penalty_kicks <- penalty_kicks |>
         select(
           match_id, team_name,
-          player_name, player_wikipedia_link, shirt_number,
+          player_name, player_wikipedia_link,
           converted
         )
     } else {
@@ -621,6 +591,7 @@ extract_match_data <- function(file) {
       penalty_shootout = as.numeric(score_penalties != "0-0"),
       score = score |>
         str_remove("\\(a.e.t.\\)") |>
+        str_remove("\\(a.e.t./g.g.\\)") |>
         str_squish(),
       home_team_score = score |>
         str_extract("^[0-9]+") |>
@@ -742,48 +713,164 @@ wikipedia_penalty_kicks <- data_raw$penalty_kicks
 wikipedia_lineups <- data_raw$lineups
 wikipedia_referees <- data_raw$referees
 
-# Code missing data ------------------------------------------------------------
+# Load squad data
+load("data-raw/Wikipedia-data/wikipedia_squads.RData")
 
-# Code missing shirt numbers in goal data
+# Goals ------------------------------------------------------------------------
+
+# Correct missing information
 wikipedia_goals <- wikipedia_goals |>
   mutate(
-    shirt_number = case_when(
-      match_id == "Italy v Mexico (1970-06-14)" & player_name == "González" ~ 17,
-      match_id == "Zaire v Brazil (1974-06-22)" & player_name == "Rivelino" ~ 10,
-      match_id == "Brazil v East Germany (1974-06-26)" & player_name == "Rivelino" ~ 10,
-      match_id == "Argentina v Brazil (1974-06-30)" & player_name == "Rivelino" ~ 10,
-      match_id == "Peru v Iran (1978-06-11)" & player_name == "Rowshan" ~ 10,
-      match_id == "Hungary v El Salvador (1982-06-15)" & player_name == "Tóth" ~ 4,
-      match_id == "Belgium v Hungary (1982-06-22)" & player_name == "Varga" ~ 19,
-      match_id == "West Germany v France (1982-07-08)" & player_name == "Trésor" ~ 8,
-      match_id == "Soviet Union v Hungary (1986-06-02)" & player_name == "Yakovenko" ~ 8,
-      match_id == "France v Soviet Union (1986-06-05)" & player_name == "Rats" ~ 21,
-      match_id == "Soviet Union v Canada (1986-06-09)" & player_name == "Blokhin" ~ 11,
-      match_id == "Soviet Union v Canada (1986-06-09)" & player_name == "Zavarov" ~ 9,
-      match_id == "Algeria v Spain (1986-06-12)" & player_name == "Eloy" ~ 20,
-      match_id == "Portugal v Morocco (1986-06-11)" & player_name == "Merry Krimau" ~ 9,
-      match_id == "Soviet Union v Belgium (1986-06-15)" & player_name == "Belanov" ~ 19,
-      match_id == "Denmark v Spain (1986-06-18)" & player_name == "Goikoetxea" ~ 8,
-      match_id == "Yugoslavia v United Arab Emirates (1990-06-19)" & player_name == "Thani" ~ 3,
-      match_id == "United States v Iran (1998-06-21)" & player_name == "Estili" ~ 9,
-      match_id == "Tunisia v Saudi Arabia (2006-06-14)" & player_name == "Al-Qahtani" ~ 20,
-      match_id == "Tunisia v Saudi Arabia (2006-06-14)" & player_name == "Al-Jaber" ~ 9,
-      TRUE ~ shirt_number
+    player_wikipedia_link = case_when(
+      match_id == "Hungary vs El Salvador (1982-06-15)" & player_name == "Tóth" ~ "https://en.wikipedia.org/wiki/J%C3%B3zsef_T%C3%B3th_(footballer,_born_1951)",
+      TRUE ~ player_wikipedia_link
     )
   )
 
-# Code missing shirt numbers in penalty kick data
-wikipedia_penalty_kicks <- wikipedia_penalty_kicks |>
+# Player Wikipedia links to correct
+to_correct <- wikipedia_goals |>
+  filter(!(player_wikipedia_link %in% wikipedia_squads$player_wikipedia_link)) |>
+  select(
+    player_name, player_wikipedia_link
+  ) |>
+  distinct()
+
+# Code incorrect links
+wikipedia_goals <- wikipedia_goals |>
   mutate(
-    shirt_number = case_when(
-      match_id == "Brazil v France (1986-06-21)" & player_name == "Branco" ~ 17,
-      match_id == "Spain v Belgium (1986-06-22)" & player_name == "Eloy" ~ 20,
-      match_id == "Republic of Ireland v Romania (1990-06-25)" & player_name == "Lupu" ~ 11,
-      match_id == "Brazil v Italy (1994-07-17)" & player_name == "Márcio Santos" ~ 15,
-      match_id == "Brazil v Netherlands (1998-07-07)" & player_name == "Cocu" ~ 11,
-      TRUE ~ shirt_number
+    player_wikipedia_link = case_when(
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Luis_de_Souza_Ferreira" ~ "https://en.wikipedia.org/wiki/Luis_Souza_Ferreira",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Iuliu_Bar%C3%A1tky" ~ "https://en.wikipedia.org/wiki/Iuliu_Baratky",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Le%C3%B4nidas_da_Silva" ~ "https://en.wikipedia.org/wiki/Le%C3%B4nidas",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Friedrich_Scherfke" ~ "https://en.wikipedia.org/wiki/Fryderyk_Scherfke",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Roberto_Em%C3%ADlio_da_Cunha" ~ "https://en.wikipedia.org/wiki/Roberto_(footballer,_born_1912)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Maneca" ~ "https://en.wikipedia.org/wiki/Manuel_Marinho_Alves",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Thomaz_Soares_da_Silva" ~ "https://en.wikipedia.org/wiki/Zizinho",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/%C3%93scar_M%C3%ADguez" ~ "https://en.wikipedia.org/wiki/Oscar_M%C3%ADguez",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Alfredo_dos_Santos" ~ "https://en.wikipedia.org/wiki/Alfredo_Ramos_dos_Santos",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Didi_(footballer,_born_1928)" ~ "https://en.wikipedia.org/wiki/Valdir_Pereira",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Jean_Vincent" ~ "https://en.wikipedia.org/wiki/Jean_Vincent_(footballer)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Theodor_Wagner" ~ "https://en.wikipedia.org/wiki/Theodor_Wagner_(footballer)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Aleksandr_Ivanov_(footballer_born_1928)" ~ "https://en.wikipedia.org/wiki/Aleksandr_Ivanov_(footballer,_born_1928)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Leonel_Sanchez" ~ "https://en.wikipedia.org/wiki/Leonel_S%C3%A1nchez",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Alfredo_del_%C3%81guila" ~ "https://en.wikipedia.org/wiki/Alfredo_del_Aguila",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Fl%C3%B3ri%C3%A1n_Albert" ~ "https://en.wikipedia.org/wiki/Fl%C3%B3ri%C3%A1n_Albert,_Sr.",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Jos%C3%A9_Ely_de_Miranda" ~ "https://en.wikipedia.org/wiki/Zito_(footballer)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Vitaliy_Khmelnytskyi" ~ "https://en.wikipedia.org/wiki/Vitaly_Khmelnitsky",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Roberto_Rivelino" ~ "https://en.wikipedia.org/wiki/Rivellino",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Roberto_Rivellino" ~ "https://en.wikipedia.org/wiki/Rivellino",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Andr%C3%A1s_T%C3%B3th_(footballer_born_1949)" ~ "https://en.wikipedia.org/wiki/Andr%C3%A1s_T%C3%B3th_(footballer,_born_1949)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Mokhtar_Dhouieb" ~ "https://en.wikipedia.org/wiki/Mokhtar_Dhouib",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Hassan_Rowshan" ~ "https://en.wikipedia.org/wiki/Hassan_Roshan",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/J%C3%B3zsef_T%C3%B3th_(footballer_born_1951)" ~ "",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Eduardo_Laing" ~ "https://en.wikipedia.org/wiki/Antonio_Laing",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Aleksandre_Chivadze" ~ "https://en.wikipedia.org/wiki/Aleksandr_Chivadze",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Khoren_Oganesian" ~ "https://en.wikipedia.org/wiki/Khoren_Hovhannisyan",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Park_Chang-Sun" ~ "https://en.wikipedia.org/wiki/Park_Chang-sun",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Kim_Jong-Boo" ~ "https://en.wikipedia.org/wiki/Kim_Jong-boo",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Choi_Soon-Ho" ~ "https://en.wikipedia.org/wiki/Choi_Soon-ho",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Huh_Jung-Moo" ~ "https://en.wikipedia.org/wiki/Huh_Jung-moo",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Cho_Kwang-Rae" ~ "https://en.wikipedia.org/wiki/Cho_Kwang-rae",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Pavlo_Yakovenko" ~ "https://en.wikipedia.org/wiki/Pavel_Yakovenko",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Igor_Belanov" ~ "https://en.wikipedia.org/wiki/Ihor_Belanov",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Oleg_Blokhin" ~ "https://en.wikipedia.org/wiki/Oleh_Blokhin",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Colin_Clarke_(footballer_born_1962)" ~ "https://en.wikipedia.org/wiki/Colin_Clarke_(footballer,_born_1962)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Abdelkrim_Merry_Krimau" ~ "https://en.wikipedia.org/wiki/Abdelkrim_Merry",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Edino_Nazareth_Filho" ~ "https://en.wikipedia.org/wiki/Edinho_(footballer,_born_1955)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Gavril_Balint" ~ "https://en.wikipedia.org/wiki/Gabi_Balint",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Lei_Clijsters" ~ "https://en.wikipedia.org/wiki/Leo_Clijsters",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Mark_Wright_(footballer_born_1963)" ~ "https://en.wikipedia.org/wiki/Mark_Wright_(footballer,_born_1963)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/M%C3%A1rcio_Roberto_dos_Santos" ~ "https://en.wikipedia.org/wiki/M%C3%A1rcio_Santos_(footballer,_born_1969)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Ion_Andoni_Goikoetxea" ~ "https://en.wikipedia.org/wiki/Jon_Andoni_Goikoetxea",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Luis_Enrique_(footballer)" ~ "https://en.wikipedia.org/wiki/Luis_Enrique",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Andreas_Herzog" ~ "https://en.wikipedia.org/wiki/Andi_Herzog",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Kiko_(footballer)" ~ "https://en.wikipedia.org/wiki/Kiko_(footballer,_born_1972)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Yoo_Sang-Chul" ~ "https://en.wikipedia.org/wiki/Yoo_Sang-chul",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Hamid_Reza_Estili" ~ "https://en.wikipedia.org/wiki/Hamid_Estili",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Edm%C3%ADlson_(footballer,_born_1976)" ~ "https://en.wikipedia.org/wiki/Edm%C3%ADlson",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Jen%C3%ADlson_%C3%82ngelo_de_Souza" ~ "https://en.wikipedia.org/wiki/J%C3%BAnior_(footballer,_born_1973)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Anders_Svensson_(footballer,_born_1976)" ~ "https://en.wikipedia.org/wiki/Anders_Svensson",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Peter_Van_Der_Heyden" ~ "https://en.wikipedia.org/wiki/Peter_Van_der_Heyden",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Valery_Karpin" ~ "https://en.wikipedia.org/wiki/Valeri_Karpin",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Seol_Ki-Hyeon" ~ "https://en.wikipedia.org/wiki/Seol_Ki-hyeon",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Ahn_Jung-Hwan" ~ "https://en.wikipedia.org/wiki/Ahn_Jung-hwan",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Yasser_Al_Qahtani" ~ "https://en.wikipedia.org/wiki/Yasser_Al-Qahtani",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Sami_Al_Jaber" ~ "https://en.wikipedia.org/wiki/Sami_Al-Jaber",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Winston_Reid_(footballer)" ~ "https://en.wikipedia.org/wiki/Winston_Reid",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Gim%C3%A9nez" ~ "https://en.wikipedia.org/wiki/Jos%C3%A9_Gim%C3%A9nez",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Oghenekaro_Etebo" ~ "https://en.wikipedia.org/wiki/Peter_Etebo",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Aleksandar_Mitrovi%C4%87_(footballer)" ~ "https://en.wikipedia.org/wiki/Aleksandar_Mitrovi%C4%87",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Giorgian_de_Arrascaeta" ~ "https://en.wikipedia.org/wiki/Giorgian_De_Arrascaeta",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Elissandra_Regina_Cavalcanti" ~ "https://en.wikipedia.org/wiki/Nen%C3%AA_(footballer,_born_1976)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Cristiane_Rozeira" ~ "https://en.wikipedia.org/wiki/Cristiane_(footballer)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Andressa_Alves_da_Silva" ~ "https://en.wikipedia.org/wiki/Andressa_Alves",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Jennifer_Ruiz" ~ "https://en.wikipedia.org/wiki/Jenny_Ruiz-Williams",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Dominique_Bloodworth" ~ "https://en.wikipedia.org/wiki/Dominique_Janssen",
+      TRUE ~ player_wikipedia_link
     )
   )
+
+# Merge in player data
+wikipedia_goals <- wikipedia_goals |>
+  left_join(
+    wikipedia_squads |>
+      select(
+        player_wikipedia_link, player_id,
+        given_name, family_name
+      ) |>
+      distinct(),
+    by = "player_wikipedia_link"
+  )
+
+# Check for missing
+table(is.na(wikipedia_goals$player_id))
+
+# Penalty kicks ----------------------------------------------------------------
+
+# Player Wikipedia links to correct
+to_correct <- wikipedia_penalty_kicks |>
+  filter(!(player_wikipedia_link %in% wikipedia_squads$player_wikipedia_link)) |>
+  select(
+    player_name, player_wikipedia_link
+  ) |>
+  distinct()
+
+# Code incorrect links
+wikipedia_penalty_kicks <- wikipedia_penalty_kicks |>
+  mutate(
+    player_wikipedia_link = case_when(
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Cl%C3%A1udio_Ibrahim_Vaz_Leal" ~ "https://en.wikipedia.org/wiki/Branco_(footballer)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/J%C3%BAlio_C%C3%A9sar_da_Silva" ~ "https://en.wikipedia.org/wiki/J%C3%BAlio_C%C3%A9sar_(footballer,_born_1963)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/D%C4%83nu%C5%A3_Lupu" ~ "https://en.wikipedia.org/wiki/D%C4%83nu%C8%9B_Lupu",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Krassimir_Balakov" ~ "https://en.wikipedia.org/wiki/Krasimir_Balakov",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Bontcho_Guentchev" ~ "https://en.wikipedia.org/wiki/Boncho_Genchev",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/M%C3%A1rcio_Santos" ~ "https://en.wikipedia.org/wiki/M%C3%A1rcio_Santos_(footballer,_born_1969)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_(footballer)" ~ "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_(footballer,_born_1981)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Konstantinos_Mitroglou" ~ "https://en.wikipedia.org/wiki/Kostas_Mitroglou",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Elissandra_Regina_Cavalcanti" ~ "https://en.wikipedia.org/wiki/Nen%C3%AA_(footballer,_born_1976)",
+      player_wikipedia_link == "https://en.wikipedia.org/wiki/Cristiane_Rozeira" ~ "https://en.wikipedia.org/wiki/Cristiane_(footballer)",
+      TRUE ~ player_wikipedia_link
+    )
+  )
+
+# Merge in player data
+wikipedia_penalty_kicks <- wikipedia_penalty_kicks |>
+  left_join(
+    wikipedia_squads |>
+      select(
+        player_wikipedia_link, player_id,
+        given_name, family_name
+      ) |>
+      distinct(),
+    by = "player_wikipedia_link"
+  )
+
+# Check for missing
+table(is.na(wikipedia_penalty_kicks$player_id))
+
+# Check totals
+sum(wikipedia_matches$home_team_score_penalties) + sum(wikipedia_matches$away_team_score_penalties)
+sum(wikipedia_penalty_kicks$converted)
 
 # Check goal per tournament ----------------------------------------------------
 
@@ -833,6 +920,13 @@ goals_by_team <- left_join(
 
 # Check that the totals match
 table(goals_by_team$n == goals_by_team$score)
+
+# Lineups ----------------------------------------------------------------------
+
+# Drop matches with missing lineups
+wikipedia_lineups <- wikipedia_lineups |>
+  filter(!str_detect(match_id, "1999")) |>
+  filter(match_id != "Japan vs United States (2011-07-17)")
 
 # Check for missing data -------------------------------------------------------
 

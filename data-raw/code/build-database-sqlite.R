@@ -73,10 +73,16 @@ confederations <- confederations |>
 
 # Teams
 teams <- teams |>
+  mutate(
+    mens_team = as.logical(mens_team),
+    womens_team = as.logical(womens_team)
+  ) |>
   select(
     team_id, team_name, team_code,
+    mens_team, womens_team,
     federation_name, region_name, confederation_id,
-    team_wikipedia_link, federation_wikipedia_link
+    mens_team_wikipedia_link, womens_team_wikipedia_link,
+    federation_wikipedia_link
   )
 
 # Players
@@ -85,10 +91,11 @@ players <- players |>
     goal_keeper = as.logical(goal_keeper),
     defender = as.logical(defender),
     midfielder = as.logical(midfielder),
-    forward = as.logical(forward)
+    forward = as.logical(forward),
+    female = as.logical(female)
   ) |>
   select(
-    player_id, family_name, given_name, birth_date,
+    player_id, family_name, given_name, birth_date, female,
     goal_keeper, defender, midfielder, forward,
     count_tournaments, list_tournaments,
     player_wikipedia_link
@@ -96,15 +103,21 @@ players <- players |>
 
 # Managers
 managers <- managers |>
+  mutate(
+    female = as.logical(female)
+  ) |>
   select(
-    manager_id, family_name, given_name,
+    manager_id, family_name, given_name, female,
     country_name, manager_wikipedia_link
   )
 
 # Referees
 referees <- referees |>
+  mutate(
+    female = as.logical(female)
+  ) |>
   select(
-    referee_id, family_name, given_name,
+    referee_id, family_name, given_name, female,
     country_name, confederation_id, referee_wikipedia_link
   )
 
@@ -199,15 +212,14 @@ player_appearances <- player_appearances |>
     home_team = as.logical(home_team),
     away_team = as.logical(away_team),
     starter = as.logical(starter),
-    substitute = as.logical(substitute),
-    captain = as.logical(captain)
+    substitute = as.logical(substitute)
   ) |>
   select(
     tournament_id, match_id, team_id,
     home_team, away_team,
     player_id,
     shirt_number, position_name, position_code,
-    starter, substitute, captain
+    starter, substitute
   )
 
 # Manager appearances
