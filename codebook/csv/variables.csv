@@ -26,40 +26,46 @@ dataset_id,dataset,variable_id,variable,type,description
 3,teams,2,team_id,text,"The unique ID number for the team. Has the format {T-##}, where the number is a counter that is assigned with the data sorted by the year of the team's first tournament and then by the team's name."
 3,teams,3,team_name,text,The name of the team.
 3,teams,4,team_code,text,The 3-letter code for the team.
-3,teams,5,federation_name,text,The name of the team's federation.
-3,teams,6,region_name,text,The name of the region that the country is located in.
-3,teams,7,confederation_id,text,The unique ID number for the confederation. References {confederation_id} in the {confederations} dataset.
-3,teams,8,confederation_name,text,The name of the confederation.
-3,teams,9,confederation_code,text,The abbreviation for the confederation.
-3,teams,10,team_wikipedia_link,text,The Wikipedia link for the team.
-3,teams,11,federation_wikipedia_link,text,The Wikipedia link of the team's federation.
+,teams,5,mens_team,boolean,Whether the country's men's team has qualified for a tournament.
+,teams,6,womens_team,boolean,Whether the country's women's team has qualified for a tournament.
+3,teams,7,federation_name,text,The name of the team's federation.
+3,teams,8,region_name,text,The name of the region that the country is located in.
+3,teams,9,confederation_id,text,The unique ID number for the confederation. References {confederation_id} in the {confederations} dataset.
+3,teams,10,confederation_name,text,The name of the confederation.
+3,teams,11,confederation_code,text,The abbreviation for the confederation.
+3,teams,12,mens_team_wikipedia_link,text,The Wikipedia link for country's men's team. Coded {not applicable} if the country's men's team has not qualified for a tournament.
+,teams,13,womens_team_wikipedia_link,text,The Wikipedia link for country's women's team. Coded {not applicable} if the country's women's team has not qualified for a tournament.
+3,teams,14,federation_wikipedia_link,text,The Wikipedia link of the team's federation.
 4,players,1,key_id,integer,The unique ID number for the observation.
 4,players,2,player_id,text,"The unique ID number for the player. Has the format {P-#####}, where the number is a randomly drawn, uniquely identifying number."
 4,players,3,family_name,text,The family name of the player.
 4,players,4,given_name,text,The given name of the player.
 4,players,5,birth_date,date,The birth date of the player in the format {YYYY-MM-DD}.
-4,players,6,goal_keeper,boolean,Whether the player was a goal keeper. Coded {1} if the player was a goal keeper and {0} otherwise.
-4,players,7,defender,boolean,Whether the player was a defender. Coded {1} if the player was a defender and {0} otherwise.
-4,players,8,midfielder,boolean,Whether the player was a midfielder. Coded {1} if the player was a midfielder and {0} otherwise.
-4,players,9,forward,boolean,Whether the player was a forward. Coded {1} if the player was a forward and {0} otherwise.
-4,players,10,count_tournaments,integer,The number of tournaments that the player participated in.
-4,players,11,list_tournaments,text,"A list of tournaments that the player participated in, separated by a comma."
-4,players,12,player_wikipedia_link,text,The name of the team of the player.
+,players,6,female,boolean,Whether the player is female. Coded {1} if the player is female and {0} if the player is male.
+4,players,7,goal_keeper,boolean,Whether the player was a goal keeper. Coded {1} if the player was a goal keeper and {0} otherwise.
+4,players,8,defender,boolean,Whether the player was a defender. Coded {1} if the player was a defender and {0} otherwise.
+4,players,9,midfielder,boolean,Whether the player was a midfielder. Coded {1} if the player was a midfielder and {0} otherwise.
+4,players,10,forward,boolean,Whether the player was a forward. Coded {1} if the player was a forward and {0} otherwise.
+4,players,11,count_tournaments,integer,The number of tournaments that the player participated in.
+4,players,12,list_tournaments,text,"A list of tournaments that the player participated in, separated by a comma."
+4,players,13,player_wikipedia_link,text,The name of the team of the player.
 5,managers,1,key_id,integer,The unique ID number for the observation.
 5,managers,2,manager_id,text,"The unique ID number for the manager. Has the format {M-####}, where the number is a counter that is assigned with the data sorted by the year of the manager's first appearance, then by the manager's family name, and then by the manager's given name."
 5,managers,3,family_name,text,The family name of the manager.
 5,managers,4,given_name,text,The given name of the manager.
-5,managers,5,country_name,text,The name of the manager's home country.
-5,managers,6,manager_wikipedia_link,text,The Wikipedia link for the manager.
+,managers,5,female,boolean,Whether the manager is female. Coded {1} if the manager is female and {0} if the manager is male.
+5,managers,6,country_name,text,The name of the manager's home country.
+5,managers,7,manager_wikipedia_link,text,The Wikipedia link for the manager.
 6,referees,1,key_id,integer,The unique ID number for the observation.
 6,referees,2,referee_id,text,"The unique ID number for the referee. Has the format {R-####}, where the number is a counter that is assigned with the data sorted by the year of the referee's first appearance, then by the referee's family name, and then by the referee's given name."
 6,referees,3,family_name,text,The family name of the referee.
 6,referees,4,given_name,text,The given name of the referee.
-6,referees,5,country_name,text,The name of the referee's home country.
-6,referees,6,confederation_id,text,The unique ID number for the confederation. References {confederation_id} in the {confederations} dataset.
-6,referees,7,confederation_name,text,The name of the confederation.
-6,referees,8,confederation_code,text,The abbreviation for the confederation.
-6,referees,9,referee_wikipedia_link,text,The Wikipedia link for the referee.
+,referees,5,female,boolean,Whether the referee is female. Coded {1} if the referee is female and {0} if the referee is male.
+6,referees,6,country_name,text,The name of the referee's home country.
+6,referees,7,confederation_id,text,The unique ID number for the confederation. References {confederation_id} in the {confederations} dataset.
+6,referees,8,confederation_name,text,The name of the confederation.
+6,referees,9,confederation_code,text,The abbreviation for the confederation.
+6,referees,10,referee_wikipedia_link,text,The Wikipedia link for the referee.
 7,stadiums,1,key_id,integer,The unique ID number for the observation.
 7,stadiums,2,stadium_id,text,"The unique ID number for the stadium. Has the format {S-###}, where the number is a count that is assigned with the data sorted by country, then by city, then by the name of the stadium."
 7,stadiums,3,stadium_name,text,The name of the stadium.
@@ -191,7 +197,7 @@ dataset_id,dataset,variable_id,variable,type,description
 15,player_appearances,3,tournament_name,text,The name of the tournament.
 15,player_appearances,4,match_id,text,The unique ID number for the match. References {match_id} in the {matches} dataset.
 15,player_appearances,5,match_name,text,The name of the match.
-15,player_appearances,6,date,date,The date of the match in the format {YYYY-MM-DD}.
+15,player_appearances,6,match_date,date,The date of the match in the format {YYYY-MM-DD}.
 15,player_appearances,7,stage_name,enum,"The stage of the tournament in which the match occurred. The possible values are: {first round}, {second round}, {group stage}, {round of sixteen}, {quarter-finals}, {semi-finals}, {third place match}, {final}. Note that not all values are applicable to all tournaments."
 15,player_appearances,8,group_name,text,The name of the group.
 15,player_appearances,9,team_id,text,The unique ID number for the team of the player. References {team_id} in the {teams} dataset.
@@ -207,7 +213,6 @@ dataset_id,dataset,variable_id,variable,type,description
 15,player_appearances,19,position_code,text,A 2-letter or 3-letter code that indicates the position of the player.
 15,player_appearances,20,starter,boolean,Whether the player started the match. Coded {1} if the player started the match and {0} otherwise.
 15,player_appearances,21,substitute,boolean,Whether the player was a substitute. Coded {1} if the player was a substitute and {0} otherwise.
-15,player_appearances,22,captain,boolean,Whether the player was the captain of the team. Coded {1} if the player was the captain and {0} otherwise.
 16,manager_appearances,1,key_id,integer,The unique ID number for the observation.
 16,manager_appearances,2,tournament_id,text,The unique ID number for the tournament. References {tournament_id} in the {tournaments} dataset.
 16,manager_appearances,3,tournament_name,text,The name of the tournament.

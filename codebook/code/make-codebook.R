@@ -1,6 +1,9 @@
 # Joshua C. Fjelstul, Ph.D.
 # worldcup R package
 
+# Packages
+library(tidyverse)
+
 # Load documentation
 variables <- read_csv("codebook/csv/variables.csv")
 datasets <- read_csv("codebook/csv/datasets.csv")
@@ -28,7 +31,7 @@ codebookr::create_codebook(
   datasets_input = datasets,
   variables_input = variables,
   title_text = "The Fjelstul World Cup Database",
-  version_text = "1.0",
+  version_text = "1.2.0",
   footer_text = "The Fjelstul World Cup Database \\hspace{5pt} | \\hspace{5pt} Joshua C. Fjelstul, Ph.D.",
   author_names = "Joshua C. Fjelstul, Ph.D.",
   theme_color = "#4B94E6",
