@@ -74,9 +74,10 @@ database_json <- toJSON(
     group_standings = group_standings,
     tournament_standings = tournament_standings,
     award_winners = award_winners
-  )
+  ),
+  auto_unbox = TRUE
 )
 
 # Write a JSON file ------------------------------------------------------------
 
-write_json(database_json, "data-json/worldcup.json")
+write_lines(database_json, file = "data-json/worldcup.json")
