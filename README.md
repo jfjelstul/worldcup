@@ -1,3 +1,14 @@
+# Now available at WorldCups.ai!
+
+In addition to downloading the data on GitHub, you can now explore the most up-to-date version of the database at [WorldCups.ai](https://www.worldcups.ai)! You can download the entire database for free for non-commercial use (CC-BY-NC-SA 4.0). Or subscribe to ask questions in plain English, build custom data tables, and explore data-backed AI-generated narratives for all tournaments, countries, and matches — including Elo ratings and pre-match scoreline probabilities.
+
+<div>
+  <img src="https://github.com/jfjelstul/worldcup/blob/master/visualizations/ai-assistant-light.png?raw=true" width="90%">
+</div>
+<div>
+  <img src="https://github.com/jfjelstul/worldcup/blob/master/visualizations/probabilities-plot-light.png?raw=true" width="70%">
+</div>
+
 # The Fjelstul World Cup Database
 
 The Fjelstul World Cup Database is a comprehensive database about the FIFA World Cup created by Joshua C. Fjelstul, Ph.D. that covers all `22` men's tournaments (1930-2022) and all `8` women's tournaments (1991-2019). The database includes `27` datasets (over 1.58 million data points) that cover all aspects of the World Cup.
