@@ -1,32 +1,20 @@
-# Now available at WorldCups.ai!
-
-In addition to downloading the data on GitHub, you can now explore the most up-to-date version of the database at [WorldCups.ai](https://www.worldcups.ai)! You can download the entire database for free for non-commercial use (CC-BY-NC-SA 4.0). Or subscribe to ask questions in plain English, build custom data tables, and explore data-backed AI-generated narratives for all tournaments, countries, and matches — including Elo ratings and pre-match scoreline probabilities.
-
-<div>
-  <img src="https://github.com/jfjelstul/worldcup/blob/master/visualizations/ai-assistant-light.png?raw=true" width="90%">
-</div>
-<div>
-  <img src="https://github.com/jfjelstul/worldcup/blob/master/visualizations/probabilities-plot-light.png?raw=true" width="70%">
-</div>
-
 # The Fjelstul World Cup Database
 
-The Fjelstul World Cup Database is a comprehensive database about the FIFA World Cup created by Joshua C. Fjelstul, Ph.D. that covers all `22` men's tournaments (1930-2022) and all `8` women's tournaments (1991-2019). The database includes `27` datasets (over 1.58 million data points) that cover all aspects of the World Cup.
+The Fjelstul World Cup Database is a comprehensive database about the FIFA World Cup created by Joshua C. Fjelstul, Ph.D. that covers all `22` men's tournaments (1930-2022) and all `9` women's tournaments (1991-2019). The database includes `27` datasets (over 1.5 million data points) that cover all aspects of the World Cup.
 
 The database has been featured by [The Washington Post](https://www.washingtonpost.com/sports/2022/12/18/mbappe-messi-golden-boot-world-cup/),  [FiveThirtyEight](https://fivethirtyeight.com/features/the-datasets-were-looking-at-this-week-10/), [The Markup](https://themarkup.org/data-is-plural/2022/07/20/voting-laws-u-s-budget-appropriations-and-the-world-cup), [Data is Plural](https://www.data-is-plural.com/archive/2022-07-20-edition/), [The Times](https://www.thetimes.co.uk/article/fifa-world-cup-history-statistics-goals-trophies-stadiums-teams-ptbt62xpq), [Agence France-Presse (AFP)](https://www.barrons.com/news/scorers-in-world-cup-football-01668769510), [Barron's](https://www.barrons.com/news/scorers-in-world-cup-football-01668769510), [Latinometrics](https://www.reddit.com/r/dataisbeautiful/comments/z9rt2b/oc_brazil_and_argentina_are_the_top_goalscorers/), [Hindustan Times](https://www.hindustantimes.com/static-content/10m/fifa-world-cup/the-race-for-goals/index.html), and [DataCamp](https://s3.amazonaws.com/assets.datacamp.com/email/other/Exploring+World+Cup+Data+in+Power+BI+(1).pdf).
 
 Users can use the database to calculate statistics about teams, players, managers, and referees. Users can also use the data to predict match results. With many units of analysis and opportunities for merging and reshaping data, the database is also an excellent resource for teaching data science skills.
 
-Here are some example visualizations that use the data:
+# Now available at WorldCups.ai!
+
+In addition to downloading the data here on GitHub, you can now explore the most up-to-date version of the database at [WorldCups.ai](https://www.worldcups.ai)! You can download the entire database for free for non-commercial use (CC-BY-NC-SA 4.0). Or subscribe to ask questions in plain English, build custom data tables, and explore data-backed AI-generated narratives for all tournaments, countries, and matches — including Elo ratings and pre-match scoreline probabilities.
 
 <div>
-  <img src="https://github.com/jfjelstul/worldcup/blob/master/visualizations/match-results.png?raw=true" width="90%">
+  <img src="https://github.com/jfjelstul/worldcup/blob/master/visualizations/ai-assistant-light.png?raw=true" width="90%">
 </div>
 <div>
-  <img src="https://github.com/jfjelstul/worldcup/blob/master/visualizations/goals-by-European-teams.png?raw=true" width="70%">
-</div>
-<div>
-  <img src="https://github.com/jfjelstul/worldcup/blob/master/visualizations/goals-by-South-American-teams.png?raw=true" width="70%">
+  <img src="https://github.com/jfjelstul/worldcup/blob/master/visualizations/probabilities-plot-light.png?raw=true" width="60%">
 </div>
 
 ## Overview of the database
