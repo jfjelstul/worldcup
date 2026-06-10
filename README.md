@@ -10,9 +10,18 @@ Users can use the database to calculate statistics about teams, players, manager
 
 In addition to downloading the data here on GitHub, you can now explore the most up-to-date version of the database at [WorldCups.ai](https://www.worldcups.ai)! You can download the entire database for free for non-commercial use (CC-BY-NC-SA 4.0). Or subscribe to ask questions in plain English, build custom data tables, and explore data-backed AI-generated narratives for all tournaments, countries, and matches — including Elo ratings and pre-match scoreline probabilities.
 
+### AI assistant
+
+The AI assistant can answer questions (backed-up by SQL queries), generate interactive visualizations, and compile custom data tables for you.
+
 <div>
   <img src="https://github.com/jfjelstul/worldcup/blob/master/visualizations/ai-assistant-light.png?raw=true" width="90%">
 </div>
+
+### Elo ratings and scoreline probabilities
+
+You can compare teams' Elo ratings and compare pre-match scoreline probabilities to see how surprising match results were.
+
 <div>
   <img src="https://github.com/jfjelstul/worldcup/blob/master/visualizations/probabilities-plot-light.png?raw=true" width="60%">
 </div>
